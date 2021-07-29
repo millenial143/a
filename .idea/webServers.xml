@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="84376a89-2ab1-442e-bd75-6100d2741a71" name="dev.up-advert.ru" url="https://a.dev.up-advert.ru">
+        <fileTransfer rootFolder="/home/a" accessType="SFTP" host="dev.up-advert.ru" port="22" sshConfigId="2c9913ef-77e1-4c94-a7c3-4b0f745458f3" sshConfig="dev.up-advert.ru">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

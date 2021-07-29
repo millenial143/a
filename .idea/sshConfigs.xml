@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="dev.up-advert.ru" id="2c9913ef-77e1-4c94-a7c3-4b0f745458f3" port="22" customName="dev.up-advert.ru" nameFormat="CUSTOM" username="a">
+        <option name="customName" value="dev.up-advert.ru" />
+      </sshConfig>
+    </configs>
+  </component>
+</project>
