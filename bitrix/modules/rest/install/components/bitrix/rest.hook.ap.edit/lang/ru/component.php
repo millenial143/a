@@ -1,5 +1,5 @@
 <?php
-$MESS['REST_HAPE_NOT_FOUND'] = 'Âåáõóê íå íàéäåí';
-$MESS['REST_HAPE_TITLE_DEFAULT'] = 'Âíåøíèé äîñòóï ê REST API';
-$MESS['REST_HAPE_EDIT_TITLE'] = 'Ðåäàêòèðîâàíèå âõîäÿùåãî âåáõóêà';
-$MESS['REST_HAPE_ADD_TITLE'] = 'Äîáàâëåíèå âõîäÿùåãî âåáõóêà';
+$MESS['REST_HAPE_NOT_FOUND'] = 'Ð’ÐµÐ±Ñ…ÑƒÐº Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½';
+$MESS['REST_HAPE_TITLE_DEFAULT'] = 'Ð’Ð½ÐµÑˆÐ½Ð¸Ð¹ Ð´Ð¾ÑÑ‚ÑƒÐ¿ Ðº REST API';
+$MESS['REST_HAPE_EDIT_TITLE'] = 'Ð ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ðµ Ð²Ñ…Ð¾Ð´ÑÑ‰ÐµÐ³Ð¾ Ð²ÐµÐ±Ñ…ÑƒÐºÐ°';
+$MESS['REST_HAPE_ADD_TITLE'] = 'Ð”Ð¾Ð±Ð°Ð²Ð»ÐµÐ½Ð¸Ðµ Ð²Ñ…Ð¾Ð´ÑÑ‰ÐµÐ³Ð¾ Ð²ÐµÐ±Ñ…ÑƒÐºÐ°';

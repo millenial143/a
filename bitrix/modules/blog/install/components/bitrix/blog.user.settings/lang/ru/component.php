@@ -1,13 +1,13 @@
 <?
-$MESS["BLOG_MODULE_NOT_INSTALL"] = "Ìîäóëü áëîãîâ íå óñòàíîâëåí.";
-$MESS["B_B_US_TITLE"] = "Ïîëüçîâàòåëè";
-$MESS["B_B_US_TITLE_BLOG"] = "Ïîëüçîâàòåëè áëîãà &quot;#NAME#&quot;";
-$MESS["B_B_US_NO_RIGHT"] = "Ó âàñ íåò ïðàâ íà óïðàâëåíèå ýòèì áëîãîì";
-$MESS["B_B_US_NO_BLOG"] = "Áëîã íå íàéäåí";
-$MESS["B_B_US_DELETE_OK"] = "Ïîëüçîâàòåëü áûë óäàëåí èç äðóçåé";
-$MESS["BLOG_BLOG_ADD_F_POS_ALREADY_WANT"] = "Ïîñåòèòåëü &quot;#NAME#&quot; óæå íàõîäèòñÿ â äðóçüÿõ";
-$MESS["BLOG_BLOG_ADD_F_POS_ADDED"] = "Ïîñåòèòåëü &quot;#NAME#&quot; äîáàâëåí â ñïèñîê æåëàþùèõ âñòóïèòü â äðóçüÿ";
-$MESS["BLOG_BLOG_ADD_F_POS_ADD_ERROR"] = "Îøèáêà äîáàâëåíèÿ ïîñåòèòåëÿ &quot;#NAME#&quot; â ñïèñîê æåëàþùèõ âñòóïèòü â äðóçüÿ";
-$MESS["BLOG_BLOG_ADD_F_POS_NOT_FOUND"] = "Ïîñåòèòåëü &quot;#NAME#&quot; íå íàéäåí";
-$MESS["BLOG_BLOG_SESSID_WRONG"] = "Âàøà ñåññèÿ èñòåêëà, ïîæàëóéñòà, ïîâòîðèòå äåéñòâèå";
+$MESS["BLOG_MODULE_NOT_INSTALL"] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ Ð±Ð»Ð¾Ð³Ð¾Ð² Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½.";
+$MESS["B_B_US_TITLE"] = "ÐŸÐ¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ð¸";
+$MESS["B_B_US_TITLE_BLOG"] = "ÐŸÐ¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ð¸ Ð±Ð»Ð¾Ð³Ð° &quot;#NAME#&quot;";
+$MESS["B_B_US_NO_RIGHT"] = "Ð£ Ð²Ð°Ñ Ð½ÐµÑ‚ Ð¿Ñ€Ð°Ð² Ð½Ð° ÑƒÐ¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¸Ðµ ÑÑ‚Ð¸Ð¼ Ð±Ð»Ð¾Ð³Ð¾Ð¼";
+$MESS["B_B_US_NO_BLOG"] = "Ð‘Ð»Ð¾Ð³ Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½";
+$MESS["B_B_US_DELETE_OK"] = "ÐŸÐ¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒ Ð±Ñ‹Ð» ÑƒÐ´Ð°Ð»ÐµÐ½ Ð¸Ð· Ð´Ñ€ÑƒÐ·ÐµÐ¹";
+$MESS["BLOG_BLOG_ADD_F_POS_ALREADY_WANT"] = "ÐŸÐ¾ÑÐµÑ‚Ð¸Ñ‚ÐµÐ»ÑŒ &quot;#NAME#&quot; ÑƒÐ¶Ðµ Ð½Ð°Ñ…Ð¾Ð´Ð¸Ñ‚ÑÑ Ð² Ð´Ñ€ÑƒÐ·ÑŒÑÑ…";
+$MESS["BLOG_BLOG_ADD_F_POS_ADDED"] = "ÐŸÐ¾ÑÐµÑ‚Ð¸Ñ‚ÐµÐ»ÑŒ &quot;#NAME#&quot; Ð´Ð¾Ð±Ð°Ð²Ð»ÐµÐ½ Ð² ÑÐ¿Ð¸ÑÐ¾Ðº Ð¶ÐµÐ»Ð°ÑŽÑ‰Ð¸Ñ… Ð²ÑÑ‚ÑƒÐ¿Ð¸Ñ‚ÑŒ Ð² Ð´Ñ€ÑƒÐ·ÑŒÑ";
+$MESS["BLOG_BLOG_ADD_F_POS_ADD_ERROR"] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð´Ð¾Ð±Ð°Ð²Ð»ÐµÐ½Ð¸Ñ Ð¿Ð¾ÑÐµÑ‚Ð¸Ñ‚ÐµÐ»Ñ &quot;#NAME#&quot; Ð² ÑÐ¿Ð¸ÑÐ¾Ðº Ð¶ÐµÐ»Ð°ÑŽÑ‰Ð¸Ñ… Ð²ÑÑ‚ÑƒÐ¿Ð¸Ñ‚ÑŒ Ð² Ð´Ñ€ÑƒÐ·ÑŒÑ";
+$MESS["BLOG_BLOG_ADD_F_POS_NOT_FOUND"] = "ÐŸÐ¾ÑÐµÑ‚Ð¸Ñ‚ÐµÐ»ÑŒ &quot;#NAME#&quot; Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½";
+$MESS["BLOG_BLOG_SESSID_WRONG"] = "Ð’Ð°ÑˆÐ° ÑÐµÑÑÐ¸Ñ Ð¸ÑÑ‚ÐµÐºÐ»Ð°, Ð¿Ð¾Ð¶Ð°Ð»ÑƒÐ¹ÑÑ‚Ð°, Ð¿Ð¾Ð²Ñ‚Ð¾Ñ€Ð¸Ñ‚Ðµ Ð´ÐµÐ¹ÑÑ‚Ð²Ð¸Ðµ";
 ?>

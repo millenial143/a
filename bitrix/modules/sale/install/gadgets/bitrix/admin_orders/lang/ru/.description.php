@@ -1,4 +1,4 @@
 <?
-$MESS["GD_ORDERS_NAME"] = "Çàêàçû";
-$MESS["GD_ORDERS_DESC"] = "Èíôîðìàöèÿ î çàêàçàõ";
+$MESS["GD_ORDERS_NAME"] = "Ð—Ð°ÐºÐ°Ð·Ñ‹";
+$MESS["GD_ORDERS_DESC"] = "Ð˜Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ñ Ð¾ Ð·Ð°ÐºÐ°Ð·Ð°Ñ…";
 ?>

@@ -1,12 +1,12 @@
 <?
-$MESS ['RATING_COMPONENT_DESC'] = "Ãîëîñîâ - %s (èç íèõ: %s çà è %s ïðîòèâ)";
-$MESS ['RATING_COMPONENT_NO_VOTES'] = "íåò ãîëîñîâ";
-$MESS ['RATING_TEXT_LIKE_Y'] = "Íðàâèòñÿ";
-$MESS ['RATING_TEXT_LIKE_N'] = "Íå íðàâèòñÿ";
-$MESS ['RATING_TEXT_LIKE_D'] = "Ýòî íðàâèòñÿ";
+$MESS ['RATING_COMPONENT_DESC'] = "Ð“Ð¾Ð»Ð¾ÑÐ¾Ð² - %s (Ð¸Ð· Ð½Ð¸Ñ…: %s Ð·Ð° Ð¸ %s Ð¿Ñ€Ð¾Ñ‚Ð¸Ð²)";
+$MESS ['RATING_COMPONENT_NO_VOTES'] = "Ð½ÐµÑ‚ Ð³Ð¾Ð»Ð¾ÑÐ¾Ð²";
+$MESS ['RATING_TEXT_LIKE_Y'] = "ÐÑ€Ð°Ð²Ð¸Ñ‚ÑÑ";
+$MESS ['RATING_TEXT_LIKE_N'] = "ÐÐµ Ð½Ñ€Ð°Ð²Ð¸Ñ‚ÑÑ";
+$MESS ['RATING_TEXT_LIKE_D'] = "Ð­Ñ‚Ð¾ Ð½Ñ€Ð°Ð²Ð¸Ñ‚ÑÑ";
 
-$MESS ['RATING_TEXT_A'] = "Âàì íðàâèòñÿ?";
-$MESS ['RATING_TEXT_D'] = "Ýòî íðàâèòñÿ:";
-$MESS ['RATING_TEXT_Y'] = "Äà";
-$MESS ['RATING_TEXT_N'] = "Íåò";
+$MESS ['RATING_TEXT_A'] = "Ð’Ð°Ð¼ Ð½Ñ€Ð°Ð²Ð¸Ñ‚ÑÑ?";
+$MESS ['RATING_TEXT_D'] = "Ð­Ñ‚Ð¾ Ð½Ñ€Ð°Ð²Ð¸Ñ‚ÑÑ:";
+$MESS ['RATING_TEXT_Y'] = "Ð”Ð°";
+$MESS ['RATING_TEXT_N'] = "ÐÐµÑ‚";
 ?>

@@ -1,2 +1,2 @@
 <?php
-$MESS['LD_BLOCK_STORE_CATALOG_DETAIL_NAME'] = 'Òîâàð êàòàëîãà';
+$MESS['LD_BLOCK_STORE_CATALOG_DETAIL_NAME'] = 'Ð¢Ð¾Ð²Ð°Ñ€ ÐºÐ°Ñ‚Ð°Ð»Ð¾Ð³Ð°';

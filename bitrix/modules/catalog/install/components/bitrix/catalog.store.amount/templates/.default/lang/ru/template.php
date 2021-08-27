@@ -1,8 +1,8 @@
 <?
-$MESS["S_PHONE"] = "òåëåôîí:";
-$MESS["S_SCHEDULE"] = "ãðàôèê ðàáîòû:";
-$MESS['S_AMOUNT'] = "îñòàòîê:";
+$MESS["S_PHONE"] = "Ñ‚ÐµÐ»ÐµÑ„Ð¾Ð½:";
+$MESS["S_SCHEDULE"] = "Ð³Ñ€Ð°Ñ„Ð¸Ðº Ñ€Ð°Ð±Ð¾Ñ‚Ñ‹:";
+$MESS['S_AMOUNT'] = "Ð¾ÑÑ‚Ð°Ñ‚Ð¾Ðº:";
 $MESS["S_EMAIL"] = "Email:";
-$MESS['S_DESCRIPTION'] = "îïèñàíèå:";
-$MESS['S_COORDINATES'] = "êîîðäèíàòû:";
+$MESS['S_DESCRIPTION'] = "Ð¾Ð¿Ð¸ÑÐ°Ð½Ð¸Ðµ:";
+$MESS['S_COORDINATES'] = "ÐºÐ¾Ð¾Ñ€Ð´Ð¸Ð½Ð°Ñ‚Ñ‹:";
 ?>

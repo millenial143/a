@@ -1,9 +1,9 @@
 <?
-$MESS ['SALE_MODULE_NOT_INSTALL'] = "Ìîäóëü Èíòåðíåò-ìàãàçèí íå óñòàíîâëåí.";
-$MESS ['SPPL_DEFAULT_TITLE'] = "Ïðîôèëè";
-$MESS ['SPPL_PAGES'] = "Ïðîôèëè";
-$MESS ['SALE_ACCESS_DENIED'] = "Äëÿ ïðîñìîòðà ïðîôèëåé íåîáõîäèìî àâòîðèçîâàòüñÿ.";
-$MESS ['SALE_DEL_PROFILE'] = "Îøèáêà óäàëåíèÿ ïðîôèëÿ ¹#ID#";
-$MESS ['SALE_DEL_PROFILE_SUC'] = "Ïðîôèëü ¹#ID# óäàëåí";
-$MESS ['SALE_NO_PROFILE'] = "Ïðîôèëü íå íàéäåí";
+$MESS ['SALE_MODULE_NOT_INSTALL'] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ Ð˜Ð½Ñ‚ÐµÑ€Ð½ÐµÑ‚-Ð¼Ð°Ð³Ð°Ð·Ð¸Ð½ Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½.";
+$MESS ['SPPL_DEFAULT_TITLE'] = "ÐŸÑ€Ð¾Ñ„Ð¸Ð»Ð¸";
+$MESS ['SPPL_PAGES'] = "ÐŸÑ€Ð¾Ñ„Ð¸Ð»Ð¸";
+$MESS ['SALE_ACCESS_DENIED'] = "Ð”Ð»Ñ Ð¿Ñ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€Ð° Ð¿Ñ€Ð¾Ñ„Ð¸Ð»ÐµÐ¹ Ð½ÐµÐ¾Ð±Ñ…Ð¾Ð´Ð¸Ð¼Ð¾ Ð°Ð²Ñ‚Ð¾Ñ€Ð¸Ð·Ð¾Ð²Ð°Ñ‚ÑŒÑÑ.";
+$MESS ['SALE_DEL_PROFILE'] = "ÐžÑˆÐ¸Ð±ÐºÐ° ÑƒÐ´Ð°Ð»ÐµÐ½Ð¸Ñ Ð¿Ñ€Ð¾Ñ„Ð¸Ð»Ñ â„–#ID#";
+$MESS ['SALE_DEL_PROFILE_SUC'] = "ÐŸÑ€Ð¾Ñ„Ð¸Ð»ÑŒ â„–#ID# ÑƒÐ´Ð°Ð»ÐµÐ½";
+$MESS ['SALE_NO_PROFILE'] = "ÐŸÑ€Ð¾Ñ„Ð¸Ð»ÑŒ Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½";
 ?>

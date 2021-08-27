@@ -1,2 +1,2 @@
 <?
-$MESS["REPORT_ACCESS_DENIED"] = "Нет доступа";
+$MESS["REPORT_ACCESS_DENIED"] = "РќРµС‚ РґРѕСЃС‚СѓРїР°";

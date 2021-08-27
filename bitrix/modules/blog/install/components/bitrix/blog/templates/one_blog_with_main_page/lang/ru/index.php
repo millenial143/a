@@ -1,14 +1,14 @@
 <?
-$MESS['BC_NEW_POSTS'] = "Ïîñëåäíèå";
-$MESS['BC_NEW_COMMENTS'] = "Ïîñëåäíèå êîììåíòàðèè";
-$MESS['BC_NEW_BLOGS'] = "Íîâûå áëîãè";
-$MESS['BC_POPULAR_BLOGS'] = "Ïîïóëÿðíûå áëîãè";
-$MESS['BC_GROUPS'] = "Ãðóïïû áëîãîâ";
-$MESS['BLOG_TITLE'] = "Áëîãè";
-$MESS['BLOG_CREATE_BLOG'] = "Ñîçäàòü ñâîé áëîã";
-$MESS['BC_COMMENTED_POSTS'] = "Îáñóæäàåìûå";
-$MESS['BC_POPULAR_POSTS'] = "Ïîïóëÿðíûå";
-$MESS['BC_MESSAGES'] = "Ñîîáùåíèÿ";
-$MESS['BC_SEARCH_TAG'] = "Îáëàêî òåãîâ";
-$MESS ['BLOG_BLOG_FAVORITE'] = "Ëó÷øèå ñîîáùåíèÿ";
+$MESS['BC_NEW_POSTS'] = "ÐŸÐ¾ÑÐ»ÐµÐ´Ð½Ð¸Ðµ";
+$MESS['BC_NEW_COMMENTS'] = "ÐŸÐ¾ÑÐ»ÐµÐ´Ð½Ð¸Ðµ ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ð¸";
+$MESS['BC_NEW_BLOGS'] = "ÐÐ¾Ð²Ñ‹Ðµ Ð±Ð»Ð¾Ð³Ð¸";
+$MESS['BC_POPULAR_BLOGS'] = "ÐŸÐ¾Ð¿ÑƒÐ»ÑÑ€Ð½Ñ‹Ðµ Ð±Ð»Ð¾Ð³Ð¸";
+$MESS['BC_GROUPS'] = "Ð“Ñ€ÑƒÐ¿Ð¿Ñ‹ Ð±Ð»Ð¾Ð³Ð¾Ð²";
+$MESS['BLOG_TITLE'] = "Ð‘Ð»Ð¾Ð³Ð¸";
+$MESS['BLOG_CREATE_BLOG'] = "Ð¡Ð¾Ð·Ð´Ð°Ñ‚ÑŒ ÑÐ²Ð¾Ð¹ Ð±Ð»Ð¾Ð³";
+$MESS['BC_COMMENTED_POSTS'] = "ÐžÐ±ÑÑƒÐ¶Ð´Ð°ÐµÐ¼Ñ‹Ðµ";
+$MESS['BC_POPULAR_POSTS'] = "ÐŸÐ¾Ð¿ÑƒÐ»ÑÑ€Ð½Ñ‹Ðµ";
+$MESS['BC_MESSAGES'] = "Ð¡Ð¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ";
+$MESS['BC_SEARCH_TAG'] = "ÐžÐ±Ð»Ð°ÐºÐ¾ Ñ‚ÐµÐ³Ð¾Ð²";
+$MESS ['BLOG_BLOG_FAVORITE'] = "Ð›ÑƒÑ‡ÑˆÐ¸Ðµ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ";
 ?>

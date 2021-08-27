@@ -1,13 +1,13 @@
 <?
-$MESS["SMOT_TR_TYPE_PAYMENT"] = "Îïëàòà çàêàçà";
-$MESS["SMOT_TR_TYPE_FROM_CARD"] = "Âíåñåíèå äåíåã ñ ïëàñòèêîâîé êàðòû";
-$MESS["SMOT_TR_TYPE_INPUT"] = "Âíåñåíèå äåíåã";
-$MESS["SMOT_TR_TYPE_CANCEL_PAYMENT"] = "Îòìåíà îïëà÷åííîñòè çàêàçà";
-$MESS["SMOT_TR_TYPE_CANCEL_SEMIPAYMENT"] = "Îòìåíà ÷àñòè÷íî îïëà÷åííîãî çàêàçà";
-$MESS["SMOT_TR_TYPE_HAND"] = "Ðó÷íîå èçìåíåíèå ñ÷åòà";
-$MESS["SMOT_TR_TYPE_DELETE"] = "Óäàëåíèå ñ÷åòà";
-$MESS["SMOT_TR_TYPE_AFFILIATES_PAY"] = "Àôôèëèàòñêèå âûïëàòû";
-$MESS["SMOT_SALE_NOT_INSTALLED"] = "Íå óñòàíîâëåí ìîäóëü sale";
-$MESS["SMOT_MOBILEAPP_NOT_INSTALLED"] = "Íå óñòàíîâëåí ìîäóëü mobileapp";
-$MESS["SMOT_NO_PERMS2VIEW"] = "Íå äîñòàòî÷íî ïðàâ äëÿ ïðîñìîòðà";
+$MESS["SMOT_TR_TYPE_PAYMENT"] = "ÐžÐ¿Ð»Ð°Ñ‚Ð° Ð·Ð°ÐºÐ°Ð·Ð°";
+$MESS["SMOT_TR_TYPE_FROM_CARD"] = "Ð’Ð½ÐµÑÐµÐ½Ð¸Ðµ Ð´ÐµÐ½ÐµÐ³ Ñ Ð¿Ð»Ð°ÑÑ‚Ð¸ÐºÐ¾Ð²Ð¾Ð¹ ÐºÐ°Ñ€Ñ‚Ñ‹";
+$MESS["SMOT_TR_TYPE_INPUT"] = "Ð’Ð½ÐµÑÐµÐ½Ð¸Ðµ Ð´ÐµÐ½ÐµÐ³";
+$MESS["SMOT_TR_TYPE_CANCEL_PAYMENT"] = "ÐžÑ‚Ð¼ÐµÐ½Ð° Ð¾Ð¿Ð»Ð°Ñ‡ÐµÐ½Ð½Ð¾ÑÑ‚Ð¸ Ð·Ð°ÐºÐ°Ð·Ð°";
+$MESS["SMOT_TR_TYPE_CANCEL_SEMIPAYMENT"] = "ÐžÑ‚Ð¼ÐµÐ½Ð° Ñ‡Ð°ÑÑ‚Ð¸Ñ‡Ð½Ð¾ Ð¾Ð¿Ð»Ð°Ñ‡ÐµÐ½Ð½Ð¾Ð³Ð¾ Ð·Ð°ÐºÐ°Ð·Ð°";
+$MESS["SMOT_TR_TYPE_HAND"] = "Ð ÑƒÑ‡Ð½Ð¾Ðµ Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ðµ ÑÑ‡ÐµÑ‚Ð°";
+$MESS["SMOT_TR_TYPE_DELETE"] = "Ð£Ð´Ð°Ð»ÐµÐ½Ð¸Ðµ ÑÑ‡ÐµÑ‚Ð°";
+$MESS["SMOT_TR_TYPE_AFFILIATES_PAY"] = "ÐÑ„Ñ„Ð¸Ð»Ð¸Ð°Ñ‚ÑÐºÐ¸Ðµ Ð²Ñ‹Ð¿Ð»Ð°Ñ‚Ñ‹";
+$MESS["SMOT_SALE_NOT_INSTALLED"] = "ÐÐµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½ Ð¼Ð¾Ð´ÑƒÐ»ÑŒ sale";
+$MESS["SMOT_MOBILEAPP_NOT_INSTALLED"] = "ÐÐµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½ Ð¼Ð¾Ð´ÑƒÐ»ÑŒ mobileapp";
+$MESS["SMOT_NO_PERMS2VIEW"] = "ÐÐµ Ð´Ð¾ÑÑ‚Ð°Ñ‚Ð¾Ñ‡Ð½Ð¾ Ð¿Ñ€Ð°Ð² Ð´Ð»Ñ Ð¿Ñ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€Ð°";
 ?>

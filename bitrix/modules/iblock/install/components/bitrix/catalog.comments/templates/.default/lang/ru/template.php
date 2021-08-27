@@ -1,6 +1,6 @@
 <?
-$MESS["IBLOCK_CSC_TAB_COMMENTS"] = "Êîììåíòàðèè";
-$MESS["IBLOCK_CSC_TAB_VK"] = "Âêîíòàêòå";
-$MESS["IBLOCK_CSC_NO_DATA"] = "Â íàñòðîéêàõ êîìïîíåíòà íå âûáðàí íè îäèí òèï êîììåíòàðèåâ";
-$MESS["IBLOCK_CSC_COMMENTS_LOADING"] = "Çàãðóçêà êîììåíòàðèåâ...";
+$MESS["IBLOCK_CSC_TAB_COMMENTS"] = "ÐšÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ð¸";
+$MESS["IBLOCK_CSC_TAB_VK"] = "Ð’ÐºÐ¾Ð½Ñ‚Ð°ÐºÑ‚Ðµ";
+$MESS["IBLOCK_CSC_NO_DATA"] = "Ð’ Ð½Ð°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ°Ñ… ÐºÐ¾Ð¼Ð¿Ð¾Ð½ÐµÐ½Ñ‚Ð° Ð½Ðµ Ð²Ñ‹Ð±Ñ€Ð°Ð½ Ð½Ð¸ Ð¾Ð´Ð¸Ð½ Ñ‚Ð¸Ð¿ ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸ÐµÐ²";
+$MESS["IBLOCK_CSC_COMMENTS_LOADING"] = "Ð—Ð°Ð³Ñ€ÑƒÐ·ÐºÐ° ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸ÐµÐ²...";
 ?>

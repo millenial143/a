@@ -1,6 +1,6 @@
 <?
-$MESS["COMP_MAIN_USER_CONSENT_PARAM_ID"] = "Ñîãëàøåíèå";
-$MESS["COMP_MAIN_USER_CONSENT_PARAM_IS_CHECKED"] = "Ãàëêà ñîãëàñèÿ ïðîñòàâëåíà ïî óìîë÷àíèþ";
-$MESS["COMP_MAIN_USER_CONSENT_PARAM_IS_IS_LOADED"] = "Çàãðóæàòü òåêñò ñîãëàøåíèÿ ñðàçó";
-$MESS["COMP_MAIN_USER_CONSENT_PARAM_IS_AUTO_SAVE"] = "Ñîõðàíÿòü àâòîìàòè÷åñêè ôàêò ñîãëàñèÿ";
+$MESS["COMP_MAIN_USER_CONSENT_PARAM_ID"] = "Ð¡Ð¾Ð³Ð»Ð°ÑˆÐµÐ½Ð¸Ðµ";
+$MESS["COMP_MAIN_USER_CONSENT_PARAM_IS_CHECKED"] = "Ð“Ð°Ð»ÐºÐ° ÑÐ¾Ð³Ð»Ð°ÑÐ¸Ñ Ð¿Ñ€Ð¾ÑÑ‚Ð°Ð²Ð»ÐµÐ½Ð° Ð¿Ð¾ ÑƒÐ¼Ð¾Ð»Ñ‡Ð°Ð½Ð¸ÑŽ";
+$MESS["COMP_MAIN_USER_CONSENT_PARAM_IS_IS_LOADED"] = "Ð—Ð°Ð³Ñ€ÑƒÐ¶Ð°Ñ‚ÑŒ Ñ‚ÐµÐºÑÑ‚ ÑÐ¾Ð³Ð»Ð°ÑˆÐµÐ½Ð¸Ñ ÑÑ€Ð°Ð·Ñƒ";
+$MESS["COMP_MAIN_USER_CONSENT_PARAM_IS_AUTO_SAVE"] = "Ð¡Ð¾Ñ…Ñ€Ð°Ð½ÑÑ‚ÑŒ Ð°Ð²Ñ‚Ð¾Ð¼Ð°Ñ‚Ð¸Ñ‡ÐµÑÐºÐ¸ Ñ„Ð°ÐºÑ‚ ÑÐ¾Ð³Ð»Ð°ÑÐ¸Ñ";
 ?>

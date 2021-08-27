@@ -1,4 +1,4 @@
 <?
-$MESS["MFI_ERR_NO_INPUT_NAME"] = "Íå óêàçàíî èìÿ ïîëÿ (INPUT_NAME)";
-$MESS["MFI_INPUT_CAPTION_DEFAULT"] = "Çàãðóçèòü ôàéëû";
+$MESS["MFI_ERR_NO_INPUT_NAME"] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½Ð¾ Ð¸Ð¼Ñ Ð¿Ð¾Ð»Ñ (INPUT_NAME)";
+$MESS["MFI_INPUT_CAPTION_DEFAULT"] = "Ð—Ð°Ð³Ñ€ÑƒÐ·Ð¸Ñ‚ÑŒ Ñ„Ð°Ð¹Ð»Ñ‹";
 ?>

@@ -1,4 +1,4 @@
 <?
-$MESS ['VOTE_MAIN_PAGE_DEFAULT_NAME'] = "Øàáëîí äëÿ ãëàâíîé ñòðàíèöû";
-$MESS ['VOTE_MAIN_PAGE_DEFAULT_DESC'] = "Øàáëîí äëÿ ãëàâíîé ñòðàíèöû";
+$MESS ['VOTE_MAIN_PAGE_DEFAULT_NAME'] = "Ð¨Ð°Ð±Ð»Ð¾Ð½ Ð´Ð»Ñ Ð³Ð»Ð°Ð²Ð½Ð¾Ð¹ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñ‹";
+$MESS ['VOTE_MAIN_PAGE_DEFAULT_DESC'] = "Ð¨Ð°Ð±Ð»Ð¾Ð½ Ð´Ð»Ñ Ð³Ð»Ð°Ð²Ð½Ð¾Ð¹ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñ‹";
 ?>

@@ -1,8 +1,8 @@
 <?
-$MESS ['VOTE_MODULE_IS_NOT_INSTALLED'] = "Модуль опросов не установлен.";
-$MESS ['VOTE_PAGES'] = "Опросы";
-$MESS ['comp_voting_list_add'] = "Добавить опрос";
-$MESS ['comp_voting_list_add_title'] = "Добавить опрос в панели управления";
-$MESS ['comp_voting_list_list'] = "Управление опросами";
-$MESS ['comp_voting_list_list_title'] = "Список опросов в панели управления";
+$MESS ['VOTE_MODULE_IS_NOT_INSTALLED'] = "РњРѕРґСѓР»СЊ РѕРїСЂРѕСЃРѕРІ РЅРµ СѓСЃС‚Р°РЅРѕРІР»РµРЅ.";
+$MESS ['VOTE_PAGES'] = "РћРїСЂРѕСЃС‹";
+$MESS ['comp_voting_list_add'] = "Р”РѕР±Р°РІРёС‚СЊ РѕРїСЂРѕСЃ";
+$MESS ['comp_voting_list_add_title'] = "Р”РѕР±Р°РІРёС‚СЊ РѕРїСЂРѕСЃ РІ РїР°РЅРµР»Рё СѓРїСЂР°РІР»РµРЅРёСЏ";
+$MESS ['comp_voting_list_list'] = "РЈРїСЂР°РІР»РµРЅРёРµ РѕРїСЂРѕСЃР°РјРё";
+$MESS ['comp_voting_list_list_title'] = "РЎРїРёСЃРѕРє РѕРїСЂРѕСЃРѕРІ РІ РїР°РЅРµР»Рё СѓРїСЂР°РІР»РµРЅРёСЏ";
 ?>

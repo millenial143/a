@@ -1,3 +1,3 @@
 <?
-$MESS ['BCAT_BLOG_URL'] = "Ïóòü áëîãà";
+$MESS ['BCAT_BLOG_URL'] = "ÐŸÑƒÑ‚ÑŒ Ð±Ð»Ð¾Ð³Ð°";
 ?>

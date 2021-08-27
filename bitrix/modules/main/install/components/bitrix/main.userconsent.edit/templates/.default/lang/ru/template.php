@@ -1,14 +1,14 @@
 <?
-$MESS["MAIN_USER_CONSENT_EDIT_TMPL_NAME"] = "Íàçâàíèå";
-$MESS["MAIN_USER_CONSENT_EDIT_TMPL_TYPE"] = "Òèï - ñîáñòâåííîå/ñòàíäàðòíîå";
-$MESS["MAIN_USER_CONSENT_EDIT_TMPL_DATA_PROVIDER"] = "Èñòî÷íèê äàííûõ";
-$MESS["MAIN_USER_CONSENT_EDIT_TMPL_DATA_PROVIDER_DEF"] = "(óêàçûâàåòñÿ âðó÷íóþ)";
-$MESS["MAIN_USER_CONSENT_EDIT_TMPL_POPUP_TITLE"] = "Ïðîñìîòð òåêñòà";
-$MESS["MAIN_USER_CONSENT_EDIT_TMPL_BTN_CLOSE"] = "Çàêðûòü";
-$MESS["MAIN_USER_CONSENT_EDIT_TMPL_BTN_VIEW"] = "Ïðîñìîòðåòü";
-$MESS["MAIN_USER_CONSENT_EDIT_TMPL_BTN_TUNE"] = "Íàñòðîèòü";
-$MESS["MAIN_USER_CONSENT_EDIT_TMPL_BTN_SAVE"] = "Ñîõðàíèòü";
-$MESS["MAIN_USER_CONSENT_EDIT_TMPL_BTN_APPLY"] = "Ïðèìåíèòü";
-$MESS["MAIN_USER_CONSENT_EDIT_TMPL_BTN_BACK_TO_LIST"] = "Íàçàä ê ñïèñêó";
-$MESS["MAIN_USER_CONSENT_EDIT_TMPL_ERROR_ACCESS_EDIT"] = "Âàì äîñòóïåí òîëüêî ïðîñìîòð. Ïî âîïðîñàì ðåäàêòèðîâàíèÿ îáðàòèòåñü ê àäìèíèñòðàòîðó.";
+$MESS["MAIN_USER_CONSENT_EDIT_TMPL_NAME"] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ";
+$MESS["MAIN_USER_CONSENT_EDIT_TMPL_TYPE"] = "Ð¢Ð¸Ð¿ - ÑÐ¾Ð±ÑÑ‚Ð²ÐµÐ½Ð½Ð¾Ðµ/ÑÑ‚Ð°Ð½Ð´Ð°Ñ€Ñ‚Ð½Ð¾Ðµ";
+$MESS["MAIN_USER_CONSENT_EDIT_TMPL_DATA_PROVIDER"] = "Ð˜ÑÑ‚Ð¾Ñ‡Ð½Ð¸Ðº Ð´Ð°Ð½Ð½Ñ‹Ñ…";
+$MESS["MAIN_USER_CONSENT_EDIT_TMPL_DATA_PROVIDER_DEF"] = "(ÑƒÐºÐ°Ð·Ñ‹Ð²Ð°ÐµÑ‚ÑÑ Ð²Ñ€ÑƒÑ‡Ð½ÑƒÑŽ)";
+$MESS["MAIN_USER_CONSENT_EDIT_TMPL_POPUP_TITLE"] = "ÐŸÑ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€ Ñ‚ÐµÐºÑÑ‚Ð°";
+$MESS["MAIN_USER_CONSENT_EDIT_TMPL_BTN_CLOSE"] = "Ð—Ð°ÐºÑ€Ñ‹Ñ‚ÑŒ";
+$MESS["MAIN_USER_CONSENT_EDIT_TMPL_BTN_VIEW"] = "ÐŸÑ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€ÐµÑ‚ÑŒ";
+$MESS["MAIN_USER_CONSENT_EDIT_TMPL_BTN_TUNE"] = "ÐÐ°ÑÑ‚Ñ€Ð¾Ð¸Ñ‚ÑŒ";
+$MESS["MAIN_USER_CONSENT_EDIT_TMPL_BTN_SAVE"] = "Ð¡Ð¾Ñ…Ñ€Ð°Ð½Ð¸Ñ‚ÑŒ";
+$MESS["MAIN_USER_CONSENT_EDIT_TMPL_BTN_APPLY"] = "ÐŸÑ€Ð¸Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ";
+$MESS["MAIN_USER_CONSENT_EDIT_TMPL_BTN_BACK_TO_LIST"] = "ÐÐ°Ð·Ð°Ð´ Ðº ÑÐ¿Ð¸ÑÐºÑƒ";
+$MESS["MAIN_USER_CONSENT_EDIT_TMPL_ERROR_ACCESS_EDIT"] = "Ð’Ð°Ð¼ Ð´Ð¾ÑÑ‚ÑƒÐ¿ÐµÐ½ Ñ‚Ð¾Ð»ÑŒÐºÐ¾ Ð¿Ñ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€. ÐŸÐ¾ Ð²Ð¾Ð¿Ñ€Ð¾ÑÐ°Ð¼ Ñ€ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ñ Ð¾Ð±Ñ€Ð°Ñ‚Ð¸Ñ‚ÐµÑÑŒ Ðº Ð°Ð´Ð¼Ð¸Ð½Ð¸ÑÑ‚Ñ€Ð°Ñ‚Ð¾Ñ€Ñƒ.";
 ?>

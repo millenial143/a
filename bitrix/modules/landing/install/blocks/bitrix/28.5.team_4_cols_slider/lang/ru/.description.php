@@ -1,7 +1,7 @@
 <?php
-$MESS['LANDING_BLOCK_28_5_TEAM_4_COLS--NAME'] = 'Ôîòîãðàôèè ñîòðóäíèêîâ ñ ïåðåëèñòûâàíèåì';
-$MESS['LANDING_BLOCK_28_5_TEAM_4_COLS--MEMBER'] = 'Ñîòðóäíèê';
-$MESS['LANDING_BLOCK_28_5_TEAM_4_COLS--MEMBER_NAME'] = 'Èìÿ';
-$MESS['LANDING_BLOCK_28_5_TEAM_4_COLS--MEMBER_TEXT'] = 'Òåêñò';
-$MESS['LANDING_BLOCK_28_5_TEAM_4_COLS--MEMBER_ICON'] = 'Èêîíêà';
-$MESS['LANDING_BLOCK_28_5_TEAM_4_COLS--MEMBER_PHOTO'] = 'Ôîòîãðàôèÿ';
+$MESS['LANDING_BLOCK_28_5_TEAM_4_COLS--NAME'] = 'Ð¤Ð¾Ñ‚Ð¾Ð³Ñ€Ð°Ñ„Ð¸Ð¸ ÑÐ¾Ñ‚Ñ€ÑƒÐ´Ð½Ð¸ÐºÐ¾Ð² Ñ Ð¿ÐµÑ€ÐµÐ»Ð¸ÑÑ‚Ñ‹Ð²Ð°Ð½Ð¸ÐµÐ¼';
+$MESS['LANDING_BLOCK_28_5_TEAM_4_COLS--MEMBER'] = 'Ð¡Ð¾Ñ‚Ñ€ÑƒÐ´Ð½Ð¸Ðº';
+$MESS['LANDING_BLOCK_28_5_TEAM_4_COLS--MEMBER_NAME'] = 'Ð˜Ð¼Ñ';
+$MESS['LANDING_BLOCK_28_5_TEAM_4_COLS--MEMBER_TEXT'] = 'Ð¢ÐµÐºÑÑ‚';
+$MESS['LANDING_BLOCK_28_5_TEAM_4_COLS--MEMBER_ICON'] = 'Ð˜ÐºÐ¾Ð½ÐºÐ°';
+$MESS['LANDING_BLOCK_28_5_TEAM_4_COLS--MEMBER_PHOTO'] = 'Ð¤Ð¾Ñ‚Ð¾Ð³Ñ€Ð°Ñ„Ð¸Ñ';

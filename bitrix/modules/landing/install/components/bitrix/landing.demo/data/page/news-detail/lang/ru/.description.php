@@ -1,8 +1,8 @@
 <?php
-$MESS['LANDING_DEMO_NEWS_DETAIL-NAME'] = 'Íîâîñòü äåòàëüíî';
-$MESS['LANDING_DEMO_NEWS_DETAIL-DESC'] = 'Íîâîñòü äåòàëüíî';
-$MESS["LANDING_DEMO_NEWS_DETAIL-TEXT1"] = "Î íàñ";
-$MESS["LANDING_DEMO_NEWS_DETAIL-TEXT2"] = "Êîíòàêòû";
-$MESS["LANDING_DEMO_NEWS_DETAIL-TEXT3"] = "Èíôîðìàöèÿ îá îïëàòå";
-$MESS["LANDING_DEMO_NEWS_DETAIL-TEXT4"] = "Ôîðìà äëÿ ñâÿçè";
-$MESS["LANDING_DEMO_NEWS_DETAIL-TEXT5"] = "Ìû äóìàåì î êàæäîì êëèåíòå!";
+$MESS['LANDING_DEMO_NEWS_DETAIL-NAME'] = 'ÐÐ¾Ð²Ð¾ÑÑ‚ÑŒ Ð´ÐµÑ‚Ð°Ð»ÑŒÐ½Ð¾';
+$MESS['LANDING_DEMO_NEWS_DETAIL-DESC'] = 'ÐÐ¾Ð²Ð¾ÑÑ‚ÑŒ Ð´ÐµÑ‚Ð°Ð»ÑŒÐ½Ð¾';
+$MESS["LANDING_DEMO_NEWS_DETAIL-TEXT1"] = "Ðž Ð½Ð°Ñ";
+$MESS["LANDING_DEMO_NEWS_DETAIL-TEXT2"] = "ÐšÐ¾Ð½Ñ‚Ð°ÐºÑ‚Ñ‹";
+$MESS["LANDING_DEMO_NEWS_DETAIL-TEXT3"] = "Ð˜Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ñ Ð¾Ð± Ð¾Ð¿Ð»Ð°Ñ‚Ðµ";
+$MESS["LANDING_DEMO_NEWS_DETAIL-TEXT4"] = "Ð¤Ð¾Ñ€Ð¼Ð° Ð´Ð»Ñ ÑÐ²ÑÐ·Ð¸";
+$MESS["LANDING_DEMO_NEWS_DETAIL-TEXT5"] = "ÐœÑ‹ Ð´ÑƒÐ¼Ð°ÐµÐ¼ Ð¾ ÐºÐ°Ð¶Ð´Ð¾Ð¼ ÐºÐ»Ð¸ÐµÐ½Ñ‚Ðµ!";

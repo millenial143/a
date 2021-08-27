@@ -1,5 +1,5 @@
 <?
-$MESS["SMOH_SALE_NOT_INSTALLED"] = "Не установлен модуль sale";
-$MESS["SMOH_MOBILEAPP_NOT_INSTALLED"] = "Не установлен модуль mobileapp";
-$MESS["SMOH_NO_PERMS2VIEW"] = "Не достаточно прав для просмотра";
+$MESS["SMOH_SALE_NOT_INSTALLED"] = "РќРµ СѓСЃС‚Р°РЅРѕРІР»РµРЅ РјРѕРґСѓР»СЊ sale";
+$MESS["SMOH_MOBILEAPP_NOT_INSTALLED"] = "РќРµ СѓСЃС‚Р°РЅРѕРІР»РµРЅ РјРѕРґСѓР»СЊ mobileapp";
+$MESS["SMOH_NO_PERMS2VIEW"] = "РќРµ РґРѕСЃС‚Р°С‚РѕС‡РЅРѕ РїСЂР°РІ РґР»СЏ РїСЂРѕСЃРјРѕС‚СЂР°";
 ?>

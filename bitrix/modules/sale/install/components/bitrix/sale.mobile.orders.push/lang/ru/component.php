@@ -1,13 +1,13 @@
 <?
-$MESS["SMOP_ACCESS_DENIED"] = "Äîñòóï çàïðåùåí";
-$MESS["SMOP_MA_NOT_INSTALLED"] = "Íå óñòàíîâëåí ìîäóëü \"Ìîáèëüíàÿ ïëàòôîðìà\"";
-$MESS["SMOP_SALE_NOT_INSTALLED"] = "Íå óñòàíîâëåí ìîäóëü \"Èíòåðíåò ìàãàçèí\"";
-$MESS["SMOP_EVNT_ORDER_STATUS_CHANGED"] = "Èçìåíåíèå ñòàòóñà çàêàçà";
-$MESS["SMOP_EVNT_ORDER_DELIVERY_ALLOWED"] = "Äîñòàâêà çàêàçà";
-$MESS["SMOP_EVNT_ORDER_PAYED"] = "Îïëàòà çàêàçà";
-$MESS["SMOP_EVNT_ORDER_COMPLETED"] = "Âûïîëíåíèå çàêàçà";
-$MESS["SMOP_EVNT_ORDER_DEDUCTED"] = "Îòãðóçêà çàêàçà";
-$MESS["SMOP_EVNT_ORDER_CANCELED"] = "Îòìåíà çàêàçà";
-$MESS["SMOP_EVNT_ORDER_CREATED"] = "Ñîçäàíèå çàêàçà";
-$MESS["SMOP_EVNT_ORDER_MARKED"] = "Ïîìåòêà çàêàçà ïðîáëåìíûì";
+$MESS["SMOP_ACCESS_DENIED"] = "Ð”Ð¾ÑÑ‚ÑƒÐ¿ Ð·Ð°Ð¿Ñ€ÐµÑ‰ÐµÐ½";
+$MESS["SMOP_MA_NOT_INSTALLED"] = "ÐÐµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½ Ð¼Ð¾Ð´ÑƒÐ»ÑŒ \"ÐœÐ¾Ð±Ð¸Ð»ÑŒÐ½Ð°Ñ Ð¿Ð»Ð°Ñ‚Ñ„Ð¾Ñ€Ð¼Ð°\"";
+$MESS["SMOP_SALE_NOT_INSTALLED"] = "ÐÐµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½ Ð¼Ð¾Ð´ÑƒÐ»ÑŒ \"Ð˜Ð½Ñ‚ÐµÑ€Ð½ÐµÑ‚ Ð¼Ð°Ð³Ð°Ð·Ð¸Ð½\"";
+$MESS["SMOP_EVNT_ORDER_STATUS_CHANGED"] = "Ð˜Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ðµ ÑÑ‚Ð°Ñ‚ÑƒÑÐ° Ð·Ð°ÐºÐ°Ð·Ð°";
+$MESS["SMOP_EVNT_ORDER_DELIVERY_ALLOWED"] = "Ð”Ð¾ÑÑ‚Ð°Ð²ÐºÐ° Ð·Ð°ÐºÐ°Ð·Ð°";
+$MESS["SMOP_EVNT_ORDER_PAYED"] = "ÐžÐ¿Ð»Ð°Ñ‚Ð° Ð·Ð°ÐºÐ°Ð·Ð°";
+$MESS["SMOP_EVNT_ORDER_COMPLETED"] = "Ð’Ñ‹Ð¿Ð¾Ð»Ð½ÐµÐ½Ð¸Ðµ Ð·Ð°ÐºÐ°Ð·Ð°";
+$MESS["SMOP_EVNT_ORDER_DEDUCTED"] = "ÐžÑ‚Ð³Ñ€ÑƒÐ·ÐºÐ° Ð·Ð°ÐºÐ°Ð·Ð°";
+$MESS["SMOP_EVNT_ORDER_CANCELED"] = "ÐžÑ‚Ð¼ÐµÐ½Ð° Ð·Ð°ÐºÐ°Ð·Ð°";
+$MESS["SMOP_EVNT_ORDER_CREATED"] = "Ð¡Ð¾Ð·Ð´Ð°Ð½Ð¸Ðµ Ð·Ð°ÐºÐ°Ð·Ð°";
+$MESS["SMOP_EVNT_ORDER_MARKED"] = "ÐŸÐ¾Ð¼ÐµÑ‚ÐºÐ° Ð·Ð°ÐºÐ°Ð·Ð° Ð¿Ñ€Ð¾Ð±Ð»ÐµÐ¼Ð½Ñ‹Ð¼";
 ?>

@@ -1,12 +1,12 @@
 <?php
-$MESS['REST_CONFIGURATION_TITLE_PAGE_INDEX'] = 'Îòðàñëåâûå ðåøåíèÿ';
-$MESS['REST_CONFIGURATION_TITLE_PAGE_EXPORT'] = 'Ýêñïîðò îòðàñëåâûõ ðåøåíèé';
-$MESS['REST_CONFIGURATION_TITLE_PAGE_IMPORT'] = 'Èìïîðò îòðàñëåâûõ ðåøåíèé';
-$MESS['REST_CONFIGURATION_TITLE_PAGE_SECTION'] = 'Îòðàñëåâûå ðåøåíèÿ';
-$MESS['REST_CONFIGURATION_TITLE_PAGE_IMPORT_APP'] = 'Èìïîðò îòðàñëåâûõ ðåøåíèé';
-$MESS['REST_CONFIGURATION_TITLE_PAGE_IMPORT_ROLLBACK'] = 'Âîññòàíîâëåíèå îòðàñëåâûõ ðåøåíèé';
-$MESS['REST_CONFIGURATION_TITLE_PAGE_PLACEMENT'] = 'Îòðàñëåâûå ðåøåíèÿ';
-$MESS["REST_CONFIGURATION_TITLE_NEW_APP"] = "Íîâûå ïðèëîæåíèÿ";
-$MESS["REST_CONFIGURATION_BTN_SHOW_ALL"] = "ñìîòðåòü âñå";
-$MESS["REST_CONFIGURATION_APP_SECTION_TITLE"] = "Ïðèëîæåíèÿ";
-$MESS['REST_CONFIGURATION_ERROR_PLACEMENT'] = 'Îøèáêà, íåò äàííûõ äëÿ îòîáðàæåíèÿ';
+$MESS['REST_CONFIGURATION_TITLE_PAGE_INDEX'] = 'ÐžÑ‚Ñ€Ð°ÑÐ»ÐµÐ²Ñ‹Ðµ Ñ€ÐµÑˆÐµÐ½Ð¸Ñ';
+$MESS['REST_CONFIGURATION_TITLE_PAGE_EXPORT'] = 'Ð­ÐºÑÐ¿Ð¾Ñ€Ñ‚ Ð¾Ñ‚Ñ€Ð°ÑÐ»ÐµÐ²Ñ‹Ñ… Ñ€ÐµÑˆÐµÐ½Ð¸Ð¹';
+$MESS['REST_CONFIGURATION_TITLE_PAGE_IMPORT'] = 'Ð˜Ð¼Ð¿Ð¾Ñ€Ñ‚ Ð¾Ñ‚Ñ€Ð°ÑÐ»ÐµÐ²Ñ‹Ñ… Ñ€ÐµÑˆÐµÐ½Ð¸Ð¹';
+$MESS['REST_CONFIGURATION_TITLE_PAGE_SECTION'] = 'ÐžÑ‚Ñ€Ð°ÑÐ»ÐµÐ²Ñ‹Ðµ Ñ€ÐµÑˆÐµÐ½Ð¸Ñ';
+$MESS['REST_CONFIGURATION_TITLE_PAGE_IMPORT_APP'] = 'Ð˜Ð¼Ð¿Ð¾Ñ€Ñ‚ Ð¾Ñ‚Ñ€Ð°ÑÐ»ÐµÐ²Ñ‹Ñ… Ñ€ÐµÑˆÐµÐ½Ð¸Ð¹';
+$MESS['REST_CONFIGURATION_TITLE_PAGE_IMPORT_ROLLBACK'] = 'Ð’Ð¾ÑÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½Ð¸Ðµ Ð¾Ñ‚Ñ€Ð°ÑÐ»ÐµÐ²Ñ‹Ñ… Ñ€ÐµÑˆÐµÐ½Ð¸Ð¹';
+$MESS['REST_CONFIGURATION_TITLE_PAGE_PLACEMENT'] = 'ÐžÑ‚Ñ€Ð°ÑÐ»ÐµÐ²Ñ‹Ðµ Ñ€ÐµÑˆÐµÐ½Ð¸Ñ';
+$MESS["REST_CONFIGURATION_TITLE_NEW_APP"] = "ÐÐ¾Ð²Ñ‹Ðµ Ð¿Ñ€Ð¸Ð»Ð¾Ð¶ÐµÐ½Ð¸Ñ";
+$MESS["REST_CONFIGURATION_BTN_SHOW_ALL"] = "ÑÐ¼Ð¾Ñ‚Ñ€ÐµÑ‚ÑŒ Ð²ÑÐµ";
+$MESS["REST_CONFIGURATION_APP_SECTION_TITLE"] = "ÐŸÑ€Ð¸Ð»Ð¾Ð¶ÐµÐ½Ð¸Ñ";
+$MESS['REST_CONFIGURATION_ERROR_PLACEMENT'] = 'ÐžÑˆÐ¸Ð±ÐºÐ°, Ð½ÐµÑ‚ Ð´Ð°Ð½Ð½Ñ‹Ñ… Ð´Ð»Ñ Ð¾Ñ‚Ð¾Ð±Ñ€Ð°Ð¶ÐµÐ½Ð¸Ñ';

@@ -1,14 +1,14 @@
 <?
-$MESS["UI_TAG_SELECTOR_SEARCH_PLACEHOLDER"] = "ïîèñê";
-$MESS["UI_TAG_SELECTOR_ADD_BUTTON_CAPTION"] = "Äîáàâèòü";
-$MESS["UI_TAG_SELECTOR_ADD_BUTTON_CAPTION_MORE"] = "Äîáàâèòü åùå";
-$MESS["UI_TAG_SELECTOR_ADD_BUTTON_CAPTION_SINGLE"] = "Èçìåíèòü";
-$MESS["UI_TAG_SELECTOR_CREATE_BUTTON_CAPTION"] = "Ñîçäàòü";
-$MESS["UI_SELECTOR_SEARCH_LOADER_TEXT"] = "Èäåò ïîèñê äîïîëíèòåëüíûõ ðåçóëüòàòîâ...";
-$MESS["UI_SELECTOR_SEARCH_TAB_TITLE"] = "Ïîèñê";
-$MESS["UI_SELECTOR_SEARCH_STUB_TITLE"] = "Íåò ñîâïàäåíèé";
-$MESS["UI_SELECTOR_SEARCH_STUB_SUBTITLE"] = "Ïîïðîáóéòå èçìåíèòü óñëîâèÿ ïîèñêà";
-$MESS["UI_SELECTOR_RECENT_TAB_TITLE"] = "Ïîñëåäíèå";
-$MESS["UI_SELECTOR_ITEM_LINK_TITLE"] = "ïîäðîáíåå";
-$MESS["UI_SELECTOR_TAB_STUB_TITLE"] = "Â êàòåãîðèè &laquo;#TAB_TITLE#&raquo; íè÷åãî íå íàéäåíî";
-$MESS["UI_SELECTOR_CREATE_ITEM_LABEL"] = "Ñîçäàòü:";
+$MESS["UI_TAG_SELECTOR_SEARCH_PLACEHOLDER"] = "Ð¿Ð¾Ð¸ÑÐº";
+$MESS["UI_TAG_SELECTOR_ADD_BUTTON_CAPTION"] = "Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ";
+$MESS["UI_TAG_SELECTOR_ADD_BUTTON_CAPTION_MORE"] = "Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ ÐµÑ‰Ðµ";
+$MESS["UI_TAG_SELECTOR_ADD_BUTTON_CAPTION_SINGLE"] = "Ð˜Ð·Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ";
+$MESS["UI_TAG_SELECTOR_CREATE_BUTTON_CAPTION"] = "Ð¡Ð¾Ð·Ð´Ð°Ñ‚ÑŒ";
+$MESS["UI_SELECTOR_SEARCH_LOADER_TEXT"] = "Ð˜Ð´ÐµÑ‚ Ð¿Ð¾Ð¸ÑÐº Ð´Ð¾Ð¿Ð¾Ð»Ð½Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ñ‹Ñ… Ñ€ÐµÐ·ÑƒÐ»ÑŒÑ‚Ð°Ñ‚Ð¾Ð²...";
+$MESS["UI_SELECTOR_SEARCH_TAB_TITLE"] = "ÐŸÐ¾Ð¸ÑÐº";
+$MESS["UI_SELECTOR_SEARCH_STUB_TITLE"] = "ÐÐµÑ‚ ÑÐ¾Ð²Ð¿Ð°Ð´ÐµÐ½Ð¸Ð¹";
+$MESS["UI_SELECTOR_SEARCH_STUB_SUBTITLE"] = "ÐŸÐ¾Ð¿Ñ€Ð¾Ð±ÑƒÐ¹Ñ‚Ðµ Ð¸Ð·Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ ÑƒÑÐ»Ð¾Ð²Ð¸Ñ Ð¿Ð¾Ð¸ÑÐºÐ°";
+$MESS["UI_SELECTOR_RECENT_TAB_TITLE"] = "ÐŸÐ¾ÑÐ»ÐµÐ´Ð½Ð¸Ðµ";
+$MESS["UI_SELECTOR_ITEM_LINK_TITLE"] = "Ð¿Ð¾Ð´Ñ€Ð¾Ð±Ð½ÐµÐµ";
+$MESS["UI_SELECTOR_TAB_STUB_TITLE"] = "Ð’ ÐºÐ°Ñ‚ÐµÐ³Ð¾Ñ€Ð¸Ð¸ &laquo;#TAB_TITLE#&raquo; Ð½Ð¸Ñ‡ÐµÐ³Ð¾ Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½Ð¾";
+$MESS["UI_SELECTOR_CREATE_ITEM_LABEL"] = "Ð¡Ð¾Ð·Ð´Ð°Ñ‚ÑŒ:";

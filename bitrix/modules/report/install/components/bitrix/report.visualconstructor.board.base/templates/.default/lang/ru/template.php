@@ -1,5 +1,5 @@
 <?php
-$MESS["DASHBOARD_DEMO_FLAG_TEXT"] = "Ýòî äåìî-ïðåäñòàâëåíèå, âû ìîæåòå ñêðûòü åãî è ïîëó÷èòü àíàëèòèêó ïî âàøèì äàííûì.";
-$MESS["DASHBOARD_DEMO_FLAG_HIDE_LINK"] = "Ñêðûòü äåìî-ïðåäñòàâëåíèå";
-$MESS['DASHBOARD_WIDGET_PROPERTIES_TITLE'] = 'Íàñòðîéêè';
-$MESS['DASHBOARD_WIDGET_PROPERTIES_BUTTON_HEAD_TITLE'] = 'íàñòðîèòü';
+$MESS["DASHBOARD_DEMO_FLAG_TEXT"] = "Ð­Ñ‚Ð¾ Ð´ÐµÐ¼Ð¾-Ð¿Ñ€ÐµÐ´ÑÑ‚Ð°Ð²Ð»ÐµÐ½Ð¸Ðµ, Ð²Ñ‹ Ð¼Ð¾Ð¶ÐµÑ‚Ðµ ÑÐºÑ€Ñ‹Ñ‚ÑŒ ÐµÐ³Ð¾ Ð¸ Ð¿Ð¾Ð»ÑƒÑ‡Ð¸Ñ‚ÑŒ Ð°Ð½Ð°Ð»Ð¸Ñ‚Ð¸ÐºÑƒ Ð¿Ð¾ Ð²Ð°ÑˆÐ¸Ð¼ Ð´Ð°Ð½Ð½Ñ‹Ð¼.";
+$MESS["DASHBOARD_DEMO_FLAG_HIDE_LINK"] = "Ð¡ÐºÑ€Ñ‹Ñ‚ÑŒ Ð´ÐµÐ¼Ð¾-Ð¿Ñ€ÐµÐ´ÑÑ‚Ð°Ð²Ð»ÐµÐ½Ð¸Ðµ";
+$MESS['DASHBOARD_WIDGET_PROPERTIES_TITLE'] = 'ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸';
+$MESS['DASHBOARD_WIDGET_PROPERTIES_BUTTON_HEAD_TITLE'] = 'Ð½Ð°ÑÑ‚Ñ€Ð¾Ð¸Ñ‚ÑŒ';

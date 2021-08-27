@@ -1,5 +1,5 @@
 <?
-$MESS["SALE_SSC_MAP_YANDEX"] = "Êàðòà Yandex";
-$MESS["SALE_SSC_MAP_GOOGLE"] = "Êàðòà Google";
-$MESS["SALE_SSC_MAP_NONE"] = "Áåç êàðòû";
+$MESS["SALE_SSC_MAP_YANDEX"] = "ÐšÐ°Ñ€Ñ‚Ð° Yandex";
+$MESS["SALE_SSC_MAP_GOOGLE"] = "ÐšÐ°Ñ€Ñ‚Ð° Google";
+$MESS["SALE_SSC_MAP_NONE"] = "Ð‘ÐµÐ· ÐºÐ°Ñ€Ñ‚Ñ‹";
 ?>

@@ -2,8 +2,8 @@
 if (!defined("B_PROLOG_INCLUDED") || B_PROLOG_INCLUDED!==true)die();
 
 $arDescription = Array(
-		"NAME"=>"Ïðîáêè",
-		"DESCRIPTION"=>"Ïîêàçûâàåò çàãðóæåííîñòü óëèö äëÿ âûáðàííîãî ãîðîäà",
+		"NAME"=>"ÐŸÑ€Ð¾Ð±ÐºÐ¸",
+		"DESCRIPTION"=>"ÐŸÐ¾ÐºÐ°Ð·Ñ‹Ð²Ð°ÐµÑ‚ Ð·Ð°Ð³Ñ€ÑƒÐ¶ÐµÐ½Ð½Ð¾ÑÑ‚ÑŒ ÑƒÐ»Ð¸Ñ† Ð´Ð»Ñ Ð²Ñ‹Ð±Ñ€Ð°Ð½Ð½Ð¾Ð³Ð¾ Ð³Ð¾Ñ€Ð¾Ð´Ð°",
 		"ICON"=>"",
 		"LANG_ONLY" => "ru",
 		"GROUP"=> Array("ID"=>"services"),

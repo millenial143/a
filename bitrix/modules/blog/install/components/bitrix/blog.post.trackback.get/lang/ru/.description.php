@@ -1,5 +1,5 @@
 <?
-$MESS["BPTG_DEFAULT_TEMPLATE_NAME"]="Ïîëó÷åíèå Trackback'îâ ê ñîîáùåíèþ";
-$MESS["BPTG_DEFAULT_TEMPLATE_DESCRIPTION"]="Ïîëó÷àåò Trackback ê ñîîáùåíèþ";
-$MESS["BPTG_NAME"]="Áëîãè";
+$MESS["BPTG_DEFAULT_TEMPLATE_NAME"]="ÐŸÐ¾Ð»ÑƒÑ‡ÐµÐ½Ð¸Ðµ Trackback'Ð¾Ð² Ðº ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸ÑŽ";
+$MESS["BPTG_DEFAULT_TEMPLATE_DESCRIPTION"]="ÐŸÐ¾Ð»ÑƒÑ‡Ð°ÐµÑ‚ Trackback Ðº ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸ÑŽ";
+$MESS["BPTG_NAME"]="Ð‘Ð»Ð¾Ð³Ð¸";
 ?>

@@ -1,4 +1,4 @@
 <?php
-$MESS["SALE_BSM_WIZARD_AGENTCHECKER_BX_CRONTAB_DEFINED"] = "Îïðåäåëåíà êîíñòàíòà BX_CRONTAB, îíà ìîæåò îïðåäåëÿòüñÿ òîëüêî â ñêðèïòàõ, ðàáîòàþùèõ íà cron.";
-$MESS["SALE_BSM_WIZARD_AGENTCHECKER_CRON_NO_START"] = "Íå íàñòðîåí çàïóñê cron_events.php íà cron, ïîñëåäíèé àãåíò îòðàáîòàë áîëüøå ñóòîê íàçàä.";
-$MESS["SALE_BSM_WIZARD_AGENTCHECKER_AGENTS_HITS"] =  "Àãåíòû âûïîëíÿþòñÿ íà õèòàõ, ðåêîìåíäóåòñÿ ïåðåâåñòè âûïîëíåíèå àãåíòîâ íà cron.";
+$MESS["SALE_BSM_WIZARD_AGENTCHECKER_BX_CRONTAB_DEFINED"] = "ÐžÐ¿Ñ€ÐµÐ´ÐµÐ»ÐµÐ½Ð° ÐºÐ¾Ð½ÑÑ‚Ð°Ð½Ñ‚Ð° BX_CRONTAB, Ð¾Ð½Ð° Ð¼Ð¾Ð¶ÐµÑ‚ Ð¾Ð¿Ñ€ÐµÐ´ÐµÐ»ÑÑ‚ÑŒÑÑ Ñ‚Ð¾Ð»ÑŒÐºÐ¾ Ð² ÑÐºÑ€Ð¸Ð¿Ñ‚Ð°Ñ…, Ñ€Ð°Ð±Ð¾Ñ‚Ð°ÑŽÑ‰Ð¸Ñ… Ð½Ð° cron.";
+$MESS["SALE_BSM_WIZARD_AGENTCHECKER_CRON_NO_START"] = "ÐÐµ Ð½Ð°ÑÑ‚Ñ€Ð¾ÐµÐ½ Ð·Ð°Ð¿ÑƒÑÐº cron_events.php Ð½Ð° cron, Ð¿Ð¾ÑÐ»ÐµÐ´Ð½Ð¸Ð¹ Ð°Ð³ÐµÐ½Ñ‚ Ð¾Ñ‚Ñ€Ð°Ð±Ð¾Ñ‚Ð°Ð» Ð±Ð¾Ð»ÑŒÑˆÐµ ÑÑƒÑ‚Ð¾Ðº Ð½Ð°Ð·Ð°Ð´.";
+$MESS["SALE_BSM_WIZARD_AGENTCHECKER_AGENTS_HITS"] =  "ÐÐ³ÐµÐ½Ñ‚Ñ‹ Ð²Ñ‹Ð¿Ð¾Ð»Ð½ÑÑŽÑ‚ÑÑ Ð½Ð° Ñ…Ð¸Ñ‚Ð°Ñ…, Ñ€ÐµÐºÐ¾Ð¼ÐµÐ½Ð´ÑƒÐµÑ‚ÑÑ Ð¿ÐµÑ€ÐµÐ²ÐµÑÑ‚Ð¸ Ð²Ñ‹Ð¿Ð¾Ð»Ð½ÐµÐ½Ð¸Ðµ Ð°Ð³ÐµÐ½Ñ‚Ð¾Ð² Ð½Ð° cron.";

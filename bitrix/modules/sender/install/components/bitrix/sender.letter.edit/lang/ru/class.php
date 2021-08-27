@@ -1,7 +1,7 @@
 <?
-$MESS['SENDER_COMP_LETTER_EDIT_TITLE_TEMPLATES'] = 'Âûáðàòü øàáëîí ðàññûëêè';
-$MESS['SENDER_COMP_LETTER_EDIT_TITLE_EDIT'] = 'Ðåäàêòèðîâàíèå ðàññûëêè';
-$MESS['SENDER_COMP_LETTER_EDIT_TITLE_ADD'] = 'Ñîçäàíèå ðàññûëêè';
-$MESS['SENDER_COMP_LETTER_EDIT_ERROR_MSG_CODE'] = 'Óêàçàí íåèçâåñòíûé òèï ñîîáùåíèÿ `%type%`.';
-$MESS['SENDER_COMP_LETTER_EDIT_SITE'] = 'Ñàéò';
+$MESS['SENDER_COMP_LETTER_EDIT_TITLE_TEMPLATES'] = 'Ð’Ñ‹Ð±Ñ€Ð°Ñ‚ÑŒ ÑˆÐ°Ð±Ð»Ð¾Ð½ Ñ€Ð°ÑÑÑ‹Ð»ÐºÐ¸';
+$MESS['SENDER_COMP_LETTER_EDIT_TITLE_EDIT'] = 'Ð ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ðµ Ñ€Ð°ÑÑÑ‹Ð»ÐºÐ¸';
+$MESS['SENDER_COMP_LETTER_EDIT_TITLE_ADD'] = 'Ð¡Ð¾Ð·Ð´Ð°Ð½Ð¸Ðµ Ñ€Ð°ÑÑÑ‹Ð»ÐºÐ¸';
+$MESS['SENDER_COMP_LETTER_EDIT_ERROR_MSG_CODE'] = 'Ð£ÐºÐ°Ð·Ð°Ð½ Ð½ÐµÐ¸Ð·Ð²ÐµÑÑ‚Ð½Ñ‹Ð¹ Ñ‚Ð¸Ð¿ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ `%type%`.';
+$MESS['SENDER_COMP_LETTER_EDIT_SITE'] = 'Ð¡Ð°Ð¹Ñ‚';
 ?>

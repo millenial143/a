@@ -1,10 +1,10 @@
 <?
-$MESS["MARKETPLACE_INSTALLED"] = "Óñòàíîâëåííûå ïðèëîæåíèÿ";
-$MESS["RMP_APP_TIME_LIMIT_3"] = "3 ìåñÿöà";
-$MESS["RMP_APP_TIME_LIMIT_6"] = "6 ìåñÿöåâ";
-$MESS["RMP_APP_TIME_LIMIT_12"] = "12 ìåñÿöåâ";
-$MESS["MARKETPLACE_FILTER_UPDATES"] = "Äîñòóïíû îáíîâëåíèÿ";
-$MESS["MARKETPLACE_FILTER_INSTALLED"] = "Óñòàíîâëåííûå";
-$MESS["RMI_ACCESS_DENIED"] = "Äîñòóï çàïðåù¸í. Îáðàòèòåñü ê àäìèíèñòðàòîðó äëÿ ïðîñìîòðà óñòàíîâëåííûõ ïðèëîæåíèé.";
-$MESS["RMI_ACCESS_DENIED_OAUTH_SERVICE_IS_NOT_REGISTERED"] = "Äîñòóï çàïðåù¸í. Ïîðòàë íå çàðåãèñòðèðîâàí. ";
+$MESS["MARKETPLACE_INSTALLED"] = "Ð£ÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½Ð½Ñ‹Ðµ Ð¿Ñ€Ð¸Ð»Ð¾Ð¶ÐµÐ½Ð¸Ñ";
+$MESS["RMP_APP_TIME_LIMIT_3"] = "3 Ð¼ÐµÑÑÑ†Ð°";
+$MESS["RMP_APP_TIME_LIMIT_6"] = "6 Ð¼ÐµÑÑÑ†ÐµÐ²";
+$MESS["RMP_APP_TIME_LIMIT_12"] = "12 Ð¼ÐµÑÑÑ†ÐµÐ²";
+$MESS["MARKETPLACE_FILTER_UPDATES"] = "Ð”Ð¾ÑÑ‚ÑƒÐ¿Ð½Ñ‹ Ð¾Ð±Ð½Ð¾Ð²Ð»ÐµÐ½Ð¸Ñ";
+$MESS["MARKETPLACE_FILTER_INSTALLED"] = "Ð£ÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½Ð½Ñ‹Ðµ";
+$MESS["RMI_ACCESS_DENIED"] = "Ð”Ð¾ÑÑ‚ÑƒÐ¿ Ð·Ð°Ð¿Ñ€ÐµÑ‰Ñ‘Ð½. ÐžÐ±Ñ€Ð°Ñ‚Ð¸Ñ‚ÐµÑÑŒ Ðº Ð°Ð´Ð¼Ð¸Ð½Ð¸ÑÑ‚Ñ€Ð°Ñ‚Ð¾Ñ€Ñƒ Ð´Ð»Ñ Ð¿Ñ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€Ð° ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½Ð½Ñ‹Ñ… Ð¿Ñ€Ð¸Ð»Ð¾Ð¶ÐµÐ½Ð¸Ð¹.";
+$MESS["RMI_ACCESS_DENIED_OAUTH_SERVICE_IS_NOT_REGISTERED"] = "Ð”Ð¾ÑÑ‚ÑƒÐ¿ Ð·Ð°Ð¿Ñ€ÐµÑ‰Ñ‘Ð½. ÐŸÐ¾Ñ€Ñ‚Ð°Ð» Ð½Ðµ Ð·Ð°Ñ€ÐµÐ³Ð¸ÑÑ‚Ñ€Ð¸Ñ€Ð¾Ð²Ð°Ð½. ";
 ?>

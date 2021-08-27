@@ -1,8 +1,8 @@
 <?
-$MESS["BOOKMARK_HIDE"] = "Ñêðûòü ïàíåëü çàêëàäîê ïî óìîë÷àíèþ";
-$MESS["BOOKMARK_SYSTEM"] = "Èñïîëüçóåìûå ñîö. çàêëàäêè è ñåòè";
-$MESS["BOOKMARK_URL"] = "URL ñòðàíèöû îòíîñèòåëüíî êîðíÿ ñàéòà";
-$MESS["BOOKMARK_TITLE"] = "Çàãîëîâîê ñòðàíèöû";
-$MESS["BOOKMARK_SHORTEN_URL_LOGIN"] = "Ëîãèí äëÿ bit.ly";
-$MESS["BOOKMARK_SHORTEN_URL_KEY"] = "Êëþ÷ API äëÿ bit.ly";
+$MESS["BOOKMARK_HIDE"] = "Ð¡ÐºÑ€Ñ‹Ñ‚ÑŒ Ð¿Ð°Ð½ÐµÐ»ÑŒ Ð·Ð°ÐºÐ»Ð°Ð´Ð¾Ðº Ð¿Ð¾ ÑƒÐ¼Ð¾Ð»Ñ‡Ð°Ð½Ð¸ÑŽ";
+$MESS["BOOKMARK_SYSTEM"] = "Ð˜ÑÐ¿Ð¾Ð»ÑŒÐ·ÑƒÐµÐ¼Ñ‹Ðµ ÑÐ¾Ñ†. Ð·Ð°ÐºÐ»Ð°Ð´ÐºÐ¸ Ð¸ ÑÐµÑ‚Ð¸";
+$MESS["BOOKMARK_URL"] = "URL ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñ‹ Ð¾Ñ‚Ð½Ð¾ÑÐ¸Ñ‚ÐµÐ»ÑŒÐ½Ð¾ ÐºÐ¾Ñ€Ð½Ñ ÑÐ°Ð¹Ñ‚Ð°";
+$MESS["BOOKMARK_TITLE"] = "Ð—Ð°Ð³Ð¾Ð»Ð¾Ð²Ð¾Ðº ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñ‹";
+$MESS["BOOKMARK_SHORTEN_URL_LOGIN"] = "Ð›Ð¾Ð³Ð¸Ð½ Ð´Ð»Ñ bit.ly";
+$MESS["BOOKMARK_SHORTEN_URL_KEY"] = "ÐšÐ»ÑŽÑ‡ API Ð´Ð»Ñ bit.ly";
 ?>

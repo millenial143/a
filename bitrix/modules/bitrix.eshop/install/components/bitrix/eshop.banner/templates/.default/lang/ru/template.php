@@ -1,4 +1,4 @@
 <?
-$MESS["ESHOP_BANNER_CLOSE"] = "Закрыть";
-$MESS["ESHOP_BANNER_CONTENT"] = "Более <strong>100 интернет-магазинов</strong> можно найти в <span>Маркетплейс</span>";
+$MESS["ESHOP_BANNER_CLOSE"] = "Р—Р°РєСЂС‹С‚СЊ";
+$MESS["ESHOP_BANNER_CONTENT"] = "Р‘РѕР»РµРµ <strong>100 РёРЅС‚РµСЂРЅРµС‚-РјР°РіР°Р·РёРЅРѕРІ</strong> РјРѕР¶РЅРѕ РЅР°Р№С‚Рё РІ <span>РњР°СЂРєРµС‚РїР»РµР№СЃ</span>";
 ?>

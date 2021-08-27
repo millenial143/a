@@ -1,5 +1,5 @@
 <?
-$MESS["BC_DEFAULT_TEMPLATE_NAME"]="Êàëåíäàðü";
-$MESS["BC_DEFAULT_TEMPLATE_DESCRIPTION"]="Âûâîäèò êàëåíäàðü ñîîáùåíèé áëîãà";
-$MESS["BC_NAME"]="Áëîãè";
+$MESS["BC_DEFAULT_TEMPLATE_NAME"]="ÐšÐ°Ð»ÐµÐ½Ð´Ð°Ñ€ÑŒ";
+$MESS["BC_DEFAULT_TEMPLATE_DESCRIPTION"]="Ð’Ñ‹Ð²Ð¾Ð´Ð¸Ñ‚ ÐºÐ°Ð»ÐµÐ½Ð´Ð°Ñ€ÑŒ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ð¹ Ð±Ð»Ð¾Ð³Ð°";
+$MESS["BC_NAME"]="Ð‘Ð»Ð¾Ð³Ð¸";
 ?>

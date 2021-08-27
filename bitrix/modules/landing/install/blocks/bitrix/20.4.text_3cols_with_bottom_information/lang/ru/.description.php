@@ -1,13 +1,13 @@
 <?php
-$MESS['LANDING_BLOCK_20_4_NAME'] = 'Êîëîíêè ñ êàðòèíêàìè, òåêñòîì è àâàòàðêîé';
-$MESS['LANDING_BLOCK_20_4_CARD'] = 'Êîëîíêà';
-$MESS['LANDING_BLOCK_20_4_BLOCK'] = 'Áëîê';
-$MESS['LANDING_BLOCK_20_4_IMG'] = 'Êàðòèíêà';
-$MESS['LANDING_BLOCK_20_4_TITLE'] = 'Çàãîëîâîê';
-$MESS['LANDING_BLOCK_20_4_TEXT'] = 'Òåêñò';
-$MESS['LANDING_BLOCK_20_4_DATE'] = 'Äàòà';
-$MESS['LANDING_BLOCK_20_4_AUTHOR'] = 'Àâòîð';
-$MESS['LANDING_BLOCK_20_4_AUTHORIMG'] = 'Ôîòî àâòîðà';
-$MESS['LANDING_BLOCK_20_4_CARD_BLOCK'] = 'Êàðòî÷êà áëîêà';
-$MESS['LANDING_BLOCK_20_4_BOTTOM_BLOCK'] = 'Íèæíÿÿ ÷àñòü áëîêà';
+$MESS['LANDING_BLOCK_20_4_NAME'] = 'ÐšÐ¾Ð»Ð¾Ð½ÐºÐ¸ Ñ ÐºÐ°Ñ€Ñ‚Ð¸Ð½ÐºÐ°Ð¼Ð¸, Ñ‚ÐµÐºÑÑ‚Ð¾Ð¼ Ð¸ Ð°Ð²Ð°Ñ‚Ð°Ñ€ÐºÐ¾Ð¹';
+$MESS['LANDING_BLOCK_20_4_CARD'] = 'ÐšÐ¾Ð»Ð¾Ð½ÐºÐ°';
+$MESS['LANDING_BLOCK_20_4_BLOCK'] = 'Ð‘Ð»Ð¾Ðº';
+$MESS['LANDING_BLOCK_20_4_IMG'] = 'ÐšÐ°Ñ€Ñ‚Ð¸Ð½ÐºÐ°';
+$MESS['LANDING_BLOCK_20_4_TITLE'] = 'Ð—Ð°Ð³Ð¾Ð»Ð¾Ð²Ð¾Ðº';
+$MESS['LANDING_BLOCK_20_4_TEXT'] = 'Ð¢ÐµÐºÑÑ‚';
+$MESS['LANDING_BLOCK_20_4_DATE'] = 'Ð”Ð°Ñ‚Ð°';
+$MESS['LANDING_BLOCK_20_4_AUTHOR'] = 'ÐÐ²Ñ‚Ð¾Ñ€';
+$MESS['LANDING_BLOCK_20_4_AUTHORIMG'] = 'Ð¤Ð¾Ñ‚Ð¾ Ð°Ð²Ñ‚Ð¾Ñ€Ð°';
+$MESS['LANDING_BLOCK_20_4_CARD_BLOCK'] = 'ÐšÐ°Ñ€Ñ‚Ð¾Ñ‡ÐºÐ° Ð±Ð»Ð¾ÐºÐ°';
+$MESS['LANDING_BLOCK_20_4_BOTTOM_BLOCK'] = 'ÐÐ¸Ð¶Ð½ÑÑ Ñ‡Ð°ÑÑ‚ÑŒ Ð±Ð»Ð¾ÐºÐ°';
 

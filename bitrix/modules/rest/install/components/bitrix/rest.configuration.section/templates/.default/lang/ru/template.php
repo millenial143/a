@@ -1,3 +1,3 @@
 <?
-$MESS["REST_CONFIGURATION_SECTION_LABEL"] = "Âûáåðèòå íàïðàâëåíèÿ";
-$MESS["REST_CONFIGURATION_SECTION_LINK_NAME"] = "ÏÅÐÅÉÒÈ";
+$MESS["REST_CONFIGURATION_SECTION_LABEL"] = "Ð’Ñ‹Ð±ÐµÑ€Ð¸Ñ‚Ðµ Ð½Ð°Ð¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¸Ñ";
+$MESS["REST_CONFIGURATION_SECTION_LINK_NAME"] = "ÐŸÐ•Ð Ð•Ð™Ð¢Ð˜";

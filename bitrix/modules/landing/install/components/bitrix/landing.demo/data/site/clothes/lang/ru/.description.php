@@ -1,3 +1,3 @@
 <?php
-$MESS['LANDING_DEMO_STORE_CLOTHES-SITE--NAME'] = 'Îäåæäà';
-$MESS['LANDING_DEMO_STORE_CLOTHES-SITE--DESC'] = 'Øàáëîí ìàãàçèíà îäåæäû, êîòîðûé ïðîñòî ïðåîáðàçîâàòü ïîä ñâîé áèçíåñ è íà÷àòü ïðîäàâàòü!';
+$MESS['LANDING_DEMO_STORE_CLOTHES-SITE--NAME'] = 'ÐžÐ´ÐµÐ¶Ð´Ð°';
+$MESS['LANDING_DEMO_STORE_CLOTHES-SITE--DESC'] = 'Ð¨Ð°Ð±Ð»Ð¾Ð½ Ð¼Ð°Ð³Ð°Ð·Ð¸Ð½Ð° Ð¾Ð´ÐµÐ¶Ð´Ñ‹, ÐºÐ¾Ñ‚Ð¾Ñ€Ñ‹Ð¹ Ð¿Ñ€Ð¾ÑÑ‚Ð¾ Ð¿Ñ€ÐµÐ¾Ð±Ñ€Ð°Ð·Ð¾Ð²Ð°Ñ‚ÑŒ Ð¿Ð¾Ð´ ÑÐ²Ð¾Ð¹ Ð±Ð¸Ð·Ð½ÐµÑ Ð¸ Ð½Ð°Ñ‡Ð°Ñ‚ÑŒ Ð¿Ñ€Ð¾Ð´Ð°Ð²Ð°Ñ‚ÑŒ!';

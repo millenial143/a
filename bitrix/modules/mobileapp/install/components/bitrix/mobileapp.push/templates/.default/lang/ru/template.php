@@ -1,7 +1,7 @@
 <?
-$MESS["MOBILE_APP_PUSH_TITLE"] = "Íàñòðîéêà óâåäîìëåíèé";
-$MESS["MOBILE_APP_PUSH_BACK"] = "Íàçàä";
-$MESS["MOBILE_APP_PUSH_SAVE"] = "Ñîõðàíèòü";
-$MESS["MOBILE_APP_SAVE_ERROR"] = "Îøèáêà ñîõðàíåíèÿ íàñòðîåê";
-$MESS["MOBILE_APP_SAVING"] = "Ñîõðàíÿåì";
+$MESS["MOBILE_APP_PUSH_TITLE"] = "ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ° ÑƒÐ²ÐµÐ´Ð¾Ð¼Ð»ÐµÐ½Ð¸Ð¹";
+$MESS["MOBILE_APP_PUSH_BACK"] = "ÐÐ°Ð·Ð°Ð´";
+$MESS["MOBILE_APP_PUSH_SAVE"] = "Ð¡Ð¾Ñ…Ñ€Ð°Ð½Ð¸Ñ‚ÑŒ";
+$MESS["MOBILE_APP_SAVE_ERROR"] = "ÐžÑˆÐ¸Ð±ÐºÐ° ÑÐ¾Ñ…Ñ€Ð°Ð½ÐµÐ½Ð¸Ñ Ð½Ð°ÑÑ‚Ñ€Ð¾ÐµÐº";
+$MESS["MOBILE_APP_SAVING"] = "Ð¡Ð¾Ñ…Ñ€Ð°Ð½ÑÐµÐ¼";
 ?>

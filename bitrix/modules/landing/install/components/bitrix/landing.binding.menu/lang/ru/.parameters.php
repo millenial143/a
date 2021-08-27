@@ -1,8 +1,8 @@
 <?php
-$MESS['LANDING_CMP_PAR_LANDING_TYPE'] = 'Òèï';
-$MESS['LANDING_CMP_PAR_LANDING_MODE'] = 'Ðåæèì';
-$MESS['LANDING_CMP_PAR_LANDING_MODE_LIST'] = 'Ñïèñîê';
-$MESS['LANDING_CMP_PAR_LANDING_MODE_CREATE'] = 'Ñîçäàíèå';
-$MESS['LANDING_CMP_PAR_MENU_ID'] = 'Èäåíòèôèêàòîð ìåíþ';
-$MESS['LANDING_CMP_PAR_SITE_ID'] = 'Èäåíòèôèêàòîð ñàéòà';
-$MESS['LANDING_CMP_PAR_PATH_AFTER_CREATE'] = 'Ñòðàíèöà äëÿ ïåðåõîäà ïîñëå ñîçäàíèÿ';
+$MESS['LANDING_CMP_PAR_LANDING_TYPE'] = 'Ð¢Ð¸Ð¿';
+$MESS['LANDING_CMP_PAR_LANDING_MODE'] = 'Ð ÐµÐ¶Ð¸Ð¼';
+$MESS['LANDING_CMP_PAR_LANDING_MODE_LIST'] = 'Ð¡Ð¿Ð¸ÑÐ¾Ðº';
+$MESS['LANDING_CMP_PAR_LANDING_MODE_CREATE'] = 'Ð¡Ð¾Ð·Ð´Ð°Ð½Ð¸Ðµ';
+$MESS['LANDING_CMP_PAR_MENU_ID'] = 'Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð¼ÐµÐ½ÑŽ';
+$MESS['LANDING_CMP_PAR_SITE_ID'] = 'Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ ÑÐ°Ð¹Ñ‚Ð°';
+$MESS['LANDING_CMP_PAR_PATH_AFTER_CREATE'] = 'Ð¡Ñ‚Ñ€Ð°Ð½Ð¸Ñ†Ð° Ð´Ð»Ñ Ð¿ÐµÑ€ÐµÑ…Ð¾Ð´Ð° Ð¿Ð¾ÑÐ»Ðµ ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ñ';

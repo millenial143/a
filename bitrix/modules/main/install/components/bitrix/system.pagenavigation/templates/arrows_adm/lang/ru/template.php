@@ -1,6 +1,6 @@
 <?
-$MESS["navigation_records_of"] = "èç";
-$MESS["navigation_pages"] = "Ñòðàíèöû:";
-$MESS["navigation_all"] = "Âñå";
-$MESS["navigation_paged"] = "Ïî ñòð.";
+$MESS["navigation_records_of"] = "Ð¸Ð·";
+$MESS["navigation_pages"] = "Ð¡Ñ‚Ñ€Ð°Ð½Ð¸Ñ†Ñ‹:";
+$MESS["navigation_all"] = "Ð’ÑÐµ";
+$MESS["navigation_paged"] = "ÐŸÐ¾ ÑÑ‚Ñ€.";
 ?>

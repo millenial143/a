@@ -1,2 +1,2 @@
-<?$MESS["SENDER_LETTER_ONBEFOREUPDATE_ERROR_INVALID_FROM_EMAIL"] = "Email îòïðàâèòåëÿ íå ïîäòâåðæäåí";
-$MESS["SENDER_LETTER_ONBEFOREUPDATE_ERROR_FEATURE_NOT_AVAILABLE"] = "Èíñòðóìåíò äîñòóïåí òîëüêî íà ïëàòíîì òàðèôå.";
+<?$MESS["SENDER_LETTER_ONBEFOREUPDATE_ERROR_INVALID_FROM_EMAIL"] = "Email Ð¾Ñ‚Ð¿Ñ€Ð°Ð²Ð¸Ñ‚ÐµÐ»Ñ Ð½Ðµ Ð¿Ð¾Ð´Ñ‚Ð²ÐµÑ€Ð¶Ð´ÐµÐ½";
+$MESS["SENDER_LETTER_ONBEFOREUPDATE_ERROR_FEATURE_NOT_AVAILABLE"] = "Ð˜Ð½ÑÑ‚Ñ€ÑƒÐ¼ÐµÐ½Ñ‚ Ð´Ð¾ÑÑ‚ÑƒÐ¿ÐµÐ½ Ñ‚Ð¾Ð»ÑŒÐºÐ¾ Ð½Ð° Ð¿Ð»Ð°Ñ‚Ð½Ð¾Ð¼ Ñ‚Ð°Ñ€Ð¸Ñ„Ðµ.";

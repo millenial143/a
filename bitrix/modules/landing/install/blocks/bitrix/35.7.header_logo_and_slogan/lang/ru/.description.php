@@ -1,5 +1,5 @@
 <?php
-$MESS['LANDING_BLOCK_35_7_HEADER--NAME'] = 'Øàïêà ñ ëîãîòèïîì è ñëîãàíîì';
-$MESS['LANDING_BLOCK_35_7_HEADER--LOGO'] = 'Ëîãîòèï';
-$MESS['LANDING_BLOCK_35_7_HEADER--SLOGAN'] = 'Ñëîãàí';
-$MESS['LANDING_BLOCK_35_7_HEADER--CONTAINER'] = 'Áëîê';
+$MESS['LANDING_BLOCK_35_7_HEADER--NAME'] = 'Ð¨Ð°Ð¿ÐºÐ° Ñ Ð»Ð¾Ð³Ð¾Ñ‚Ð¸Ð¿Ð¾Ð¼ Ð¸ ÑÐ»Ð¾Ð³Ð°Ð½Ð¾Ð¼';
+$MESS['LANDING_BLOCK_35_7_HEADER--LOGO'] = 'Ð›Ð¾Ð³Ð¾Ñ‚Ð¸Ð¿';
+$MESS['LANDING_BLOCK_35_7_HEADER--SLOGAN'] = 'Ð¡Ð»Ð¾Ð³Ð°Ð½';
+$MESS['LANDING_BLOCK_35_7_HEADER--CONTAINER'] = 'Ð‘Ð»Ð¾Ðº';

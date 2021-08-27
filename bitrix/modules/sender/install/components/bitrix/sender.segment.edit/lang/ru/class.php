@@ -1,6 +1,6 @@
 <?
-$MESS["SENDER_SEGMENT_EDIT_TILE_CONTACT_NAME_TEMPLATE"] = "Çàãðóæåíî %count% ïîëó÷àòåëåé";
-$MESS['SENDER_COMP_SEGMENT_EDIT_TITLE_ADD'] = 'Ñîçäàíèå ñåãìåíòà';
-$MESS['SENDER_COMP_SEGMENT_EDIT_TITLE_EDIT'] = 'Ðåäàêòèðîâàíèå ñåãìåíòà';
-$MESS ["SENDER_SEGMENT_FILTER_DEAL_CATEGORY_ID_ERROR"] = "Íå çàäàí ôèëüòð \"Íàïðàâëåíèå ñäåëêè\"";
+$MESS["SENDER_SEGMENT_EDIT_TILE_CONTACT_NAME_TEMPLATE"] = "Ð—Ð°Ð³Ñ€ÑƒÐ¶ÐµÐ½Ð¾ %count% Ð¿Ð¾Ð»ÑƒÑ‡Ð°Ñ‚ÐµÐ»ÐµÐ¹";
+$MESS['SENDER_COMP_SEGMENT_EDIT_TITLE_ADD'] = 'Ð¡Ð¾Ð·Ð´Ð°Ð½Ð¸Ðµ ÑÐµÐ³Ð¼ÐµÐ½Ñ‚Ð°';
+$MESS['SENDER_COMP_SEGMENT_EDIT_TITLE_EDIT'] = 'Ð ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ðµ ÑÐµÐ³Ð¼ÐµÐ½Ñ‚Ð°';
+$MESS ["SENDER_SEGMENT_FILTER_DEAL_CATEGORY_ID_ERROR"] = "ÐÐµ Ð·Ð°Ð´Ð°Ð½ Ñ„Ð¸Ð»ÑŒÑ‚Ñ€ \"ÐÐ°Ð¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¸Ðµ ÑÐ´ÐµÐ»ÐºÐ¸\"";
 ?>

@@ -1,4 +1,4 @@
 <?
-$MESS['CT_RO_IBLOCK_NOT_FOUND'] = "Èíôîðìàöèîííûé áëîê íå íàéäåí.";
-$MESS['CT_RO_SECTION_NOT_FOUND'] = "Ðàçäåë íå íàéäåí.";
+$MESS['CT_RO_IBLOCK_NOT_FOUND'] = "Ð˜Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ð¾Ð½Ð½Ñ‹Ð¹ Ð±Ð»Ð¾Ðº Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½.";
+$MESS['CT_RO_SECTION_NOT_FOUND'] = "Ð Ð°Ð·Ð´ÐµÐ» Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½.";
 ?>

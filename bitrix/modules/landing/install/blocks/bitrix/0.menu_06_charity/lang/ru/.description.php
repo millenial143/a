@@ -1,9 +1,9 @@
 <?php
-$MESS['LANDING_BLOCK_0.MENU_1_NAME_NEW'] = 'Ìåíþ èç øàáëîíà «Áëàãîòâîðèòåëüíîñòü» ñ ëîãîòèïîì ñëåâà, ïóíêòàìè ìåíþ ñïðàâà è íåèçìåíÿåìûì ïðîçðà÷íûì ôîíîì';
-$MESS['LANDING_BLOCK_0.MENU_1_NODES_LANDINGBLOCKNODEMENULIST'] = 'Ìåíþ';
-$MESS['LANDING_BLOCK_0.MENU_1_NODES_LANDINGBLOCKNODEMENULISTITEMLINK'] = 'Ïóíêò ìåíþ';
-$MESS['LANDING_BLOCK_0.MENU_1_NODES_LANDINGBLOCKNODEMENULOGOLINK'] = 'Ññûëêà íà ëîãîòèïå';
-$MESS['LANDING_BLOCK_0.MENU_1_NODES_LANDINGBLOCKNODEMENULOGO'] = 'Ëîãîòèï';
-$MESS['LANDING_BLOCK_0.MENU_1_NODES_LANDINGBLOCKNODEMENULOGO2'] = 'Ëîãîòèï (ñâ¸ðíóòûé)';
-$MESS['LANDING_BLOCK_0.MENU_1_STYLE_LANDINGBLOCKNODEMENULISTITEMLINK'] = 'Ïóíêò ìåíþ';
-$MESS['LANDING_BLOCK_0.MENU_1_STYLE_LANDINGBLOCKNODEMENULIST'] = 'Ìåíþ';
+$MESS['LANDING_BLOCK_0.MENU_1_NAME_NEW'] = 'ÐœÐµÐ½ÑŽ Ð¸Ð· ÑˆÐ°Ð±Ð»Ð¾Ð½Ð° Â«Ð‘Ð»Ð°Ð³Ð¾Ñ‚Ð²Ð¾Ñ€Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ð¾ÑÑ‚ÑŒÂ» Ñ Ð»Ð¾Ð³Ð¾Ñ‚Ð¸Ð¿Ð¾Ð¼ ÑÐ»ÐµÐ²Ð°, Ð¿ÑƒÐ½ÐºÑ‚Ð°Ð¼Ð¸ Ð¼ÐµÐ½ÑŽ ÑÐ¿Ñ€Ð°Ð²Ð° Ð¸ Ð½ÐµÐ¸Ð·Ð¼ÐµÐ½ÑÐµÐ¼Ñ‹Ð¼ Ð¿Ñ€Ð¾Ð·Ñ€Ð°Ñ‡Ð½Ñ‹Ð¼ Ñ„Ð¾Ð½Ð¾Ð¼';
+$MESS['LANDING_BLOCK_0.MENU_1_NODES_LANDINGBLOCKNODEMENULIST'] = 'ÐœÐµÐ½ÑŽ';
+$MESS['LANDING_BLOCK_0.MENU_1_NODES_LANDINGBLOCKNODEMENULISTITEMLINK'] = 'ÐŸÑƒÐ½ÐºÑ‚ Ð¼ÐµÐ½ÑŽ';
+$MESS['LANDING_BLOCK_0.MENU_1_NODES_LANDINGBLOCKNODEMENULOGOLINK'] = 'Ð¡ÑÑ‹Ð»ÐºÐ° Ð½Ð° Ð»Ð¾Ð³Ð¾Ñ‚Ð¸Ð¿Ðµ';
+$MESS['LANDING_BLOCK_0.MENU_1_NODES_LANDINGBLOCKNODEMENULOGO'] = 'Ð›Ð¾Ð³Ð¾Ñ‚Ð¸Ð¿';
+$MESS['LANDING_BLOCK_0.MENU_1_NODES_LANDINGBLOCKNODEMENULOGO2'] = 'Ð›Ð¾Ð³Ð¾Ñ‚Ð¸Ð¿ (ÑÐ²Ñ‘Ñ€Ð½ÑƒÑ‚Ñ‹Ð¹)';
+$MESS['LANDING_BLOCK_0.MENU_1_STYLE_LANDINGBLOCKNODEMENULISTITEMLINK'] = 'ÐŸÑƒÐ½ÐºÑ‚ Ð¼ÐµÐ½ÑŽ';
+$MESS['LANDING_BLOCK_0.MENU_1_STYLE_LANDINGBLOCKNODEMENULIST'] = 'ÐœÐµÐ½ÑŽ';

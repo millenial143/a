@@ -1,5 +1,5 @@
 <?
-$MESS["CP_CONTENT_SOCIAL_PARENT_TITLE"] = "Ñîöèàëüíûå ñåðâèñû";
-$MESS["T_IBLOCK_DESC_CSC_LIST"] = "Êîììåíòàðèè ê òîâàðàì";
-$MESS["T_IBLOCK_DESC_CSC_DESC"] = "Êîììåíòàðèè ê òîâàðàì â ñîöèàëüíûõ ñåòÿõ";
+$MESS["CP_CONTENT_SOCIAL_PARENT_TITLE"] = "Ð¡Ð¾Ñ†Ð¸Ð°Ð»ÑŒÐ½Ñ‹Ðµ ÑÐµÑ€Ð²Ð¸ÑÑ‹";
+$MESS["T_IBLOCK_DESC_CSC_LIST"] = "ÐšÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ð¸ Ðº Ñ‚Ð¾Ð²Ð°Ñ€Ð°Ð¼";
+$MESS["T_IBLOCK_DESC_CSC_DESC"] = "ÐšÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ð¸ Ðº Ñ‚Ð¾Ð²Ð°Ñ€Ð°Ð¼ Ð² ÑÐ¾Ñ†Ð¸Ð°Ð»ÑŒÐ½Ñ‹Ñ… ÑÐµÑ‚ÑÑ…";
 ?>

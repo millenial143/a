@@ -1,5 +1,5 @@
 <?
-$MESS ['FORUM_COMPONENT'] = "Ôîðóì. Êîìïëåêñíûé êîìïîíåíò";
-$MESS ['FORUM_COMPONENT_DESCRIPTION'] = "Ôîðóì";
-$MESS ['FORUM'] = "Ôîðóì";
+$MESS ['FORUM_COMPONENT'] = "Ð¤Ð¾Ñ€ÑƒÐ¼. ÐšÐ¾Ð¼Ð¿Ð»ÐµÐºÑÐ½Ñ‹Ð¹ ÐºÐ¾Ð¼Ð¿Ð¾Ð½ÐµÐ½Ñ‚";
+$MESS ['FORUM_COMPONENT_DESCRIPTION'] = "Ð¤Ð¾Ñ€ÑƒÐ¼";
+$MESS ['FORUM'] = "Ð¤Ð¾Ñ€ÑƒÐ¼";
 ?>

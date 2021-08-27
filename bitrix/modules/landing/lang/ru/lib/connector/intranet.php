@@ -1,8 +1,8 @@
 <?php
-$MESS['LANDING_CONNECTOR_INTRANET_MENU_BIND_TITLE_NEW'] = 'Ñîçäàòü';
-$MESS['LANDING_CONNECTOR_INTRANET_MENU_BIND_TITLE_SELECT'] = 'Âûáðàòü';
-$MESS['LANDING_CONNECTOR_INTRANET_MENU_BIND_TITLE'] = 'Âûáðàòü áàçó çíàíèé';
-$MESS['LANDING_CONNECTOR_INTRANET_MENU_BIND_CREATE_TITLE'] = 'Ñîçäàòü áàçó çíàíèé';
-$MESS['LANDING_CONNECTOR_INTRANET_MENU_ALERT_TITLE'] = 'Îòâÿçàòü áàçó çíàíèé';
-$MESS['LANDING_CONNECTOR_INTRANET_MENU_ALERT_MESSAGE'] = 'Âû äåéñòâèòåëüíî õîòèòå óäàëèòü ïðèâÿçêó ê áàçå çíàíèé?';
-$MESS['LANDING_CONNECTOR_INTRANET_MENU_ALERT_BUTTON'] = 'Îòâÿçàòü';
+$MESS['LANDING_CONNECTOR_INTRANET_MENU_BIND_TITLE_NEW'] = 'Ð¡Ð¾Ð·Ð´Ð°Ñ‚ÑŒ';
+$MESS['LANDING_CONNECTOR_INTRANET_MENU_BIND_TITLE_SELECT'] = 'Ð’Ñ‹Ð±Ñ€Ð°Ñ‚ÑŒ';
+$MESS['LANDING_CONNECTOR_INTRANET_MENU_BIND_TITLE'] = 'Ð’Ñ‹Ð±Ñ€Ð°Ñ‚ÑŒ Ð±Ð°Ð·Ñƒ Ð·Ð½Ð°Ð½Ð¸Ð¹';
+$MESS['LANDING_CONNECTOR_INTRANET_MENU_BIND_CREATE_TITLE'] = 'Ð¡Ð¾Ð·Ð´Ð°Ñ‚ÑŒ Ð±Ð°Ð·Ñƒ Ð·Ð½Ð°Ð½Ð¸Ð¹';
+$MESS['LANDING_CONNECTOR_INTRANET_MENU_ALERT_TITLE'] = 'ÐžÑ‚Ð²ÑÐ·Ð°Ñ‚ÑŒ Ð±Ð°Ð·Ñƒ Ð·Ð½Ð°Ð½Ð¸Ð¹';
+$MESS['LANDING_CONNECTOR_INTRANET_MENU_ALERT_MESSAGE'] = 'Ð’Ñ‹ Ð´ÐµÐ¹ÑÑ‚Ð²Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ð¾ Ñ…Ð¾Ñ‚Ð¸Ñ‚Ðµ ÑƒÐ´Ð°Ð»Ð¸Ñ‚ÑŒ Ð¿Ñ€Ð¸Ð²ÑÐ·ÐºÑƒ Ðº Ð±Ð°Ð·Ðµ Ð·Ð½Ð°Ð½Ð¸Ð¹?';
+$MESS['LANDING_CONNECTOR_INTRANET_MENU_ALERT_BUTTON'] = 'ÐžÑ‚Ð²ÑÐ·Ð°Ñ‚ÑŒ';

@@ -1,6 +1,6 @@
 <?php
-$MESS['DASHBOARD_WIDGET_REMOVE_TITLE'] = 'Óäàëèòü';
-$MESS['DASHBOARD_WIDGET_REMOVE_CONTENT'] = 'Âû óâåðåíû, ÷òî õîòèòå óäàëèòü áëîê?';
-$MESS['DASHBOARD_WIDGET_REMOVE_ACCEPT_TITLE'] = 'Äà';
-$MESS['DASHBOARD_WIDGET_REMOVE_CANCEL_TITLE'] = 'Íåò';
-$MESS['DASHBOARD_EMPTY_BOARD_CONTENT'] = 'Íåò äàííûõ äëÿ ïîêàçà';
+$MESS['DASHBOARD_WIDGET_REMOVE_TITLE'] = 'Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ';
+$MESS['DASHBOARD_WIDGET_REMOVE_CONTENT'] = 'Ð’Ñ‹ ÑƒÐ²ÐµÑ€ÐµÐ½Ñ‹, Ñ‡Ñ‚Ð¾ Ñ…Ð¾Ñ‚Ð¸Ñ‚Ðµ ÑƒÐ´Ð°Ð»Ð¸Ñ‚ÑŒ Ð±Ð»Ð¾Ðº?';
+$MESS['DASHBOARD_WIDGET_REMOVE_ACCEPT_TITLE'] = 'Ð”Ð°';
+$MESS['DASHBOARD_WIDGET_REMOVE_CANCEL_TITLE'] = 'ÐÐµÑ‚';
+$MESS['DASHBOARD_EMPTY_BOARD_CONTENT'] = 'ÐÐµÑ‚ Ð´Ð°Ð½Ð½Ñ‹Ñ… Ð´Ð»Ñ Ð¿Ð¾ÐºÐ°Ð·Ð°';

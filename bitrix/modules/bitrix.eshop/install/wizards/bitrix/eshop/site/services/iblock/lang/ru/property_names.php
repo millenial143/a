@@ -1,5 +1,5 @@
 <?
-$MESS["UF_BROWSER_TITLE"] = "Çàãîëîâîê îêíà áðàóçåðà";
-$MESS["UF_KEYWORDS"] = "Êëþ÷åâûå ñëîâà";
-$MESS["UF_META_DESCRIPTION"] = "Ìåòà-îïèñàíèå";
+$MESS["UF_BROWSER_TITLE"] = "Ð—Ð°Ð³Ð¾Ð»Ð¾Ð²Ð¾Ðº Ð¾ÐºÐ½Ð° Ð±Ñ€Ð°ÑƒÐ·ÐµÑ€Ð°";
+$MESS["UF_KEYWORDS"] = "ÐšÐ»ÑŽÑ‡ÐµÐ²Ñ‹Ðµ ÑÐ»Ð¾Ð²Ð°";
+$MESS["UF_META_DESCRIPTION"] = "ÐœÐµÑ‚Ð°-Ð¾Ð¿Ð¸ÑÐ°Ð½Ð¸Ðµ";
 ?>

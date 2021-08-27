@@ -1,8 +1,8 @@
 <?php
-$MESS["SALE_BSM_WIZARD_UPDATESYSTEMSTEP_TITLE"] = "Система обновлений";
-$MESS["SALE_BSM_WIZARD_UPDATESYSTEMSTEP_NEXT"] = "Продолжить";
-$MESS["SALE_BSM_WIZARD_UPDATESYSTEMSTEP_DESCR1"] = "Для добавление сайта не хватает следующих модулей...";
-$MESS["SALE_BSM_WIZARD_UPDATESYSTEMSTEP_ALL_DESCR"] = "Перейдите в <a href=\"#MARKET_PLACE_LINK#\" target=\"_blank\">\"Каталог Маркетплейс\"</a> и <a href=\"#UPDATE_SYSTEM_LINK#\" target=\"_blank\">\"Систему обновлений\"</a> и загрузите необходимые модули.";
-$MESS["SALE_BSM_WIZARD_UPDATESYSTEMSTEP_MARKET_PLACE_DESCR"] = "Перейдите в <a href=\"#MARKET_PLACE_LINK#\" target=\"_blank\">\"Каталог Маркетплейс\"</a> и загрузите необходимые модули.";
-$MESS["SALE_BSM_WIZARD_UPDATESYSTEMSTEP_UPDATE_SYSTEM_DESCR"] = "Перейдите в <a href=\"#UPDATE_SYSTEM_LINK#\" target=\"_blank\">\"Систему обновлений\"</a> и загрузите необходимые модули.";
-$MESS["SALE_BSM_WIZARD_UPDATESYSTEMSTEP_CONTINUE_DESCR"] = "После этого нажмите кнопку \"Продолжить\" на этой странице.";
+$MESS["SALE_BSM_WIZARD_UPDATESYSTEMSTEP_TITLE"] = "РЎРёСЃС‚РµРјР° РѕР±РЅРѕРІР»РµРЅРёР№";
+$MESS["SALE_BSM_WIZARD_UPDATESYSTEMSTEP_NEXT"] = "РџСЂРѕРґРѕР»Р¶РёС‚СЊ";
+$MESS["SALE_BSM_WIZARD_UPDATESYSTEMSTEP_DESCR1"] = "Р”Р»СЏ РґРѕР±Р°РІР»РµРЅРёРµ СЃР°Р№С‚Р° РЅРµ С…РІР°С‚Р°РµС‚ СЃР»РµРґСѓСЋС‰РёС… РјРѕРґСѓР»РµР№...";
+$MESS["SALE_BSM_WIZARD_UPDATESYSTEMSTEP_ALL_DESCR"] = "РџРµСЂРµР№РґРёС‚Рµ РІ <a href=\"#MARKET_PLACE_LINK#\" target=\"_blank\">\"РљР°С‚Р°Р»РѕРі РњР°СЂРєРµС‚РїР»РµР№СЃ\"</a> Рё <a href=\"#UPDATE_SYSTEM_LINK#\" target=\"_blank\">\"РЎРёСЃС‚РµРјСѓ РѕР±РЅРѕРІР»РµРЅРёР№\"</a> Рё Р·Р°РіСЂСѓР·РёС‚Рµ РЅРµРѕР±С…РѕРґРёРјС‹Рµ РјРѕРґСѓР»Рё.";
+$MESS["SALE_BSM_WIZARD_UPDATESYSTEMSTEP_MARKET_PLACE_DESCR"] = "РџРµСЂРµР№РґРёС‚Рµ РІ <a href=\"#MARKET_PLACE_LINK#\" target=\"_blank\">\"РљР°С‚Р°Р»РѕРі РњР°СЂРєРµС‚РїР»РµР№СЃ\"</a> Рё Р·Р°РіСЂСѓР·РёС‚Рµ РЅРµРѕР±С…РѕРґРёРјС‹Рµ РјРѕРґСѓР»Рё.";
+$MESS["SALE_BSM_WIZARD_UPDATESYSTEMSTEP_UPDATE_SYSTEM_DESCR"] = "РџРµСЂРµР№РґРёС‚Рµ РІ <a href=\"#UPDATE_SYSTEM_LINK#\" target=\"_blank\">\"РЎРёСЃС‚РµРјСѓ РѕР±РЅРѕРІР»РµРЅРёР№\"</a> Рё Р·Р°РіСЂСѓР·РёС‚Рµ РЅРµРѕР±С…РѕРґРёРјС‹Рµ РјРѕРґСѓР»Рё.";
+$MESS["SALE_BSM_WIZARD_UPDATESYSTEMSTEP_CONTINUE_DESCR"] = "РџРѕСЃР»Рµ СЌС‚РѕРіРѕ РЅР°Р¶РјРёС‚Рµ РєРЅРѕРїРєСѓ \"РџСЂРѕРґРѕР»Р¶РёС‚СЊ\" РЅР° СЌС‚РѕР№ СЃС‚СЂР°РЅРёС†Рµ.";

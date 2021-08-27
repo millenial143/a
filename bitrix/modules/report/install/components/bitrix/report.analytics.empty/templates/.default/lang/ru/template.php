@@ -1,2 +1,2 @@
 <?php
-$MESS['REPORT_VISUALCONSTRUCTOR_DASHBOARD_MASK_TEXT'] = 'Ñêîðî çäåñü áóäåò îò÷åò';
+$MESS['REPORT_VISUALCONSTRUCTOR_DASHBOARD_MASK_TEXT'] = 'Ð¡ÐºÐ¾Ñ€Ð¾ Ð·Ð´ÐµÑÑŒ Ð±ÑƒÐ´ÐµÑ‚ Ð¾Ñ‚Ñ‡ÐµÑ‚';

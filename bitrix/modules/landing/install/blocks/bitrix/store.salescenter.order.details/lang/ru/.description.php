@@ -1,4 +1,4 @@
 <?php
-$MESS['LANDING_BLOCK_STORE_SALESCENTER_ORDER_DETAIL-NAME'] = 'Äåòàëüíàÿ èíôîðìàöèÿ î çàêàçå';
-$MESS['LANDING_BLOCK_STORE_SALESCENTER_ORDER_DETAIL-ALERT'] = 'Â äàííîì áëîêå áóäåò îòîáðàæàòüñÿ èíôîðìàöèÿ î çàêàçå êëèåíòà.';
+$MESS['LANDING_BLOCK_STORE_SALESCENTER_ORDER_DETAIL-NAME'] = 'Ð”ÐµÑ‚Ð°Ð»ÑŒÐ½Ð°Ñ Ð¸Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ñ Ð¾ Ð·Ð°ÐºÐ°Ð·Ðµ';
+$MESS['LANDING_BLOCK_STORE_SALESCENTER_ORDER_DETAIL-ALERT'] = 'Ð’ Ð´Ð°Ð½Ð½Ð¾Ð¼ Ð±Ð»Ð¾ÐºÐµ Ð±ÑƒÐ´ÐµÑ‚ Ð¾Ñ‚Ð¾Ð±Ñ€Ð°Ð¶Ð°Ñ‚ÑŒÑÑ Ð¸Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ñ Ð¾ Ð·Ð°ÐºÐ°Ð·Ðµ ÐºÐ»Ð¸ÐµÐ½Ñ‚Ð°.';
 

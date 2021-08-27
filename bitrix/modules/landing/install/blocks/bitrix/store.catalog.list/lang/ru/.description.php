@@ -1,3 +1,3 @@
 <?php
-$MESS['LD_BLOCK_STORE_CATALOG_LIST_NAME'] = 'Ñïèñîê òîâàðîâ';
-$MESS['LD_BLOCK_STORE_CATALOG_SECTION_ID'] = 'ID êàòåãîðèè';
+$MESS['LD_BLOCK_STORE_CATALOG_LIST_NAME'] = 'Ð¡Ð¿Ð¸ÑÐ¾Ðº Ñ‚Ð¾Ð²Ð°Ñ€Ð¾Ð²';
+$MESS['LD_BLOCK_STORE_CATALOG_SECTION_ID'] = 'ID ÐºÐ°Ñ‚ÐµÐ³Ð¾Ñ€Ð¸Ð¸';

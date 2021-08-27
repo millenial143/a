@@ -1,11 +1,11 @@
 <?php
-$MESS['MAIN_AUTH_PWD_SUCCESS'] = 'Âû çàðåãèñòðèðîâàíû è óñïåøíî àâòîðèçîâàëèñü.';
-$MESS['MAIN_AUTH_PWD_HEADER'] = 'Âûñëàòü êîíòðîëüíóþ ñòðîêó';
-$MESS['MAIN_AUTH_PWD_NOTE'] = 'Åñëè âû çàáûëè ïàðîëü, ââåäèòå ëîãèí èëè E-Mail. Êîíòðîëüíàÿ ñòðîêà äëÿ ñìåíû ïàðîëÿ, à òàêæå âàøè ðåãèñòðàöèîííûå äàííûå, áóäóò âûñëàíû âàì ïî E-Mail.';
-$MESS['MAIN_AUTH_PWD_FIELD_LOGIN'] = 'Ëîãèí';
-$MESS['MAIN_AUTH_PWD_OR'] = 'èëè';
+$MESS['MAIN_AUTH_PWD_SUCCESS'] = 'Ð’Ñ‹ Ð·Ð°Ñ€ÐµÐ³Ð¸ÑÑ‚Ñ€Ð¸Ñ€Ð¾Ð²Ð°Ð½Ñ‹ Ð¸ ÑƒÑÐ¿ÐµÑˆÐ½Ð¾ Ð°Ð²Ñ‚Ð¾Ñ€Ð¸Ð·Ð¾Ð²Ð°Ð»Ð¸ÑÑŒ.';
+$MESS['MAIN_AUTH_PWD_HEADER'] = 'Ð’Ñ‹ÑÐ»Ð°Ñ‚ÑŒ ÐºÐ¾Ð½Ñ‚Ñ€Ð¾Ð»ÑŒÐ½ÑƒÑŽ ÑÑ‚Ñ€Ð¾ÐºÑƒ';
+$MESS['MAIN_AUTH_PWD_NOTE'] = 'Ð•ÑÐ»Ð¸ Ð²Ñ‹ Ð·Ð°Ð±Ñ‹Ð»Ð¸ Ð¿Ð°Ñ€Ð¾Ð»ÑŒ, Ð²Ð²ÐµÐ´Ð¸Ñ‚Ðµ Ð»Ð¾Ð³Ð¸Ð½ Ð¸Ð»Ð¸ E-Mail. ÐšÐ¾Ð½Ñ‚Ñ€Ð¾Ð»ÑŒÐ½Ð°Ñ ÑÑ‚Ñ€Ð¾ÐºÐ° Ð´Ð»Ñ ÑÐ¼ÐµÐ½Ñ‹ Ð¿Ð°Ñ€Ð¾Ð»Ñ, Ð° Ñ‚Ð°ÐºÐ¶Ðµ Ð²Ð°ÑˆÐ¸ Ñ€ÐµÐ³Ð¸ÑÑ‚Ñ€Ð°Ñ†Ð¸Ð¾Ð½Ð½Ñ‹Ðµ Ð´Ð°Ð½Ð½Ñ‹Ðµ, Ð±ÑƒÐ´ÑƒÑ‚ Ð²Ñ‹ÑÐ»Ð°Ð½Ñ‹ Ð²Ð°Ð¼ Ð¿Ð¾ E-Mail.';
+$MESS['MAIN_AUTH_PWD_FIELD_LOGIN'] = 'Ð›Ð¾Ð³Ð¸Ð½';
+$MESS['MAIN_AUTH_PWD_OR'] = 'Ð¸Ð»Ð¸';
 $MESS['MAIN_AUTH_PWD_FIELD_EMAIL'] = 'E-Mail';
-$MESS['MAIN_AUTH_PWD_FIELD_CAPTCHA'] = 'Ââåäèòå ñëîâî íà êàðòèíêå';
-$MESS['MAIN_AUTH_PWD_FIELD_SUBMIT'] = 'Âûñëàòü';
-$MESS['MAIN_AUTH_PWD_URL_AUTH_URL'] = 'Àâòîðèçîâàòüñÿ';
-$MESS['MAIN_AUTH_PWD_URL_REGISTER_URL'] = 'Çàðåãèñòðèðîâàòüñÿ';
+$MESS['MAIN_AUTH_PWD_FIELD_CAPTCHA'] = 'Ð’Ð²ÐµÐ´Ð¸Ñ‚Ðµ ÑÐ»Ð¾Ð²Ð¾ Ð½Ð° ÐºÐ°Ñ€Ñ‚Ð¸Ð½ÐºÐµ';
+$MESS['MAIN_AUTH_PWD_FIELD_SUBMIT'] = 'Ð’Ñ‹ÑÐ»Ð°Ñ‚ÑŒ';
+$MESS['MAIN_AUTH_PWD_URL_AUTH_URL'] = 'ÐÐ²Ñ‚Ð¾Ñ€Ð¸Ð·Ð¾Ð²Ð°Ñ‚ÑŒÑÑ';
+$MESS['MAIN_AUTH_PWD_URL_REGISTER_URL'] = 'Ð—Ð°Ñ€ÐµÐ³Ð¸ÑÑ‚Ñ€Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒÑÑ';

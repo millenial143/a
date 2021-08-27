@@ -1,12 +1,12 @@
 <?
-$MESS["CVP_IBLOCK_MODULE_NOT_INSTALLED"] = "Ìîäóëü Èíôîðìàöèîííûõ áëîêîâ íå óñòàíîâëåí";
-$MESS["CVP_CATALOG_MODULE_NOT_INSTALLED"] = "Ìîäóëü Êàòàëîãîâ íå óñòàíîâëåí";
-$MESS["CVP_SALE_MODULE_NOT_INSTALLED"] = "Ìîäóëü ìàãàçèíà íå óñòàíîâëåí";
-$MESS["CVP_CATALOG_ERROR2BASKET"] = "Îøèáêà äîáàâëåíèÿ òîâàðà â êîðçèíó";
-$MESS["CVP_CATALOG_PRODUCT_NOT_FOUND"] = "Òîâàð íå íàéäåí";
-$MESS["CVP_PARTIAL_BASKET_PROPERTIES_ERROR"] = "Íå âñå ñâîéñòâà òîâàðà, äîáàâëÿåìûå â êîðçèíó, çàïîëíåíû";
-$MESS["CVP_NO_MODULES"] = "Îòñóòñòâóþò íåîáõîäèìûå ìîäóëè";
-$MESS["CVP_EMPTY_BASKET_PROPERTIES_ERROR"] = "Íå çàïîëíåíû ñâîéñòâà òîâàðà, äîáàâëÿåìûå â êîðçèíó";
-$MESS["CVP_PRODUCT_ADDED"] = "Òîâàð äîáàâëåí â êîðçèíó.";
-$MESS["CVP_PRODUCT_SUBSCIBED"] = "Óñïåøíî ïîäïèñàëèñü íà òîâàð.";
+$MESS["CVP_IBLOCK_MODULE_NOT_INSTALLED"] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ Ð˜Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ð¾Ð½Ð½Ñ‹Ñ… Ð±Ð»Ð¾ÐºÐ¾Ð² Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½";
+$MESS["CVP_CATALOG_MODULE_NOT_INSTALLED"] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ ÐšÐ°Ñ‚Ð°Ð»Ð¾Ð³Ð¾Ð² Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½";
+$MESS["CVP_SALE_MODULE_NOT_INSTALLED"] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ Ð¼Ð°Ð³Ð°Ð·Ð¸Ð½Ð° Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½";
+$MESS["CVP_CATALOG_ERROR2BASKET"] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð´Ð¾Ð±Ð°Ð²Ð»ÐµÐ½Ð¸Ñ Ñ‚Ð¾Ð²Ð°Ñ€Ð° Ð² ÐºÐ¾Ñ€Ð·Ð¸Ð½Ñƒ";
+$MESS["CVP_CATALOG_PRODUCT_NOT_FOUND"] = "Ð¢Ð¾Ð²Ð°Ñ€ Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½";
+$MESS["CVP_PARTIAL_BASKET_PROPERTIES_ERROR"] = "ÐÐµ Ð²ÑÐµ ÑÐ²Ð¾Ð¹ÑÑ‚Ð²Ð° Ñ‚Ð¾Ð²Ð°Ñ€Ð°, Ð´Ð¾Ð±Ð°Ð²Ð»ÑÐµÐ¼Ñ‹Ðµ Ð² ÐºÐ¾Ñ€Ð·Ð¸Ð½Ñƒ, Ð·Ð°Ð¿Ð¾Ð»Ð½ÐµÐ½Ñ‹";
+$MESS["CVP_NO_MODULES"] = "ÐžÑ‚ÑÑƒÑ‚ÑÑ‚Ð²ÑƒÑŽÑ‚ Ð½ÐµÐ¾Ð±Ñ…Ð¾Ð´Ð¸Ð¼Ñ‹Ðµ Ð¼Ð¾Ð´ÑƒÐ»Ð¸";
+$MESS["CVP_EMPTY_BASKET_PROPERTIES_ERROR"] = "ÐÐµ Ð·Ð°Ð¿Ð¾Ð»Ð½ÐµÐ½Ñ‹ ÑÐ²Ð¾Ð¹ÑÑ‚Ð²Ð° Ñ‚Ð¾Ð²Ð°Ñ€Ð°, Ð´Ð¾Ð±Ð°Ð²Ð»ÑÐµÐ¼Ñ‹Ðµ Ð² ÐºÐ¾Ñ€Ð·Ð¸Ð½Ñƒ";
+$MESS["CVP_PRODUCT_ADDED"] = "Ð¢Ð¾Ð²Ð°Ñ€ Ð´Ð¾Ð±Ð°Ð²Ð»ÐµÐ½ Ð² ÐºÐ¾Ñ€Ð·Ð¸Ð½Ñƒ.";
+$MESS["CVP_PRODUCT_SUBSCIBED"] = "Ð£ÑÐ¿ÐµÑˆÐ½Ð¾ Ð¿Ð¾Ð´Ð¿Ð¸ÑÐ°Ð»Ð¸ÑÑŒ Ð½Ð° Ñ‚Ð¾Ð²Ð°Ñ€.";
 ?>

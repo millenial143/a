@@ -1,5 +1,5 @@
 <?
-$MESS["SPGB_IBLOCK_MODULE_NOT_INSTALLED"] = "Ìîäóëü \"Èíôîðìàöèîííûå áëîêè\" íå óñòàíîâëåí";
-$MESS["SPGB_CATALOG_MODULE_NOT_INSTALLED"] = "Ìîäóëü \"Òîðãîâûé êàòàëîã\" íå óñòàíîâëåí";
-$MESS["SPGB_SALE_MODULE_NOT_INSTALLED"] = "Ìîäóëü \"Èíòåðíåò-ìàãàçèí\" íå óñòàíîâëåí";
+$MESS["SPGB_IBLOCK_MODULE_NOT_INSTALLED"] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ \"Ð˜Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ð¾Ð½Ð½Ñ‹Ðµ Ð±Ð»Ð¾ÐºÐ¸\" Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½";
+$MESS["SPGB_CATALOG_MODULE_NOT_INSTALLED"] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ \"Ð¢Ð¾Ñ€Ð³Ð¾Ð²Ñ‹Ð¹ ÐºÐ°Ñ‚Ð°Ð»Ð¾Ð³\" Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½";
+$MESS["SPGB_SALE_MODULE_NOT_INSTALLED"] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ \"Ð˜Ð½Ñ‚ÐµÑ€Ð½ÐµÑ‚-Ð¼Ð°Ð³Ð°Ð·Ð¸Ð½\" Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½";
 ?>

@@ -1,8 +1,8 @@
 <?
-$MESS["CPSA_MODULE_NOT_INSTALLED"] = "Модуль \"#NAME#\" не установлен";
-$MESS["CPSA_CONTACT_TYPE_NOT_FOUND"] = "Нет доступного типа контакта";
-$MESS["CPSA_SUCCESS_SUBSCRIBE"] = "Вы успешно подписались";
-$MESS["CPSA_INCCORECT_INPUT_DATA"] = "Неверный формат входящих данных";
-$MESS["CPSA_NOT_CHOOSE_METHOD_NOTIFICATION"] = "Вы не выбрали способ уведомления";
-$MESS["CPSA_INCCORECT_INPUT_CAPTHA"] = "Неверно введено слово с картинки.";
+$MESS["CPSA_MODULE_NOT_INSTALLED"] = "РњРѕРґСѓР»СЊ \"#NAME#\" РЅРµ СѓСЃС‚Р°РЅРѕРІР»РµРЅ";
+$MESS["CPSA_CONTACT_TYPE_NOT_FOUND"] = "РќРµС‚ РґРѕСЃС‚СѓРїРЅРѕРіРѕ С‚РёРїР° РєРѕРЅС‚Р°РєС‚Р°";
+$MESS["CPSA_SUCCESS_SUBSCRIBE"] = "Р’С‹ СѓСЃРїРµС€РЅРѕ РїРѕРґРїРёСЃР°Р»РёСЃСЊ";
+$MESS["CPSA_INCCORECT_INPUT_DATA"] = "РќРµРІРµСЂРЅС‹Р№ С„РѕСЂРјР°С‚ РІС…РѕРґСЏС‰РёС… РґР°РЅРЅС‹С…";
+$MESS["CPSA_NOT_CHOOSE_METHOD_NOTIFICATION"] = "Р’С‹ РЅРµ РІС‹Р±СЂР°Р»Рё СЃРїРѕСЃРѕР± СѓРІРµРґРѕРјР»РµРЅРёСЏ";
+$MESS["CPSA_INCCORECT_INPUT_CAPTHA"] = "РќРµРІРµСЂРЅРѕ РІРІРµРґРµРЅРѕ СЃР»РѕРІРѕ СЃ РєР°СЂС‚РёРЅРєРё.";
 ?>

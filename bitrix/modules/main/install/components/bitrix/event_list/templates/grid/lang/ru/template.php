@@ -1,18 +1,18 @@
 <?
-$MESS["EVENT_LIST_SUBMIT"] = "Âûáðàòü";
-$MESS["EVENT_LIST_FILTER_CREATED_BY"] = "Àâòîð";
-$MESS["EVENT_LIST_FILTER_DATE"] = "Äàòà";
-$MESS["EVENT_LIST_FILTER_FEATURES_TITLE"] = "Ñîáûòèÿ";
-$MESS["EVENT_LIST_FILTER_TITLE"] = "Ôèëüòð";
-$MESS["EVENT_LIST_NO_UPDATES"] = "Íåò îáíîâëåíèé.";
-$MESS["EVENT_LIST_PAGE_NAV"] = "Çàïèñè íà ñòðàíèöå";
-$MESS["EVENT_LIST_DATE_FILTER_DAYS"] = "äí.";
-$MESS["EVENT_LIST_FILTER_SHOW"] = "ïîêàçàòü";
-$MESS["EVENT_LIST_FILTER_HIDE"] = "ñêðûòü";
-$MESS["EVENT_LIST_NO_ACTIVE_FEATURES_ERROR"] = "Íå çàäàíû ñîáûòèÿ â ôèëüòðå äëÿ îòîáðàæåíèÿ";
+$MESS["EVENT_LIST_SUBMIT"] = "Ð’Ñ‹Ð±Ñ€Ð°Ñ‚ÑŒ";
+$MESS["EVENT_LIST_FILTER_CREATED_BY"] = "ÐÐ²Ñ‚Ð¾Ñ€";
+$MESS["EVENT_LIST_FILTER_DATE"] = "Ð”Ð°Ñ‚Ð°";
+$MESS["EVENT_LIST_FILTER_FEATURES_TITLE"] = "Ð¡Ð¾Ð±Ñ‹Ñ‚Ð¸Ñ";
+$MESS["EVENT_LIST_FILTER_TITLE"] = "Ð¤Ð¸Ð»ÑŒÑ‚Ñ€";
+$MESS["EVENT_LIST_NO_UPDATES"] = "ÐÐµÑ‚ Ð¾Ð±Ð½Ð¾Ð²Ð»ÐµÐ½Ð¸Ð¹.";
+$MESS["EVENT_LIST_PAGE_NAV"] = "Ð—Ð°Ð¿Ð¸ÑÐ¸ Ð½Ð° ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ðµ";
+$MESS["EVENT_LIST_DATE_FILTER_DAYS"] = "Ð´Ð½.";
+$MESS["EVENT_LIST_FILTER_SHOW"] = "Ð¿Ð¾ÐºÐ°Ð·Ð°Ñ‚ÑŒ";
+$MESS["EVENT_LIST_FILTER_HIDE"] = "ÑÐºÑ€Ñ‹Ñ‚ÑŒ";
+$MESS["EVENT_LIST_NO_ACTIVE_FEATURES_ERROR"] = "ÐÐµ Ð·Ð°Ð´Ð°Ð½Ñ‹ ÑÐ¾Ð±Ñ‹Ñ‚Ð¸Ñ Ð² Ñ„Ð¸Ð»ÑŒÑ‚Ñ€Ðµ Ð´Ð»Ñ Ð¾Ñ‚Ð¾Ð±Ñ€Ð°Ð¶ÐµÐ½Ð¸Ñ";
 
-$MESS["EVENTLIST_HEADER_EVENT_NAME"] = "Ñîáûòèå";
-$MESS["EVENTLIST_HEADER_NAME"] = "Ïîëüçîâàòåëü";
+$MESS["EVENTLIST_HEADER_EVENT_NAME"] = "Ð¡Ð¾Ð±Ñ‹Ñ‚Ð¸Ðµ";
+$MESS["EVENTLIST_HEADER_NAME"] = "ÐŸÐ¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒ";
 $MESS["EVENTLIST_HEADER_IP"] = "IP";
-$MESS["EVENTLIST_HEADER_TIME"] = "Âðåìÿ";
+$MESS["EVENTLIST_HEADER_TIME"] = "Ð’Ñ€ÐµÐ¼Ñ";
 ?>

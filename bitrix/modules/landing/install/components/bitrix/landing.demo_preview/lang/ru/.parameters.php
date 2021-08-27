@@ -1,10 +1,10 @@
 <?php
-$MESS['LANDING_CMP_PAR_LANDING_TYPE'] = 'Òèï';
-$MESS['LANDING_CMP_PAR_CODE'] = 'Èäåíòèôèêàòîð øàáëîíà';
-$MESS['LANDING_CMP_PAR_SITE_ID'] = 'Èäåíòèôèêàòîð ñàéòà';
-$MESS['LANDING_CMP_PAR_SITE_WORK_MODE'] = 'Ðàáîòàòü â ðåæèìå ñàéòà íàñèëüíî';
-$MESS['LANDING_CMP_PAR_DONT_LEAVE_FRAME'] = 'Íå ïîêèäàòü ôðåéì, åñëè ðàáîòàåì âî ôðåéìå';
-$MESS['LANDING_CMP_PAR_BINDING_TYPE'] = 'Òèï ïðèâÿçêè';
-$MESS['LANDING_CMP_PAR_BINDING_TYPE_GROUP'] = 'Ãðóïïà';
-$MESS['LANDING_CMP_PAR_BINDING_TYPE_MENU'] = 'Ìåíþ';
-$MESS['LANDING_CMP_PAR_BINDING_ID'] = 'Èäåíòèôèêàòîð ïðèâÿçêè';
+$MESS['LANDING_CMP_PAR_LANDING_TYPE'] = 'Ð¢Ð¸Ð¿';
+$MESS['LANDING_CMP_PAR_CODE'] = 'Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ ÑˆÐ°Ð±Ð»Ð¾Ð½Ð°';
+$MESS['LANDING_CMP_PAR_SITE_ID'] = 'Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ ÑÐ°Ð¹Ñ‚Ð°';
+$MESS['LANDING_CMP_PAR_SITE_WORK_MODE'] = 'Ð Ð°Ð±Ð¾Ñ‚Ð°Ñ‚ÑŒ Ð² Ñ€ÐµÐ¶Ð¸Ð¼Ðµ ÑÐ°Ð¹Ñ‚Ð° Ð½Ð°ÑÐ¸Ð»ÑŒÐ½Ð¾';
+$MESS['LANDING_CMP_PAR_DONT_LEAVE_FRAME'] = 'ÐÐµ Ð¿Ð¾ÐºÐ¸Ð´Ð°Ñ‚ÑŒ Ñ„Ñ€ÐµÐ¹Ð¼, ÐµÑÐ»Ð¸ Ñ€Ð°Ð±Ð¾Ñ‚Ð°ÐµÐ¼ Ð²Ð¾ Ñ„Ñ€ÐµÐ¹Ð¼Ðµ';
+$MESS['LANDING_CMP_PAR_BINDING_TYPE'] = 'Ð¢Ð¸Ð¿ Ð¿Ñ€Ð¸Ð²ÑÐ·ÐºÐ¸';
+$MESS['LANDING_CMP_PAR_BINDING_TYPE_GROUP'] = 'Ð“Ñ€ÑƒÐ¿Ð¿Ð°';
+$MESS['LANDING_CMP_PAR_BINDING_TYPE_MENU'] = 'ÐœÐµÐ½ÑŽ';
+$MESS['LANDING_CMP_PAR_BINDING_ID'] = 'Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð¿Ñ€Ð¸Ð²ÑÐ·ÐºÐ¸';

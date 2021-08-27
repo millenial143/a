@@ -1,5 +1,5 @@
 <?
-$MESS["SMOB_SALE_NOT_INSTALLED"] = "Íå óñòàíîâëåí ìîäóëü sale";
-$MESS["SMOB_ACCESS_DENIED"] = "Äîñòóï çàïðåùåí";
-$MESS["SMOB_NO_STORES"] = "Îòñóòñòâóåò èíôîðìàöèÿ î ñêëàäàõ";
+$MESS["SMOB_SALE_NOT_INSTALLED"] = "ÐÐµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½ Ð¼Ð¾Ð´ÑƒÐ»ÑŒ sale";
+$MESS["SMOB_ACCESS_DENIED"] = "Ð”Ð¾ÑÑ‚ÑƒÐ¿ Ð·Ð°Ð¿Ñ€ÐµÑ‰ÐµÐ½";
+$MESS["SMOB_NO_STORES"] = "ÐžÑ‚ÑÑƒÑ‚ÑÑ‚Ð²ÑƒÐµÑ‚ Ð¸Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ñ Ð¾ ÑÐºÐ»Ð°Ð´Ð°Ñ…";
 ?>

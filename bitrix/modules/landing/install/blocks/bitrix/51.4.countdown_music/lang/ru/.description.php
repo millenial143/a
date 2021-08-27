@@ -1,9 +1,9 @@
 <?php
-$MESS['LANDING_BLOCK_51_4_COUNTDOWN_MUSIC--NAME'] = 'Îáëîæêà ñ òàéìåðîì íà çàòåìíåííîé ôîíîâîé êàðòèíêå áåç êíîïêè';
-$MESS['LANDING_BLOCK_51_4_COUNTDOWN_MUSIC--DATE'] = 'Äàòà îêîí÷àíèÿ';
-$MESS['LANDING_BLOCK_51_4_COUNTDOWN_MUSIC--EVENT'] = 'Ñîáûòèå';
-$MESS['LANDING_BLOCK_51_4_COUNTDOWN_MUSIC--IMG'] = 'Ôîíîâàÿ êàðòèíêà';
-$MESS['LANDING_BLOCK_51_4_COUNTDOWN_MUSIC--TITLE'] = 'Çàãîëîâîê';
-$MESS['LANDING_BLOCK_51_4_COUNTDOWN_MUSIC--TEXT'] = 'Òåêñò';
-$MESS['LANDING_BLOCK_51_4_COUNTDOWN_MUSIC--NUMBER_NUMBER'] = '×èñëî';
-$MESS['LANDING_BLOCK_51_4_COUNTDOWN_MUSIC--NUMBER_TEXT'] = 'Ïîäïèñü';
+$MESS['LANDING_BLOCK_51_4_COUNTDOWN_MUSIC--NAME'] = 'ÐžÐ±Ð»Ð¾Ð¶ÐºÐ° Ñ Ñ‚Ð°Ð¹Ð¼ÐµÑ€Ð¾Ð¼ Ð½Ð° Ð·Ð°Ñ‚ÐµÐ¼Ð½ÐµÐ½Ð½Ð¾Ð¹ Ñ„Ð¾Ð½Ð¾Ð²Ð¾Ð¹ ÐºÐ°Ñ€Ñ‚Ð¸Ð½ÐºÐµ Ð±ÐµÐ· ÐºÐ½Ð¾Ð¿ÐºÐ¸';
+$MESS['LANDING_BLOCK_51_4_COUNTDOWN_MUSIC--DATE'] = 'Ð”Ð°Ñ‚Ð° Ð¾ÐºÐ¾Ð½Ñ‡Ð°Ð½Ð¸Ñ';
+$MESS['LANDING_BLOCK_51_4_COUNTDOWN_MUSIC--EVENT'] = 'Ð¡Ð¾Ð±Ñ‹Ñ‚Ð¸Ðµ';
+$MESS['LANDING_BLOCK_51_4_COUNTDOWN_MUSIC--IMG'] = 'Ð¤Ð¾Ð½Ð¾Ð²Ð°Ñ ÐºÐ°Ñ€Ñ‚Ð¸Ð½ÐºÐ°';
+$MESS['LANDING_BLOCK_51_4_COUNTDOWN_MUSIC--TITLE'] = 'Ð—Ð°Ð³Ð¾Ð»Ð¾Ð²Ð¾Ðº';
+$MESS['LANDING_BLOCK_51_4_COUNTDOWN_MUSIC--TEXT'] = 'Ð¢ÐµÐºÑÑ‚';
+$MESS['LANDING_BLOCK_51_4_COUNTDOWN_MUSIC--NUMBER_NUMBER'] = 'Ð§Ð¸ÑÐ»Ð¾';
+$MESS['LANDING_BLOCK_51_4_COUNTDOWN_MUSIC--NUMBER_TEXT'] = 'ÐŸÐ¾Ð´Ð¿Ð¸ÑÑŒ';

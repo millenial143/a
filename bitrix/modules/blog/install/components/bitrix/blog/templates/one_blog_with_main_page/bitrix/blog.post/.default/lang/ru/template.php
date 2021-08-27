@@ -1,5 +1,5 @@
 <?
-$MESS ['BLOG_BLOG_BLOG_CATEGORY'] = "Òåãè:";
-$MESS ['BLOG_BLOG_BLOG_NO_AVAIBLE_MES'] = "Ñîîáùåíèå íå íàéäåíî";
-$MESS ['BLOG_MES_DELETE_POST_CONFIRM'] = "Âû óâåðåíû, ÷òî õîòèòå óäàëèòü ñîîáùåíèå?";
+$MESS ['BLOG_BLOG_BLOG_CATEGORY'] = "Ð¢ÐµÐ³Ð¸:";
+$MESS ['BLOG_BLOG_BLOG_NO_AVAIBLE_MES'] = "Ð¡Ð¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½Ð¾";
+$MESS ['BLOG_MES_DELETE_POST_CONFIRM'] = "Ð’Ñ‹ ÑƒÐ²ÐµÑ€ÐµÐ½Ñ‹, Ñ‡Ñ‚Ð¾ Ñ…Ð¾Ñ‚Ð¸Ñ‚Ðµ ÑƒÐ´Ð°Ð»Ð¸Ñ‚ÑŒ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ?";
 ?>

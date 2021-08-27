@@ -1,15 +1,15 @@
 <?
-$MESS["APP_LIST_TITLE"] = "Ìîè ïðèëîæåíèÿ";
-$MESS["APP_HEADER_NAME"] = "Íàçâàíèå";
-$MESS["APP_HEADER_ONLY_API"] = "Èñïîëüçóåò òîëüêî API";
-$MESS["APP_HEADER_CLIENT_ID"] = "Êîä ïðèëîæåíèÿ (client_id)";
-$MESS["APP_HEADER_SECRET_ID"] = "Êëþ÷ ïðèëîæåíèÿ (client_secret)";
-$MESS["APP_RIGHTS"] = "Ïðàâà äîñòóïà äëÿ ñîòðóäíèêîâ";
-$MESS["APP_EDIT"] = "Ðåäàêòèðîâàòü";
-$MESS["APP_YES"] = "Äà";
-$MESS["APP_NO"] = "Íåò";
-$MESS["APP_EDIT"] = "Ðåäàêòèðîâàòü";
-$MESS["APP_DELETE"] = "Óäàëèòü";
-$MESS["APP_OPEN"] = "Ïåðåéòè ê ïðèëîæåíèþ";
-$MESS["APP_REINSTALL"] = "Ïåðåóñòàíîâèòü";
+$MESS["APP_LIST_TITLE"] = "ÐœÐ¾Ð¸ Ð¿Ñ€Ð¸Ð»Ð¾Ð¶ÐµÐ½Ð¸Ñ";
+$MESS["APP_HEADER_NAME"] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ";
+$MESS["APP_HEADER_ONLY_API"] = "Ð˜ÑÐ¿Ð¾Ð»ÑŒÐ·ÑƒÐµÑ‚ Ñ‚Ð¾Ð»ÑŒÐºÐ¾ API";
+$MESS["APP_HEADER_CLIENT_ID"] = "ÐšÐ¾Ð´ Ð¿Ñ€Ð¸Ð»Ð¾Ð¶ÐµÐ½Ð¸Ñ (client_id)";
+$MESS["APP_HEADER_SECRET_ID"] = "ÐšÐ»ÑŽÑ‡ Ð¿Ñ€Ð¸Ð»Ð¾Ð¶ÐµÐ½Ð¸Ñ (client_secret)";
+$MESS["APP_RIGHTS"] = "ÐŸÑ€Ð°Ð²Ð° Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð° Ð´Ð»Ñ ÑÐ¾Ñ‚Ñ€ÑƒÐ´Ð½Ð¸ÐºÐ¾Ð²";
+$MESS["APP_EDIT"] = "Ð ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ";
+$MESS["APP_YES"] = "Ð”Ð°";
+$MESS["APP_NO"] = "ÐÐµÑ‚";
+$MESS["APP_EDIT"] = "Ð ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ";
+$MESS["APP_DELETE"] = "Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ";
+$MESS["APP_OPEN"] = "ÐŸÐµÑ€ÐµÐ¹Ñ‚Ð¸ Ðº Ð¿Ñ€Ð¸Ð»Ð¾Ð¶ÐµÐ½Ð¸ÑŽ";
+$MESS["APP_REINSTALL"] = "ÐŸÐµÑ€ÐµÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð¸Ñ‚ÑŒ";
 ?>

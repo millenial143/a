@@ -1,4 +1,4 @@
 <?php
-$MESS["SALE_DVF_AJAX_DELETE_DOMAIN_ACTION_ERROR"] = "Ïðè óäàëåíèè çàïèñè ïðîèçîøëà îøèáêà";
-$MESS["SALE_DVF_AJAX_MANAGER_ERROR"] = "Ïàðàìåòð MANAGER äîëæåí ÿâëÿòüñÿ íàñëåäíèêîì Bitrix\Sale\Domain\Verification\BaseManager";
-$MESS["SALE_DVF_AJAX_MANAGER_NOT_FOUND"] = "Ïàðàìåòð MANAGER íå íàéäåí";
+$MESS["SALE_DVF_AJAX_DELETE_DOMAIN_ACTION_ERROR"] = "ÐŸÑ€Ð¸ ÑƒÐ´Ð°Ð»ÐµÐ½Ð¸Ð¸ Ð·Ð°Ð¿Ð¸ÑÐ¸ Ð¿Ñ€Ð¾Ð¸Ð·Ð¾ÑˆÐ»Ð° Ð¾ÑˆÐ¸Ð±ÐºÐ°";
+$MESS["SALE_DVF_AJAX_MANAGER_ERROR"] = "ÐŸÐ°Ñ€Ð°Ð¼ÐµÑ‚Ñ€ MANAGER Ð´Ð¾Ð»Ð¶ÐµÐ½ ÑÐ²Ð»ÑÑ‚ÑŒÑÑ Ð½Ð°ÑÐ»ÐµÐ´Ð½Ð¸ÐºÐ¾Ð¼ Bitrix\Sale\Domain\Verification\BaseManager";
+$MESS["SALE_DVF_AJAX_MANAGER_NOT_FOUND"] = "ÐŸÐ°Ñ€Ð°Ð¼ÐµÑ‚Ñ€ MANAGER Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½";

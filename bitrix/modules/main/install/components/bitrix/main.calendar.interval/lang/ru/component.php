@@ -1,15 +1,15 @@
 <?
-$MESS["interface_grid_no_no_no_2"] = "(íåò)";
-$MESS["inerface_grid_today"] = "ñåãîäíÿ";
-$MESS["inerface_grid_yesterday"] = "â÷åðà";
-$MESS["inerface_grid_tomorrow"] = "çàâòðà";
-$MESS["inerface_grid_week"] = "ýòà íåäåëÿ";
-$MESS["inerface_grid_week_ago"] = "ïðîøë. íåäåëÿ";
-$MESS["inerface_grid_month"] = "ýòîò ìåñÿö";
-$MESS["inerface_grid_month_ago"] = "ïðîøë. ìåñÿö";
-$MESS["inerface_grid_last"] = "çà ïîñëåä.";
-$MESS["inerface_grid_exact"] = "òî÷íî";
-$MESS["inerface_grid_later"] = "ïîçæå";
-$MESS["inerface_grid_earlier"] = "ðàíüøå";
-$MESS["inerface_grid_interval"] = "èíòåðâàë";
+$MESS["interface_grid_no_no_no_2"] = "(Ð½ÐµÑ‚)";
+$MESS["inerface_grid_today"] = "ÑÐµÐ³Ð¾Ð´Ð½Ñ";
+$MESS["inerface_grid_yesterday"] = "Ð²Ñ‡ÐµÑ€Ð°";
+$MESS["inerface_grid_tomorrow"] = "Ð·Ð°Ð²Ñ‚Ñ€Ð°";
+$MESS["inerface_grid_week"] = "ÑÑ‚Ð° Ð½ÐµÐ´ÐµÐ»Ñ";
+$MESS["inerface_grid_week_ago"] = "Ð¿Ñ€Ð¾ÑˆÐ». Ð½ÐµÐ´ÐµÐ»Ñ";
+$MESS["inerface_grid_month"] = "ÑÑ‚Ð¾Ñ‚ Ð¼ÐµÑÑÑ†";
+$MESS["inerface_grid_month_ago"] = "Ð¿Ñ€Ð¾ÑˆÐ». Ð¼ÐµÑÑÑ†";
+$MESS["inerface_grid_last"] = "Ð·Ð° Ð¿Ð¾ÑÐ»ÐµÐ´.";
+$MESS["inerface_grid_exact"] = "Ñ‚Ð¾Ñ‡Ð½Ð¾";
+$MESS["inerface_grid_later"] = "Ð¿Ð¾Ð·Ð¶Ðµ";
+$MESS["inerface_grid_earlier"] = "Ñ€Ð°Ð½ÑŒÑˆÐµ";
+$MESS["inerface_grid_interval"] = "Ð¸Ð½Ñ‚ÐµÑ€Ð²Ð°Ð»";
 ?>

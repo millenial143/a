@@ -1,19 +1,19 @@
 <?
-$MESS["SENDER_CAMPAIGN_EDIT_TMPL_PATTERN_TITLE"] = "%name% îò %date%";
-$MESS["SENDER_CAMPAIGN_EDIT_TMPL_NEW_TITLE"] = "Êàìïàíèÿ";
-$MESS["SENDER_CAMPAIGN_EDIT_TMPL_FIELD_NAME"] = "Íàçâàíèå";
-$MESS["SENDER_CAMPAIGN_EDIT_TMPL_FIELD_DESC"] = "Îïèñàíèå";
-$MESS["SENDER_CAMPAIGN_EDIT_TMPL_FIELD_SITE"] = "Ñàéò";
-$MESS["SENDER_CAMPAIGN_EDIT_TMPL_FIELD_ACTIVE"] = "Àêòèâíà";
-$MESS["SENDER_CAMPAIGN_EDIT_TMPL_FIELD_IS_PUBLIC"] = "Âûâîä â ïóáëè÷íîé ÷àñòè äëÿ ïîäïèñêè";
-$MESS["SENDER_CAMPAIGN_EDIT_TMPL_FIELD_COND_START"] = "Óñëîâèå çàïóñêà";
-$MESS["SENDER_CAMPAIGN_EDIT_TMPL_FIELD_COND_START_DESC"] = "×òî äîëæåí ñäåëàòü ïîëüçîâàòåëü, ÷òîáû çàïóñòèëàñü ðàññûëêà";
-$MESS["SENDER_CAMPAIGN_EDIT_TMPL_FIELD_COND_END"] = "Äîñòèæåíèå öåëè";
-$MESS["SENDER_CAMPAIGN_EDIT_TMPL_FIELD_COND_END_DESC"] = "×åãî âû õîòèòå äîáèòüñÿ îò ïîëüçîâàòåëÿ";
-$MESS["SENDER_CAMPAIGN_EDIT_TMPL_SELECT_COND"] = "Âûáåðèòå óñëîâèå";
-$MESS["SENDER_CAMPAIGN_EDIT_TMPL_RUN_TIME"] = "Âðåìÿ çàïóñêà";
-$MESS["SENDER_CAMPAIGN_EDIT_TMPL_RUN_FOR_OLD_DATA"] = "Îáðàáîòàòü ñòàðûå äàííûå";
-$MESS["SENDER_CAMPAIGN_EDIT_TMPL_RUN_FOR_OLD_DATA_HINT"] = "Óêàçàâ ýòó íàñòðîéêó, ðàññûëêà äîïîëíèòåëüíî çàïóñòèòñÿ åùå è äëÿ ïîëüçîâàòåëåé,
-êîòîðûå íå âûïîëíÿëè äåéñòâèå áîëüøå óêàçàííîãî êîëè÷åñòâà äíåé.";
-$MESS["SENDER_CAMPAIGN_EDIT_TMPL_RUN_FOR_OLD_DATA_STATE"] = "âûïîëíåíî";
-$MESS["SENDER_CAMPAIGN_EDIT_TMPL_CONDITION_NOTIFY"] = "óâåäîìèòü, îòïðàâèòü âñå ïèñüìà";
+$MESS["SENDER_CAMPAIGN_EDIT_TMPL_PATTERN_TITLE"] = "%name% Ð¾Ñ‚ %date%";
+$MESS["SENDER_CAMPAIGN_EDIT_TMPL_NEW_TITLE"] = "ÐšÐ°Ð¼Ð¿Ð°Ð½Ð¸Ñ";
+$MESS["SENDER_CAMPAIGN_EDIT_TMPL_FIELD_NAME"] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ";
+$MESS["SENDER_CAMPAIGN_EDIT_TMPL_FIELD_DESC"] = "ÐžÐ¿Ð¸ÑÐ°Ð½Ð¸Ðµ";
+$MESS["SENDER_CAMPAIGN_EDIT_TMPL_FIELD_SITE"] = "Ð¡Ð°Ð¹Ñ‚";
+$MESS["SENDER_CAMPAIGN_EDIT_TMPL_FIELD_ACTIVE"] = "ÐÐºÑ‚Ð¸Ð²Ð½Ð°";
+$MESS["SENDER_CAMPAIGN_EDIT_TMPL_FIELD_IS_PUBLIC"] = "Ð’Ñ‹Ð²Ð¾Ð´ Ð² Ð¿ÑƒÐ±Ð»Ð¸Ñ‡Ð½Ð¾Ð¹ Ñ‡Ð°ÑÑ‚Ð¸ Ð´Ð»Ñ Ð¿Ð¾Ð´Ð¿Ð¸ÑÐºÐ¸";
+$MESS["SENDER_CAMPAIGN_EDIT_TMPL_FIELD_COND_START"] = "Ð£ÑÐ»Ð¾Ð²Ð¸Ðµ Ð·Ð°Ð¿ÑƒÑÐºÐ°";
+$MESS["SENDER_CAMPAIGN_EDIT_TMPL_FIELD_COND_START_DESC"] = "Ð§Ñ‚Ð¾ Ð´Ð¾Ð»Ð¶ÐµÐ½ ÑÐ´ÐµÐ»Ð°Ñ‚ÑŒ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒ, Ñ‡Ñ‚Ð¾Ð±Ñ‹ Ð·Ð°Ð¿ÑƒÑÑ‚Ð¸Ð»Ð°ÑÑŒ Ñ€Ð°ÑÑÑ‹Ð»ÐºÐ°";
+$MESS["SENDER_CAMPAIGN_EDIT_TMPL_FIELD_COND_END"] = "Ð”Ð¾ÑÑ‚Ð¸Ð¶ÐµÐ½Ð¸Ðµ Ñ†ÐµÐ»Ð¸";
+$MESS["SENDER_CAMPAIGN_EDIT_TMPL_FIELD_COND_END_DESC"] = "Ð§ÐµÐ³Ð¾ Ð²Ñ‹ Ñ…Ð¾Ñ‚Ð¸Ñ‚Ðµ Ð´Ð¾Ð±Ð¸Ñ‚ÑŒÑÑ Ð¾Ñ‚ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ";
+$MESS["SENDER_CAMPAIGN_EDIT_TMPL_SELECT_COND"] = "Ð’Ñ‹Ð±ÐµÑ€Ð¸Ñ‚Ðµ ÑƒÑÐ»Ð¾Ð²Ð¸Ðµ";
+$MESS["SENDER_CAMPAIGN_EDIT_TMPL_RUN_TIME"] = "Ð’Ñ€ÐµÐ¼Ñ Ð·Ð°Ð¿ÑƒÑÐºÐ°";
+$MESS["SENDER_CAMPAIGN_EDIT_TMPL_RUN_FOR_OLD_DATA"] = "ÐžÐ±Ñ€Ð°Ð±Ð¾Ñ‚Ð°Ñ‚ÑŒ ÑÑ‚Ð°Ñ€Ñ‹Ðµ Ð´Ð°Ð½Ð½Ñ‹Ðµ";
+$MESS["SENDER_CAMPAIGN_EDIT_TMPL_RUN_FOR_OLD_DATA_HINT"] = "Ð£ÐºÐ°Ð·Ð°Ð² ÑÑ‚Ñƒ Ð½Ð°ÑÑ‚Ñ€Ð¾Ð¹ÐºÑƒ, Ñ€Ð°ÑÑÑ‹Ð»ÐºÐ° Ð´Ð¾Ð¿Ð¾Ð»Ð½Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ð¾ Ð·Ð°Ð¿ÑƒÑÑ‚Ð¸Ñ‚ÑÑ ÐµÑ‰Ðµ Ð¸ Ð´Ð»Ñ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÐµÐ¹,
+ÐºÐ¾Ñ‚Ð¾Ñ€Ñ‹Ðµ Ð½Ðµ Ð²Ñ‹Ð¿Ð¾Ð»Ð½ÑÐ»Ð¸ Ð´ÐµÐ¹ÑÑ‚Ð²Ð¸Ðµ Ð±Ð¾Ð»ÑŒÑˆÐµ ÑƒÐºÐ°Ð·Ð°Ð½Ð½Ð¾Ð³Ð¾ ÐºÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð° Ð´Ð½ÐµÐ¹.";
+$MESS["SENDER_CAMPAIGN_EDIT_TMPL_RUN_FOR_OLD_DATA_STATE"] = "Ð²Ñ‹Ð¿Ð¾Ð»Ð½ÐµÐ½Ð¾";
+$MESS["SENDER_CAMPAIGN_EDIT_TMPL_CONDITION_NOTIFY"] = "ÑƒÐ²ÐµÐ´Ð¾Ð¼Ð¸Ñ‚ÑŒ, Ð¾Ñ‚Ð¿Ñ€Ð°Ð²Ð¸Ñ‚ÑŒ Ð²ÑÐµ Ð¿Ð¸ÑÑŒÐ¼Ð°";

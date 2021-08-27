@@ -1,7 +1,7 @@
 <?
-$MESS["REPORT_VIEW_STEXPORT_PROGRESS_SUMMARY"] = "Îáðàáîòàíî çàïèñåé: #PROCESSED_ITEMS# èç #TOTAL_ITEMS#.";
-$MESS["REPORT_VIEW_STEXPORT_COMPLETED_SUMMARY1"] = "Ôîðìèðîâàíèå ôàéëà ýêñïîðòà îò÷¸òà çàâåðøåíî.";
-$MESS["REPORT_VIEW_STEXPORT_COMPLETED_SUMMARY2"] = "Îáðàáîòàíî çàïèñåé: #PROCESSED_ITEMS#.";
-$MESS["REPORT_VIEW_STEXPORT_DOWNLOAD"] = "Ñêà÷àòü ôàéë ýêñïîðòà.";
-$MESS["REPORT_VIEW_STEXPORT_NO_DATA"] = "Íåò äàííûõ äëÿ ýêñïîðòà.";
+$MESS["REPORT_VIEW_STEXPORT_PROGRESS_SUMMARY"] = "ÐžÐ±Ñ€Ð°Ð±Ð¾Ñ‚Ð°Ð½Ð¾ Ð·Ð°Ð¿Ð¸ÑÐµÐ¹: #PROCESSED_ITEMS# Ð¸Ð· #TOTAL_ITEMS#.";
+$MESS["REPORT_VIEW_STEXPORT_COMPLETED_SUMMARY1"] = "Ð¤Ð¾Ñ€Ð¼Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ðµ Ñ„Ð°Ð¹Ð»Ð° ÑÐºÑÐ¿Ð¾Ñ€Ñ‚Ð° Ð¾Ñ‚Ñ‡Ñ‘Ñ‚Ð° Ð·Ð°Ð²ÐµÑ€ÑˆÐµÐ½Ð¾.";
+$MESS["REPORT_VIEW_STEXPORT_COMPLETED_SUMMARY2"] = "ÐžÐ±Ñ€Ð°Ð±Ð¾Ñ‚Ð°Ð½Ð¾ Ð·Ð°Ð¿Ð¸ÑÐµÐ¹: #PROCESSED_ITEMS#.";
+$MESS["REPORT_VIEW_STEXPORT_DOWNLOAD"] = "Ð¡ÐºÐ°Ñ‡Ð°Ñ‚ÑŒ Ñ„Ð°Ð¹Ð» ÑÐºÑÐ¿Ð¾Ñ€Ñ‚Ð°.";
+$MESS["REPORT_VIEW_STEXPORT_NO_DATA"] = "ÐÐµÑ‚ Ð´Ð°Ð½Ð½Ñ‹Ñ… Ð´Ð»Ñ ÑÐºÑÐ¿Ð¾Ñ€Ñ‚Ð°.";
 ?>

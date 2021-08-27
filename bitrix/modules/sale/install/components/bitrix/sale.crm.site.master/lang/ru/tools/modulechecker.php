@@ -1,3 +1,3 @@
 <?php
-$MESS["SALE_CSM_WIZARD_MODULECHECKER_UPDATE_SYSTEM_HINT"] = "Âàì íåîáõîäèìî îáíîâèòü ñèñòåìó îáíîâëåíèé";
-$MESS["SALE_CSM_WIZARD_MODULECHECKER_RESERVED_KEY_HINT"] = "Ïåðåä èñïîëüçîâàíèåì ñèñòåìû îáíîâëåíèé âàì íåîáõîäèìî àêòèâèðîâàòü âàø ëèöåíçèîííûé êëþ÷.";
+$MESS["SALE_CSM_WIZARD_MODULECHECKER_UPDATE_SYSTEM_HINT"] = "Ð’Ð°Ð¼ Ð½ÐµÐ¾Ð±Ñ…Ð¾Ð´Ð¸Ð¼Ð¾ Ð¾Ð±Ð½Ð¾Ð²Ð¸Ñ‚ÑŒ ÑÐ¸ÑÑ‚ÐµÐ¼Ñƒ Ð¾Ð±Ð½Ð¾Ð²Ð»ÐµÐ½Ð¸Ð¹";
+$MESS["SALE_CSM_WIZARD_MODULECHECKER_RESERVED_KEY_HINT"] = "ÐŸÐµÑ€ÐµÐ´ Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ð½Ð¸ÐµÐ¼ ÑÐ¸ÑÑ‚ÐµÐ¼Ñ‹ Ð¾Ð±Ð½Ð¾Ð²Ð»ÐµÐ½Ð¸Ð¹ Ð²Ð°Ð¼ Ð½ÐµÐ¾Ð±Ñ…Ð¾Ð´Ð¸Ð¼Ð¾ Ð°ÐºÑ‚Ð¸Ð²Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ Ð²Ð°Ñˆ Ð»Ð¸Ñ†ÐµÐ½Ð·Ð¸Ð¾Ð½Ð½Ñ‹Ð¹ ÐºÐ»ÑŽÑ‡.";

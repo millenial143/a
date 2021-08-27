@@ -1,2 +1,2 @@
 <?php
-$MESS['LANDING_DEMO_STORE_CHATS--NAME'] = 'Ïðîäàæè â ÷àòàõ';
+$MESS['LANDING_DEMO_STORE_CHATS--NAME'] = 'ÐŸÑ€Ð¾Ð´Ð°Ð¶Ð¸ Ð² Ñ‡Ð°Ñ‚Ð°Ñ…';

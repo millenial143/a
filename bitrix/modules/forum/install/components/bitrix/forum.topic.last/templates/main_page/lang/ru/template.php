@@ -1,6 +1,6 @@
 <?
-$MESS['FRM_MP_POSTS'] = "Îòâåòîâ:";
-$MESS['FRM_MP_VIEWS'] = "Ïðîñìîòðîâ:";
-$MESS['FRM_MP_AUTHOR'] = "Àâòîð:";
-$MESS['FRM_MP_DATE'] = "Äàòà:";
+$MESS['FRM_MP_POSTS'] = "ÐžÑ‚Ð²ÐµÑ‚Ð¾Ð²:";
+$MESS['FRM_MP_VIEWS'] = "ÐŸÑ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€Ð¾Ð²:";
+$MESS['FRM_MP_AUTHOR'] = "ÐÐ²Ñ‚Ð¾Ñ€:";
+$MESS['FRM_MP_DATE'] = "Ð”Ð°Ñ‚Ð°:";
 ?>

@@ -1,4 +1,4 @@
 <?php
-$MESS['MAIN_AUTH_FORM_AUTH_FORGOT_PASSWORD_URL'] = 'Ñòðàíèöà äëÿ âîññòàíîâëåíèÿ ïàðîëÿ';
-$MESS['MAIN_AUTH_FORM_AUTH_REGISTER_URL'] = 'Ñòðàíèöà äëÿ ðåãèñòðàöèè';
-$MESS['MAIN_AUTH_FORM_AUTH_SUCCESS_URL'] = 'Ñòðàíèöà ïîñëå óñïåøíîé àâòîðèçàöèè';
+$MESS['MAIN_AUTH_FORM_AUTH_FORGOT_PASSWORD_URL'] = 'Ð¡Ñ‚Ñ€Ð°Ð½Ð¸Ñ†Ð° Ð´Ð»Ñ Ð²Ð¾ÑÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½Ð¸Ñ Ð¿Ð°Ñ€Ð¾Ð»Ñ';
+$MESS['MAIN_AUTH_FORM_AUTH_REGISTER_URL'] = 'Ð¡Ñ‚Ñ€Ð°Ð½Ð¸Ñ†Ð° Ð´Ð»Ñ Ñ€ÐµÐ³Ð¸ÑÑ‚Ñ€Ð°Ñ†Ð¸Ð¸';
+$MESS['MAIN_AUTH_FORM_AUTH_SUCCESS_URL'] = 'Ð¡Ñ‚Ñ€Ð°Ð½Ð¸Ñ†Ð° Ð¿Ð¾ÑÐ»Ðµ ÑƒÑÐ¿ÐµÑˆÐ½Ð¾Ð¹ Ð°Ð²Ñ‚Ð¾Ñ€Ð¸Ð·Ð°Ñ†Ð¸Ð¸';

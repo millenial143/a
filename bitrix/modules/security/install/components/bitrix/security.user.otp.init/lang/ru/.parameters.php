@@ -1,3 +1,3 @@
 <?
-$MESS ['SECURITY_USER_OTP_INIT_SUCCESSFUL_URL'] = "Ïóòü äëÿ ïåðåíàïðàâëåíèÿ ïîñëå óñïåøíîãî ïîäêëþ÷åíèÿ óñòðîéñòâà";
-$MESS ['SECURITY_USER_OTP_INIT_SHOW_DESCRIPTION'] = "Îòîáðàæàòü îïèñàíèå";
+$MESS ['SECURITY_USER_OTP_INIT_SUCCESSFUL_URL'] = "ÐŸÑƒÑ‚ÑŒ Ð´Ð»Ñ Ð¿ÐµÑ€ÐµÐ½Ð°Ð¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¸Ñ Ð¿Ð¾ÑÐ»Ðµ ÑƒÑÐ¿ÐµÑˆÐ½Ð¾Ð³Ð¾ Ð¿Ð¾Ð´ÐºÐ»ÑŽÑ‡ÐµÐ½Ð¸Ñ ÑƒÑÑ‚Ñ€Ð¾Ð¹ÑÑ‚Ð²Ð°";
+$MESS ['SECURITY_USER_OTP_INIT_SHOW_DESCRIPTION'] = "ÐžÑ‚Ð¾Ð±Ñ€Ð°Ð¶Ð°Ñ‚ÑŒ Ð¾Ð¿Ð¸ÑÐ°Ð½Ð¸Ðµ";

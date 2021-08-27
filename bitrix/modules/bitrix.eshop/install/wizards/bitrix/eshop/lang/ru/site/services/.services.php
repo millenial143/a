@@ -1,11 +1,11 @@
 <?
-$MESS["SERVICE_MAIN_SETTINGS"] = "Íàñòðîéêè ñàéòà";
-$MESS["SERVICE_IBLOCK"] = "Èíôîðìàöèîííûå áëîêè";
-$MESS["SERVICE_SALE_DEMO_DATA"] = "Íàñòðîéêà èíòåðíåò-ìàãàçèíà";
-$MESS["SERVICE_IBLOCK_DEMO_DATA"] = "Äîáàâëåíèå êàòàëîãîâ";
-$MESS["SERVICE_BLOG_DEMO_DATA"] = "Íàñòðîéêà áëîãà èäåé";
-$MESS["SERVICE_CATALOG_SETTINGS"] = "Íàñòðîéêà êàòàëîãà";
-$MESS["SERVICE_FORUM"] = "Íàñòðîéêà ôîðóìà äëÿ îòçûâîâ";
-$MESS["SERVICE_ESHOPAPP"] = "Óñòàíîâêà ìîáèëüíîãî ïðèëîæåíèÿ";
-$MESS["SERVICE_ADVERTISING"] = "Ðåêëàìà";
+$MESS["SERVICE_MAIN_SETTINGS"] = "ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸ ÑÐ°Ð¹Ñ‚Ð°";
+$MESS["SERVICE_IBLOCK"] = "Ð˜Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ð¾Ð½Ð½Ñ‹Ðµ Ð±Ð»Ð¾ÐºÐ¸";
+$MESS["SERVICE_SALE_DEMO_DATA"] = "ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ° Ð¸Ð½Ñ‚ÐµÑ€Ð½ÐµÑ‚-Ð¼Ð°Ð³Ð°Ð·Ð¸Ð½Ð°";
+$MESS["SERVICE_IBLOCK_DEMO_DATA"] = "Ð”Ð¾Ð±Ð°Ð²Ð»ÐµÐ½Ð¸Ðµ ÐºÐ°Ñ‚Ð°Ð»Ð¾Ð³Ð¾Ð²";
+$MESS["SERVICE_BLOG_DEMO_DATA"] = "ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ° Ð±Ð»Ð¾Ð³Ð° Ð¸Ð´ÐµÐ¹";
+$MESS["SERVICE_CATALOG_SETTINGS"] = "ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ° ÐºÐ°Ñ‚Ð°Ð»Ð¾Ð³Ð°";
+$MESS["SERVICE_FORUM"] = "ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ° Ñ„Ð¾Ñ€ÑƒÐ¼Ð° Ð´Ð»Ñ Ð¾Ñ‚Ð·Ñ‹Ð²Ð¾Ð²";
+$MESS["SERVICE_ESHOPAPP"] = "Ð£ÑÑ‚Ð°Ð½Ð¾Ð²ÐºÐ° Ð¼Ð¾Ð±Ð¸Ð»ÑŒÐ½Ð¾Ð³Ð¾ Ð¿Ñ€Ð¸Ð»Ð¾Ð¶ÐµÐ½Ð¸Ñ";
+$MESS["SERVICE_ADVERTISING"] = "Ð ÐµÐºÐ»Ð°Ð¼Ð°";
 ?>

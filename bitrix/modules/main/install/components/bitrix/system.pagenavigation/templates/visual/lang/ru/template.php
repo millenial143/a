@@ -1,12 +1,12 @@
 <?
-$MESS["nav_size_descr"] = "Ïî:";
-$MESS["nav_of"] = "èç";
-$MESS["nav_pages"] = "Ñòðàíèöû:";
-$MESS["nav_all"] = "Âñå";
-$MESS["nav_prev_title"] = "Ïðåäûäóùàÿ ñòðàíèöà";
-$MESS["nav_next_title"] = "Ñëåäóþùàÿ ñòðàíèöà";
-$MESS["nav_page_num_title"] = "Ñòðàíèöà #NUM#";
-$MESS["nav_page_current_title"] = "Òåêóùàÿ ñòðàíèöà";
-$MESS["nav_all_descr"] = "Âåñü ñïèñîê";
-$MESS["nav_show_pages"] = "Ïî ñòð.";
+$MESS["nav_size_descr"] = "ÐŸÐ¾:";
+$MESS["nav_of"] = "Ð¸Ð·";
+$MESS["nav_pages"] = "Ð¡Ñ‚Ñ€Ð°Ð½Ð¸Ñ†Ñ‹:";
+$MESS["nav_all"] = "Ð’ÑÐµ";
+$MESS["nav_prev_title"] = "ÐŸÑ€ÐµÐ´Ñ‹Ð´ÑƒÑ‰Ð°Ñ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ð°";
+$MESS["nav_next_title"] = "Ð¡Ð»ÐµÐ´ÑƒÑŽÑ‰Ð°Ñ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ð°";
+$MESS["nav_page_num_title"] = "Ð¡Ñ‚Ñ€Ð°Ð½Ð¸Ñ†Ð° #NUM#";
+$MESS["nav_page_current_title"] = "Ð¢ÐµÐºÑƒÑ‰Ð°Ñ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ð°";
+$MESS["nav_all_descr"] = "Ð’ÐµÑÑŒ ÑÐ¿Ð¸ÑÐ¾Ðº";
+$MESS["nav_show_pages"] = "ÐŸÐ¾ ÑÑ‚Ñ€.";
 ?>

@@ -1,6 +1,6 @@
 <?
-$MESS["BX_CMP_CDI_ERR_MODULE_CATALOG_ABSENT"] = "Ìîäóëü òîðãîâîãî êàòàëîãà íå óñòàíîâëåí";
-$MESS["BX_CMP_CDI_PARAM_TITLE_SITE_ID"] = "Ñàéò";
-$MESS["BX_CMP_CDI_PARAM_TITLE_USER_ID"] = "ID ïîëüçîâàòåëÿ";
-$MESS["BX_CMP_CDI_PARAM_TITLE_SHOW_NEXT_LEVEL"] = "Ïîêàçûâàòü èíôîðìàöèþ î ñëåäóþùåì óðîâíå íàêîïëåíèé";
+$MESS["BX_CMP_CDI_ERR_MODULE_CATALOG_ABSENT"] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ Ñ‚Ð¾Ñ€Ð³Ð¾Ð²Ð¾Ð³Ð¾ ÐºÐ°Ñ‚Ð°Ð»Ð¾Ð³Ð° Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½";
+$MESS["BX_CMP_CDI_PARAM_TITLE_SITE_ID"] = "Ð¡Ð°Ð¹Ñ‚";
+$MESS["BX_CMP_CDI_PARAM_TITLE_USER_ID"] = "ID Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ";
+$MESS["BX_CMP_CDI_PARAM_TITLE_SHOW_NEXT_LEVEL"] = "ÐŸÐ¾ÐºÐ°Ð·Ñ‹Ð²Ð°Ñ‚ÑŒ Ð¸Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸ÑŽ Ð¾ ÑÐ»ÐµÐ´ÑƒÑŽÑ‰ÐµÐ¼ ÑƒÑ€Ð¾Ð²Ð½Ðµ Ð½Ð°ÐºÐ¾Ð¿Ð»ÐµÐ½Ð¸Ð¹";
 ?>

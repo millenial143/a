@@ -1,13 +1,13 @@
 <?
-$MESS["SENDER_COMP_TMPL_LETTER_PATTERN_TITLE"] = "%name% от %date%";
-$MESS["SENDER_LETTER_EDIT_CHANGE_TEMPLATE"] = "сменить шаблон";
-$MESS["SENDER_LETTER_EDIT_FIELD_NAME"] = "Название";
-$MESS["SENDER_LETTER_EDIT_BTN_SAVE_AS_TEMPLATE"] = "Сохранить в мои шаблоны";
-$MESS["SENDER_LETTER_EDIT_FIELD_NAME"] = "Название рассылки";
-$MESS["SENDER_LETTER_APPLY_CLOSE_TITLE"] = "Вы пытаетесь закрыть страницу?";
-$MESS["SENDER_LETTER_APPLY_CLOSE"] = "Все несохраненные изменения будут потеряны.";
-$MESS["SENDER_LETTER_APPLY_YES"] = "Да";
-$MESS["SENDER_LETTER_APPLY_CANCEL"] = "Отмена";
-$MESS["SENDER_LETTER_EDIT_OUTSIDE_ADD_SUCCESS"] = "Рассылка успешно сохранена!<br>
-Найти ее можно в CRM-маркетинге, в разделе <a href=\"%path%\">Рассылки</a>";
+$MESS["SENDER_COMP_TMPL_LETTER_PATTERN_TITLE"] = "%name% РѕС‚ %date%";
+$MESS["SENDER_LETTER_EDIT_CHANGE_TEMPLATE"] = "СЃРјРµРЅРёС‚СЊ С€Р°Р±Р»РѕРЅ";
+$MESS["SENDER_LETTER_EDIT_FIELD_NAME"] = "РќР°Р·РІР°РЅРёРµ";
+$MESS["SENDER_LETTER_EDIT_BTN_SAVE_AS_TEMPLATE"] = "РЎРѕС…СЂР°РЅРёС‚СЊ РІ РјРѕРё С€Р°Р±Р»РѕРЅС‹";
+$MESS["SENDER_LETTER_EDIT_FIELD_NAME"] = "РќР°Р·РІР°РЅРёРµ СЂР°СЃСЃС‹Р»РєРё";
+$MESS["SENDER_LETTER_APPLY_CLOSE_TITLE"] = "Р’С‹ РїС‹С‚Р°РµС‚РµСЃСЊ Р·Р°РєСЂС‹С‚СЊ СЃС‚СЂР°РЅРёС†Сѓ?";
+$MESS["SENDER_LETTER_APPLY_CLOSE"] = "Р’СЃРµ РЅРµСЃРѕС…СЂР°РЅРµРЅРЅС‹Рµ РёР·РјРµРЅРµРЅРёСЏ Р±СѓРґСѓС‚ РїРѕС‚РµСЂСЏРЅС‹.";
+$MESS["SENDER_LETTER_APPLY_YES"] = "Р”Р°";
+$MESS["SENDER_LETTER_APPLY_CANCEL"] = "РћС‚РјРµРЅР°";
+$MESS["SENDER_LETTER_EDIT_OUTSIDE_ADD_SUCCESS"] = "Р Р°СЃСЃС‹Р»РєР° СѓСЃРїРµС€РЅРѕ СЃРѕС…СЂР°РЅРµРЅР°!<br>
+РќР°Р№С‚Рё РµРµ РјРѕР¶РЅРѕ РІ CRM-РјР°СЂРєРµС‚РёРЅРіРµ, РІ СЂР°Р·РґРµР»Рµ <a href=\"%path%\">Р Р°СЃСЃС‹Р»РєРё</a>";
 ?>

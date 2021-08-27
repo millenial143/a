@@ -1,14 +1,14 @@
 <?php
-$MESS["SALE_BSM_WIZARD_MODULESTEP_TITLE"] = "Установка необходимых модулей";
-$MESS["SALE_BSM_WIZARD_MODULESTEP_NEXT"] = "Установить";
-$MESS["SALE_BSM_WIZARD_MODULESTEP_PREV"] = "Назад";
-$MESS["SALE_BSM_WIZARD_MODULESTEP_NEXT_BUTTON"] = "Продолжить";
-$MESS["SALE_BSM_WIZARD_MODULESTEP_INSTALL_COLUMN"] = "Будут установлены следующие модули:";
-$MESS["SALE_BSM_WIZARD_MODULESTEP_UPDATE_COLUMN"] = "Необходимо обновить следующие модули";
-$MESS["SALE_BSM_WIZARD_MODULESTEP_UPDATE_CURRENT_VERSION"] = "Текущая версия";
-$MESS["SALE_BSM_WIZARD_MODULESTEP_UPDATE_REQUIRED_VERSION"] = "Требуемая версия";
-$MESS["SALE_BSM_WIZARD_MODULESTEP_CHECK_SUCCESS"] = "Необходимые модули установлены";
-$MESS["SALE_BSM_WIZARD_MODULESTEP_ALL_DESCR"] = "Перейдите в <a href=\"#MARKET_PLACE_LINK#\" target=\"_blank\">\"Каталог Маркетплейс\"</a> и <a href=\"#UPDATE_SYSTEM_LINK#\" target=\"_blank\">\"Систему обновлений\"</a> и обновите необходимые модули.";
-$MESS["SALE_BSM_WIZARD_MODULESTEP_MARKET_PLACE_DESCR"] = "Перейдите в <a href=\"#MARKET_PLACE_LINK#\" target=\"_blank\">\"Каталог Маркетплейс\"</a> и обновите необходимые модули.";
-$MESS["SALE_BSM_WIZARD_MODULESTEP_UPDATE_SYSTEM_DESCR"] = "Перейдите в <a href=\"#UPDATE_SYSTEM_LINK#\" target=\"_blank\">\"Систему обновлений\"</a> и обновите необходимые модули.";
-$MESS["SALE_BSM_WIZARD_MODULESTEP_CONTINUE_DESCR"] = "После этого нажмите кнопку \"Продолжить\" на этой странице.";
+$MESS["SALE_BSM_WIZARD_MODULESTEP_TITLE"] = "РЈСЃС‚Р°РЅРѕРІРєР° РЅРµРѕР±С…РѕРґРёРјС‹С… РјРѕРґСѓР»РµР№";
+$MESS["SALE_BSM_WIZARD_MODULESTEP_NEXT"] = "РЈСЃС‚Р°РЅРѕРІРёС‚СЊ";
+$MESS["SALE_BSM_WIZARD_MODULESTEP_PREV"] = "РќР°Р·Р°Рґ";
+$MESS["SALE_BSM_WIZARD_MODULESTEP_NEXT_BUTTON"] = "РџСЂРѕРґРѕР»Р¶РёС‚СЊ";
+$MESS["SALE_BSM_WIZARD_MODULESTEP_INSTALL_COLUMN"] = "Р‘СѓРґСѓС‚ СѓСЃС‚Р°РЅРѕРІР»РµРЅС‹ СЃР»РµРґСѓСЋС‰РёРµ РјРѕРґСѓР»Рё:";
+$MESS["SALE_BSM_WIZARD_MODULESTEP_UPDATE_COLUMN"] = "РќРµРѕР±С…РѕРґРёРјРѕ РѕР±РЅРѕРІРёС‚СЊ СЃР»РµРґСѓСЋС‰РёРµ РјРѕРґСѓР»Рё";
+$MESS["SALE_BSM_WIZARD_MODULESTEP_UPDATE_CURRENT_VERSION"] = "РўРµРєСѓС‰Р°СЏ РІРµСЂСЃРёСЏ";
+$MESS["SALE_BSM_WIZARD_MODULESTEP_UPDATE_REQUIRED_VERSION"] = "РўСЂРµР±СѓРµРјР°СЏ РІРµСЂСЃРёСЏ";
+$MESS["SALE_BSM_WIZARD_MODULESTEP_CHECK_SUCCESS"] = "РќРµРѕР±С…РѕРґРёРјС‹Рµ РјРѕРґСѓР»Рё СѓСЃС‚Р°РЅРѕРІР»РµРЅС‹";
+$MESS["SALE_BSM_WIZARD_MODULESTEP_ALL_DESCR"] = "РџРµСЂРµР№РґРёС‚Рµ РІ <a href=\"#MARKET_PLACE_LINK#\" target=\"_blank\">\"РљР°С‚Р°Р»РѕРі РњР°СЂРєРµС‚РїР»РµР№СЃ\"</a> Рё <a href=\"#UPDATE_SYSTEM_LINK#\" target=\"_blank\">\"РЎРёСЃС‚РµРјСѓ РѕР±РЅРѕРІР»РµРЅРёР№\"</a> Рё РѕР±РЅРѕРІРёС‚Рµ РЅРµРѕР±С…РѕРґРёРјС‹Рµ РјРѕРґСѓР»Рё.";
+$MESS["SALE_BSM_WIZARD_MODULESTEP_MARKET_PLACE_DESCR"] = "РџРµСЂРµР№РґРёС‚Рµ РІ <a href=\"#MARKET_PLACE_LINK#\" target=\"_blank\">\"РљР°С‚Р°Р»РѕРі РњР°СЂРєРµС‚РїР»РµР№СЃ\"</a> Рё РѕР±РЅРѕРІРёС‚Рµ РЅРµРѕР±С…РѕРґРёРјС‹Рµ РјРѕРґСѓР»Рё.";
+$MESS["SALE_BSM_WIZARD_MODULESTEP_UPDATE_SYSTEM_DESCR"] = "РџРµСЂРµР№РґРёС‚Рµ РІ <a href=\"#UPDATE_SYSTEM_LINK#\" target=\"_blank\">\"РЎРёСЃС‚РµРјСѓ РѕР±РЅРѕРІР»РµРЅРёР№\"</a> Рё РѕР±РЅРѕРІРёС‚Рµ РЅРµРѕР±С…РѕРґРёРјС‹Рµ РјРѕРґСѓР»Рё.";
+$MESS["SALE_BSM_WIZARD_MODULESTEP_CONTINUE_DESCR"] = "РџРѕСЃР»Рµ СЌС‚РѕРіРѕ РЅР°Р¶РјРёС‚Рµ РєРЅРѕРїРєСѓ \"РџСЂРѕРґРѕР»Р¶РёС‚СЊ\" РЅР° СЌС‚РѕР№ СЃС‚СЂР°РЅРёС†Рµ.";

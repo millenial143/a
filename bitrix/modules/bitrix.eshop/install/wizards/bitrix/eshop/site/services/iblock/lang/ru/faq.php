@@ -1,8 +1,8 @@
 <?
-$MESS["WZD_OPTION_FAQ_1"] = "Вопрос";
-$MESS["WZD_OPTION_FAQ_2"] = "Вопрос опубликован";
-$MESS["WZD_OPTION_FAQ_3"] = "Индекс сортировки в списке";
-$MESS["WZD_OPTION_FAQ_4"] = "*Вопрос";
-$MESS["WZD_OPTION_FAQ_5"] = "Ответ";
-$MESS["WZD_OPTION_FAQ_6"] = "Теги";
+$MESS["WZD_OPTION_FAQ_1"] = "Р’РѕРїСЂРѕСЃ";
+$MESS["WZD_OPTION_FAQ_2"] = "Р’РѕРїСЂРѕСЃ РѕРїСѓР±Р»РёРєРѕРІР°РЅ";
+$MESS["WZD_OPTION_FAQ_3"] = "РРЅРґРµРєСЃ СЃРѕСЂС‚РёСЂРѕРІРєРё РІ СЃРїРёСЃРєРµ";
+$MESS["WZD_OPTION_FAQ_4"] = "*Р’РѕРїСЂРѕСЃ";
+$MESS["WZD_OPTION_FAQ_5"] = "РћС‚РІРµС‚";
+$MESS["WZD_OPTION_FAQ_6"] = "РўРµРіРё";
 ?>

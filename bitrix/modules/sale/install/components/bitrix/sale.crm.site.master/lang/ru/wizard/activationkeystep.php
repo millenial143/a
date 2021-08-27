@@ -1,7 +1,7 @@
 <?php
-$MESS["SALE_CSM_WIZARD_ACTIVATIONKEYSTEP_TITLE"] = "Àêòèâàöèÿ êëþ÷à (êóïîíà)";
-$MESS["SALE_CSM_WIZARD_ACTIVATIONKEYSTEP_NEXT"] = "Äàëåå";
-$MESS["SALE_CSM_WIZARD_ACTIVATIONKEYSTEP_PREV"] = "Íàçàä";
-$MESS["SALE_CSM_WIZARD_ACTIVATIONKEYSTEP_CONTENT"] = "Ââåäèòå ïðèîáðåò¸ííûé êëþ÷ èëè êóïîí, ÷òîáû ïðîäîëæèòü óñòàíîâêó";
-$MESS["SALE_CSM_WIZARD_ACTIVATIONKEYSTEP_CHECK_BUTTON"] = "Àêòèâèðîâàòü";
-$MESS["SALE_CSM_WIZARD_ACTIVATIONKEYSTEP_BUY_LINK"] = "Êóïèòü êëþ÷";
+$MESS["SALE_CSM_WIZARD_ACTIVATIONKEYSTEP_TITLE"] = "ÐÐºÑ‚Ð¸Ð²Ð°Ñ†Ð¸Ñ ÐºÐ»ÑŽÑ‡Ð° (ÐºÑƒÐ¿Ð¾Ð½Ð°)";
+$MESS["SALE_CSM_WIZARD_ACTIVATIONKEYSTEP_NEXT"] = "Ð”Ð°Ð»ÐµÐµ";
+$MESS["SALE_CSM_WIZARD_ACTIVATIONKEYSTEP_PREV"] = "ÐÐ°Ð·Ð°Ð´";
+$MESS["SALE_CSM_WIZARD_ACTIVATIONKEYSTEP_CONTENT"] = "Ð’Ð²ÐµÐ´Ð¸Ñ‚Ðµ Ð¿Ñ€Ð¸Ð¾Ð±Ñ€ÐµÑ‚Ñ‘Ð½Ð½Ñ‹Ð¹ ÐºÐ»ÑŽÑ‡ Ð¸Ð»Ð¸ ÐºÑƒÐ¿Ð¾Ð½, Ñ‡Ñ‚Ð¾Ð±Ñ‹ Ð¿Ñ€Ð¾Ð´Ð¾Ð»Ð¶Ð¸Ñ‚ÑŒ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²ÐºÑƒ";
+$MESS["SALE_CSM_WIZARD_ACTIVATIONKEYSTEP_CHECK_BUTTON"] = "ÐÐºÑ‚Ð¸Ð²Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ";
+$MESS["SALE_CSM_WIZARD_ACTIVATIONKEYSTEP_BUY_LINK"] = "ÐšÑƒÐ¿Ð¸Ñ‚ÑŒ ÐºÐ»ÑŽÑ‡";

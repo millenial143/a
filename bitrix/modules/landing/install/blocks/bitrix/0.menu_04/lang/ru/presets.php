@@ -1,3 +1,3 @@
 <?php
-$MESS['LANDING_BLOCK_MENU_4-PRESET-LINK'] = 'Ññûëêà';
-$MESS['LANDING_BLOCK_MENU_4-PRESET-LOGO'] = 'Ëîãîòèï';
+$MESS['LANDING_BLOCK_MENU_4-PRESET-LINK'] = 'Ð¡ÑÑ‹Ð»ÐºÐ°';
+$MESS['LANDING_BLOCK_MENU_4-PRESET-LOGO'] = 'Ð›Ð¾Ð³Ð¾Ñ‚Ð¸Ð¿';

@@ -1,6 +1,6 @@
 <?php
-$MESS['LANDING_BLOCK_52_4-NAME'] = 'Òåêñò â äâå ñòðîêè ñ êíîïêîé ñëåâà';
-$MESS['LANDING_BLOCK_52_4-CONTAINER'] = 'Ýëåìåíòû';
-$MESS['LANDING_BLOCK_52_4-TEXT'] = 'Òåêñò';
-$MESS['LANDING_BLOCK_52_4-TITLE'] = 'Çàãîëîâîê';
-$MESS['LANDING_BLOCK_52_4-BTN'] = 'Êíîïêà';
+$MESS['LANDING_BLOCK_52_4-NAME'] = 'Ð¢ÐµÐºÑÑ‚ Ð² Ð´Ð²Ðµ ÑÑ‚Ñ€Ð¾ÐºÐ¸ Ñ ÐºÐ½Ð¾Ð¿ÐºÐ¾Ð¹ ÑÐ»ÐµÐ²Ð°';
+$MESS['LANDING_BLOCK_52_4-CONTAINER'] = 'Ð­Ð»ÐµÐ¼ÐµÐ½Ñ‚Ñ‹';
+$MESS['LANDING_BLOCK_52_4-TEXT'] = 'Ð¢ÐµÐºÑÑ‚';
+$MESS['LANDING_BLOCK_52_4-TITLE'] = 'Ð—Ð°Ð³Ð¾Ð»Ð¾Ð²Ð¾Ðº';
+$MESS['LANDING_BLOCK_52_4-BTN'] = 'ÐšÐ½Ð¾Ð¿ÐºÐ°';

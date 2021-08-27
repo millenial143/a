@@ -1,9 +1,9 @@
 <?
-$MESS ['FTP_IN_FORUM'] = "â ôîðóìå &laquo;#FORUM#&raquo;";
-$MESS ['FTP_LAST_MESS'] = "Ïîñëåäíåå ñîîáùåíèå òåìû";
-$MESS ['FTP_SORTING_TITLE'] = "Çàãîëîâîê";
-$MESS ['FTP_SORTING_USER_START_NAME'] = "Àâòîð";
-$MESS ['FTP_SORTING_POSTS'] = "Îòâåòîâ";
-$MESS ['FTP_SORTING_VIEWS'] = "Ïðî÷èòàíî";
-$MESS ['FTP_SORTING_LAST_POST_DATE'] = "Îáíîâëåíèå";
+$MESS ['FTP_IN_FORUM'] = "Ð² Ñ„Ð¾Ñ€ÑƒÐ¼Ðµ &laquo;#FORUM#&raquo;";
+$MESS ['FTP_LAST_MESS'] = "ÐŸÐ¾ÑÐ»ÐµÐ´Ð½ÐµÐµ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ Ñ‚ÐµÐ¼Ñ‹";
+$MESS ['FTP_SORTING_TITLE'] = "Ð—Ð°Ð³Ð¾Ð»Ð¾Ð²Ð¾Ðº";
+$MESS ['FTP_SORTING_USER_START_NAME'] = "ÐÐ²Ñ‚Ð¾Ñ€";
+$MESS ['FTP_SORTING_POSTS'] = "ÐžÑ‚Ð²ÐµÑ‚Ð¾Ð²";
+$MESS ['FTP_SORTING_VIEWS'] = "ÐŸÑ€Ð¾Ñ‡Ð¸Ñ‚Ð°Ð½Ð¾";
+$MESS ['FTP_SORTING_LAST_POST_DATE'] = "ÐžÐ±Ð½Ð¾Ð²Ð»ÐµÐ½Ð¸Ðµ";
 ?>

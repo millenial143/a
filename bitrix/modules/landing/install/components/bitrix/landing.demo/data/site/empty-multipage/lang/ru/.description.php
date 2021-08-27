@@ -1,3 +1,3 @@
 <?php
-$MESS["LANDING_DEMO_EMPTY_MULTIPAGE-TITLE"] = "Ïóñòîé øàáëîí";
-$MESS["LANDING_DEMO_EMPTY_MULTIPAGE-DESCRIPTION"] = "Ñîçäàâàéòå ñâîþ áàçó çíàíèé ñ ÷èñòîãî ëèñòà è ïîïîëíÿéòå èíôîðìàöèþ.";
+$MESS["LANDING_DEMO_EMPTY_MULTIPAGE-TITLE"] = "ÐŸÑƒÑÑ‚Ð¾Ð¹ ÑˆÐ°Ð±Ð»Ð¾Ð½";
+$MESS["LANDING_DEMO_EMPTY_MULTIPAGE-DESCRIPTION"] = "Ð¡Ð¾Ð·Ð´Ð°Ð²Ð°Ð¹Ñ‚Ðµ ÑÐ²Ð¾ÑŽ Ð±Ð°Ð·Ñƒ Ð·Ð½Ð°Ð½Ð¸Ð¹ Ñ Ñ‡Ð¸ÑÑ‚Ð¾Ð³Ð¾ Ð»Ð¸ÑÑ‚Ð° Ð¸ Ð¿Ð¾Ð¿Ð¾Ð»Ð½ÑÐ¹Ñ‚Ðµ Ð¸Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸ÑŽ.";

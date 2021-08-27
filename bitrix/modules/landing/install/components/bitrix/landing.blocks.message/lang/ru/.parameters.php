@@ -1,2 +1,2 @@
 <?php
-$MESS['LANDING_CMP_PAR_MESSAGE'] = 'Ñîîáùåíèå äëÿ âûâîäà';
+$MESS['LANDING_CMP_PAR_MESSAGE'] = 'Ð¡Ð¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ Ð´Ð»Ñ Ð²Ñ‹Ð²Ð¾Ð´Ð°';

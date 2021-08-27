@@ -1,4 +1,4 @@
 <?
-$MESS["REPORT_REPORT"] = "Îò÷åò";
-$MESS["REPORT_TOTAL"] = "Âñåãî";
+$MESS["REPORT_REPORT"] = "ÐžÑ‚Ñ‡ÐµÑ‚";
+$MESS["REPORT_TOTAL"] = "Ð’ÑÐµÐ³Ð¾";
 ?>

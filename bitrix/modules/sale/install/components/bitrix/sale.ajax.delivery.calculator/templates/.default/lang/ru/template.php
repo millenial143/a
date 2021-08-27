@@ -1,6 +1,6 @@
 <?
-$MESS ['SADC_DOCALC'] = 'Ðàññ÷èòàòü ñòîèìîñòü';
-$MESS ['SALE_SADC_RESULT'] = 'Ñòîèìîñòü';
-$MESS ['SALE_SADC_TRANSIT'] = 'Ñðîê äîñòàâêè';
-$MESS ['SALE_SADC_PACKS'] = 'Íåîáõîäèìî êîðîáîê (øòóê)';
+$MESS ['SADC_DOCALC'] = 'Ð Ð°ÑÑÑ‡Ð¸Ñ‚Ð°Ñ‚ÑŒ ÑÑ‚Ð¾Ð¸Ð¼Ð¾ÑÑ‚ÑŒ';
+$MESS ['SALE_SADC_RESULT'] = 'Ð¡Ñ‚Ð¾Ð¸Ð¼Ð¾ÑÑ‚ÑŒ';
+$MESS ['SALE_SADC_TRANSIT'] = 'Ð¡Ñ€Ð¾Ðº Ð´Ð¾ÑÑ‚Ð°Ð²ÐºÐ¸';
+$MESS ['SALE_SADC_PACKS'] = 'ÐÐµÐ¾Ð±Ñ…Ð¾Ð´Ð¸Ð¼Ð¾ ÐºÐ¾Ñ€Ð¾Ð±Ð¾Ðº (ÑˆÑ‚ÑƒÐº)';
 ?>

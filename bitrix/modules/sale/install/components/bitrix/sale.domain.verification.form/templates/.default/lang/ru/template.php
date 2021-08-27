@@ -1,8 +1,8 @@
 <?php
-$MESS["SALE_DVF_TEMPLATE_TITLE"] = "Ïîäòâåðæäåíèå âëàäåíèÿ äîìåíîì";
-$MESS["SALE_DVF_TEMPLATE_DOMAIN_LIST_TITLE"] = "Ïîäòâåðæäåííûå äîìåíû";
-$MESS["SALE_DVF_TEMPLATE_GRID_COLUMN_DOMAIN"] = "Äîìåí";
-$MESS["SALE_DVF_TEMPLATE_GRID_COLUMN_PATH"] = "Ïóòü";
-$MESS["SALE_DVF_TEMPLATE_DOMAIN_NOT_FOUND_ERROR"] = "Äîìåíû äëÿ ïîäòâåðæäåíèÿ íå íàéäåíû";
-$MESS["SALE_DVF_TEMPLATE_DOMAIN_FORM_TITLE"] = "Äîìåíû äëÿ ïîäòâåðæäåíèÿ";
-$MESS["SALE_DVF_TEMPLATE_FILE_BUTTON_TITLE"] = "Äîáàâèòü ôàéë";
+$MESS["SALE_DVF_TEMPLATE_TITLE"] = "ÐŸÐ¾Ð´Ñ‚Ð²ÐµÑ€Ð¶Ð´ÐµÐ½Ð¸Ðµ Ð²Ð»Ð°Ð´ÐµÐ½Ð¸Ñ Ð´Ð¾Ð¼ÐµÐ½Ð¾Ð¼";
+$MESS["SALE_DVF_TEMPLATE_DOMAIN_LIST_TITLE"] = "ÐŸÐ¾Ð´Ñ‚Ð²ÐµÑ€Ð¶Ð´ÐµÐ½Ð½Ñ‹Ðµ Ð´Ð¾Ð¼ÐµÐ½Ñ‹";
+$MESS["SALE_DVF_TEMPLATE_GRID_COLUMN_DOMAIN"] = "Ð”Ð¾Ð¼ÐµÐ½";
+$MESS["SALE_DVF_TEMPLATE_GRID_COLUMN_PATH"] = "ÐŸÑƒÑ‚ÑŒ";
+$MESS["SALE_DVF_TEMPLATE_DOMAIN_NOT_FOUND_ERROR"] = "Ð”Ð¾Ð¼ÐµÐ½Ñ‹ Ð´Ð»Ñ Ð¿Ð¾Ð´Ñ‚Ð²ÐµÑ€Ð¶Ð´ÐµÐ½Ð¸Ñ Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½Ñ‹";
+$MESS["SALE_DVF_TEMPLATE_DOMAIN_FORM_TITLE"] = "Ð”Ð¾Ð¼ÐµÐ½Ñ‹ Ð´Ð»Ñ Ð¿Ð¾Ð´Ñ‚Ð²ÐµÑ€Ð¶Ð´ÐµÐ½Ð¸Ñ";
+$MESS["SALE_DVF_TEMPLATE_FILE_BUTTON_TITLE"] = "Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ Ñ„Ð°Ð¹Ð»";

@@ -1,17 +1,17 @@
 <?
-$MESS["CPST_SUBSCRIBE_BUTTON_NAME"] = "Ïîäïèñàòüñÿ";
-$MESS["CPST_SUBSCRIBE_POPUP_TITLE"] = "Ïîäïèñêà íà òîâàð";
-$MESS["CPST_SUBSCRIBE_BUTTON_CLOSE"] = "Çàêðûòü";
-$MESS["CPST_SUBSCRIBE_MANY_CONTACT_NOTIFY"] = "Âûáåðèòå ñïîñîá óâåäîìëåíèÿ:";
-$MESS["CPST_SUBSCRIBE_LABLE_CONTACT_INPUT"] = "Óêàæèòå Âàø #CONTACT#: ";
-$MESS["CPST_SUBSCRIBE_VALIDATE_UNKNOW_ERROR"] = "Îøèáêà âàëèäàöèè";
-$MESS["CPST_SUBSCRIBE_VALIDATE_ERROR_EMPTY_FIELD"] = "Íå çàïîëíåíî ïîëå \"#FIELD#\"";
-$MESS["CPST_SUBSCRIBE_VALIDATE_ERROR"] = "Âû íå âûáðàëè ñïîñîá óâåäîìëåíèÿ";
-$MESS["CPST_SUBSCRIBE_CAPTCHA_TITLE"] = "Ââåäèòå ñëîâî íà êàðòèíêå";
-$MESS["CPST_STATUS_SUCCESS"] = "Óñïåøíî";
-$MESS["CPST_STATUS_ERROR"] = "Ïðîèçîøëà îøèáêà";
-$MESS["CPST_ENTER_WORD_PICTURE"] = "Ââåäèòå ñëîâî íà êàðòèíêå";
-$MESS["CPST_TITLE_ALREADY_SUBSCRIBED"] = "Óæå ïîäïèñàíû";
-$MESS["CPST_POPUP_SUBSCRIBED_TITLE"] = "Âû ïîäïèñàíû";
-$MESS["CPST_POPUP_SUBSCRIBED_TEXT"] = "Ñïèñîê òîâàðîâ íà êîòîðûå âû ïîäïèñàíû ìîæíî óâèäåòü ïî ññûëêå #URL#";
+$MESS["CPST_SUBSCRIBE_BUTTON_NAME"] = "ÐŸÐ¾Ð´Ð¿Ð¸ÑÐ°Ñ‚ÑŒÑÑ";
+$MESS["CPST_SUBSCRIBE_POPUP_TITLE"] = "ÐŸÐ¾Ð´Ð¿Ð¸ÑÐºÐ° Ð½Ð° Ñ‚Ð¾Ð²Ð°Ñ€";
+$MESS["CPST_SUBSCRIBE_BUTTON_CLOSE"] = "Ð—Ð°ÐºÑ€Ñ‹Ñ‚ÑŒ";
+$MESS["CPST_SUBSCRIBE_MANY_CONTACT_NOTIFY"] = "Ð’Ñ‹Ð±ÐµÑ€Ð¸Ñ‚Ðµ ÑÐ¿Ð¾ÑÐ¾Ð± ÑƒÐ²ÐµÐ´Ð¾Ð¼Ð»ÐµÐ½Ð¸Ñ:";
+$MESS["CPST_SUBSCRIBE_LABLE_CONTACT_INPUT"] = "Ð£ÐºÐ°Ð¶Ð¸Ñ‚Ðµ Ð’Ð°Ñˆ #CONTACT#: ";
+$MESS["CPST_SUBSCRIBE_VALIDATE_UNKNOW_ERROR"] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð²Ð°Ð»Ð¸Ð´Ð°Ñ†Ð¸Ð¸";
+$MESS["CPST_SUBSCRIBE_VALIDATE_ERROR_EMPTY_FIELD"] = "ÐÐµ Ð·Ð°Ð¿Ð¾Ð»Ð½ÐµÐ½Ð¾ Ð¿Ð¾Ð»Ðµ \"#FIELD#\"";
+$MESS["CPST_SUBSCRIBE_VALIDATE_ERROR"] = "Ð’Ñ‹ Ð½Ðµ Ð²Ñ‹Ð±Ñ€Ð°Ð»Ð¸ ÑÐ¿Ð¾ÑÐ¾Ð± ÑƒÐ²ÐµÐ´Ð¾Ð¼Ð»ÐµÐ½Ð¸Ñ";
+$MESS["CPST_SUBSCRIBE_CAPTCHA_TITLE"] = "Ð’Ð²ÐµÐ´Ð¸Ñ‚Ðµ ÑÐ»Ð¾Ð²Ð¾ Ð½Ð° ÐºÐ°Ñ€Ñ‚Ð¸Ð½ÐºÐµ";
+$MESS["CPST_STATUS_SUCCESS"] = "Ð£ÑÐ¿ÐµÑˆÐ½Ð¾";
+$MESS["CPST_STATUS_ERROR"] = "ÐŸÑ€Ð¾Ð¸Ð·Ð¾ÑˆÐ»Ð° Ð¾ÑˆÐ¸Ð±ÐºÐ°";
+$MESS["CPST_ENTER_WORD_PICTURE"] = "Ð’Ð²ÐµÐ´Ð¸Ñ‚Ðµ ÑÐ»Ð¾Ð²Ð¾ Ð½Ð° ÐºÐ°Ñ€Ñ‚Ð¸Ð½ÐºÐµ";
+$MESS["CPST_TITLE_ALREADY_SUBSCRIBED"] = "Ð£Ð¶Ðµ Ð¿Ð¾Ð´Ð¿Ð¸ÑÐ°Ð½Ñ‹";
+$MESS["CPST_POPUP_SUBSCRIBED_TITLE"] = "Ð’Ñ‹ Ð¿Ð¾Ð´Ð¿Ð¸ÑÐ°Ð½Ñ‹";
+$MESS["CPST_POPUP_SUBSCRIBED_TEXT"] = "Ð¡Ð¿Ð¸ÑÐ¾Ðº Ñ‚Ð¾Ð²Ð°Ñ€Ð¾Ð² Ð½Ð° ÐºÐ¾Ñ‚Ð¾Ñ€Ñ‹Ðµ Ð²Ñ‹ Ð¿Ð¾Ð´Ð¿Ð¸ÑÐ°Ð½Ñ‹ Ð¼Ð¾Ð¶Ð½Ð¾ ÑƒÐ²Ð¸Ð´ÐµÑ‚ÑŒ Ð¿Ð¾ ÑÑÑ‹Ð»ÐºÐµ #URL#";
 ?>

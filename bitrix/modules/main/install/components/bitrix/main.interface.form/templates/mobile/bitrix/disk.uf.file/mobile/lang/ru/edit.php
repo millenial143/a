@@ -1,5 +1,5 @@
 <?
-$MESS["MPF_PHOTO_DISK"] = "Âûáðàòü èç äèñêà";
-$MESS["MPF_INCORRECT_RESPONSE"] = "Íåêîððåêòíûé îòâåò ñåðâåðà.";
-$MESS["MPF_ADD"] = "äîáàâèòü";
+$MESS["MPF_PHOTO_DISK"] = "Ð’Ñ‹Ð±Ñ€Ð°Ñ‚ÑŒ Ð¸Ð· Ð´Ð¸ÑÐºÐ°";
+$MESS["MPF_INCORRECT_RESPONSE"] = "ÐÐµÐºÐ¾Ñ€Ñ€ÐµÐºÑ‚Ð½Ñ‹Ð¹ Ð¾Ñ‚Ð²ÐµÑ‚ ÑÐµÑ€Ð²ÐµÑ€Ð°.";
+$MESS["MPF_ADD"] = "Ð´Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ";
 ?>

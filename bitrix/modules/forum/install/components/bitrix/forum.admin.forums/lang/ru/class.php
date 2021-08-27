@@ -1,11 +1,11 @@
 <?
-$MESS["FORUM_ERROR_DELETE_PERMISSION"] = "ÕÂÚ Ô‡‚ ‰Îˇ Û‰‡ÎÂÌËˇ ÙÓÛÏ‡ [#id#] #name#";
-$MESS["FORUM_ERROR_DELETE_UNKNOWN"] = "Œ¯Ë·Í‡ Û‰‡ÎÂÌËˇ ÙÓÛÏ‡ [#id#] #name#";
-$MESS["FORUM_ERROR_EDIT_PERMISSION"] = "ÕÂÚ Ô‡‚ ‰Îˇ ËÁÏÂÌÂÌËˇ ÙÓÛÏ‡ [#id#] ";
-$MESS["FORUM_ERROR_EDIT_UNKNOWN"] = "Œ¯Ë·Í‡ ËÁÏÂÌÂÌËˇ ÙÓÛÏ‡ [#id#] ";
-$MESS["FORUM_FILTER_ACTIVE"] = "¿ÍÚË‚Ì˚È";
-$MESS["FORUM_FILTER_SITE"] = "—‡ÈÚ";
-$MESS["FORUM_FILTER_FORUM_GROUP_ID"] = "√ÛÔÔ‡ ÙÓÛÏÓ‚";
-$MESS["FORUM_FILTER_CAN_READ"] = "ƒÓÒÚÛÔÌ˚ ‰Îˇ ˜ÚÂÌËˇ [permission>=#permission#]";
-$MESS["FORUM_PROCESS_ERRORS"] = "Œ¯Ë·ÍË ÔË ‡·ÓÚÂ Ò ÙÓÛÏ‡ÏË: ";
-$MESS["FORUM_PROCESS_ERRORS_TITLE"] = "Œ¯Ë·ÍË";
+$MESS["FORUM_ERROR_DELETE_PERMISSION"] = "–ù–µ—Ç –ø—Ä–∞–≤ –¥–ª—è —É–¥–∞–ª–µ–Ω–∏—è —Ñ–æ—Ä—É–º–∞ [#id#] #name#";
+$MESS["FORUM_ERROR_DELETE_UNKNOWN"] = "–û—à–∏–±–∫–∞ —É–¥–∞–ª–µ–Ω–∏—è —Ñ–æ—Ä—É–º–∞ [#id#] #name#";
+$MESS["FORUM_ERROR_EDIT_PERMISSION"] = "–ù–µ—Ç –ø—Ä–∞–≤ –¥–ª—è –∏–∑–º–µ–Ω–µ–Ω–∏—è —Ñ–æ—Ä—É–º–∞ [#id#] ";
+$MESS["FORUM_ERROR_EDIT_UNKNOWN"] = "–û—à–∏–±–∫–∞ –∏–∑–º–µ–Ω–µ–Ω–∏—è —Ñ–æ—Ä—É–º–∞ [#id#] ";
+$MESS["FORUM_FILTER_ACTIVE"] = "–ê–∫—Ç–∏–≤–Ω—ã–π";
+$MESS["FORUM_FILTER_SITE"] = "–°–∞–π—Ç";
+$MESS["FORUM_FILTER_FORUM_GROUP_ID"] = "–ì—Ä—É–ø–ø–∞ —Ñ–æ—Ä—É–º–æ–≤";
+$MESS["FORUM_FILTER_CAN_READ"] = "–î–æ—Å—Ç—É–ø–Ω—ã –¥–ª—è —á—Ç–µ–Ω–∏—è [permission>=#permission#]";
+$MESS["FORUM_PROCESS_ERRORS"] = "–û—à–∏–±–∫–∏ –ø—Ä–∏ —Ä–∞–±–æ—Ç–µ —Å —Ñ–æ—Ä—É–º–∞–º–∏: ";
+$MESS["FORUM_PROCESS_ERRORS_TITLE"] = "–û—à–∏–±–∫–∏";

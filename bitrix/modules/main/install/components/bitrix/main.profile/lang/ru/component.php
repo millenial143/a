@@ -1,8 +1,8 @@
 <?
-$MESS["main_profile_update"] = "Èçìåíåí ïðîôèëü ïîëüçîâàòåëÿ.";
-$MESS["PROFILE_DEFAULT_TITLE"] = "Ïðîôèëü ïîëüçîâàòåëÿ";
-$MESS["USER_DONT_KNOW"] = "(íåèçâåñòíî)";
-$MESS["main_profile_sess_expired"] = "Âàøà ñåññèÿ èñòåêëà, ïîâòîðèòå ïîïûòêó.";
-$MESS["main_profile_decode_err"] = "Îøèáêà ïðè äåøèôðîâàíèè ïàðîëÿ (#ERRCODE#).";
-$MESS["main_profile_sms_error"] = "Íåâåðíûé êîä ïîäòâåðæäåíèÿ èç ÑÌÑ.";
+$MESS["main_profile_update"] = "Ð˜Ð·Ð¼ÐµÐ½ÐµÐ½ Ð¿Ñ€Ð¾Ñ„Ð¸Ð»ÑŒ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ.";
+$MESS["PROFILE_DEFAULT_TITLE"] = "ÐŸÑ€Ð¾Ñ„Ð¸Ð»ÑŒ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ";
+$MESS["USER_DONT_KNOW"] = "(Ð½ÐµÐ¸Ð·Ð²ÐµÑÑ‚Ð½Ð¾)";
+$MESS["main_profile_sess_expired"] = "Ð’Ð°ÑˆÐ° ÑÐµÑÑÐ¸Ñ Ð¸ÑÑ‚ÐµÐºÐ»Ð°, Ð¿Ð¾Ð²Ñ‚Ð¾Ñ€Ð¸Ñ‚Ðµ Ð¿Ð¾Ð¿Ñ‹Ñ‚ÐºÑƒ.";
+$MESS["main_profile_decode_err"] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð¿Ñ€Ð¸ Ð´ÐµÑˆÐ¸Ñ„Ñ€Ð¾Ð²Ð°Ð½Ð¸Ð¸ Ð¿Ð°Ñ€Ð¾Ð»Ñ (#ERRCODE#).";
+$MESS["main_profile_sms_error"] = "ÐÐµÐ²ÐµÑ€Ð½Ñ‹Ð¹ ÐºÐ¾Ð´ Ð¿Ð¾Ð´Ñ‚Ð²ÐµÑ€Ð¶Ð´ÐµÐ½Ð¸Ñ Ð¸Ð· Ð¡ÐœÐ¡.";
 ?>

@@ -1,4 +1,4 @@
 <?php
-$MESS['LANDING_CMP_PAR_BLOCK_ID'] = 'Èäåíòèôèêàòîð áëîêà';
-$MESS['LANDING_CMP_PAR_DATA'] = 'Ñåðèàëèçîâàííûé ìàññèâ äàííûõ';
-$MESS['LANDING_CMP_PAR_REPLACE'] = 'Ññûëî÷íûé ìàññèâ';
+$MESS['LANDING_CMP_PAR_BLOCK_ID'] = 'Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð±Ð»Ð¾ÐºÐ°';
+$MESS['LANDING_CMP_PAR_DATA'] = 'Ð¡ÐµÑ€Ð¸Ð°Ð»Ð¸Ð·Ð¾Ð²Ð°Ð½Ð½Ñ‹Ð¹ Ð¼Ð°ÑÑÐ¸Ð² Ð´Ð°Ð½Ð½Ñ‹Ñ…';
+$MESS['LANDING_CMP_PAR_REPLACE'] = 'Ð¡ÑÑ‹Ð»Ð¾Ñ‡Ð½Ñ‹Ð¹ Ð¼Ð°ÑÑÐ¸Ð²';

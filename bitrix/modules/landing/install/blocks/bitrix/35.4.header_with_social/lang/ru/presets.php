@@ -1,3 +1,3 @@
 <?php
-$MESS['LANDING_BLOCK_35.4.HEADER_PRESET__TEXT'] = 'Контакт с текстом';
-$MESS['LANDING_BLOCK_35.4.HEADER_PRESET__LINK'] = 'Контакт со ссылкой';
+$MESS['LANDING_BLOCK_35.4.HEADER_PRESET__TEXT'] = 'РљРѕРЅС‚Р°РєС‚ СЃ С‚РµРєСЃС‚РѕРј';
+$MESS['LANDING_BLOCK_35.4.HEADER_PRESET__LINK'] = 'РљРѕРЅС‚Р°РєС‚ СЃРѕ СЃСЃС‹Р»РєРѕР№';

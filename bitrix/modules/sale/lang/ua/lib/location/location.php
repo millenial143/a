@@ -1,14 +1,14 @@
 <?
-$MESS['SALE_LOCATION_LOCATION_ENTITY_BAD_ARGUMENT_CODE_UNSET_EXCEPTION'] = "Íåâ³ðí³ âõ³äí³ ïàðàìåòðè: êîä âóçëà íå çàäàíèé";
-$MESS['SALE_LOCATION_LOCATION_ENTITY_BAD_ARGUMENT_PRIMARY_UNSET_EXCEPTION'] = "Íåâ³ðí³ âõ³äí³ ïàðàìåòðè: ID âóçëà";
-$MESS['SALE_LOCATION_LOCATION_ENTITY_CODE_FIELD'] = "Ñèìâîëüíèé êîä";
-$MESS['SALE_LOCATION_LOCATION_ENTITY_LATITUDE_FIELD'] = "Øèðîòà";
-$MESS['SALE_LOCATION_LOCATION_ENTITY_LATITUDE_RANGE_ERROR'] = "Øèðîòà ïîâèííà áóòè â ìåæàõ â³ä -90 äî +90";
-$MESS['SALE_LOCATION_LOCATION_ENTITY_LATITUDE_TYPE_ERROR'] = "Øèðîòà ïîâèííà áóòè ÷èñëîì";
-$MESS['SALE_LOCATION_LOCATION_ENTITY_LONGITUDE_FIELD'] = "Äîâãîòà";
-$MESS['SALE_LOCATION_LOCATION_ENTITY_LONGITUDE_RANGE_ERROR'] = "Äîâãîòà ïîâèííà áóòè â ìåæàõ â³ä -180 äî +180";
-$MESS['SALE_LOCATION_LOCATION_ENTITY_LONGITUDE_TYPE_ERROR'] = "Äîâãîòà ïîâèííà áóòè ÷èñëîì";
-$MESS['SALE_LOCATION_LOCATION_ENTITY_PARENT_ID_FIELD'] = "Áàòüê³âñüêå ì³ñöåçíàõîäæåííÿ";
-$MESS['SALE_LOCATION_LOCATION_ENTITY_SORT_FIELD'] = "Ñîðòóâàííÿ";
-$MESS['SALE_LOCATION_LOCATION_ENTITY_TYPE_ID_FIELD'] = "Òèï";
+$MESS['SALE_LOCATION_LOCATION_ENTITY_BAD_ARGUMENT_CODE_UNSET_EXCEPTION'] = "ÐÐµÐ²Ñ–Ñ€Ð½Ñ– Ð²Ñ…Ñ–Ð´Ð½Ñ– Ð¿Ð°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ð¸: ÐºÐ¾Ð´ Ð²ÑƒÐ·Ð»Ð° Ð½Ðµ Ð·Ð°Ð´Ð°Ð½Ð¸Ð¹";
+$MESS['SALE_LOCATION_LOCATION_ENTITY_BAD_ARGUMENT_PRIMARY_UNSET_EXCEPTION'] = "ÐÐµÐ²Ñ–Ñ€Ð½Ñ– Ð²Ñ…Ñ–Ð´Ð½Ñ– Ð¿Ð°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ð¸: ID Ð²ÑƒÐ·Ð»Ð°";
+$MESS['SALE_LOCATION_LOCATION_ENTITY_CODE_FIELD'] = "Ð¡Ð¸Ð¼Ð²Ð¾Ð»ÑŒÐ½Ð¸Ð¹ ÐºÐ¾Ð´";
+$MESS['SALE_LOCATION_LOCATION_ENTITY_LATITUDE_FIELD'] = "Ð¨Ð¸Ñ€Ð¾Ñ‚Ð°";
+$MESS['SALE_LOCATION_LOCATION_ENTITY_LATITUDE_RANGE_ERROR'] = "Ð¨Ð¸Ñ€Ð¾Ñ‚Ð° Ð¿Ð¾Ð²Ð¸Ð½Ð½Ð° Ð±ÑƒÑ‚Ð¸ Ð² Ð¼ÐµÐ¶Ð°Ñ… Ð²Ñ–Ð´ -90 Ð´Ð¾ +90";
+$MESS['SALE_LOCATION_LOCATION_ENTITY_LATITUDE_TYPE_ERROR'] = "Ð¨Ð¸Ñ€Ð¾Ñ‚Ð° Ð¿Ð¾Ð²Ð¸Ð½Ð½Ð° Ð±ÑƒÑ‚Ð¸ Ñ‡Ð¸ÑÐ»Ð¾Ð¼";
+$MESS['SALE_LOCATION_LOCATION_ENTITY_LONGITUDE_FIELD'] = "Ð”Ð¾Ð²Ð³Ð¾Ñ‚Ð°";
+$MESS['SALE_LOCATION_LOCATION_ENTITY_LONGITUDE_RANGE_ERROR'] = "Ð”Ð¾Ð²Ð³Ð¾Ñ‚Ð° Ð¿Ð¾Ð²Ð¸Ð½Ð½Ð° Ð±ÑƒÑ‚Ð¸ Ð² Ð¼ÐµÐ¶Ð°Ñ… Ð²Ñ–Ð´ -180 Ð´Ð¾ +180";
+$MESS['SALE_LOCATION_LOCATION_ENTITY_LONGITUDE_TYPE_ERROR'] = "Ð”Ð¾Ð²Ð³Ð¾Ñ‚Ð° Ð¿Ð¾Ð²Ð¸Ð½Ð½Ð° Ð±ÑƒÑ‚Ð¸ Ñ‡Ð¸ÑÐ»Ð¾Ð¼";
+$MESS['SALE_LOCATION_LOCATION_ENTITY_PARENT_ID_FIELD'] = "Ð‘Ð°Ñ‚ÑŒÐºÑ–Ð²ÑÑŒÐºÐµ Ð¼Ñ–ÑÑ†ÐµÐ·Ð½Ð°Ñ…Ð¾Ð´Ð¶ÐµÐ½Ð½Ñ";
+$MESS['SALE_LOCATION_LOCATION_ENTITY_SORT_FIELD'] = "Ð¡Ð¾Ñ€Ñ‚ÑƒÐ²Ð°Ð½Ð½Ñ";
+$MESS['SALE_LOCATION_LOCATION_ENTITY_TYPE_ID_FIELD'] = "Ð¢Ð¸Ð¿";
 ?>

@@ -1,6 +1,6 @@
 <?
-$MESS["RV_T_LIST_BACK"] = "Íàçàä";
-$MESS["RV_T_LIKE"] = "Íðàâèòñÿ";
-$MESS["RV_T_LIKE2"] = "Íðàâèòñÿ:";
+$MESS["RV_T_LIST_BACK"] = "ÐÐ°Ð·Ð°Ð´";
+$MESS["RV_T_LIKE"] = "ÐÑ€Ð°Ð²Ð¸Ñ‚ÑÑ";
+$MESS["RV_T_LIKE2"] = "ÐÑ€Ð°Ð²Ð¸Ñ‚ÑÑ:";
 $MESS["RV_T_LIKE2_PATTERN"] = "#LIKE#:";
 ?>

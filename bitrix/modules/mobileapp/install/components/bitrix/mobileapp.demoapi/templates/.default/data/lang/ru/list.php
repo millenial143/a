@@ -1,9 +1,9 @@
 <?
 //data lists
-$MESS["MB_DEMO_LIST_ELEMENT"] = "Ýëåìåíò ";
-$MESS["MB_DEMO_LIST_ELEMENT_DETAIL"] = "Äåòàëüíîå îïèñàíèå";
-$MESS["MB_DEMO_OPEN_LIST_AGAIN"] = "Îòêðûòü åùå ñïèñîê";
-$MESS["MB_DEMO_SECTION_ONE"] = "Ðàçäåë íîìåð îäèí";
-$MESS["MB_DEMO_SECTION_TWO"] = "Ðàçäåë íîìåð äâà";
+$MESS["MB_DEMO_LIST_ELEMENT"] = "Ð­Ð»ÐµÐ¼ÐµÐ½Ñ‚ ";
+$MESS["MB_DEMO_LIST_ELEMENT_DETAIL"] = "Ð”ÐµÑ‚Ð°Ð»ÑŒÐ½Ð¾Ðµ Ð¾Ð¿Ð¸ÑÐ°Ð½Ð¸Ðµ";
+$MESS["MB_DEMO_OPEN_LIST_AGAIN"] = "ÐžÑ‚ÐºÑ€Ñ‹Ñ‚ÑŒ ÐµÑ‰Ðµ ÑÐ¿Ð¸ÑÐ¾Ðº";
+$MESS["MB_DEMO_SECTION_ONE"] = "Ð Ð°Ð·Ð´ÐµÐ» Ð½Ð¾Ð¼ÐµÑ€ Ð¾Ð´Ð¸Ð½";
+$MESS["MB_DEMO_SECTION_TWO"] = "Ð Ð°Ð·Ð´ÐµÐ» Ð½Ð¾Ð¼ÐµÑ€ Ð´Ð²Ð°";
 
 ?>

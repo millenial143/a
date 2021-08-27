@@ -1,5 +1,5 @@
 <?php
-$MESS['LANDING_CMP_NOT_INSTALLED'] = 'Ñåðâèñ ëåíäèíãîâ â äàííûé ìîìåíò íåäîñòóïåí';
-$MESS['LANDING_ERROR_SESS_EXPIRED'] = 'Âàøà ñåññèÿ èñòåêëà';
-$MESS['LANDING_ERROR_ACCESS_DENIED'] = 'Äîñòóï çàïðåùåí';
-$MESS['LANDING_GOTO_EDIT'] = 'Ïåðåéòè ê íàñòðîéêàì';
+$MESS['LANDING_CMP_NOT_INSTALLED'] = 'Ð¡ÐµÑ€Ð²Ð¸Ñ Ð»ÐµÐ½Ð´Ð¸Ð½Ð³Ð¾Ð² Ð² Ð´Ð°Ð½Ð½Ñ‹Ð¹ Ð¼Ð¾Ð¼ÐµÐ½Ñ‚ Ð½ÐµÐ´Ð¾ÑÑ‚ÑƒÐ¿ÐµÐ½';
+$MESS['LANDING_ERROR_SESS_EXPIRED'] = 'Ð’Ð°ÑˆÐ° ÑÐµÑÑÐ¸Ñ Ð¸ÑÑ‚ÐµÐºÐ»Ð°';
+$MESS['LANDING_ERROR_ACCESS_DENIED'] = 'Ð”Ð¾ÑÑ‚ÑƒÐ¿ Ð·Ð°Ð¿Ñ€ÐµÑ‰ÐµÐ½';
+$MESS['LANDING_GOTO_EDIT'] = 'ÐŸÐµÑ€ÐµÐ¹Ñ‚Ð¸ Ðº Ð½Ð°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ°Ð¼';

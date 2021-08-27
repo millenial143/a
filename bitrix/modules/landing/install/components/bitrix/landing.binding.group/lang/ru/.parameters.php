@@ -1,4 +1,4 @@
 <?php
-$MESS['LANDING_CMP_PAR_LANDING_TYPE'] = 'Òèï';
-$MESS['LANDING_CMP_PAR_GROUP_ID'] = 'Èäåíòèôèêàòîð ãðóïïû';
-$MESS['LANDING_CMP_PAR_PATH_AFTER_CREATE'] = 'Ñòðàíèöà äëÿ ïåðåõîäà ïîñëå ñîçäàíèÿ';
+$MESS['LANDING_CMP_PAR_LANDING_TYPE'] = 'Ð¢Ð¸Ð¿';
+$MESS['LANDING_CMP_PAR_GROUP_ID'] = 'Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð³Ñ€ÑƒÐ¿Ð¿Ñ‹';
+$MESS['LANDING_CMP_PAR_PATH_AFTER_CREATE'] = 'Ð¡Ñ‚Ñ€Ð°Ð½Ð¸Ñ†Ð° Ð´Ð»Ñ Ð¿ÐµÑ€ÐµÑ…Ð¾Ð´Ð° Ð¿Ð¾ÑÐ»Ðµ ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ñ';

@@ -1,14 +1,14 @@
 <?
-$MESS["MAIN_USER_CONSENTS_COMP_TITLE"] = "Ñîãëàñèÿ ïîëüçîâàòåëåé";
-$MESS["MAIN_USER_CONSENTS_COMP_UI_COLUMN_DATE_INSERT"] = "Äàòà";
-$MESS["MAIN_USER_CONSENTS_COMP_UI_COLUMN_USER"] = "Ïîëüçîâàòåëü";
-$MESS["MAIN_USER_CONSENTS_COMP_UI_COLUMN_IP"] = "IP-àäðåñ";
-$MESS["MAIN_USER_CONSENTS_COMP_UI_COLUMN_ORIGIN"] = "Èñòî÷íèê";
-$MESS["MAIN_USER_CONSENTS_COMP_UI_COLUMN_ITEMS"] = "Ïóíêòû";
-$MESS["MAIN_USER_CONSENTS_COMP_UI_COLUMN_URL"] = "Àäðåñ";
-$MESS["MAIN_USER_CONSENTS_COMP_UI_COLUMN_AGREEMENT_ID"] = "Ñîãëàøåíèå";
-$MESS["MAIN_USER_CONSENTS_FILTER_USER_LAST_NAME"] = "Ïîëüçîâàòåëü (Ôàìèëèÿ)";
-$MESS["MAIN_USER_CONSENTS_FILTER_USER_NAME"] = "Ïîëüçîâàòåëü (Èìÿ)";
-$MESS["MAIN_USER_CONSENTS_FILTER_USER_LOGIN"] = "Ïîëüçîâàòåëü (Ëîãèí)";
-$MESS["MAIN_USER_CONSENTS_FILTER_USER_MAIL"] = "Ïîëüçîâàòåëü (E-Mail)";
+$MESS["MAIN_USER_CONSENTS_COMP_TITLE"] = "Ð¡Ð¾Ð³Ð»Ð°ÑÐ¸Ñ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÐµÐ¹";
+$MESS["MAIN_USER_CONSENTS_COMP_UI_COLUMN_DATE_INSERT"] = "Ð”Ð°Ñ‚Ð°";
+$MESS["MAIN_USER_CONSENTS_COMP_UI_COLUMN_USER"] = "ÐŸÐ¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒ";
+$MESS["MAIN_USER_CONSENTS_COMP_UI_COLUMN_IP"] = "IP-Ð°Ð´Ñ€ÐµÑ";
+$MESS["MAIN_USER_CONSENTS_COMP_UI_COLUMN_ORIGIN"] = "Ð˜ÑÑ‚Ð¾Ñ‡Ð½Ð¸Ðº";
+$MESS["MAIN_USER_CONSENTS_COMP_UI_COLUMN_ITEMS"] = "ÐŸÑƒÐ½ÐºÑ‚Ñ‹";
+$MESS["MAIN_USER_CONSENTS_COMP_UI_COLUMN_URL"] = "ÐÐ´Ñ€ÐµÑ";
+$MESS["MAIN_USER_CONSENTS_COMP_UI_COLUMN_AGREEMENT_ID"] = "Ð¡Ð¾Ð³Ð»Ð°ÑˆÐµÐ½Ð¸Ðµ";
+$MESS["MAIN_USER_CONSENTS_FILTER_USER_LAST_NAME"] = "ÐŸÐ¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒ (Ð¤Ð°Ð¼Ð¸Ð»Ð¸Ñ)";
+$MESS["MAIN_USER_CONSENTS_FILTER_USER_NAME"] = "ÐŸÐ¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒ (Ð˜Ð¼Ñ)";
+$MESS["MAIN_USER_CONSENTS_FILTER_USER_LOGIN"] = "ÐŸÐ¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒ (Ð›Ð¾Ð³Ð¸Ð½)";
+$MESS["MAIN_USER_CONSENTS_FILTER_USER_MAIL"] = "ÐŸÐ¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒ (E-Mail)";
 ?>

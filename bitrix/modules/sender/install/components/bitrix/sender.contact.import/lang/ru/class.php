@@ -1,4 +1,4 @@
 <?
-$MESS["SENDER_CONTACT_IMPORT_TITLE"] = "Çàãðóçèòü Email-àäðåñà è òåëåôîíû";
-$MESS["SENDER_CONTACT_IMPORT_BLACKLIST_TITLE"] = "Çàãðóçèòü â ÷åðíûé ñïèñîê";
+$MESS["SENDER_CONTACT_IMPORT_TITLE"] = "Ð—Ð°Ð³Ñ€ÑƒÐ·Ð¸Ñ‚ÑŒ Email-Ð°Ð´Ñ€ÐµÑÐ° Ð¸ Ñ‚ÐµÐ»ÐµÑ„Ð¾Ð½Ñ‹";
+$MESS["SENDER_CONTACT_IMPORT_BLACKLIST_TITLE"] = "Ð—Ð°Ð³Ñ€ÑƒÐ·Ð¸Ñ‚ÑŒ Ð² Ñ‡ÐµÑ€Ð½Ñ‹Ð¹ ÑÐ¿Ð¸ÑÐ¾Ðº";
 ?>

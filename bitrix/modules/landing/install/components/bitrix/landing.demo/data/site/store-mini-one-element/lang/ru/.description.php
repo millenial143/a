@@ -1,3 +1,3 @@
 <?php
-$MESS['LANDING_DEMO_STORE_MINI_ONE_ELEMENT_SITE_TXT_1'] = 'Òîâàð ïî àêöèè';
-$MESS['LANDING_DEMO_STORE_MINI_ONE_ELEMENT_SITE_DESC'] = 'Ïðîñòîé è êðàñèâûé øàáëîí, ÷òîáû ïîêàçàòü òîâàð ïî àêöèè è ïðèâëå÷ü êëèåíòîâ!';
+$MESS['LANDING_DEMO_STORE_MINI_ONE_ELEMENT_SITE_TXT_1'] = 'Ð¢Ð¾Ð²Ð°Ñ€ Ð¿Ð¾ Ð°ÐºÑ†Ð¸Ð¸';
+$MESS['LANDING_DEMO_STORE_MINI_ONE_ELEMENT_SITE_DESC'] = 'ÐŸÑ€Ð¾ÑÑ‚Ð¾Ð¹ Ð¸ ÐºÑ€Ð°ÑÐ¸Ð²Ñ‹Ð¹ ÑˆÐ°Ð±Ð»Ð¾Ð½, Ñ‡Ñ‚Ð¾Ð±Ñ‹ Ð¿Ð¾ÐºÐ°Ð·Ð°Ñ‚ÑŒ Ñ‚Ð¾Ð²Ð°Ñ€ Ð¿Ð¾ Ð°ÐºÑ†Ð¸Ð¸ Ð¸ Ð¿Ñ€Ð¸Ð²Ð»ÐµÑ‡ÑŒ ÐºÐ»Ð¸ÐµÐ½Ñ‚Ð¾Ð²!';

@@ -1,6 +1,6 @@
 <?
-$MESS ['CT_BSS_NO_RUBRICS_FOUND'] = "Íå íàéäåíî íè îäíîé ðóáðèêè ïîäïèñêè.";
-$MESS ['CT_BSS_TEXT'] = "Òåêñò";
+$MESS ['CT_BSS_NO_RUBRICS_FOUND'] = "ÐÐµ Ð½Ð°Ð¹Ð´ÐµÐ½Ð¾ Ð½Ð¸ Ð¾Ð´Ð½Ð¾Ð¹ Ñ€ÑƒÐ±Ñ€Ð¸ÐºÐ¸ Ð¿Ð¾Ð´Ð¿Ð¸ÑÐºÐ¸.";
+$MESS ['CT_BSS_TEXT'] = "Ð¢ÐµÐºÑÑ‚";
 $MESS ['CT_BSS_HTML'] = "HTML";
-$MESS ['CT_BSS_FORM_BUTTON'] = "Ïîäïèñàòüñÿ";
+$MESS ['CT_BSS_FORM_BUTTON'] = "ÐŸÐ¾Ð´Ð¿Ð¸ÑÐ°Ñ‚ÑŒÑÑ";
 ?>

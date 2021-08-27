@@ -1,3 +1,3 @@
 <?php
-$MESS["CATALOG_CREATE_VARIATION_PROPERTY_TITLE"] = "Íîâîå ñâîéñòâî âàðèàöèè";
-$MESS["CATALOG_EDIT_VARIATION_PROPERTY_TITLE"] = "Ðåäàêòèðîâàíèå ñâîéñòâà";
+$MESS["CATALOG_CREATE_VARIATION_PROPERTY_TITLE"] = "ÐÐ¾Ð²Ð¾Ðµ ÑÐ²Ð¾Ð¹ÑÑ‚Ð²Ð¾ Ð²Ð°Ñ€Ð¸Ð°Ñ†Ð¸Ð¸";
+$MESS["CATALOG_EDIT_VARIATION_PROPERTY_TITLE"] = "Ð ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ðµ ÑÐ²Ð¾Ð¹ÑÑ‚Ð²Ð°";

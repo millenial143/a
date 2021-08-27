@@ -1,6 +1,6 @@
 <?php
-$MESS['LANDING_BLOCK_MENU_26-NAME'] = 'Ñâåðíóòîå âåðòèêàëüíîå ìåíþ';
-$MESS['LANDING_BLOCK_MENU_26-NAVBAR'] = 'Ìåíþ';
-$MESS['LANDING_BLOCK_MENU_26-HAMBURGER'] = 'Ïåðåêëþ÷àòåëü ìåíþ';
-$MESS['LANDING_BLOCK_MENU_26-LINK'] = 'Ññûëêà';
-$MESS['LANDING_BLOCK_MENU_26-TEXT'] = 'Òåêñò';
+$MESS['LANDING_BLOCK_MENU_26-NAME'] = 'Ð¡Ð²ÐµÑ€Ð½ÑƒÑ‚Ð¾Ðµ Ð²ÐµÑ€Ñ‚Ð¸ÐºÐ°Ð»ÑŒÐ½Ð¾Ðµ Ð¼ÐµÐ½ÑŽ';
+$MESS['LANDING_BLOCK_MENU_26-NAVBAR'] = 'ÐœÐµÐ½ÑŽ';
+$MESS['LANDING_BLOCK_MENU_26-HAMBURGER'] = 'ÐŸÐµÑ€ÐµÐºÐ»ÑŽÑ‡Ð°Ñ‚ÐµÐ»ÑŒ Ð¼ÐµÐ½ÑŽ';
+$MESS['LANDING_BLOCK_MENU_26-LINK'] = 'Ð¡ÑÑ‹Ð»ÐºÐ°';
+$MESS['LANDING_BLOCK_MENU_26-TEXT'] = 'Ð¢ÐµÐºÑÑ‚';

@@ -1,4 +1,4 @@
 <?
-$MESS ['GD_BITRIXCLOUD_MONITOR_NAME'] = "Èíñïåêòîð ñàéòîâ";
-$MESS ['GD_BITRIXCLOUD_MONITOR_DESC'] = "Èíñïåêòîð ñàéòîâ";
+$MESS ['GD_BITRIXCLOUD_MONITOR_NAME'] = "Ð˜Ð½ÑÐ¿ÐµÐºÑ‚Ð¾Ñ€ ÑÐ°Ð¹Ñ‚Ð¾Ð²";
+$MESS ['GD_BITRIXCLOUD_MONITOR_DESC'] = "Ð˜Ð½ÑÐ¿ÐµÐºÑ‚Ð¾Ñ€ ÑÐ°Ð¹Ñ‚Ð¾Ð²";
 ?>

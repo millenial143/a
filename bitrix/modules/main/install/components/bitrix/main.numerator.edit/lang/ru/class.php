@@ -1,14 +1,14 @@
 <?
-$MESS["NUMERATOR_EDIT_CREATE_PAGE_TITLE"] = "Ñîçäàíèå íóìåðàòîðà";
-$MESS["NUMERATOR_EDIT_UPDATE_PAGE_TITLE"] = "Ðåäàêòèðîâàíèå íóìåðàòîðà";
-$MESS["NUMERATOR_EDIT_BTN_CANCEL"] = "Îòìåíèòü";
-$MESS["NUMERATOR_EDIT_BTN_SAVE"] = "Ñîõðàíèòü";
-$MESS["NUMERATOR_EDIT_TIMEZONE_LINK"] = "×àñîâîé ïîÿñ";
+$MESS["NUMERATOR_EDIT_CREATE_PAGE_TITLE"] = "Ð¡Ð¾Ð·Ð´Ð°Ð½Ð¸Ðµ Ð½ÑƒÐ¼ÐµÑ€Ð°Ñ‚Ð¾Ñ€Ð°";
+$MESS["NUMERATOR_EDIT_UPDATE_PAGE_TITLE"] = "Ð ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ðµ Ð½ÑƒÐ¼ÐµÑ€Ð°Ñ‚Ð¾Ñ€Ð°";
+$MESS["NUMERATOR_EDIT_BTN_CANCEL"] = "ÐžÑ‚Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ";
+$MESS["NUMERATOR_EDIT_BTN_SAVE"] = "Ð¡Ð¾Ñ…Ñ€Ð°Ð½Ð¸Ñ‚ÑŒ";
+$MESS["NUMERATOR_EDIT_TIMEZONE_LINK"] = "Ð§Ð°ÑÐ¾Ð²Ð¾Ð¹ Ð¿Ð¾ÑÑ";
 
-$MESS["NUMERATOR_EDIT_TITLE_BITRIX_MAIN_SEQUENTNUMBERGENERATOR_SET_NUMBER_TOGGLE_S"] = "Èçìåíèòü òåêóùèå íîìåðà";
-$MESS["NUMERATOR_EDIT_TITLE_BITRIX_MAIN_SEQUENTNUMBERGENERATOR_SET_NUMBER_TOGGLE"] = "Èçìåíèòü òåêóùèé íîìåð";
-$MESS["NUMERATOR_EDIT_TITLE_BITRIX_MAIN_SEQUENTNUMBERGENERATOR_NEXT_NUMBER"] = "Òåêóùèé íîìåð";
-$MESS["NUMERATOR_EDIT_TITLE_BITRIX_MAIN_SEQUENTNUMBERGENERATOR_NEW_NEXT_NUMBER"] = "Íîâûé òåêóùèé íîìåð";
+$MESS["NUMERATOR_EDIT_TITLE_BITRIX_MAIN_SEQUENTNUMBERGENERATOR_SET_NUMBER_TOGGLE_S"] = "Ð˜Ð·Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ Ñ‚ÐµÐºÑƒÑ‰Ð¸Ðµ Ð½Ð¾Ð¼ÐµÑ€Ð°";
+$MESS["NUMERATOR_EDIT_TITLE_BITRIX_MAIN_SEQUENTNUMBERGENERATOR_SET_NUMBER_TOGGLE"] = "Ð˜Ð·Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ Ñ‚ÐµÐºÑƒÑ‰Ð¸Ð¹ Ð½Ð¾Ð¼ÐµÑ€";
+$MESS["NUMERATOR_EDIT_TITLE_BITRIX_MAIN_SEQUENTNUMBERGENERATOR_NEXT_NUMBER"] = "Ð¢ÐµÐºÑƒÑ‰Ð¸Ð¹ Ð½Ð¾Ð¼ÐµÑ€";
+$MESS["NUMERATOR_EDIT_TITLE_BITRIX_MAIN_SEQUENTNUMBERGENERATOR_NEW_NEXT_NUMBER"] = "ÐÐ¾Ð²Ñ‹Ð¹ Ñ‚ÐµÐºÑƒÑ‰Ð¸Ð¹ Ð½Ð¾Ð¼ÐµÑ€";
 
-$MESS["NUMERATOR_EDIT_FORM_EMPTY_FIELD_ERROR"] = "Ïîëå íå ìîæåò áûòü ïóñòûì";
-$MESS["NUMERATOR_EDIT_FORM_PAD_STRING_HINT"] = "Ïîñëåäîâàòåëüíûé íîìåð äîïîëíÿåòñÿ ñëåâà äî óêàçàííîé äëèíû ñ ïîìîùüþ çàïîëíèòåëÿ";
+$MESS["NUMERATOR_EDIT_FORM_EMPTY_FIELD_ERROR"] = "ÐŸÐ¾Ð»Ðµ Ð½Ðµ Ð¼Ð¾Ð¶ÐµÑ‚ Ð±Ñ‹Ñ‚ÑŒ Ð¿ÑƒÑÑ‚Ñ‹Ð¼";
+$MESS["NUMERATOR_EDIT_FORM_PAD_STRING_HINT"] = "ÐŸÐ¾ÑÐ»ÐµÐ´Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒÐ½Ñ‹Ð¹ Ð½Ð¾Ð¼ÐµÑ€ Ð´Ð¾Ð¿Ð¾Ð»Ð½ÑÐµÑ‚ÑÑ ÑÐ»ÐµÐ²Ð° Ð´Ð¾ ÑƒÐºÐ°Ð·Ð°Ð½Ð½Ð¾Ð¹ Ð´Ð»Ð¸Ð½Ñ‹ Ñ Ð¿Ð¾Ð¼Ð¾Ñ‰ÑŒÑŽ Ð·Ð°Ð¿Ð¾Ð»Ð½Ð¸Ñ‚ÐµÐ»Ñ";

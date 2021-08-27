@@ -1,12 +1,12 @@
 <?php
-$MESS['LANDING_CMP_PAR_LID'] = 'Èäåíòèôèêàòîð ñòðàíèöû';
-$MESS['LANDING_CMP_PAR_SERVER_NAME'] = 'Äîìåííîå èìÿ';
-$MESS['LANDING_CMP_PAR_PATH'] = 'Ïîëíûé ïóòü äî ñàéòà';
-$MESS['LANDING_CMP_PAR_NOT_CHECK_DOMAIN'] = 'Íå ïðîâåðÿòü ñóùåñòâîâàíèå äîìåíà ó ñàéòà';
-$MESS['LANDING_CMP_PAR_SHOW_EDIT_PANEL'] = 'Ïîêàçûâàòü ïàíåëü ðåäàêòîðà, åñëè ïîçâîëÿþò ïðàâà';
-$MESS['LANDING_CMP_PAR_LANDING_TYPE'] = 'Òîëüêî óêàçàííûé òèï ñàéòîâ';
-$MESS['LANDING_CMP_PAR_PAGE_URL_LANDING_VIEW'] = 'Ññûëêà íà ðåäàêòèðîâàíèå ñòðàíèöû â ðåäàêòîðå';
-$MESS['LANDING_CMP_PAR_PAGE_URL_SITES'] = 'Ññûëêà íà ñïèñîê ñàéòîâ';
-$MESS['LANDING_CMP_PAR_PAGE_URL_SITE_SHOW'] = 'Ññûëêà íà ñïèñîê ñòðàíèö ñàéòà';
-$MESS['LANDING_CMP_PAR_DRAFT_MODE'] = 'Âñåãäà ðàáîòàòü â ðåæèìå ÷åðíîâèêà';
-$MESS['LANDING_CMP_PAR_PAGE_URL_ROLES'] = 'Ññûëêà íà óïðàâëåíèå äîñòóïîì';
+$MESS['LANDING_CMP_PAR_LID'] = 'Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñ‹';
+$MESS['LANDING_CMP_PAR_SERVER_NAME'] = 'Ð”Ð¾Ð¼ÐµÐ½Ð½Ð¾Ðµ Ð¸Ð¼Ñ';
+$MESS['LANDING_CMP_PAR_PATH'] = 'ÐŸÐ¾Ð»Ð½Ñ‹Ð¹ Ð¿ÑƒÑ‚ÑŒ Ð´Ð¾ ÑÐ°Ð¹Ñ‚Ð°';
+$MESS['LANDING_CMP_PAR_NOT_CHECK_DOMAIN'] = 'ÐÐµ Ð¿Ñ€Ð¾Ð²ÐµÑ€ÑÑ‚ÑŒ ÑÑƒÑ‰ÐµÑÑ‚Ð²Ð¾Ð²Ð°Ð½Ð¸Ðµ Ð´Ð¾Ð¼ÐµÐ½Ð° Ñƒ ÑÐ°Ð¹Ñ‚Ð°';
+$MESS['LANDING_CMP_PAR_SHOW_EDIT_PANEL'] = 'ÐŸÐ¾ÐºÐ°Ð·Ñ‹Ð²Ð°Ñ‚ÑŒ Ð¿Ð°Ð½ÐµÐ»ÑŒ Ñ€ÐµÐ´Ð°ÐºÑ‚Ð¾Ñ€Ð°, ÐµÑÐ»Ð¸ Ð¿Ð¾Ð·Ð²Ð¾Ð»ÑÑŽÑ‚ Ð¿Ñ€Ð°Ð²Ð°';
+$MESS['LANDING_CMP_PAR_LANDING_TYPE'] = 'Ð¢Ð¾Ð»ÑŒÐºÐ¾ ÑƒÐºÐ°Ð·Ð°Ð½Ð½Ñ‹Ð¹ Ñ‚Ð¸Ð¿ ÑÐ°Ð¹Ñ‚Ð¾Ð²';
+$MESS['LANDING_CMP_PAR_PAGE_URL_LANDING_VIEW'] = 'Ð¡ÑÑ‹Ð»ÐºÐ° Ð½Ð° Ñ€ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ðµ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñ‹ Ð² Ñ€ÐµÐ´Ð°ÐºÑ‚Ð¾Ñ€Ðµ';
+$MESS['LANDING_CMP_PAR_PAGE_URL_SITES'] = 'Ð¡ÑÑ‹Ð»ÐºÐ° Ð½Ð° ÑÐ¿Ð¸ÑÐ¾Ðº ÑÐ°Ð¹Ñ‚Ð¾Ð²';
+$MESS['LANDING_CMP_PAR_PAGE_URL_SITE_SHOW'] = 'Ð¡ÑÑ‹Ð»ÐºÐ° Ð½Ð° ÑÐ¿Ð¸ÑÐ¾Ðº ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ† ÑÐ°Ð¹Ñ‚Ð°';
+$MESS['LANDING_CMP_PAR_DRAFT_MODE'] = 'Ð’ÑÐµÐ³Ð´Ð° Ñ€Ð°Ð±Ð¾Ñ‚Ð°Ñ‚ÑŒ Ð² Ñ€ÐµÐ¶Ð¸Ð¼Ðµ Ñ‡ÐµÑ€Ð½Ð¾Ð²Ð¸ÐºÐ°';
+$MESS['LANDING_CMP_PAR_PAGE_URL_ROLES'] = 'Ð¡ÑÑ‹Ð»ÐºÐ° Ð½Ð° ÑƒÐ¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¸Ðµ Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð¾Ð¼';

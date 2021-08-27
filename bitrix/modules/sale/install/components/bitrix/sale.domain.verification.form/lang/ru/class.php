@@ -1,7 +1,7 @@
 <?php
-$MESS["SALE_DVF_COMPONENT_SALE_MODULE_ERROR"] = "Ìîäóëü \"Èíòåðíåò-ìàãàçèí (sale)\" íå óñòàíîâëåí";
-$MESS["SALE_DVF_COMPONENT_PARAM_REQUIRED_ERROR"] = "Ïàðàìåòð \"#PARAM_NAME#\" ÿâëÿåòñÿ îáÿçàòåëüíûì";
-$MESS["SALE_DVF_COMPONENT_SAVE_DOMAIN_ERROR"] = "Íå óêàçàí äîìåí äëÿ ïîäòâåðæäåíèÿ";
-$MESS["SALE_DVF_COMPONENT_SAVE_FILE_ERROR"] = "Íå çàãðóæåí ôàéë äëÿ ïîäòâåðæäåíèÿ äîìåíà";
-$MESS["SALE_DVF_COMPONENT_MANAGER_ERROR"] = "Ïàðàìåòð MANAGER äîëæåí ÿâëÿòüñÿ íàñëåäíèêîì Bitrix\Sale\Domain\Verification\BaseManager";
-$MESS["SALE_DVF_COMPONENT_GRID_ACTION_DELETE"] = "Óäàëèòü";
+$MESS["SALE_DVF_COMPONENT_SALE_MODULE_ERROR"] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ \"Ð˜Ð½Ñ‚ÐµÑ€Ð½ÐµÑ‚-Ð¼Ð°Ð³Ð°Ð·Ð¸Ð½ (sale)\" Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½";
+$MESS["SALE_DVF_COMPONENT_PARAM_REQUIRED_ERROR"] = "ÐŸÐ°Ñ€Ð°Ð¼ÐµÑ‚Ñ€ \"#PARAM_NAME#\" ÑÐ²Ð»ÑÐµÑ‚ÑÑ Ð¾Ð±ÑÐ·Ð°Ñ‚ÐµÐ»ÑŒÐ½Ñ‹Ð¼";
+$MESS["SALE_DVF_COMPONENT_SAVE_DOMAIN_ERROR"] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½ Ð´Ð¾Ð¼ÐµÐ½ Ð´Ð»Ñ Ð¿Ð¾Ð´Ñ‚Ð²ÐµÑ€Ð¶Ð´ÐµÐ½Ð¸Ñ";
+$MESS["SALE_DVF_COMPONENT_SAVE_FILE_ERROR"] = "ÐÐµ Ð·Ð°Ð³Ñ€ÑƒÐ¶ÐµÐ½ Ñ„Ð°Ð¹Ð» Ð´Ð»Ñ Ð¿Ð¾Ð´Ñ‚Ð²ÐµÑ€Ð¶Ð´ÐµÐ½Ð¸Ñ Ð´Ð¾Ð¼ÐµÐ½Ð°";
+$MESS["SALE_DVF_COMPONENT_MANAGER_ERROR"] = "ÐŸÐ°Ñ€Ð°Ð¼ÐµÑ‚Ñ€ MANAGER Ð´Ð¾Ð»Ð¶ÐµÐ½ ÑÐ²Ð»ÑÑ‚ÑŒÑÑ Ð½Ð°ÑÐ»ÐµÐ´Ð½Ð¸ÐºÐ¾Ð¼ Bitrix\Sale\Domain\Verification\BaseManager";
+$MESS["SALE_DVF_COMPONENT_GRID_ACTION_DELETE"] = "Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ";

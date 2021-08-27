@@ -1,5 +1,5 @@
 <?php
-$MESS["SALE_CSM_WIZARD_PERSONTYPESTEP_TITLE"] = "Соответствие типов плательщиков";
-$MESS["SALE_CSM_WIZARD_PERSONTYPESTEP_NEXT"] = "Продолжить";
-$MESS["SALE_CSM_WIZARD_PERSONTYPESTEP_PREV"] = "Назад";
-$MESS["SALE_CSM_WIZARD_PERSONTYPESTEP_NOTE"] = "Пожалуйста, перейдите на страницу <a href=\"#PERSON_TYPE_LINK#\" target=\"_blank\">типов плательщика</a> и настройте \"Соответствие с физ. и юр. лицом\" для каждого типа плательщика. После этого нажмите кнопку \"Продолжить\" на этой странице";
+$MESS["SALE_CSM_WIZARD_PERSONTYPESTEP_TITLE"] = "РЎРѕРѕС‚РІРµС‚СЃС‚РІРёРµ С‚РёРїРѕРІ РїР»Р°С‚РµР»СЊС‰РёРєРѕРІ";
+$MESS["SALE_CSM_WIZARD_PERSONTYPESTEP_NEXT"] = "РџСЂРѕРґРѕР»Р¶РёС‚СЊ";
+$MESS["SALE_CSM_WIZARD_PERSONTYPESTEP_PREV"] = "РќР°Р·Р°Рґ";
+$MESS["SALE_CSM_WIZARD_PERSONTYPESTEP_NOTE"] = "РџРѕР¶Р°Р»СѓР№СЃС‚Р°, РїРµСЂРµР№РґРёС‚Рµ РЅР° СЃС‚СЂР°РЅРёС†Сѓ <a href=\"#PERSON_TYPE_LINK#\" target=\"_blank\">С‚РёРїРѕРІ РїР»Р°С‚РµР»СЊС‰РёРєР°</a> Рё РЅР°СЃС‚СЂРѕР№С‚Рµ \"РЎРѕРѕС‚РІРµС‚СЃС‚РІРёРµ СЃ С„РёР·. Рё СЋСЂ. Р»РёС†РѕРј\" РґР»СЏ РєР°Р¶РґРѕРіРѕ С‚РёРїР° РїР»Р°С‚РµР»СЊС‰РёРєР°. РџРѕСЃР»Рµ СЌС‚РѕРіРѕ РЅР°Р¶РјРёС‚Рµ РєРЅРѕРїРєСѓ \"РџСЂРѕРґРѕР»Р¶РёС‚СЊ\" РЅР° СЌС‚РѕР№ СЃС‚СЂР°РЅРёС†Рµ";

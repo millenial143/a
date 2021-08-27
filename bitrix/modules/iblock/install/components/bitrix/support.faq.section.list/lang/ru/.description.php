@@ -1,5 +1,5 @@
 <?
-$MESS ['SUPPORT_FAQ_SL_COMPONENT_NAME'] = "Ñïèñîê êàòåãîðèé FAQ";
-$MESS ['SUPPORT_FAQ_SL_COMPONENT_DESCRIPTION'] = "Âûâîäèò êàòåãîðèè FAQ èç èíôîáëîêà";
-$MESS ['SUPPORT_FAQ_SL_COMPONENTS'] = "×àñòûå âîïðîñû";
+$MESS ['SUPPORT_FAQ_SL_COMPONENT_NAME'] = "Ð¡Ð¿Ð¸ÑÐ¾Ðº ÐºÐ°Ñ‚ÐµÐ³Ð¾Ñ€Ð¸Ð¹ FAQ";
+$MESS ['SUPPORT_FAQ_SL_COMPONENT_DESCRIPTION'] = "Ð’Ñ‹Ð²Ð¾Ð´Ð¸Ñ‚ ÐºÐ°Ñ‚ÐµÐ³Ð¾Ñ€Ð¸Ð¸ FAQ Ð¸Ð· Ð¸Ð½Ñ„Ð¾Ð±Ð»Ð¾ÐºÐ°";
+$MESS ['SUPPORT_FAQ_SL_COMPONENTS'] = "Ð§Ð°ÑÑ‚Ñ‹Ðµ Ð²Ð¾Ð¿Ñ€Ð¾ÑÑ‹";
 ?>

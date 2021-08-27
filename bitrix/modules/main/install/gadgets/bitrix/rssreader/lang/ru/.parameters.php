@@ -1,8 +1,8 @@
 <?
-$MESS["GD_RSS_READER_P_CACHE_TIME"] = "Âðåìÿ êåøèðîâàíèÿ, ñåê (0-íå êåøèðîâàòü)";
-$MESS["GD_RSS_READER_P_SHOW_DETAIL"] = "Ïîêàçûâàòü ññûëêó íà ïîäðîáíóþ èíôîðìàöèþ";
-$MESS["GD_RSS_READER_P_RSSS"] = "Ïðåäóñòàíîâëåííûå RSS ëåíòû (êàæäàÿ ñ íîâîé ñòðîêè)";
-$MESS["GD_RSS_READER_P_CNT"] = "Êîëè÷åñòâî íîâîñòåé (0 - ïîêàçûâàòü âñå)";
-$MESS["GD_RSS_READER_P_RSS_LINK"] = "Ññûëêà íà RSS ëåíòó";
-$MESS["GD_RSS_READER_P_IS_HTML"] = "Â ýëåìåíòå description ïåðåäàåòñÿ HTML";
+$MESS["GD_RSS_READER_P_CACHE_TIME"] = "Ð’Ñ€ÐµÐ¼Ñ ÐºÐµÑˆÐ¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ñ, ÑÐµÐº (0-Ð½Ðµ ÐºÐµÑˆÐ¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ)";
+$MESS["GD_RSS_READER_P_SHOW_DETAIL"] = "ÐŸÐ¾ÐºÐ°Ð·Ñ‹Ð²Ð°Ñ‚ÑŒ ÑÑÑ‹Ð»ÐºÑƒ Ð½Ð° Ð¿Ð¾Ð´Ñ€Ð¾Ð±Ð½ÑƒÑŽ Ð¸Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸ÑŽ";
+$MESS["GD_RSS_READER_P_RSSS"] = "ÐŸÑ€ÐµÐ´ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½Ð½Ñ‹Ðµ RSS Ð»ÐµÐ½Ñ‚Ñ‹ (ÐºÐ°Ð¶Ð´Ð°Ñ Ñ Ð½Ð¾Ð²Ð¾Ð¹ ÑÑ‚Ñ€Ð¾ÐºÐ¸)";
+$MESS["GD_RSS_READER_P_CNT"] = "ÐšÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾ Ð½Ð¾Ð²Ð¾ÑÑ‚ÐµÐ¹ (0 - Ð¿Ð¾ÐºÐ°Ð·Ñ‹Ð²Ð°Ñ‚ÑŒ Ð²ÑÐµ)";
+$MESS["GD_RSS_READER_P_RSS_LINK"] = "Ð¡ÑÑ‹Ð»ÐºÐ° Ð½Ð° RSS Ð»ÐµÐ½Ñ‚Ñƒ";
+$MESS["GD_RSS_READER_P_IS_HTML"] = "Ð’ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ðµ description Ð¿ÐµÑ€ÐµÐ´Ð°ÐµÑ‚ÑÑ HTML";
 ?>

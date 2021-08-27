@@ -1,3 +1,3 @@
 <?
-$MESS ['RATING_NAME'] = "Ðåéòèíã";
+$MESS ['RATING_NAME'] = "Ð ÐµÐ¹Ñ‚Ð¸Ð½Ð³";
 ?>

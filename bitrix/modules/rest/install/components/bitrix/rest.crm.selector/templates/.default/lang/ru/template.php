@@ -1,14 +1,14 @@
 <?
-$MESS["REST_CRM_FF_LEAD"] = "Ëèäû";
-$MESS["REST_CRM_FF_CONTACT"] = "Êîíòàêòû";
-$MESS["REST_CRM_FF_COMPANY"] = "Êîìïàíèè";
-$MESS["REST_CRM_FF_DEAL"] = "Ñäåëêè";
-$MESS["REST_CRM_FF_OK"] = "Âûáðàòü";
-$MESS["REST_CRM_FF_CANCEL"] = "Îòìåíà";
-$MESS["REST_CRM_FF_CLOSE"] = "Çàêðûòü";
-$MESS["REST_CRM_FF_SEARCH"] = "Ïîèñê";
-$MESS["REST_CRM_FF_NO_RESULT"] = "Ê ñîæàëåíèþ, íà âàø ïîèñêîâûé çàïðîñ íè÷åãî íå íàéäåíî";
-$MESS["REST_CRM_FF_CHOISE"] = "Âûáðàòü";
-$MESS["REST_CRM_FF_CHANGE"] = "Èçìåíèòü";
-$MESS["REST_CRM_FF_LAST"] = "Ïîñëåäíèå";
-$MESS["REST_CRM_FF_QUOTE"] = "Ïðåäëîæåíèÿ";
+$MESS["REST_CRM_FF_LEAD"] = "Ð›Ð¸Ð´Ñ‹";
+$MESS["REST_CRM_FF_CONTACT"] = "ÐšÐ¾Ð½Ñ‚Ð°ÐºÑ‚Ñ‹";
+$MESS["REST_CRM_FF_COMPANY"] = "ÐšÐ¾Ð¼Ð¿Ð°Ð½Ð¸Ð¸";
+$MESS["REST_CRM_FF_DEAL"] = "Ð¡Ð´ÐµÐ»ÐºÐ¸";
+$MESS["REST_CRM_FF_OK"] = "Ð’Ñ‹Ð±Ñ€Ð°Ñ‚ÑŒ";
+$MESS["REST_CRM_FF_CANCEL"] = "ÐžÑ‚Ð¼ÐµÐ½Ð°";
+$MESS["REST_CRM_FF_CLOSE"] = "Ð—Ð°ÐºÑ€Ñ‹Ñ‚ÑŒ";
+$MESS["REST_CRM_FF_SEARCH"] = "ÐŸÐ¾Ð¸ÑÐº";
+$MESS["REST_CRM_FF_NO_RESULT"] = "Ðš ÑÐ¾Ð¶Ð°Ð»ÐµÐ½Ð¸ÑŽ, Ð½Ð° Ð²Ð°Ñˆ Ð¿Ð¾Ð¸ÑÐºÐ¾Ð²Ñ‹Ð¹ Ð·Ð°Ð¿Ñ€Ð¾Ñ Ð½Ð¸Ñ‡ÐµÐ³Ð¾ Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½Ð¾";
+$MESS["REST_CRM_FF_CHOISE"] = "Ð’Ñ‹Ð±Ñ€Ð°Ñ‚ÑŒ";
+$MESS["REST_CRM_FF_CHANGE"] = "Ð˜Ð·Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ";
+$MESS["REST_CRM_FF_LAST"] = "ÐŸÐ¾ÑÐ»ÐµÐ´Ð½Ð¸Ðµ";
+$MESS["REST_CRM_FF_QUOTE"] = "ÐŸÑ€ÐµÐ´Ð»Ð¾Ð¶ÐµÐ½Ð¸Ñ";

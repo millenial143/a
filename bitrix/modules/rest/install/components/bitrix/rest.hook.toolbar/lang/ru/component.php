@@ -1,5 +1,5 @@
 <?php
-$MESS["REST_HOOK_ADD"] = "Äîáàâèòü âåáõóê";
-$MESS["REST_HOOK_ADD_EVENT"] = "Èñõîäÿùèé âåáõóê";
-$MESS["REST_HOOK_ADD_AP"] = "Âõîäÿùèé âåáõóê";
-$MESS["REST_HOOK_LIST"] = "Ñïèñîê âåáõóêîâ";
+$MESS["REST_HOOK_ADD"] = "Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ Ð²ÐµÐ±Ñ…ÑƒÐº";
+$MESS["REST_HOOK_ADD_EVENT"] = "Ð˜ÑÑ…Ð¾Ð´ÑÑ‰Ð¸Ð¹ Ð²ÐµÐ±Ñ…ÑƒÐº";
+$MESS["REST_HOOK_ADD_AP"] = "Ð’Ñ…Ð¾Ð´ÑÑ‰Ð¸Ð¹ Ð²ÐµÐ±Ñ…ÑƒÐº";
+$MESS["REST_HOOK_LIST"] = "Ð¡Ð¿Ð¸ÑÐ¾Ðº Ð²ÐµÐ±Ñ…ÑƒÐºÐ¾Ð²";

@@ -1,12 +1,12 @@
 <?
-$MESS["SHOP_MENU_SHOP_TITLE"] = "Ìàãàçèíû";
-$MESS["SHOP_MENU_ORDER_TITLE"] = "Çàêàçû";
-$MESS["SHOP_MENU_BUYER_GROUP_TITLE"] = "Ãðóïïû ïîêóïàòåëåé";
-$MESS["SHOP_MENU_ORDER_FORM_SETTINGS_TITLE"] = "Íàñòðîéêà ôîðìû îôîðìëåíèÿ çàêàçà";
-$MESS["SHOP_MENU_PRODUCT_MARKETING_TITLE"] = "Òîâàðíûé ìàðêåòèíã";
-$MESS["SHOP_MENU_PRODUCT_MARKETING_PRESET"] = "Ïðåäóñòàíîâëåííûé ñïèñîê ìàðêåòèíãîâûõ àêöèé";
-$MESS["SHOP_MENU_PRODUCT_MARKETING_DISCOUNT"] = "Ïðàâèëà ðàáîòû ñ êîðçèíîé";
-$MESS["SHOP_MENU_PRODUCT_MARKETING_COUPONS"] = "Êóïîíû";
-$MESS["SHOP_MENU_SETTINGS_STATUS"] = "Ñòàòóñû";
-$MESS["SHOP_MENU_SETTINGS_STATUS_ORDER"] = "Ñòàòóñû çàêàçà";
-$MESS["SHOP_MENU_SETTINGS_STATUS_ORDER_SHIPMENT"] = "Ñòàòóñû äîñòàâêè";
+$MESS["SHOP_MENU_SHOP_TITLE"] = "ÐœÐ°Ð³Ð°Ð·Ð¸Ð½Ñ‹";
+$MESS["SHOP_MENU_ORDER_TITLE"] = "Ð—Ð°ÐºÐ°Ð·Ñ‹";
+$MESS["SHOP_MENU_BUYER_GROUP_TITLE"] = "Ð“Ñ€ÑƒÐ¿Ð¿Ñ‹ Ð¿Ð¾ÐºÑƒÐ¿Ð°Ñ‚ÐµÐ»ÐµÐ¹";
+$MESS["SHOP_MENU_ORDER_FORM_SETTINGS_TITLE"] = "ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ° Ñ„Ð¾Ñ€Ð¼Ñ‹ Ð¾Ñ„Ð¾Ñ€Ð¼Ð»ÐµÐ½Ð¸Ñ Ð·Ð°ÐºÐ°Ð·Ð°";
+$MESS["SHOP_MENU_PRODUCT_MARKETING_TITLE"] = "Ð¢Ð¾Ð²Ð°Ñ€Ð½Ñ‹Ð¹ Ð¼Ð°Ñ€ÐºÐµÑ‚Ð¸Ð½Ð³";
+$MESS["SHOP_MENU_PRODUCT_MARKETING_PRESET"] = "ÐŸÑ€ÐµÐ´ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½Ð½Ñ‹Ð¹ ÑÐ¿Ð¸ÑÐ¾Ðº Ð¼Ð°Ñ€ÐºÐµÑ‚Ð¸Ð½Ð³Ð¾Ð²Ñ‹Ñ… Ð°ÐºÑ†Ð¸Ð¹";
+$MESS["SHOP_MENU_PRODUCT_MARKETING_DISCOUNT"] = "ÐŸÑ€Ð°Ð²Ð¸Ð»Ð° Ñ€Ð°Ð±Ð¾Ñ‚Ñ‹ Ñ ÐºÐ¾Ñ€Ð·Ð¸Ð½Ð¾Ð¹";
+$MESS["SHOP_MENU_PRODUCT_MARKETING_COUPONS"] = "ÐšÑƒÐ¿Ð¾Ð½Ñ‹";
+$MESS["SHOP_MENU_SETTINGS_STATUS"] = "Ð¡Ñ‚Ð°Ñ‚ÑƒÑÑ‹";
+$MESS["SHOP_MENU_SETTINGS_STATUS_ORDER"] = "Ð¡Ñ‚Ð°Ñ‚ÑƒÑÑ‹ Ð·Ð°ÐºÐ°Ð·Ð°";
+$MESS["SHOP_MENU_SETTINGS_STATUS_ORDER_SHIPMENT"] = "Ð¡Ñ‚Ð°Ñ‚ÑƒÑÑ‹ Ð´Ð¾ÑÑ‚Ð°Ð²ÐºÐ¸";

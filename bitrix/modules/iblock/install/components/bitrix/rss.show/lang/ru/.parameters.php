@@ -1,9 +1,9 @@
 <?
-$MESS["T_IBLOCK_DESC_RSS_OUT_CHANNEL"] = "Íàõîäÿòñÿ ëè íîâîñòè âíå êàíàëà (îáû÷íî íåò)";
-$MESS["T_IBLOCK_DESC_RSS_NUM_NEWS"] = "Êîëè÷åñòâî íîâîñòåé äëÿ ïîêàçà (0 - íå îãðàíè÷èâàòü)";
-$MESS["CP_BRS_URL"] = "Àäðåñ ëåíòû rss";
-$MESS["CP_BRS_PROCESS"] = "Îáðàáîòêà ñîäåðæèìîãî rss êàíàëà";
-$MESS["CP_BRS_PROCESS_NONE"] = "áåç îáðàáîòêè";
-$MESS["CP_BRS_PROCESS_TEXT"] = "ïðåîáðàçîâàòü â òåêñò";
-$MESS["CP_BRS_PROCESS_QUOTE"] = "ýêðàíèðîâàòü html";
+$MESS["T_IBLOCK_DESC_RSS_OUT_CHANNEL"] = "ÐÐ°Ñ…Ð¾Ð´ÑÑ‚ÑÑ Ð»Ð¸ Ð½Ð¾Ð²Ð¾ÑÑ‚Ð¸ Ð²Ð½Ðµ ÐºÐ°Ð½Ð°Ð»Ð° (Ð¾Ð±Ñ‹Ñ‡Ð½Ð¾ Ð½ÐµÑ‚)";
+$MESS["T_IBLOCK_DESC_RSS_NUM_NEWS"] = "ÐšÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾ Ð½Ð¾Ð²Ð¾ÑÑ‚ÐµÐ¹ Ð´Ð»Ñ Ð¿Ð¾ÐºÐ°Ð·Ð° (0 - Ð½Ðµ Ð¾Ð³Ñ€Ð°Ð½Ð¸Ñ‡Ð¸Ð²Ð°Ñ‚ÑŒ)";
+$MESS["CP_BRS_URL"] = "ÐÐ´Ñ€ÐµÑ Ð»ÐµÐ½Ñ‚Ñ‹ rss";
+$MESS["CP_BRS_PROCESS"] = "ÐžÐ±Ñ€Ð°Ð±Ð¾Ñ‚ÐºÐ° ÑÐ¾Ð´ÐµÑ€Ð¶Ð¸Ð¼Ð¾Ð³Ð¾ rss ÐºÐ°Ð½Ð°Ð»Ð°";
+$MESS["CP_BRS_PROCESS_NONE"] = "Ð±ÐµÐ· Ð¾Ð±Ñ€Ð°Ð±Ð¾Ñ‚ÐºÐ¸";
+$MESS["CP_BRS_PROCESS_TEXT"] = "Ð¿Ñ€ÐµÐ¾Ð±Ñ€Ð°Ð·Ð¾Ð²Ð°Ñ‚ÑŒ Ð² Ñ‚ÐµÐºÑÑ‚";
+$MESS["CP_BRS_PROCESS_QUOTE"] = "ÑÐºÑ€Ð°Ð½Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ html";
 ?>

@@ -1,3 +1,3 @@
 <?
-$MESS["MAPP_ME_BUTT_SAVE"] = "Ñîõðàíèòü";
+$MESS["MAPP_ME_BUTT_SAVE"] = "Ð¡Ð¾Ñ…Ñ€Ð°Ð½Ð¸Ñ‚ÑŒ";
 ?>

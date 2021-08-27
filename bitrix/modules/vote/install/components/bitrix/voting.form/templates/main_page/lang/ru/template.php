@@ -1,6 +1,6 @@
 <?
-$MESS ['VOTE_DROPDOWN_SET'] = "âûáåðèòå çíà÷åíèå";
-$MESS ['VOTE_SUBMIT_BUTTON'] = "Ãîëîñîâàòü";
-$MESS ['F_CAPTCHA_TITLE'] = "Çàùèòà îò àâòîìàòè÷åñêèõ ñîîáùåíèé";
-$MESS ['F_CAPTCHA_PROMT'] = "Ñèìâîëû íà êàðòèíêå";
+$MESS ['VOTE_DROPDOWN_SET'] = "Ð²Ñ‹Ð±ÐµÑ€Ð¸Ñ‚Ðµ Ð·Ð½Ð°Ñ‡ÐµÐ½Ð¸Ðµ";
+$MESS ['VOTE_SUBMIT_BUTTON'] = "Ð“Ð¾Ð»Ð¾ÑÐ¾Ð²Ð°Ñ‚ÑŒ";
+$MESS ['F_CAPTCHA_TITLE'] = "Ð—Ð°Ñ‰Ð¸Ñ‚Ð° Ð¾Ñ‚ Ð°Ð²Ñ‚Ð¾Ð¼Ð°Ñ‚Ð¸Ñ‡ÐµÑÐºÐ¸Ñ… ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ð¹";
+$MESS ['F_CAPTCHA_PROMT'] = "Ð¡Ð¸Ð¼Ð²Ð¾Ð»Ñ‹ Ð½Ð° ÐºÐ°Ñ€Ñ‚Ð¸Ð½ÐºÐµ";
 ?>

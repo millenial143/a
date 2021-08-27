@@ -1,4 +1,4 @@
 <?
-$MESS['SENDER_COMP_CAMPAIGN_EDIT_TITLE_ADD'] = 'Ñîçäàíèå êàìïàíèè';
-$MESS['SENDER_COMP_CAMPAIGN_EDIT_TITLE_EDIT'] = 'Ðåäàêòèðîâàíèå êàìïàíèè';
+$MESS['SENDER_COMP_CAMPAIGN_EDIT_TITLE_ADD'] = 'Ð¡Ð¾Ð·Ð´Ð°Ð½Ð¸Ðµ ÐºÐ°Ð¼Ð¿Ð°Ð½Ð¸Ð¸';
+$MESS['SENDER_COMP_CAMPAIGN_EDIT_TITLE_EDIT'] = 'Ð ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ðµ ÐºÐ°Ð¼Ð¿Ð°Ð½Ð¸Ð¸';
 ?>

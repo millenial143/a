@@ -1,5 +1,5 @@
 <?
-$MESS["IES_MODULE_NOT_INSTALLED"] = "Ìîäóëü \"MODULE_ID\" íå óñòàíîâëåí";
-$MESS["IES_ERROR_REQUIRED_PARAMETER"] = "Íå óêàçàí îáÿçàòåëüíûé ïàðàìåòð #PARAM#";
-$MESS["IES_ERROR_ACCESS_DENIED"] = "Ó âàñ íåò ïðàâ äëÿ ïðîñìîòðà ýëåìåíòîâ";
+$MESS["IES_MODULE_NOT_INSTALLED"] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ \"MODULE_ID\" Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½";
+$MESS["IES_ERROR_REQUIRED_PARAMETER"] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½ Ð¾Ð±ÑÐ·Ð°Ñ‚ÐµÐ»ÑŒÐ½Ñ‹Ð¹ Ð¿Ð°Ñ€Ð°Ð¼ÐµÑ‚Ñ€ #PARAM#";
+$MESS["IES_ERROR_ACCESS_DENIED"] = "Ð£ Ð²Ð°Ñ Ð½ÐµÑ‚ Ð¿Ñ€Ð°Ð² Ð´Ð»Ñ Ð¿Ñ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€Ð° ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð¾Ð²";
 ?>

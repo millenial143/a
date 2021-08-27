@@ -1,3 +1,3 @@
 <?
-$MESS["REPORT_ERR_USER_FIELD_NOT_FOUND"] = "Пользовательское поле #FIELD_NAME# для сущности \"#ENTITY_ID#\" не обнаружено";
+$MESS["REPORT_ERR_USER_FIELD_NOT_FOUND"] = "РџРѕР»СЊР·РѕРІР°С‚РµР»СЊСЃРєРѕРµ РїРѕР»Рµ #FIELD_NAME# РґР»СЏ СЃСѓС‰РЅРѕСЃС‚Рё \"#ENTITY_ID#\" РЅРµ РѕР±РЅР°СЂСѓР¶РµРЅРѕ";
 ?>

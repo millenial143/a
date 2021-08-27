@@ -1,10 +1,10 @@
 <?
-$MESS['MAIN_MAIL_BLACKLIST_REMOVE_BTN_TITLE'] = 'Óäàëèòü';
-$MESS['MAIN_MAIL_BLACKLIST_REMOVE_BTN'] = 'Óäàëèòü';
-$MESS['MAIN_MAIL_BLACKLIST_BTN_REMOVE_FROM_L'] = "Óäàëèòü èç ñïèñêà";
-$MESS['MAIN_MAIL_BLACKLIST_BTN_REMOVE_FROM_L_TITLE'] = "Óäàëèòü èç ñïèñêà";
-$MESS['MAIN_MAIL_BLACKLIST_DELETE_CONFIRM'] = "Âû äåéñòâèòåëüíî õîòèòå óäàëèòü?";
-$MESS['MAIN_MAIL_BLACKLIST_DELETE_ERROR'] = "Íå óäàëîñü óäàëèòü";
-$MESS['MAIN_MAIL_BLACKLIST_DELETE_CONFIRM_TITLE'] = "Ïîäòâåðæäåíèå óäàëåíèÿ";
-$MESS['MAIN_MAIL_BLACKLIST_BLACKLIST_TITLE'] = "×åðíûé ñïèñîê";
+$MESS['MAIN_MAIL_BLACKLIST_REMOVE_BTN_TITLE'] = 'Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ';
+$MESS['MAIN_MAIL_BLACKLIST_REMOVE_BTN'] = 'Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ';
+$MESS['MAIN_MAIL_BLACKLIST_BTN_REMOVE_FROM_L'] = "Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ Ð¸Ð· ÑÐ¿Ð¸ÑÐºÐ°";
+$MESS['MAIN_MAIL_BLACKLIST_BTN_REMOVE_FROM_L_TITLE'] = "Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ Ð¸Ð· ÑÐ¿Ð¸ÑÐºÐ°";
+$MESS['MAIN_MAIL_BLACKLIST_DELETE_CONFIRM'] = "Ð’Ñ‹ Ð´ÐµÐ¹ÑÑ‚Ð²Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ð¾ Ñ…Ð¾Ñ‚Ð¸Ñ‚Ðµ ÑƒÐ´Ð°Ð»Ð¸Ñ‚ÑŒ?";
+$MESS['MAIN_MAIL_BLACKLIST_DELETE_ERROR'] = "ÐÐµ ÑƒÐ´Ð°Ð»Ð¾ÑÑŒ ÑƒÐ´Ð°Ð»Ð¸Ñ‚ÑŒ";
+$MESS['MAIN_MAIL_BLACKLIST_DELETE_CONFIRM_TITLE'] = "ÐŸÐ¾Ð´Ñ‚Ð²ÐµÑ€Ð¶Ð´ÐµÐ½Ð¸Ðµ ÑƒÐ´Ð°Ð»ÐµÐ½Ð¸Ñ";
+$MESS['MAIN_MAIL_BLACKLIST_BLACKLIST_TITLE'] = "Ð§ÐµÑ€Ð½Ñ‹Ð¹ ÑÐ¿Ð¸ÑÐ¾Ðº";
 ?>

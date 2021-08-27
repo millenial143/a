@@ -1,5 +1,5 @@
 <?
-$MESS ['T_IBLOCK_DESC_CATALOG'] = "Êàòàëîã";
-$MESS ['IBLOCK_COMPARE_TABLE_TEMPLATE_NAME'] = "Òàáëèöà ñðàâíåíèÿ";
-$MESS ['IBLOCK_COMPARE_TABLE_TEMPLATE_DESCRIPTION'] = "Âûâîäèò òàáëèöó ñðàâíèâàåìûõ ýëåìåíòîâ";
+$MESS ['T_IBLOCK_DESC_CATALOG'] = "ÐšÐ°Ñ‚Ð°Ð»Ð¾Ð³";
+$MESS ['IBLOCK_COMPARE_TABLE_TEMPLATE_NAME'] = "Ð¢Ð°Ð±Ð»Ð¸Ñ†Ð° ÑÑ€Ð°Ð²Ð½ÐµÐ½Ð¸Ñ";
+$MESS ['IBLOCK_COMPARE_TABLE_TEMPLATE_DESCRIPTION'] = "Ð’Ñ‹Ð²Ð¾Ð´Ð¸Ñ‚ Ñ‚Ð°Ð±Ð»Ð¸Ñ†Ñƒ ÑÑ€Ð°Ð²Ð½Ð¸Ð²Ð°ÐµÐ¼Ñ‹Ñ… ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð¾Ð²";
 ?>

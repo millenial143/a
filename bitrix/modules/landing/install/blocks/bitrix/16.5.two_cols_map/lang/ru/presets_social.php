@@ -1,4 +1,4 @@
 <?php
-$MESS['LANDING_BLOCK_16_5_TWO_COLS_MAP--PRESET_LINK'] = 'Êîíòàêò ñî ññûëêîé';
-$MESS['LANDING_BLOCK_16_5_TWO_COLS_MAP--PRESET_VK'] = 'ÂÊîíòàêòå';
-$MESS['LANDING_BLOCK_16_5_TWO_COLS_MAP--PRESET_OK'] = 'Îäíîêëàññíèêè';
+$MESS['LANDING_BLOCK_16_5_TWO_COLS_MAP--PRESET_LINK'] = 'ÐšÐ¾Ð½Ñ‚Ð°ÐºÑ‚ ÑÐ¾ ÑÑÑ‹Ð»ÐºÐ¾Ð¹';
+$MESS['LANDING_BLOCK_16_5_TWO_COLS_MAP--PRESET_VK'] = 'Ð’ÐšÐ¾Ð½Ñ‚Ð°ÐºÑ‚Ðµ';
+$MESS['LANDING_BLOCK_16_5_TWO_COLS_MAP--PRESET_OK'] = 'ÐžÐ´Ð½Ð¾ÐºÐ»Ð°ÑÑÐ½Ð¸ÐºÐ¸';

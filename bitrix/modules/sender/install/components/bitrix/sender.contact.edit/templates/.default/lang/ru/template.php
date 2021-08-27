@@ -1,9 +1,9 @@
 <?
-$MESS["SENDER_CONTACT_EDIT_TMPL_FIELD_TYPE"] = "Òèï";
-$MESS["SENDER_CONTACT_EDIT_TMPL_FIELD_NAME"] = "Èìÿ";
-$MESS["SENDER_CONTACT_EDIT_TMPL_FIELD_ADDRESS"] = "Àäðåñàò";
-$MESS["SENDER_CONTACT_EDIT_TMPL_FIELD_SET"] = "Íàõîäèòñÿ â ñòàòè÷åñêèõ íàáîðàõ àäðåñîâ";
-$MESS["SENDER_CONTACT_EDIT_TMPL_FIELD_SUB"] = "Ïîäïèñàí íà êàìïàíèè";
-$MESS["SENDER_CONTACT_EDIT_TMPL_FIELD_UNSUB"] = "Îòïèñàí îò êàìïàíèé";
-$MESS["SENDER_CONTACT_EDIT_TMPL_FIELD_SENT"] = "Ïîëó÷àë ðàññûëêè";
+$MESS["SENDER_CONTACT_EDIT_TMPL_FIELD_TYPE"] = "Ð¢Ð¸Ð¿";
+$MESS["SENDER_CONTACT_EDIT_TMPL_FIELD_NAME"] = "Ð˜Ð¼Ñ";
+$MESS["SENDER_CONTACT_EDIT_TMPL_FIELD_ADDRESS"] = "ÐÐ´Ñ€ÐµÑÐ°Ñ‚";
+$MESS["SENDER_CONTACT_EDIT_TMPL_FIELD_SET"] = "ÐÐ°Ñ…Ð¾Ð´Ð¸Ñ‚ÑÑ Ð² ÑÑ‚Ð°Ñ‚Ð¸Ñ‡ÐµÑÐºÐ¸Ñ… Ð½Ð°Ð±Ð¾Ñ€Ð°Ñ… Ð°Ð´Ñ€ÐµÑÐ¾Ð²";
+$MESS["SENDER_CONTACT_EDIT_TMPL_FIELD_SUB"] = "ÐŸÐ¾Ð´Ð¿Ð¸ÑÐ°Ð½ Ð½Ð° ÐºÐ°Ð¼Ð¿Ð°Ð½Ð¸Ð¸";
+$MESS["SENDER_CONTACT_EDIT_TMPL_FIELD_UNSUB"] = "ÐžÑ‚Ð¿Ð¸ÑÐ°Ð½ Ð¾Ñ‚ ÐºÐ°Ð¼Ð¿Ð°Ð½Ð¸Ð¹";
+$MESS["SENDER_CONTACT_EDIT_TMPL_FIELD_SENT"] = "ÐŸÐ¾Ð»ÑƒÑ‡Ð°Ð» Ñ€Ð°ÑÑÑ‹Ð»ÐºÐ¸";
 ?>

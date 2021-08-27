@@ -1,34 +1,34 @@
 <?
-$MESS["SECURITY_OTP_MANDATORY_AUTH_DESCR1"] = "Вы не успели настроить двухэтапную авторизацию за период, который указал ваш администратор. К сожалению, без получения одноразового кода вы не сможете авторизоваться.
+$MESS["SECURITY_OTP_MANDATORY_AUTH_DESCR1"] = "Р’С‹ РЅРµ СѓСЃРїРµР»Рё РЅР°СЃС‚СЂРѕРёС‚СЊ РґРІСѓС…СЌС‚Р°РїРЅСѓСЋ Р°РІС‚РѕСЂРёР·Р°С†РёСЋ Р·Р° РїРµСЂРёРѕРґ, РєРѕС‚РѕСЂС‹Р№ СѓРєР°Р·Р°Р» РІР°С€ Р°РґРјРёРЅРёСЃС‚СЂР°С‚РѕСЂ. Рљ СЃРѕР¶Р°Р»РµРЅРёСЋ, Р±РµР· РїРѕР»СѓС‡РµРЅРёСЏ РѕРґРЅРѕСЂР°Р·РѕРІРѕРіРѕ РєРѕРґР° РІС‹ РЅРµ СЃРјРѕР¶РµС‚Рµ Р°РІС‚РѕСЂРёР·РѕРІР°С‚СЊСЃСЏ.
 <br /><br />
-Чтобы подключить двухэтапную авторизацию сейчас и получить одноразовый код, пожалуйста, пройдите несколько шагов, описанных ниже.
+Р§С‚РѕР±С‹ РїРѕРґРєР»СЋС‡РёС‚СЊ РґРІСѓС…СЌС‚Р°РїРЅСѓСЋ Р°РІС‚РѕСЂРёР·Р°С†РёСЋ СЃРµР№С‡Р°СЃ Рё РїРѕР»СѓС‡РёС‚СЊ РѕРґРЅРѕСЂР°Р·РѕРІС‹Р№ РєРѕРґ, РїРѕР¶Р°Р»СѓР№СЃС‚Р°, РїСЂРѕР№РґРёС‚Рµ РЅРµСЃРєРѕР»СЊРєРѕ С€Р°РіРѕРІ, РѕРїРёСЃР°РЅРЅС‹С… РЅРёР¶Рµ.
 <br /><br />
-Если у вас нет возможности установить приложение для получения одноразового кода или возникли сложности при подключении, пожалуйста, обратитесь к вашему администратору.";
-$MESS["SECURITY_OTP_MANDATORY_AUTH_CONNECT"] = "Подключите двухэтапную авторизацию прямо сейчас";
-$MESS["SECURITY_OTP_MANDATORY_AUTH_MOBILE"] = "Скачайте мобильное приложение Bitrix24 OTP";
-$MESS["SECURITY_OTP_MANDATORY_AUTH_MOBILE_TMP"] = "Скачайте мобильное приложение FreeOTP или Google Authenticator";
-$MESS["SECURITY_OTP_MANDATORY_AUTH_MOBILE2"] = "для своего телефона из AppStore или GooglePlay";
-$MESS["SECURITY_OTP_MANDATORY_AUTH_MOBILE2_TMP"] = "для своего телефона из AppStore, GooglePlay";
-$MESS["SECURITY_OTP_MANDATORY_AUTH_APP_EXECUTE"] = "Запустите приложение";
-$MESS["SECURITY_OTP_MANDATORY_AUTH_APP_EXECUTE2"] = "и нажмите кнопку <strong>Настроить</strong>";
-$MESS["SECURITY_OTP_MANDATORY_AUTH_APP_EXECUTE_TMP"] = "и нажмите на иконку добавления нового аккаунта";
-$MESS["SECURITY_OTP_MANDATORY_AUTH_CHOOSE_TYPE"] = "Выберите удобный способ получения кода";
-$MESS["SECURITY_OTP_MANDATORY_AUTH_SCAN_CODE"] = "Сканировать QR код";
-$MESS["SECURITY_OTP_MANDATORY_AUTH_SCAN_DESCR"] = "Для того чтобы сканировать код, поднесите камеру мобильного телефона к монитору с картинкой и подождите, пока приложение сканирует код.";
-$MESS["SECURITY_OTP_MANDATORY_AUTH_HAND_TYPE"] = "Ввести данные вручную";
-$MESS["SECURITY_OTP_MANDATORY_AUTH_HAND_DESCR"] = "Если вам не удалось сканировать код, выберите ручной ввод данных.
-<br />При ручном вводе необходимо указать адрес сайта или Битрикс24, ваш E-mail, секретный код, который указан на картинке, и выбрать тип ключа";
-$MESS["SECURITY_OTP_MANDATORY_AUTH_ENTER_CODE"] = "Введите код подтверждения";
-$MESS["SECURITY_OTP_MANDATORY_AUTH_ENTER_CODE_PL"] = "Введите код";
-$MESS["SECURITY_OTP_MANDATORY_AUTH_ENTER_CODE_PL1"] = "Первый код";
-$MESS["SECURITY_OTP_MANDATORY_AUTH_ENTER_CODE_PL2"] = "Второй код";
-$MESS["SECURITY_OTP_MANDATORY_AUTH_CODE_DESCR"] = "После успешного сканирования кода или ввода данных вручную на экране мобильного телефона появится код, который необходимо ввести в поле ниже";
-$MESS["SECURITY_OTP_MANDATORY_AUTH_DONE"] = "Готово";
-$MESS["SECURITY_OTP_MANDATORY_AUTH_CODE_DESCR2"] = "Для завершения подключения нажмите на кнопку «Получить новый код» в мобильном приложении и введите еще один код, полученный на экране телефона.";
-$MESS["SECURITY_OTP_MANDATORY_AUTH_ERROR_TITLE"] = "Ошибка сохранения";
-$MESS["SECURITY_OTP_MANDATORY_AUTH_UNKNOWN_ERROR"] = "Непредвиденная ошибка. Повторите попытку позже.";
-$MESS["SECURITY_OTP_MANDATORY_AUTH_CODE_INFO_TOTP"] = "по времени";
-$MESS["SECURITY_OTP_MANDATORY_AUTH_CODE_INFO_HOTP"] = "по счетчику";
-$MESS["SECURITY_OTP_MANDATORY_AUTH_BACK"] = "Вернуться на форму авторизации";
-$MESS["SECURITY_OTP_MANDATORY_REQUIRED"] = "Вход без одноразового пароля невозможен.";
-$MESS["SECURITY_OTP_MANDATORY_AUTH_INPUT_METHODS_SEPARATOR"] = "или";
+Р•СЃР»Рё Сѓ РІР°СЃ РЅРµС‚ РІРѕР·РјРѕР¶РЅРѕСЃС‚Рё СѓСЃС‚Р°РЅРѕРІРёС‚СЊ РїСЂРёР»РѕР¶РµРЅРёРµ РґР»СЏ РїРѕР»СѓС‡РµРЅРёСЏ РѕРґРЅРѕСЂР°Р·РѕРІРѕРіРѕ РєРѕРґР° РёР»Рё РІРѕР·РЅРёРєР»Рё СЃР»РѕР¶РЅРѕСЃС‚Рё РїСЂРё РїРѕРґРєР»СЋС‡РµРЅРёРё, РїРѕР¶Р°Р»СѓР№СЃС‚Р°, РѕР±СЂР°С‚РёС‚РµСЃСЊ Рє РІР°С€РµРјСѓ Р°РґРјРёРЅРёСЃС‚СЂР°С‚РѕСЂСѓ.";
+$MESS["SECURITY_OTP_MANDATORY_AUTH_CONNECT"] = "РџРѕРґРєР»СЋС‡РёС‚Рµ РґРІСѓС…СЌС‚Р°РїРЅСѓСЋ Р°РІС‚РѕСЂРёР·Р°С†РёСЋ РїСЂСЏРјРѕ СЃРµР№С‡Р°СЃ";
+$MESS["SECURITY_OTP_MANDATORY_AUTH_MOBILE"] = "РЎРєР°С‡Р°Р№С‚Рµ РјРѕР±РёР»СЊРЅРѕРµ РїСЂРёР»РѕР¶РµРЅРёРµ Bitrix24 OTP";
+$MESS["SECURITY_OTP_MANDATORY_AUTH_MOBILE_TMP"] = "РЎРєР°С‡Р°Р№С‚Рµ РјРѕР±РёР»СЊРЅРѕРµ РїСЂРёР»РѕР¶РµРЅРёРµ FreeOTP РёР»Рё Google Authenticator";
+$MESS["SECURITY_OTP_MANDATORY_AUTH_MOBILE2"] = "РґР»СЏ СЃРІРѕРµРіРѕ С‚РµР»РµС„РѕРЅР° РёР· AppStore РёР»Рё GooglePlay";
+$MESS["SECURITY_OTP_MANDATORY_AUTH_MOBILE2_TMP"] = "РґР»СЏ СЃРІРѕРµРіРѕ С‚РµР»РµС„РѕРЅР° РёР· AppStore, GooglePlay";
+$MESS["SECURITY_OTP_MANDATORY_AUTH_APP_EXECUTE"] = "Р—Р°РїСѓСЃС‚РёС‚Рµ РїСЂРёР»РѕР¶РµРЅРёРµ";
+$MESS["SECURITY_OTP_MANDATORY_AUTH_APP_EXECUTE2"] = "Рё РЅР°Р¶РјРёС‚Рµ РєРЅРѕРїРєСѓ <strong>РќР°СЃС‚СЂРѕРёС‚СЊ</strong>";
+$MESS["SECURITY_OTP_MANDATORY_AUTH_APP_EXECUTE_TMP"] = "Рё РЅР°Р¶РјРёС‚Рµ РЅР° РёРєРѕРЅРєСѓ РґРѕР±Р°РІР»РµРЅРёСЏ РЅРѕРІРѕРіРѕ Р°РєРєР°СѓРЅС‚Р°";
+$MESS["SECURITY_OTP_MANDATORY_AUTH_CHOOSE_TYPE"] = "Р’С‹Р±РµСЂРёС‚Рµ СѓРґРѕР±РЅС‹Р№ СЃРїРѕСЃРѕР± РїРѕР»СѓС‡РµРЅРёСЏ РєРѕРґР°";
+$MESS["SECURITY_OTP_MANDATORY_AUTH_SCAN_CODE"] = "РЎРєР°РЅРёСЂРѕРІР°С‚СЊ QR РєРѕРґ";
+$MESS["SECURITY_OTP_MANDATORY_AUTH_SCAN_DESCR"] = "Р”Р»СЏ С‚РѕРіРѕ С‡С‚РѕР±С‹ СЃРєР°РЅРёСЂРѕРІР°С‚СЊ РєРѕРґ, РїРѕРґРЅРµСЃРёС‚Рµ РєР°РјРµСЂСѓ РјРѕР±РёР»СЊРЅРѕРіРѕ С‚РµР»РµС„РѕРЅР° Рє РјРѕРЅРёС‚РѕСЂСѓ СЃ РєР°СЂС‚РёРЅРєРѕР№ Рё РїРѕРґРѕР¶РґРёС‚Рµ, РїРѕРєР° РїСЂРёР»РѕР¶РµРЅРёРµ СЃРєР°РЅРёСЂСѓРµС‚ РєРѕРґ.";
+$MESS["SECURITY_OTP_MANDATORY_AUTH_HAND_TYPE"] = "Р’РІРµСЃС‚Рё РґР°РЅРЅС‹Рµ РІСЂСѓС‡РЅСѓСЋ";
+$MESS["SECURITY_OTP_MANDATORY_AUTH_HAND_DESCR"] = "Р•СЃР»Рё РІР°Рј РЅРµ СѓРґР°Р»РѕСЃСЊ СЃРєР°РЅРёСЂРѕРІР°С‚СЊ РєРѕРґ, РІС‹Р±РµСЂРёС‚Рµ СЂСѓС‡РЅРѕР№ РІРІРѕРґ РґР°РЅРЅС‹С….
+<br />РџСЂРё СЂСѓС‡РЅРѕРј РІРІРѕРґРµ РЅРµРѕР±С…РѕРґРёРјРѕ СѓРєР°Р·Р°С‚СЊ Р°РґСЂРµСЃ СЃР°Р№С‚Р° РёР»Рё Р‘РёС‚СЂРёРєСЃ24, РІР°С€ E-mail, СЃРµРєСЂРµС‚РЅС‹Р№ РєРѕРґ, РєРѕС‚РѕСЂС‹Р№ СѓРєР°Р·Р°РЅ РЅР° РєР°СЂС‚РёРЅРєРµ, Рё РІС‹Р±СЂР°С‚СЊ С‚РёРї РєР»СЋС‡Р°";
+$MESS["SECURITY_OTP_MANDATORY_AUTH_ENTER_CODE"] = "Р’РІРµРґРёС‚Рµ РєРѕРґ РїРѕРґС‚РІРµСЂР¶РґРµРЅРёСЏ";
+$MESS["SECURITY_OTP_MANDATORY_AUTH_ENTER_CODE_PL"] = "Р’РІРµРґРёС‚Рµ РєРѕРґ";
+$MESS["SECURITY_OTP_MANDATORY_AUTH_ENTER_CODE_PL1"] = "РџРµСЂРІС‹Р№ РєРѕРґ";
+$MESS["SECURITY_OTP_MANDATORY_AUTH_ENTER_CODE_PL2"] = "Р’С‚РѕСЂРѕР№ РєРѕРґ";
+$MESS["SECURITY_OTP_MANDATORY_AUTH_CODE_DESCR"] = "РџРѕСЃР»Рµ СѓСЃРїРµС€РЅРѕРіРѕ СЃРєР°РЅРёСЂРѕРІР°РЅРёСЏ РєРѕРґР° РёР»Рё РІРІРѕРґР° РґР°РЅРЅС‹С… РІСЂСѓС‡РЅСѓСЋ РЅР° СЌРєСЂР°РЅРµ РјРѕР±РёР»СЊРЅРѕРіРѕ С‚РµР»РµС„РѕРЅР° РїРѕСЏРІРёС‚СЃСЏ РєРѕРґ, РєРѕС‚РѕСЂС‹Р№ РЅРµРѕР±С…РѕРґРёРјРѕ РІРІРµСЃС‚Рё РІ РїРѕР»Рµ РЅРёР¶Рµ";
+$MESS["SECURITY_OTP_MANDATORY_AUTH_DONE"] = "Р“РѕС‚РѕРІРѕ";
+$MESS["SECURITY_OTP_MANDATORY_AUTH_CODE_DESCR2"] = "Р”Р»СЏ Р·Р°РІРµСЂС€РµРЅРёСЏ РїРѕРґРєР»СЋС‡РµРЅРёСЏ РЅР°Р¶РјРёС‚Рµ РЅР° РєРЅРѕРїРєСѓ В«РџРѕР»СѓС‡РёС‚СЊ РЅРѕРІС‹Р№ РєРѕРґВ» РІ РјРѕР±РёР»СЊРЅРѕРј РїСЂРёР»РѕР¶РµРЅРёРё Рё РІРІРµРґРёС‚Рµ РµС‰Рµ РѕРґРёРЅ РєРѕРґ, РїРѕР»СѓС‡РµРЅРЅС‹Р№ РЅР° СЌРєСЂР°РЅРµ С‚РµР»РµС„РѕРЅР°.";
+$MESS["SECURITY_OTP_MANDATORY_AUTH_ERROR_TITLE"] = "РћС€РёР±РєР° СЃРѕС…СЂР°РЅРµРЅРёСЏ";
+$MESS["SECURITY_OTP_MANDATORY_AUTH_UNKNOWN_ERROR"] = "РќРµРїСЂРµРґРІРёРґРµРЅРЅР°СЏ РѕС€РёР±РєР°. РџРѕРІС‚РѕСЂРёС‚Рµ РїРѕРїС‹С‚РєСѓ РїРѕР·Р¶Рµ.";
+$MESS["SECURITY_OTP_MANDATORY_AUTH_CODE_INFO_TOTP"] = "РїРѕ РІСЂРµРјРµРЅРё";
+$MESS["SECURITY_OTP_MANDATORY_AUTH_CODE_INFO_HOTP"] = "РїРѕ СЃС‡РµС‚С‡РёРєСѓ";
+$MESS["SECURITY_OTP_MANDATORY_AUTH_BACK"] = "Р’РµСЂРЅСѓС‚СЊСЃСЏ РЅР° С„РѕСЂРјСѓ Р°РІС‚РѕСЂРёР·Р°С†РёРё";
+$MESS["SECURITY_OTP_MANDATORY_REQUIRED"] = "Р’С…РѕРґ Р±РµР· РѕРґРЅРѕСЂР°Р·РѕРІРѕРіРѕ РїР°СЂРѕР»СЏ РЅРµРІРѕР·РјРѕР¶РµРЅ.";
+$MESS["SECURITY_OTP_MANDATORY_AUTH_INPUT_METHODS_SEPARATOR"] = "РёР»Рё";

@@ -1,7 +1,7 @@
 <?php
 
-$MESS["HLLIST_COMPONENT_NAME"] = "Ñïèñîê çàïèñåé";
-$MESS["HLLIST_COMPONENT_DESCRIPTION"] = "Âûâîäèò ñïèñîê çàïèñåé çàäàííîãî HL èíôîáëîêà";
-$MESS["HLLIST_COMPONENT_CATEGORY_TITLE"] = "Highload èíôîáëîêè";
+$MESS["HLLIST_COMPONENT_NAME"] = "Ð¡Ð¿Ð¸ÑÐ¾Ðº Ð·Ð°Ð¿Ð¸ÑÐµÐ¹";
+$MESS["HLLIST_COMPONENT_DESCRIPTION"] = "Ð’Ñ‹Ð²Ð¾Ð´Ð¸Ñ‚ ÑÐ¿Ð¸ÑÐ¾Ðº Ð·Ð°Ð¿Ð¸ÑÐµÐ¹ Ð·Ð°Ð´Ð°Ð½Ð½Ð¾Ð³Ð¾ HL Ð¸Ð½Ñ„Ð¾Ð±Ð»Ð¾ÐºÐ°";
+$MESS["HLLIST_COMPONENT_CATEGORY_TITLE"] = "Highload Ð¸Ð½Ñ„Ð¾Ð±Ð»Ð¾ÐºÐ¸";
 
 ?>

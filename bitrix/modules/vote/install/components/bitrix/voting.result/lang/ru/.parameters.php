@@ -1,6 +1,6 @@
 <?
-$MESS ['VOTE_POLL_ID'] = "Идентификатор опроса";
-$MESS ['VOTE_TEMPLATE_FOR_QUESTION'] = "Тип диаграммы для вопроса \"#QUESTION#\"";
-$MESS ['VOTE_BY_DEFAULT'] = "<по умолчанию>";
-$MESS ['VOTE_ALL_RESULTS'] = "Показывать все результаты";
+$MESS ['VOTE_POLL_ID'] = "РРґРµРЅС‚РёС„РёРєР°С‚РѕСЂ РѕРїСЂРѕСЃР°";
+$MESS ['VOTE_TEMPLATE_FOR_QUESTION'] = "РўРёРї РґРёР°РіСЂР°РјРјС‹ РґР»СЏ РІРѕРїСЂРѕСЃР° \"#QUESTION#\"";
+$MESS ['VOTE_BY_DEFAULT'] = "<РїРѕ СѓРјРѕР»С‡Р°РЅРёСЋ>";
+$MESS ['VOTE_ALL_RESULTS'] = "РџРѕРєР°Р·С‹РІР°С‚СЊ РІСЃРµ СЂРµР·СѓР»СЊС‚Р°С‚С‹";
 ?>

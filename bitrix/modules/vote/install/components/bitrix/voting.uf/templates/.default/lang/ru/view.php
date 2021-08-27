@@ -1,12 +1,12 @@
 <?
-$MESS["VOTE_HIDE_MY_VOTE"] = "Ñêðûòü ìîé ãîëîñ";
-$MESS["VOTE_SUBMIT_BUTTON"] = "Ãîëîñîâàòü";
-$MESS["F_CAPTCHA_PROMT"] = "Ñèìâîëû íà êàðòèíêå";
-$MESS["VOTE_RESUBMIT_BUTTON"] = "Ïåðåãîëîñîâàòü";
-$MESS["VOTE_STOP_BUTTON"] = "Îñòàíîâèòü";
-$MESS["VOTE_RESUME_BUTTON"] = "Âîçîáíîâèòü";
-$MESS["VOTE_ERROR_DEFAULT"] = "Íåèçâåñòíàÿ îøèáêà.";
-$MESS["VOTE_RESULTS_BUTTON"] = "Ðåçóëüòàòû";
-$MESS["VOTE_EXPORT_BUTTON"] = "Ðåçóëüòàòû (xls)";
-$MESS["VOTE_RESULTS"] = "Âñåãî ãîëîñîâ:";
+$MESS["VOTE_HIDE_MY_VOTE"] = "Ð¡ÐºÑ€Ñ‹Ñ‚ÑŒ Ð¼Ð¾Ð¹ Ð³Ð¾Ð»Ð¾Ñ";
+$MESS["VOTE_SUBMIT_BUTTON"] = "Ð“Ð¾Ð»Ð¾ÑÐ¾Ð²Ð°Ñ‚ÑŒ";
+$MESS["F_CAPTCHA_PROMT"] = "Ð¡Ð¸Ð¼Ð²Ð¾Ð»Ñ‹ Ð½Ð° ÐºÐ°Ñ€Ñ‚Ð¸Ð½ÐºÐµ";
+$MESS["VOTE_RESUBMIT_BUTTON"] = "ÐŸÐµÑ€ÐµÐ³Ð¾Ð»Ð¾ÑÐ¾Ð²Ð°Ñ‚ÑŒ";
+$MESS["VOTE_STOP_BUTTON"] = "ÐžÑÑ‚Ð°Ð½Ð¾Ð²Ð¸Ñ‚ÑŒ";
+$MESS["VOTE_RESUME_BUTTON"] = "Ð’Ð¾Ð·Ð¾Ð±Ð½Ð¾Ð²Ð¸Ñ‚ÑŒ";
+$MESS["VOTE_ERROR_DEFAULT"] = "ÐÐµÐ¸Ð·Ð²ÐµÑÑ‚Ð½Ð°Ñ Ð¾ÑˆÐ¸Ð±ÐºÐ°.";
+$MESS["VOTE_RESULTS_BUTTON"] = "Ð ÐµÐ·ÑƒÐ»ÑŒÑ‚Ð°Ñ‚Ñ‹";
+$MESS["VOTE_EXPORT_BUTTON"] = "Ð ÐµÐ·ÑƒÐ»ÑŒÑ‚Ð°Ñ‚Ñ‹ (xls)";
+$MESS["VOTE_RESULTS"] = "Ð’ÑÐµÐ³Ð¾ Ð³Ð¾Ð»Ð¾ÑÐ¾Ð²:";
 ?>

@@ -1,16 +1,16 @@
 <?
-$MESS["CATALOG_SET_IBLOCK_ID"] = "Èíôîáëîê";
-$MESS["CATALOG_SET_IBLOCK_TYPE"] = "Òèï èíôîáëîêà";
-$MESS["CATALOG_SET_IBLOCK_ELEMENT_ID"] = "ID ýëåìåíòà";
-$MESS["IBLOCK_PRICES"] = "Öåíû";
-$MESS["CATALOG_SET_IBLOCK_PRICE_CODE"] = "Òèï öåíû";
-$MESS["CATALOG_SET_PRODUCT_PROPERTIES"] = "Õàðàêòåðèñòèêè òîâàðà";
-$MESS["CP_BCT_CONVERT_CURRENCY"] = "Ïîêàçûâàòü öåíû â îäíîé âàëþòå";
-$MESS["CP_BCT_CURRENCY_ID"] = "Âàëþòà, â êîòîðóþ áóäóò ñêîíâåðòèðîâàíû öåíû";
-$MESS["IBLOCK_VAT_INCLUDE"] = "Âêëþ÷àòü ÍÄÑ â öåíó";
-$MESS["IBLOCK_BASKET_URL"] = "URL, âåäóùèé íà ñòðàíèöó ñ êîðçèíîé ïîêóïàòåëÿ";
-$MESS["CP_BCT_CACHE_GROUPS"] = "Ó÷èòûâàòü ïðàâà äîñòóïà";
-$MESS["CP_BCT_OFFERS_CART_PROPERTIES"] = "Ñâîéñòâà ïðåäëîæåíèé, äîáàâëÿåìûå â êîðçèíó";
-$MESS["CP_CSC_PARAM_TITLE_BUNDLE_ITEMS_COUNT"] = "×èñëî ýëåìåíòîâ íàáîðà, ãîòîâûõ ê äîáàâëåíèþ â êîðçèíó";
-$MESS["BUNDLE_ITEMS_COUNT_TIP"] = "Â ýòî êîëè÷åñòâî íå âõîäèò òîâàð, êîòîðîìó ïðèíàäëåæèò íàáîð. Ìèíèìàëüíîå çíà÷åíèå - 1.";
+$MESS["CATALOG_SET_IBLOCK_ID"] = "Ð˜Ð½Ñ„Ð¾Ð±Ð»Ð¾Ðº";
+$MESS["CATALOG_SET_IBLOCK_TYPE"] = "Ð¢Ð¸Ð¿ Ð¸Ð½Ñ„Ð¾Ð±Ð»Ð¾ÐºÐ°";
+$MESS["CATALOG_SET_IBLOCK_ELEMENT_ID"] = "ID ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð°";
+$MESS["IBLOCK_PRICES"] = "Ð¦ÐµÐ½Ñ‹";
+$MESS["CATALOG_SET_IBLOCK_PRICE_CODE"] = "Ð¢Ð¸Ð¿ Ñ†ÐµÐ½Ñ‹";
+$MESS["CATALOG_SET_PRODUCT_PROPERTIES"] = "Ð¥Ð°Ñ€Ð°ÐºÑ‚ÐµÑ€Ð¸ÑÑ‚Ð¸ÐºÐ¸ Ñ‚Ð¾Ð²Ð°Ñ€Ð°";
+$MESS["CP_BCT_CONVERT_CURRENCY"] = "ÐŸÐ¾ÐºÐ°Ð·Ñ‹Ð²Ð°Ñ‚ÑŒ Ñ†ÐµÐ½Ñ‹ Ð² Ð¾Ð´Ð½Ð¾Ð¹ Ð²Ð°Ð»ÑŽÑ‚Ðµ";
+$MESS["CP_BCT_CURRENCY_ID"] = "Ð’Ð°Ð»ÑŽÑ‚Ð°, Ð² ÐºÐ¾Ñ‚Ð¾Ñ€ÑƒÑŽ Ð±ÑƒÐ´ÑƒÑ‚ ÑÐºÐ¾Ð½Ð²ÐµÑ€Ñ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ñ‹ Ñ†ÐµÐ½Ñ‹";
+$MESS["IBLOCK_VAT_INCLUDE"] = "Ð’ÐºÐ»ÑŽÑ‡Ð°Ñ‚ÑŒ ÐÐ”Ð¡ Ð² Ñ†ÐµÐ½Ñƒ";
+$MESS["IBLOCK_BASKET_URL"] = "URL, Ð²ÐµÐ´ÑƒÑ‰Ð¸Ð¹ Ð½Ð° ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñƒ Ñ ÐºÐ¾Ñ€Ð·Ð¸Ð½Ð¾Ð¹ Ð¿Ð¾ÐºÑƒÐ¿Ð°Ñ‚ÐµÐ»Ñ";
+$MESS["CP_BCT_CACHE_GROUPS"] = "Ð£Ñ‡Ð¸Ñ‚Ñ‹Ð²Ð°Ñ‚ÑŒ Ð¿Ñ€Ð°Ð²Ð° Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð°";
+$MESS["CP_BCT_OFFERS_CART_PROPERTIES"] = "Ð¡Ð²Ð¾Ð¹ÑÑ‚Ð²Ð° Ð¿Ñ€ÐµÐ´Ð»Ð¾Ð¶ÐµÐ½Ð¸Ð¹, Ð´Ð¾Ð±Ð°Ð²Ð»ÑÐµÐ¼Ñ‹Ðµ Ð² ÐºÐ¾Ñ€Ð·Ð¸Ð½Ñƒ";
+$MESS["CP_CSC_PARAM_TITLE_BUNDLE_ITEMS_COUNT"] = "Ð§Ð¸ÑÐ»Ð¾ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð¾Ð² Ð½Ð°Ð±Ð¾Ñ€Ð°, Ð³Ð¾Ñ‚Ð¾Ð²Ñ‹Ñ… Ðº Ð´Ð¾Ð±Ð°Ð²Ð»ÐµÐ½Ð¸ÑŽ Ð² ÐºÐ¾Ñ€Ð·Ð¸Ð½Ñƒ";
+$MESS["BUNDLE_ITEMS_COUNT_TIP"] = "Ð’ ÑÑ‚Ð¾ ÐºÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾ Ð½Ðµ Ð²Ñ…Ð¾Ð´Ð¸Ñ‚ Ñ‚Ð¾Ð²Ð°Ñ€, ÐºÐ¾Ñ‚Ð¾Ñ€Ð¾Ð¼Ñƒ Ð¿Ñ€Ð¸Ð½Ð°Ð´Ð»ÐµÐ¶Ð¸Ñ‚ Ð½Ð°Ð±Ð¾Ñ€. ÐœÐ¸Ð½Ð¸Ð¼Ð°Ð»ÑŒÐ½Ð¾Ðµ Ð·Ð½Ð°Ñ‡ÐµÐ½Ð¸Ðµ - 1.";
 ?>

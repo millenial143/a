@@ -1,6 +1,6 @@
 <?php
-$MESS['HLVIEW_COMPONENT_BLOCK_ID_PARAM'] = 'ID highload áëîêà';
-$MESS['HLVIEW_COMPONENT_KEY_PARAM'] = 'Êëþ÷ çàïèñè';
-$MESS['HLVIEW_COMPONENT_ID_PARAM'] = 'Çíà÷åíèå êëþ÷à çàïèñè';
-$MESS['HLVIEW_COMPONENT_LIST_URL_PARAM'] = 'Ïóòü ê ñòðàíèöå ñïèñêà çàïèñåé';
-$MESS['HLVIEW_COMPONENT_CHECK_PERMISSIONS_PARAM'] = 'Ïðîâåðÿòü ïðàâà äîñòóïà';
+$MESS['HLVIEW_COMPONENT_BLOCK_ID_PARAM'] = 'ID highload Ð±Ð»Ð¾ÐºÐ°';
+$MESS['HLVIEW_COMPONENT_KEY_PARAM'] = 'ÐšÐ»ÑŽÑ‡ Ð·Ð°Ð¿Ð¸ÑÐ¸';
+$MESS['HLVIEW_COMPONENT_ID_PARAM'] = 'Ð—Ð½Ð°Ñ‡ÐµÐ½Ð¸Ðµ ÐºÐ»ÑŽÑ‡Ð° Ð·Ð°Ð¿Ð¸ÑÐ¸';
+$MESS['HLVIEW_COMPONENT_LIST_URL_PARAM'] = 'ÐŸÑƒÑ‚ÑŒ Ðº ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ðµ ÑÐ¿Ð¸ÑÐºÐ° Ð·Ð°Ð¿Ð¸ÑÐµÐ¹';
+$MESS['HLVIEW_COMPONENT_CHECK_PERMISSIONS_PARAM'] = 'ÐŸÑ€Ð¾Ð²ÐµÑ€ÑÑ‚ÑŒ Ð¿Ñ€Ð°Ð²Ð° Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð°';

@@ -1,6 +1,6 @@
 <?
-$MESS["GD_MOBILESHOP_TITLE"] = "Следите за магазином";
-$MESS["GD_MOBILESHOP_TITLE2"] = "из любой точки мира!";
-$MESS["GD_MOBILESHOP_VIEW"] = "Подробнее";
-$MESS["GD_MOBILESHOP_DOWNLOAD"] = "Загрузить приложение <br> для мобильных устройств:";
+$MESS["GD_MOBILESHOP_TITLE"] = "РЎР»РµРґРёС‚Рµ Р·Р° РјР°РіР°Р·РёРЅРѕРј";
+$MESS["GD_MOBILESHOP_TITLE2"] = "РёР· Р»СЋР±РѕР№ С‚РѕС‡РєРё РјРёСЂР°!";
+$MESS["GD_MOBILESHOP_VIEW"] = "РџРѕРґСЂРѕР±РЅРµРµ";
+$MESS["GD_MOBILESHOP_DOWNLOAD"] = "Р—Р°РіСЂСѓР·РёС‚СЊ РїСЂРёР»РѕР¶РµРЅРёРµ <br> РґР»СЏ РјРѕР±РёР»СЊРЅС‹С… СѓСЃС‚СЂРѕР№СЃС‚РІ:";
 ?>

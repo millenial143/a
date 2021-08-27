@@ -1,7 +1,7 @@
 <?
-$MESS["UI_BUTTON_PANEL_SAVE"] = "Ñîõðàíèòü";
-$MESS["UI_BUTTON_PANEL_APPLY"] = "Ïðèìåíèòü";
-$MESS["UI_BUTTON_PANEL_CANCEL"] = "Îòìåíà";
-$MESS["UI_BUTTON_PANEL_CLOSE"] = "Çàêðûòü";
-$MESS["UI_BUTTON_PANEL_REMOVE"] = "Óäàëèòü";
+$MESS["UI_BUTTON_PANEL_SAVE"] = "Ð¡Ð¾Ñ…Ñ€Ð°Ð½Ð¸Ñ‚ÑŒ";
+$MESS["UI_BUTTON_PANEL_APPLY"] = "ÐŸÑ€Ð¸Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ";
+$MESS["UI_BUTTON_PANEL_CANCEL"] = "ÐžÑ‚Ð¼ÐµÐ½Ð°";
+$MESS["UI_BUTTON_PANEL_CLOSE"] = "Ð—Ð°ÐºÑ€Ñ‹Ñ‚ÑŒ";
+$MESS["UI_BUTTON_PANEL_REMOVE"] = "Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ";
 ?>

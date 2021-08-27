@@ -1,2 +1,2 @@
 <?php
-$MESS['LANDING_BLOCK_STORE.COMPARE_NAME'] = 'Ñðàâíåíèå';
+$MESS['LANDING_BLOCK_STORE.COMPARE_NAME'] = 'Ð¡Ñ€Ð°Ð²Ð½ÐµÐ½Ð¸Ðµ';

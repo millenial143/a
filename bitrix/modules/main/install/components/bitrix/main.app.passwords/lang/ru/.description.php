@@ -1,5 +1,5 @@
 <?
-$MESS["main_app_passwords_comp_name"] = "Ïàðîëè ïðèëîæåíèé";
-$MESS["main_app_passwords_comp_desc"] = "Óïðàâëåíèå ïàðîëÿìè ïðèëîæåíèé";
-$MESS["main_app_passwords_comp_user"] = "Ïîëüçîâàòåëü";
+$MESS["main_app_passwords_comp_name"] = "ÐŸÐ°Ñ€Ð¾Ð»Ð¸ Ð¿Ñ€Ð¸Ð»Ð¾Ð¶ÐµÐ½Ð¸Ð¹";
+$MESS["main_app_passwords_comp_desc"] = "Ð£Ð¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¸Ðµ Ð¿Ð°Ñ€Ð¾Ð»ÑÐ¼Ð¸ Ð¿Ñ€Ð¸Ð»Ð¾Ð¶ÐµÐ½Ð¸Ð¹";
+$MESS["main_app_passwords_comp_user"] = "ÐŸÐ¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒ";
 ?>

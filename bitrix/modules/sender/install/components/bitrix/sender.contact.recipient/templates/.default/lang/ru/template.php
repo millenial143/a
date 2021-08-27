@@ -1,13 +1,13 @@
 <?
-$MESS["SENDER_CONTACT_LIST_BTN_ADD"] = "Äîáàâèòü â ñïèñîê";
-$MESS["SENDER_CONTACT_LIST_BTN_REMOVE_FROM_BL"] = "Óäàëèòü èç ÷åðíîãî ñïèñêà";
-$MESS["SENDER_CONTACT_LIST_BTN_REMOVE_FROM_BL_TITLE"] = "Óäàëèòü èç ÷åðíîãî ñïèñêà";
-$MESS["SENDER_CONTACT_LIST_BTN_ADD_TO_BL"] = "Äîáàâèòü â ÷åðíûé ñïèñîê";
-$MESS["SENDER_CONTACT_LIST_BTN_ADD_TO_BL_TITLE"] = "Äîáàâèòü â ÷åðíûé ñïèñîê";
-$MESS["SENDER_CONTACT_LIST_BTN_REMOVE_FROM_LIST"] = "Óäàëèòü";
-$MESS["SENDER_CONTACT_LIST_BTN_REMOVE_FROM_LIST_TITLE"] = "Óäàëèòü èç òåêóùåãî ñïèñêà";
-$MESS["SENDER_CONTACT_LIST_BTN_REMOVE"] = "Óäàëèòü";
-$MESS["SENDER_CONTACT_LIST_BTN_REMOVE_TITLE"] = "Óäàëèòü èç òåêóùåãî ñïèñêà";
-$MESS["SENDER_CONTACT_LIST_BTN_REMOVE_FROM_L"] = "Óäàëèòü èç ñïèñêà";
-$MESS["SENDER_CONTACT_LIST_BTN_REMOVE_FROM_L_TITLE"] = "Óäàëèòü èç ñïèñêà";
+$MESS["SENDER_CONTACT_LIST_BTN_ADD"] = "Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ Ð² ÑÐ¿Ð¸ÑÐ¾Ðº";
+$MESS["SENDER_CONTACT_LIST_BTN_REMOVE_FROM_BL"] = "Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ Ð¸Ð· Ñ‡ÐµÑ€Ð½Ð¾Ð³Ð¾ ÑÐ¿Ð¸ÑÐºÐ°";
+$MESS["SENDER_CONTACT_LIST_BTN_REMOVE_FROM_BL_TITLE"] = "Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ Ð¸Ð· Ñ‡ÐµÑ€Ð½Ð¾Ð³Ð¾ ÑÐ¿Ð¸ÑÐºÐ°";
+$MESS["SENDER_CONTACT_LIST_BTN_ADD_TO_BL"] = "Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ Ð² Ñ‡ÐµÑ€Ð½Ñ‹Ð¹ ÑÐ¿Ð¸ÑÐ¾Ðº";
+$MESS["SENDER_CONTACT_LIST_BTN_ADD_TO_BL_TITLE"] = "Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ Ð² Ñ‡ÐµÑ€Ð½Ñ‹Ð¹ ÑÐ¿Ð¸ÑÐ¾Ðº";
+$MESS["SENDER_CONTACT_LIST_BTN_REMOVE_FROM_LIST"] = "Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ";
+$MESS["SENDER_CONTACT_LIST_BTN_REMOVE_FROM_LIST_TITLE"] = "Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ Ð¸Ð· Ñ‚ÐµÐºÑƒÑ‰ÐµÐ³Ð¾ ÑÐ¿Ð¸ÑÐºÐ°";
+$MESS["SENDER_CONTACT_LIST_BTN_REMOVE"] = "Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ";
+$MESS["SENDER_CONTACT_LIST_BTN_REMOVE_TITLE"] = "Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ Ð¸Ð· Ñ‚ÐµÐºÑƒÑ‰ÐµÐ³Ð¾ ÑÐ¿Ð¸ÑÐºÐ°";
+$MESS["SENDER_CONTACT_LIST_BTN_REMOVE_FROM_L"] = "Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ Ð¸Ð· ÑÐ¿Ð¸ÑÐºÐ°";
+$MESS["SENDER_CONTACT_LIST_BTN_REMOVE_FROM_L_TITLE"] = "Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ Ð¸Ð· ÑÐ¿Ð¸ÑÐºÐ°";
 ?>

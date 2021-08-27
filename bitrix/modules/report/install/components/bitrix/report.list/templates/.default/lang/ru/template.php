@@ -1,51 +1,51 @@
 <?php
 
-$MESS['REPORT_LIST'] = 'Ñïèñîê îò÷åòîâ';
+$MESS['REPORT_LIST'] = 'Ð¡Ð¿Ð¸ÑÐ¾Ðº Ð¾Ñ‚Ñ‡ÐµÑ‚Ð¾Ð²';
 
-$MESS["TASKS_REPORT_REPORTS"] = "Îò÷åòû";
-$MESS["TASKS_REPORT_TASKS"] = "Çàäà÷è";
-$MESS["TASKS_REPORT_TEMPLATES"] = "Øàáëîíû";
+$MESS["TASKS_REPORT_REPORTS"] = "ÐžÑ‚Ñ‡ÐµÑ‚Ñ‹";
+$MESS["TASKS_REPORT_TASKS"] = "Ð—Ð°Ð´Ð°Ñ‡Ð¸";
+$MESS["TASKS_REPORT_TEMPLATES"] = "Ð¨Ð°Ð±Ð»Ð¾Ð½Ñ‹";
 
-$MESS['REPORT_TABLE_TITLE'] = 'Íàçâàíèå îò÷åòà';
-$MESS['REPORT_TABLE_CREATE_BY'] = 'Àâòîð';
-$MESS['REPORT_TABLE_CREATE_DATE'] = 'Äàòà ñîçäàíèÿ';
+$MESS['REPORT_TABLE_TITLE'] = 'ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ Ð¾Ñ‚Ñ‡ÐµÑ‚Ð°';
+$MESS['REPORT_TABLE_CREATE_BY'] = 'ÐÐ²Ñ‚Ð¾Ñ€';
+$MESS['REPORT_TABLE_CREATE_DATE'] = 'Ð”Ð°Ñ‚Ð° ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ñ';
 
-$MESS['REPORT_EDIT_SHORT'] = 'Ðåäàêòèðîâàòü';
-$MESS['REPORT_EDIT_FULL'] = 'Ðåäàêòèðîâàòü îò÷åò';
-$MESS['REPORT_SHARING_SHORT'] = 'Îáùèé äîñòóï';
-$MESS['REPORT_SHARING_FULL'] = 'Íàñòðîèòü îáùèé äîñòóï';
-$MESS['REPORT_COPY_SHORT'] = 'Êîïèðîâàòü';
-$MESS['REPORT_COPY_FULL'] = 'Êîïèðîâàòü îò÷åò';
-$MESS['REPORT_EXPORT_SHORT'] = 'Ýêñïîðòèðîâàòü';
-$MESS['REPORT_EXPORT_FULL'] = 'Ýêñïîðòèðîâàòü îò÷åò';
-$MESS['REPORT_DELETE_SHORT'] = 'Óäàëèòü';
-$MESS['REPORT_DELETE_FULL'] = 'Óäàëèòü îò÷åò';
+$MESS['REPORT_EDIT_SHORT'] = 'Ð ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ';
+$MESS['REPORT_EDIT_FULL'] = 'Ð ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ Ð¾Ñ‚Ñ‡ÐµÑ‚';
+$MESS['REPORT_SHARING_SHORT'] = 'ÐžÐ±Ñ‰Ð¸Ð¹ Ð´Ð¾ÑÑ‚ÑƒÐ¿';
+$MESS['REPORT_SHARING_FULL'] = 'ÐÐ°ÑÑ‚Ñ€Ð¾Ð¸Ñ‚ÑŒ Ð¾Ð±Ñ‰Ð¸Ð¹ Ð´Ð¾ÑÑ‚ÑƒÐ¿';
+$MESS['REPORT_COPY_SHORT'] = 'ÐšÐ¾Ð¿Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ';
+$MESS['REPORT_COPY_FULL'] = 'ÐšÐ¾Ð¿Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ Ð¾Ñ‚Ñ‡ÐµÑ‚';
+$MESS['REPORT_EXPORT_SHORT'] = 'Ð­ÐºÑÐ¿Ð¾Ñ€Ñ‚Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ';
+$MESS['REPORT_EXPORT_FULL'] = 'Ð­ÐºÑÐ¿Ð¾Ñ€Ñ‚Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ Ð¾Ñ‚Ñ‡ÐµÑ‚';
+$MESS['REPORT_DELETE_SHORT'] = 'Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ';
+$MESS['REPORT_DELETE_FULL'] = 'Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ Ð¾Ñ‚Ñ‡ÐµÑ‚';
 
-$MESS['REPORT_ADD'] = 'Äîáàâèòü îò÷åò';
+$MESS['REPORT_ADD'] = 'Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ Ð¾Ñ‚Ñ‡ÐµÑ‚';
 
-$MESS['REPORT_EMPTY_LIST'] = 'Ó Âàñ íåò íè îäíîãî ñêîíñòðóèðîâàííîãî îò÷åòà.';
-$MESS['REPORT_CREATE_DEFAULT'] = 'Ñîçäàòü òèïîâûå îò÷åòû';
+$MESS['REPORT_EMPTY_LIST'] = 'Ð£ Ð’Ð°Ñ Ð½ÐµÑ‚ Ð½Ð¸ Ð¾Ð´Ð½Ð¾Ð³Ð¾ ÑÐºÐ¾Ð½ÑÑ‚Ñ€ÑƒÐ¸Ñ€Ð¾Ð²Ð°Ð½Ð½Ð¾Ð³Ð¾ Ð¾Ñ‚Ñ‡ÐµÑ‚Ð°.';
+$MESS['REPORT_CREATE_DEFAULT'] = 'Ð¡Ð¾Ð·Ð´Ð°Ñ‚ÑŒ Ñ‚Ð¸Ð¿Ð¾Ð²Ñ‹Ðµ Ð¾Ñ‚Ñ‡ÐµÑ‚Ñ‹';
 
-$MESS['REPORT_DELETE_CONFIRM'] = 'Äåéñòâèòåëüíî óäàëèòü?';
+$MESS['REPORT_DELETE_CONFIRM'] = 'Ð”ÐµÐ¹ÑÑ‚Ð²Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ð¾ ÑƒÐ´Ð°Ð»Ð¸Ñ‚ÑŒ?';
 
-$MESS['REPORT_UPDATE_14_5_2_MESSAGE'] = 'Îáðàòèòå âíèìàíèå, ÷òî ñòàíäàðòíûå øàáëîíû íåëüçÿ ðåäàêòèðîâàòü, íî ïðè '.
-	'íåîáõîäèìîñòè, âû ìîæåòå ñîçäàòü ñâîé øàáëîí îò÷åòà íà îñíîâàíèè ïðåäëîæåííûõ, ñ ïîìîùüþ êíîïêè "Êîïèðîâàòü" èëè '.
-	'ñîçäàòü ïîëíîñòüþ ñâîé îò÷åò.';
+$MESS['REPORT_UPDATE_14_5_2_MESSAGE'] = 'ÐžÐ±Ñ€Ð°Ñ‚Ð¸Ñ‚Ðµ Ð²Ð½Ð¸Ð¼Ð°Ð½Ð¸Ðµ, Ñ‡Ñ‚Ð¾ ÑÑ‚Ð°Ð½Ð´Ð°Ñ€Ñ‚Ð½Ñ‹Ðµ ÑˆÐ°Ð±Ð»Ð¾Ð½Ñ‹ Ð½ÐµÐ»ÑŒÐ·Ñ Ñ€ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ, Ð½Ð¾ Ð¿Ñ€Ð¸ '.
+	'Ð½ÐµÐ¾Ð±Ñ…Ð¾Ð´Ð¸Ð¼Ð¾ÑÑ‚Ð¸, Ð²Ñ‹ Ð¼Ð¾Ð¶ÐµÑ‚Ðµ ÑÐ¾Ð·Ð´Ð°Ñ‚ÑŒ ÑÐ²Ð¾Ð¹ ÑˆÐ°Ð±Ð»Ð¾Ð½ Ð¾Ñ‚Ñ‡ÐµÑ‚Ð° Ð½Ð° Ð¾ÑÐ½Ð¾Ð²Ð°Ð½Ð¸Ð¸ Ð¿Ñ€ÐµÐ´Ð»Ð¾Ð¶ÐµÐ½Ð½Ñ‹Ñ…, Ñ Ð¿Ð¾Ð¼Ð¾Ñ‰ÑŒÑŽ ÐºÐ½Ð¾Ð¿ÐºÐ¸ "ÐšÐ¾Ð¿Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ" Ð¸Ð»Ð¸ '.
+	'ÑÐ¾Ð·Ð´Ð°Ñ‚ÑŒ Ð¿Ð¾Ð»Ð½Ð¾ÑÑ‚ÑŒÑŽ ÑÐ²Ð¾Ð¹ Ð¾Ñ‚Ñ‡ÐµÑ‚.';
 
-$MESS["REPORT_LIST_SHARING_TITLE_POPUP"] = "Îáùèé äîñòóï";
-$MESS["REPORT_LIST_BTN_SAVE"] = "Ñîõðàíèòü";
-$MESS["REPORT_LIST_BTN_CLOSE"] = "Çàêðûòü";
-$MESS["REPORT_LIST_SHARING_OWNER"] = "Âëàäåëåö";
-$MESS["REPORT_LIST_SHARING_NAME_RIGHTS_USER"] = "Ïîëüçîâàòåëè";
-$MESS["REPORT_LIST_SHARING_NAME_RIGHTS"] = "Ïðàâà äîñòóïà";
-$MESS["REPORT_LIST_SHARING_NAME_ADD_RIGHTS_USER"] = "Äîáàâèòü åù¸";
+$MESS["REPORT_LIST_SHARING_TITLE_POPUP"] = "ÐžÐ±Ñ‰Ð¸Ð¹ Ð´Ð¾ÑÑ‚ÑƒÐ¿";
+$MESS["REPORT_LIST_BTN_SAVE"] = "Ð¡Ð¾Ñ…Ñ€Ð°Ð½Ð¸Ñ‚ÑŒ";
+$MESS["REPORT_LIST_BTN_CLOSE"] = "Ð—Ð°ÐºÑ€Ñ‹Ñ‚ÑŒ";
+$MESS["REPORT_LIST_SHARING_OWNER"] = "Ð’Ð»Ð°Ð´ÐµÐ»ÐµÑ†";
+$MESS["REPORT_LIST_SHARING_NAME_RIGHTS_USER"] = "ÐŸÐ¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ð¸";
+$MESS["REPORT_LIST_SHARING_NAME_RIGHTS"] = "ÐŸÑ€Ð°Ð²Ð° Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð°";
+$MESS["REPORT_LIST_SHARING_NAME_ADD_RIGHTS_USER"] = "Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ ÐµÑ‰Ñ‘";
 
-$MESS["REPORT_COMPANY_TITLE"] = "Îò÷¸òû êîìïàíèè";
-$MESS["REPORT_PERSONAL_TITLE"] = "Ëè÷íûå îò÷¸òû";
-$MESS["REPORT_DEFAULT_TITLE"] = "Ñòàíäàðòíûå îò÷¸òû";
-$MESS["REPORT_IMPORT_TITLE"] = "Èìïîðò îò÷¸òà";
-$MESS["REPORT_IMPORT_BUTTON"] = "Èìïîðòèðîâàòü";
-$MESS["REPORT_IMPORT_BUTTON_TEXT"] = "Çàãðóçèòü ôàéë";
-$MESS["REPORT_IMPORT_ERROR_UPLOADED_FILE"] = "Íåîáõîäèìî çàãðóçèòü ôàéë";
-$MESS["REPORT_IMPORT_ERROR_FILE_EXT"] = "Íåâåðíûé ôîðìàò ôàéëà";
-$MESS["REPORT_IMPORT_DESCRIPTION"] = "Ôàéë äîëæåí áûòü â ôîðìàòå csv.";
+$MESS["REPORT_COMPANY_TITLE"] = "ÐžÑ‚Ñ‡Ñ‘Ñ‚Ñ‹ ÐºÐ¾Ð¼Ð¿Ð°Ð½Ð¸Ð¸";
+$MESS["REPORT_PERSONAL_TITLE"] = "Ð›Ð¸Ñ‡Ð½Ñ‹Ðµ Ð¾Ñ‚Ñ‡Ñ‘Ñ‚Ñ‹";
+$MESS["REPORT_DEFAULT_TITLE"] = "Ð¡Ñ‚Ð°Ð½Ð´Ð°Ñ€Ñ‚Ð½Ñ‹Ðµ Ð¾Ñ‚Ñ‡Ñ‘Ñ‚Ñ‹";
+$MESS["REPORT_IMPORT_TITLE"] = "Ð˜Ð¼Ð¿Ð¾Ñ€Ñ‚ Ð¾Ñ‚Ñ‡Ñ‘Ñ‚Ð°";
+$MESS["REPORT_IMPORT_BUTTON"] = "Ð˜Ð¼Ð¿Ð¾Ñ€Ñ‚Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ";
+$MESS["REPORT_IMPORT_BUTTON_TEXT"] = "Ð—Ð°Ð³Ñ€ÑƒÐ·Ð¸Ñ‚ÑŒ Ñ„Ð°Ð¹Ð»";
+$MESS["REPORT_IMPORT_ERROR_UPLOADED_FILE"] = "ÐÐµÐ¾Ð±Ñ…Ð¾Ð´Ð¸Ð¼Ð¾ Ð·Ð°Ð³Ñ€ÑƒÐ·Ð¸Ñ‚ÑŒ Ñ„Ð°Ð¹Ð»";
+$MESS["REPORT_IMPORT_ERROR_FILE_EXT"] = "ÐÐµÐ²ÐµÑ€Ð½Ñ‹Ð¹ Ñ„Ð¾Ñ€Ð¼Ð°Ñ‚ Ñ„Ð°Ð¹Ð»Ð°";
+$MESS["REPORT_IMPORT_DESCRIPTION"] = "Ð¤Ð°Ð¹Ð» Ð´Ð¾Ð»Ð¶ÐµÐ½ Ð±Ñ‹Ñ‚ÑŒ Ð² Ñ„Ð¾Ñ€Ð¼Ð°Ñ‚Ðµ csv.";

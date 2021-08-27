@@ -1,2 +1,2 @@
 <?php
-$MESS['SALE_BSMB_DEVELOPER_SITE_BUTTON_TITLE'] = 'Äåâåëîïåðñêèé ñàéò';
+$MESS['SALE_BSMB_DEVELOPER_SITE_BUTTON_TITLE'] = 'Ð”ÐµÐ²ÐµÐ»Ð¾Ð¿ÐµÑ€ÑÐºÐ¸Ð¹ ÑÐ°Ð¹Ñ‚';

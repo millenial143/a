@@ -1,15 +1,15 @@
 <?
-$MESS ['F_DEFAULT_TID'] = "ID òåìû";
-$MESS ['F_DEFAULT_FID'] = "ID ôîðóìà";
-$MESS ['F_DEFAULT_MID'] = "ID ñîîáùåíèÿ";
-$MESS ['F_URL_TEMPLATES'] = "Óïðàâëåíèå àäðåñàìè ñòðàíèö";
-$MESS ['F_INDEX_TEMPLATE'] = "Ñòðàíèöà ñïèñêà ôîðóìîâ";
-$MESS ['F_READ_TEMPLATE'] = "Ñòðàíèöà ÷òåíèÿ òåìû";
-$MESS ['F_LIST_TEMPLATE'] = "Ñòðàíèöà ñïèñêà òåì";
-$MESS ['F_PROFILE_VIEW_TEMPLATE'] = "Ñòðàíèöà ïðîôèëÿ ïîëüçîâàòåëÿ";
-$MESS ['F_TOPIC_SEARCH_TEMPLATE'] = "Ñòðàíèöà ïîèñêà òåìû ôîðóìà";
-$MESS ['F_SET_NAVIGATION'] = "Ïîêàçûâàòü íàâèãàöèþ";
-$MESS ['F_DATE_FORMAT'] = "Ôîðìàò ïîêàçà äàòû";
-$MESS ['F_DATE_TIME_FORMAT'] = "Ôîðìàò ïîêàçà äàòû è âðåìåíè";
-$MESS ['F_IMAGE_SIZE'] = "Ðàçìåð ïðèêðåïëåííîãî ðèñóíêà (px)";
+$MESS ['F_DEFAULT_TID'] = "ID Ñ‚ÐµÐ¼Ñ‹";
+$MESS ['F_DEFAULT_FID'] = "ID Ñ„Ð¾Ñ€ÑƒÐ¼Ð°";
+$MESS ['F_DEFAULT_MID'] = "ID ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ";
+$MESS ['F_URL_TEMPLATES'] = "Ð£Ð¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¸Ðµ Ð°Ð´Ñ€ÐµÑÐ°Ð¼Ð¸ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†";
+$MESS ['F_INDEX_TEMPLATE'] = "Ð¡Ñ‚Ñ€Ð°Ð½Ð¸Ñ†Ð° ÑÐ¿Ð¸ÑÐºÐ° Ñ„Ð¾Ñ€ÑƒÐ¼Ð¾Ð²";
+$MESS ['F_READ_TEMPLATE'] = "Ð¡Ñ‚Ñ€Ð°Ð½Ð¸Ñ†Ð° Ñ‡Ñ‚ÐµÐ½Ð¸Ñ Ñ‚ÐµÐ¼Ñ‹";
+$MESS ['F_LIST_TEMPLATE'] = "Ð¡Ñ‚Ñ€Ð°Ð½Ð¸Ñ†Ð° ÑÐ¿Ð¸ÑÐºÐ° Ñ‚ÐµÐ¼";
+$MESS ['F_PROFILE_VIEW_TEMPLATE'] = "Ð¡Ñ‚Ñ€Ð°Ð½Ð¸Ñ†Ð° Ð¿Ñ€Ð¾Ñ„Ð¸Ð»Ñ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ";
+$MESS ['F_TOPIC_SEARCH_TEMPLATE'] = "Ð¡Ñ‚Ñ€Ð°Ð½Ð¸Ñ†Ð° Ð¿Ð¾Ð¸ÑÐºÐ° Ñ‚ÐµÐ¼Ñ‹ Ñ„Ð¾Ñ€ÑƒÐ¼Ð°";
+$MESS ['F_SET_NAVIGATION'] = "ÐŸÐ¾ÐºÐ°Ð·Ñ‹Ð²Ð°Ñ‚ÑŒ Ð½Ð°Ð²Ð¸Ð³Ð°Ñ†Ð¸ÑŽ";
+$MESS ['F_DATE_FORMAT'] = "Ð¤Ð¾Ñ€Ð¼Ð°Ñ‚ Ð¿Ð¾ÐºÐ°Ð·Ð° Ð´Ð°Ñ‚Ñ‹";
+$MESS ['F_DATE_TIME_FORMAT'] = "Ð¤Ð¾Ñ€Ð¼Ð°Ñ‚ Ð¿Ð¾ÐºÐ°Ð·Ð° Ð´Ð°Ñ‚Ñ‹ Ð¸ Ð²Ñ€ÐµÐ¼ÐµÐ½Ð¸";
+$MESS ['F_IMAGE_SIZE'] = "Ð Ð°Ð·Ð¼ÐµÑ€ Ð¿Ñ€Ð¸ÐºÑ€ÐµÐ¿Ð»ÐµÐ½Ð½Ð¾Ð³Ð¾ Ñ€Ð¸ÑÑƒÐ½ÐºÐ° (px)";
 ?>

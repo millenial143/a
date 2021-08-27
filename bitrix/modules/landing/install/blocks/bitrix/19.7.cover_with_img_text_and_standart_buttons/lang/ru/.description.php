@@ -1,8 +1,8 @@
 <?php
-$MESS['LANDING_BLOCK_19_9_NAME'] = 'Òåêñò ñ äâóìÿ êíîïêàìè è êàðòèíêîé ñïðàâà';
-$MESS['LANDING_BLOCK_19_9_CARD'] = 'Êíîïêà';
-$MESS['LANDING_BLOCK_19_9_TITLE'] = 'Çàãîëîâîê';
-$MESS['LANDING_BLOCK_19_9_TEXT'] = 'Òåêñò';
-$MESS['LANDING_BLOCK_19_9_IMG'] = 'Êàðòèíêà';
-$MESS['LANDING_BLOCK_19_9_ICON'] = 'Èêîíêà';
-$MESS['LANDING_BLOCK_19_9_BUTTON'] = 'Êíîïêà';
+$MESS['LANDING_BLOCK_19_9_NAME'] = 'Ð¢ÐµÐºÑÑ‚ Ñ Ð´Ð²ÑƒÐ¼Ñ ÐºÐ½Ð¾Ð¿ÐºÐ°Ð¼Ð¸ Ð¸ ÐºÐ°Ñ€Ñ‚Ð¸Ð½ÐºÐ¾Ð¹ ÑÐ¿Ñ€Ð°Ð²Ð°';
+$MESS['LANDING_BLOCK_19_9_CARD'] = 'ÐšÐ½Ð¾Ð¿ÐºÐ°';
+$MESS['LANDING_BLOCK_19_9_TITLE'] = 'Ð—Ð°Ð³Ð¾Ð»Ð¾Ð²Ð¾Ðº';
+$MESS['LANDING_BLOCK_19_9_TEXT'] = 'Ð¢ÐµÐºÑÑ‚';
+$MESS['LANDING_BLOCK_19_9_IMG'] = 'ÐšÐ°Ñ€Ñ‚Ð¸Ð½ÐºÐ°';
+$MESS['LANDING_BLOCK_19_9_ICON'] = 'Ð˜ÐºÐ¾Ð½ÐºÐ°';
+$MESS['LANDING_BLOCK_19_9_BUTTON'] = 'ÐšÐ½Ð¾Ð¿ÐºÐ°';

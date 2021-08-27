@@ -1,4 +1,4 @@
 <?php
-$MESS['LANDING_BLOCK_32.6.IMG_GRID_4_COLS_NO_GUTTERS_NAME'] = 'Íàáîð êàðòèíîê â 4 êîëîíêè áåç îòñòóïîâ íà âñþ øèðèíó ýêðàíà';
-$MESS['LANDING_BLOCK_32.6.IMG_GRID_4_COLS_NO_GUTTERS_NODES_LANDINGBLOCKNODEIMG'] = 'Êàðòèíêà';
-$MESS['LANDING_BLOCK_32.6.IMG_GRID_4_COLS_NO_GUTTERS_NODES_LANDINGBLOCKNODETXT'] = 'Íàçâàíèå';
+$MESS['LANDING_BLOCK_32.6.IMG_GRID_4_COLS_NO_GUTTERS_NAME'] = 'ÐÐ°Ð±Ð¾Ñ€ ÐºÐ°Ñ€Ñ‚Ð¸Ð½Ð¾Ðº Ð² 4 ÐºÐ¾Ð»Ð¾Ð½ÐºÐ¸ Ð±ÐµÐ· Ð¾Ñ‚ÑÑ‚ÑƒÐ¿Ð¾Ð² Ð½Ð° Ð²ÑÑŽ ÑˆÐ¸Ñ€Ð¸Ð½Ñƒ ÑÐºÑ€Ð°Ð½Ð°';
+$MESS['LANDING_BLOCK_32.6.IMG_GRID_4_COLS_NO_GUTTERS_NODES_LANDINGBLOCKNODEIMG'] = 'ÐšÐ°Ñ€Ñ‚Ð¸Ð½ÐºÐ°';
+$MESS['LANDING_BLOCK_32.6.IMG_GRID_4_COLS_NO_GUTTERS_NODES_LANDINGBLOCKNODETXT'] = 'ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ';

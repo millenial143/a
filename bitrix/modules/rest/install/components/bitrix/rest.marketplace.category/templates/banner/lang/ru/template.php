@@ -1,5 +1,5 @@
 <?
-$MESS["REST_MARKETPLACE_CATEGORY_BANNER_TITLE_APP"] = "Ðåøåíèÿ îò ïàðòíåðîâ";
-$MESS["REST_MARKETPLACE_CATEGORY_BANNER_TITLE"] = "Ìàðêåò";
-$MESS["REST_MARKETPLACE_CATEGORY_BANNER_DESCRIPTION"] = "Ïîäáåðèòå ãîòîâûå îòðàñëåâûå ðåøåíèÿ äëÿ ñâîåãî áèçíåñà â êàòàëîãå ïàðòíåðñêèõ ïðèëîæåíèé";
-$MESS["REST_MARKETPLACE_CATEGORY_INSTALL_LINK_NAME"] = "ÓÑÒÀÍÎÂÈÒÜ";
+$MESS["REST_MARKETPLACE_CATEGORY_BANNER_TITLE_APP"] = "Ð ÐµÑˆÐµÐ½Ð¸Ñ Ð¾Ñ‚ Ð¿Ð°Ñ€Ñ‚Ð½ÐµÑ€Ð¾Ð²";
+$MESS["REST_MARKETPLACE_CATEGORY_BANNER_TITLE"] = "ÐœÐ°Ñ€ÐºÐµÑ‚";
+$MESS["REST_MARKETPLACE_CATEGORY_BANNER_DESCRIPTION"] = "ÐŸÐ¾Ð´Ð±ÐµÑ€Ð¸Ñ‚Ðµ Ð³Ð¾Ñ‚Ð¾Ð²Ñ‹Ðµ Ð¾Ñ‚Ñ€Ð°ÑÐ»ÐµÐ²Ñ‹Ðµ Ñ€ÐµÑˆÐµÐ½Ð¸Ñ Ð´Ð»Ñ ÑÐ²Ð¾ÐµÐ³Ð¾ Ð±Ð¸Ð·Ð½ÐµÑÐ° Ð² ÐºÐ°Ñ‚Ð°Ð»Ð¾Ð³Ðµ Ð¿Ð°Ñ€Ñ‚Ð½ÐµÑ€ÑÐºÐ¸Ñ… Ð¿Ñ€Ð¸Ð»Ð¾Ð¶ÐµÐ½Ð¸Ð¹";
+$MESS["REST_MARKETPLACE_CATEGORY_INSTALL_LINK_NAME"] = "Ð£Ð¡Ð¢ÐÐÐžÐ’Ð˜Ð¢Ð¬";

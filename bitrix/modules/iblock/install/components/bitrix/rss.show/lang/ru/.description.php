@@ -1,5 +1,5 @@
 <?
-$MESS ['T_IBLOCK_DESC_RSS_SHOW'] = "RSS íîâîñòè (èìïîðò)";
-$MESS ['T_IBLOCK_DESC_RSS_SHOW_DESC'] = "Èìïîðò íîâîñòåé ñ äðóãîãî ñàéòà";
+$MESS ['T_IBLOCK_DESC_RSS_SHOW'] = "RSS Ð½Ð¾Ð²Ð¾ÑÑ‚Ð¸ (Ð¸Ð¼Ð¿Ð¾Ñ€Ñ‚)";
+$MESS ['T_IBLOCK_DESC_RSS_SHOW_DESC'] = "Ð˜Ð¼Ð¿Ð¾Ñ€Ñ‚ Ð½Ð¾Ð²Ð¾ÑÑ‚ÐµÐ¹ Ñ Ð´Ñ€ÑƒÐ³Ð¾Ð³Ð¾ ÑÐ°Ð¹Ñ‚Ð°";
 $MESS ['T_IBLOCK_DESC_RSS'] = "RSS";
 ?>

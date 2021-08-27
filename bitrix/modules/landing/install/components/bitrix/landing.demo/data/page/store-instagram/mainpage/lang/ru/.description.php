@@ -1,3 +1,3 @@
 <?php
-$MESS["LANDING_DEMO_STORE_INSTAGRAM--MAINPAGE--NAME"] = "Instagram-ìàãàçèí";
-$MESS['LANDING_DEMO_STORE_INSTAGRAM--MAINPAGE--DESC'] = 'Ïðîäâèãàåòå ñâîè òîâàðû ñ ïîìîùüþ Instagram? Èìïîðòèðóéòå èõ â ãîòîâûé øàáëîí ìàãàçèíà, ÷òîáû íà÷àòü ïðîäàâàòü!';
+$MESS["LANDING_DEMO_STORE_INSTAGRAM--MAINPAGE--NAME"] = "Instagram-Ð¼Ð°Ð³Ð°Ð·Ð¸Ð½";
+$MESS['LANDING_DEMO_STORE_INSTAGRAM--MAINPAGE--DESC'] = 'ÐŸÑ€Ð¾Ð´Ð²Ð¸Ð³Ð°ÐµÑ‚Ðµ ÑÐ²Ð¾Ð¸ Ñ‚Ð¾Ð²Ð°Ñ€Ñ‹ Ñ Ð¿Ð¾Ð¼Ð¾Ñ‰ÑŒÑŽ Instagram? Ð˜Ð¼Ð¿Ð¾Ñ€Ñ‚Ð¸Ñ€ÑƒÐ¹Ñ‚Ðµ Ð¸Ñ… Ð² Ð³Ð¾Ñ‚Ð¾Ð²Ñ‹Ð¹ ÑˆÐ°Ð±Ð»Ð¾Ð½ Ð¼Ð°Ð³Ð°Ð·Ð¸Ð½Ð°, Ñ‡Ñ‚Ð¾Ð±Ñ‹ Ð½Ð°Ñ‡Ð°Ñ‚ÑŒ Ð¿Ñ€Ð¾Ð´Ð°Ð²Ð°Ñ‚ÑŒ!';

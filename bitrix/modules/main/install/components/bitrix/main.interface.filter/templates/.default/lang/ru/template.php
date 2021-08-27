@@ -1,17 +1,17 @@
 <?
-$MESS["interface_grid_used"] = "Èñïîëüçóåòñÿ ïîèñê - ïîêàçàíû òîëüêî íàéäåííûå çàïèñè";
-$MESS["interface_grid_not_used"] = "Ïîèñê íå èñïîëüçóåòñÿ - ïîêàçàíû âñå çàïèñè";
-$MESS["interface_grid_search"] = "Ïîèñê";
-$MESS["interface_grid_show_all"] = "Ïîêàçàòü âñå óñëîâèÿ ïîèñêà";
-$MESS["interface_grid_hide_all"] = "Ñêðûòü âñå óñëîâèÿ ïîèñêà";
-$MESS["interface_grid_additional"] = "Äîïîëíèòåëüíûå óñëîâèÿ ïîèñêà";
-$MESS["interface_grid_to_head"] = "Ñâåðíóòü â çàãîëîâîê";
-$MESS["interface_grid_from_head"] = "Ðàçâåðíóòü èç çàãîëîâêà";
-$MESS["interface_grid_no_no_no"] = "(íåò)";
-$MESS["interface_grid_hide"] = "Ñêðûòü óñëîâèå ïîèñêà";
-$MESS["interface_grid_find"] = "Íàéòè";
-$MESS["interface_grid_find_title"] = "Íàéòè çàïèñè ïî óñëîâèÿì ïîèñêà";
-$MESS["interface_grid_flt_cancel"] = "Îòìåíèòü";
-$MESS["interface_grid_flt_cancel_title"] = "Ïîêàçàòü âñå çàïèñè";
-$MESS["interface_filter_days"] = "äí.";
+$MESS["interface_grid_used"] = "Ð˜ÑÐ¿Ð¾Ð»ÑŒÐ·ÑƒÐµÑ‚ÑÑ Ð¿Ð¾Ð¸ÑÐº - Ð¿Ð¾ÐºÐ°Ð·Ð°Ð½Ñ‹ Ñ‚Ð¾Ð»ÑŒÐºÐ¾ Ð½Ð°Ð¹Ð´ÐµÐ½Ð½Ñ‹Ðµ Ð·Ð°Ð¿Ð¸ÑÐ¸";
+$MESS["interface_grid_not_used"] = "ÐŸÐ¾Ð¸ÑÐº Ð½Ðµ Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·ÑƒÐµÑ‚ÑÑ - Ð¿Ð¾ÐºÐ°Ð·Ð°Ð½Ñ‹ Ð²ÑÐµ Ð·Ð°Ð¿Ð¸ÑÐ¸";
+$MESS["interface_grid_search"] = "ÐŸÐ¾Ð¸ÑÐº";
+$MESS["interface_grid_show_all"] = "ÐŸÐ¾ÐºÐ°Ð·Ð°Ñ‚ÑŒ Ð²ÑÐµ ÑƒÑÐ»Ð¾Ð²Ð¸Ñ Ð¿Ð¾Ð¸ÑÐºÐ°";
+$MESS["interface_grid_hide_all"] = "Ð¡ÐºÑ€Ñ‹Ñ‚ÑŒ Ð²ÑÐµ ÑƒÑÐ»Ð¾Ð²Ð¸Ñ Ð¿Ð¾Ð¸ÑÐºÐ°";
+$MESS["interface_grid_additional"] = "Ð”Ð¾Ð¿Ð¾Ð»Ð½Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ñ‹Ðµ ÑƒÑÐ»Ð¾Ð²Ð¸Ñ Ð¿Ð¾Ð¸ÑÐºÐ°";
+$MESS["interface_grid_to_head"] = "Ð¡Ð²ÐµÑ€Ð½ÑƒÑ‚ÑŒ Ð² Ð·Ð°Ð³Ð¾Ð»Ð¾Ð²Ð¾Ðº";
+$MESS["interface_grid_from_head"] = "Ð Ð°Ð·Ð²ÐµÑ€Ð½ÑƒÑ‚ÑŒ Ð¸Ð· Ð·Ð°Ð³Ð¾Ð»Ð¾Ð²ÐºÐ°";
+$MESS["interface_grid_no_no_no"] = "(Ð½ÐµÑ‚)";
+$MESS["interface_grid_hide"] = "Ð¡ÐºÑ€Ñ‹Ñ‚ÑŒ ÑƒÑÐ»Ð¾Ð²Ð¸Ðµ Ð¿Ð¾Ð¸ÑÐºÐ°";
+$MESS["interface_grid_find"] = "ÐÐ°Ð¹Ñ‚Ð¸";
+$MESS["interface_grid_find_title"] = "ÐÐ°Ð¹Ñ‚Ð¸ Ð·Ð°Ð¿Ð¸ÑÐ¸ Ð¿Ð¾ ÑƒÑÐ»Ð¾Ð²Ð¸ÑÐ¼ Ð¿Ð¾Ð¸ÑÐºÐ°";
+$MESS["interface_grid_flt_cancel"] = "ÐžÑ‚Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ";
+$MESS["interface_grid_flt_cancel_title"] = "ÐŸÐ¾ÐºÐ°Ð·Ð°Ñ‚ÑŒ Ð²ÑÐµ Ð·Ð°Ð¿Ð¸ÑÐ¸";
+$MESS["interface_filter_days"] = "Ð´Ð½.";
 ?>

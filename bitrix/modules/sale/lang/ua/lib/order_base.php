@@ -1,4 +1,4 @@
 <?
-$MESS["SALE_EVENT_ON_BEFORE_ORDER_STATUS_CHANGE_ERROR"] = "Помилка при зміні статусу замовлення";
-$MESS["SALE_ORDER_ENTITY_NOT_FOUND"] = "Замовлення не знайдено";
+$MESS["SALE_EVENT_ON_BEFORE_ORDER_STATUS_CHANGE_ERROR"] = "РџРѕРјРёР»РєР° РїСЂРё Р·РјС–РЅС– СЃС‚Р°С‚СѓСЃСѓ Р·Р°РјРѕРІР»РµРЅРЅСЏ";
+$MESS["SALE_ORDER_ENTITY_NOT_FOUND"] = "Р—Р°РјРѕРІР»РµРЅРЅСЏ РЅРµ Р·РЅР°Р№РґРµРЅРѕ";
 ?>

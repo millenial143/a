@@ -1,10 +1,10 @@
 <?
-$MESS["SMPL_AMOUNT"] = "Êîë-âî";
-$MESS["SMPL_BALANCE"] = "Îñò.";
-$MESS["SMPL_PRICE"] = "Öåíà";
-$MESS["SMPL_DISCOUNT"] = "ñêèäêà";
-$MESS["SMPL_PROPERTIES"] = "Ñâîéñòâà";
-$MESS["SMPL_COUPON"] = "Êóïîí";
-$MESS["SMPL_RECALCULATION"] = "Ïåðåñ÷åò";
-$MESS["SMPL_IMAGE_ABSENT"] = "Íåò êàðòèíêè";
+$MESS["SMPL_AMOUNT"] = "ÐšÐ¾Ð»-Ð²Ð¾";
+$MESS["SMPL_BALANCE"] = "ÐžÑÑ‚.";
+$MESS["SMPL_PRICE"] = "Ð¦ÐµÐ½Ð°";
+$MESS["SMPL_DISCOUNT"] = "ÑÐºÐ¸Ð´ÐºÐ°";
+$MESS["SMPL_PROPERTIES"] = "Ð¡Ð²Ð¾Ð¹ÑÑ‚Ð²Ð°";
+$MESS["SMPL_COUPON"] = "ÐšÑƒÐ¿Ð¾Ð½";
+$MESS["SMPL_RECALCULATION"] = "ÐŸÐµÑ€ÐµÑÑ‡ÐµÑ‚";
+$MESS["SMPL_IMAGE_ABSENT"] = "ÐÐµÑ‚ ÐºÐ°Ñ€Ñ‚Ð¸Ð½ÐºÐ¸";
 ?>

@@ -1,2 +1,2 @@
 <?php
-$MESS['LANDING_BLOCK_SEARCH'] = 'Èñêàòü';
+$MESS['LANDING_BLOCK_SEARCH'] = 'Ð˜ÑÐºÐ°Ñ‚ÑŒ';

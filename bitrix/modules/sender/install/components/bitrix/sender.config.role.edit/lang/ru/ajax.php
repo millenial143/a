@@ -1,3 +1,3 @@
 <?php
-$MESS["SENDER_CONFIG_PERMISSIONS_DB_ERROR"]="Ïðîèçîøëà îøèáêà ïðè ïîïûòêå ñîõðàíèòü ïðàâà äîñòóïà";
-$MESS["SENDER_CONFIG_ROLE_DELETE_DB_ERROR"]="Ïðîèçîøëà îøèáêà ïðè ïîïûòêå óäàëèòü ðîëü";
+$MESS["SENDER_CONFIG_PERMISSIONS_DB_ERROR"]="ÐŸÑ€Ð¾Ð¸Ð·Ð¾ÑˆÐ»Ð° Ð¾ÑˆÐ¸Ð±ÐºÐ° Ð¿Ñ€Ð¸ Ð¿Ð¾Ð¿Ñ‹Ñ‚ÐºÐµ ÑÐ¾Ñ…Ñ€Ð°Ð½Ð¸Ñ‚ÑŒ Ð¿Ñ€Ð°Ð²Ð° Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð°";
+$MESS["SENDER_CONFIG_ROLE_DELETE_DB_ERROR"]="ÐŸÑ€Ð¾Ð¸Ð·Ð¾ÑˆÐ»Ð° Ð¾ÑˆÐ¸Ð±ÐºÐ° Ð¿Ñ€Ð¸ Ð¿Ð¾Ð¿Ñ‹Ñ‚ÐºÐµ ÑƒÐ´Ð°Ð»Ð¸Ñ‚ÑŒ Ñ€Ð¾Ð»ÑŒ";

@@ -1,11 +1,11 @@
 <?php
-$MESS['SRP_LINE_ELEMENT_COUNT'] = "Êîëè÷åñòâî ýëåìåíòîâ, âûâîäèìûõ â îäíîé ñòðîêå";
-$MESS["SRP_TPL_THEME_BLUE"] = "ñèíÿÿ (òåìà ïî óìîë÷àíèþ)";
-$MESS["SRP_TPL_THEME_GREEN"] = "çåëåíàÿ";
-$MESS["SRP_TPL_THEME_RED"] = "êðàñíàÿ";
-$MESS["SRP_TPL_THEME_WOOD"] = "äåðåâî";
-$MESS["SRP_TPL_THEME_YELLOW"] = "æåëòàÿ";
-$MESS["SRP_TPL_THEME_BLACK"] = "òåìíàÿ";
-$MESS["SRP_TPL_TEMPLATE_THEME"] = "Öâåòîâàÿ òåìà";
-$MESS["SRP_TPL_THEME_SITE"] = "Áðàòü òåìó èç íàñòðîåê ñàéòà (äëÿ ðåøåíèÿ bitrix.eshop)";
+$MESS['SRP_LINE_ELEMENT_COUNT'] = "ÐšÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð¾Ð², Ð²Ñ‹Ð²Ð¾Ð´Ð¸Ð¼Ñ‹Ñ… Ð² Ð¾Ð´Ð½Ð¾Ð¹ ÑÑ‚Ñ€Ð¾ÐºÐµ";
+$MESS["SRP_TPL_THEME_BLUE"] = "ÑÐ¸Ð½ÑÑ (Ñ‚ÐµÐ¼Ð° Ð¿Ð¾ ÑƒÐ¼Ð¾Ð»Ñ‡Ð°Ð½Ð¸ÑŽ)";
+$MESS["SRP_TPL_THEME_GREEN"] = "Ð·ÐµÐ»ÐµÐ½Ð°Ñ";
+$MESS["SRP_TPL_THEME_RED"] = "ÐºÑ€Ð°ÑÐ½Ð°Ñ";
+$MESS["SRP_TPL_THEME_WOOD"] = "Ð´ÐµÑ€ÐµÐ²Ð¾";
+$MESS["SRP_TPL_THEME_YELLOW"] = "Ð¶ÐµÐ»Ñ‚Ð°Ñ";
+$MESS["SRP_TPL_THEME_BLACK"] = "Ñ‚ÐµÐ¼Ð½Ð°Ñ";
+$MESS["SRP_TPL_TEMPLATE_THEME"] = "Ð¦Ð²ÐµÑ‚Ð¾Ð²Ð°Ñ Ñ‚ÐµÐ¼Ð°";
+$MESS["SRP_TPL_THEME_SITE"] = "Ð‘Ñ€Ð°Ñ‚ÑŒ Ñ‚ÐµÐ¼Ñƒ Ð¸Ð· Ð½Ð°ÑÑ‚Ñ€Ð¾ÐµÐº ÑÐ°Ð¹Ñ‚Ð° (Ð´Ð»Ñ Ñ€ÐµÑˆÐµÐ½Ð¸Ñ bitrix.eshop)";
 ?>

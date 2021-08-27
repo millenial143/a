@@ -1,4 +1,4 @@
 <?php
-$MESS["FILEMAN_PDFVIEWER_COMPONENT_NAME"] = "Ïðîñìîòð pdf-ôàéëîâ";
-$MESS["FILEMAN_PDFVIEWER_COMPONENT_DESCRIPTION"] = "Ïîçâîëÿåò ïðîñìîòðåòü ëþáûå ôàéëû ôîðìàòà .pdf";
-$MESS["MEDIA"] = "Ìåäèà";
+$MESS["FILEMAN_PDFVIEWER_COMPONENT_NAME"] = "ÐŸÑ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€ pdf-Ñ„Ð°Ð¹Ð»Ð¾Ð²";
+$MESS["FILEMAN_PDFVIEWER_COMPONENT_DESCRIPTION"] = "ÐŸÐ¾Ð·Ð²Ð¾Ð»ÑÐµÑ‚ Ð¿Ñ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€ÐµÑ‚ÑŒ Ð»ÑŽÐ±Ñ‹Ðµ Ñ„Ð°Ð¹Ð»Ñ‹ Ñ„Ð¾Ñ€Ð¼Ð°Ñ‚Ð° .pdf";
+$MESS["MEDIA"] = "ÐœÐµÐ´Ð¸Ð°";

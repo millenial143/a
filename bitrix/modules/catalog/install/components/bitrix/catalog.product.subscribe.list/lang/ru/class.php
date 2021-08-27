@@ -1,5 +1,5 @@
 <?
-$MESS["CPSL_REQUEST_DEFAULT_ERROR"] = "Ïðîèçîøëà îøèáêà";
-$MESS["CPSL_REQUEST_UNSUBSCRIBE_SUCCESS"] = "Âû óñïåøíî îòïèñàëèñü";
-$MESS["CPSL_REQUEST_IDENTIFICATION_SUCCESS"] = "Âàì îòïðàâëåí êîä äîñòóïà";
+$MESS["CPSL_REQUEST_DEFAULT_ERROR"] = "ÐŸÑ€Ð¾Ð¸Ð·Ð¾ÑˆÐ»Ð° Ð¾ÑˆÐ¸Ð±ÐºÐ°";
+$MESS["CPSL_REQUEST_UNSUBSCRIBE_SUCCESS"] = "Ð’Ñ‹ ÑƒÑÐ¿ÐµÑˆÐ½Ð¾ Ð¾Ñ‚Ð¿Ð¸ÑÐ°Ð»Ð¸ÑÑŒ";
+$MESS["CPSL_REQUEST_IDENTIFICATION_SUCCESS"] = "Ð’Ð°Ð¼ Ð¾Ñ‚Ð¿Ñ€Ð°Ð²Ð»ÐµÐ½ ÐºÐ¾Ð´ Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð°";
 ?>

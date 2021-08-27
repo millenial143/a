@@ -1,2 +1,2 @@
 <?php
-$MESS["SC_SOCIALSERVICES_MODULE_NOT_INSTALLED"] = "Ìîäóëü ñîöèàëüíûõ ñåðâèñîâ íå óñòàíîâëåí!";
+$MESS["SC_SOCIALSERVICES_MODULE_NOT_INSTALLED"] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ ÑÐ¾Ñ†Ð¸Ð°Ð»ÑŒÐ½Ñ‹Ñ… ÑÐµÑ€Ð²Ð¸ÑÐ¾Ð² Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½!";

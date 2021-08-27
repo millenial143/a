@@ -1,5 +1,5 @@
 <?
-$MESS ['FORUM_SUBSCRIBE_LIST'] = "Ïîäïèñêà (ñïèñîê)";
-$MESS ['FORUM_SUBSCRIBE_LIST_DESCRIPTION'] = "Ñïèñîê ïîäïèñîê ïîëüçîâàòåëÿ";
-$MESS ['FORUM'] = "Ôîðóì";
+$MESS ['FORUM_SUBSCRIBE_LIST'] = "ÐŸÐ¾Ð´Ð¿Ð¸ÑÐºÐ° (ÑÐ¿Ð¸ÑÐ¾Ðº)";
+$MESS ['FORUM_SUBSCRIBE_LIST_DESCRIPTION'] = "Ð¡Ð¿Ð¸ÑÐ¾Ðº Ð¿Ð¾Ð´Ð¿Ð¸ÑÐ¾Ðº Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ";
+$MESS ['FORUM'] = "Ð¤Ð¾Ñ€ÑƒÐ¼";
 ?>

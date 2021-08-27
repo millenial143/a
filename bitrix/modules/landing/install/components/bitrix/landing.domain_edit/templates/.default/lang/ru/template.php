@@ -1,3 +1,3 @@
 <?php
-$MESS['LANDING_TPL_TITLE'] = 'Ðåäàêòèðîâàíèå äîìåíà';
-$MESS['LANDING_TPL_BUTTON_SAVE'] = 'Ñîõðàíèòü';
+$MESS['LANDING_TPL_TITLE'] = 'Ð ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ðµ Ð´Ð¾Ð¼ÐµÐ½Ð°';
+$MESS['LANDING_TPL_BUTTON_SAVE'] = 'Ð¡Ð¾Ñ…Ñ€Ð°Ð½Ð¸Ñ‚ÑŒ';

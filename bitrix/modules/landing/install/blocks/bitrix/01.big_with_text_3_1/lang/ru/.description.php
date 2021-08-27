@@ -1,6 +1,6 @@
 <?php
-$MESS['LANDING_BLOCK_CVR003.1._NAME'] = 'Îáëîæêà ñ îäíîé çàòåìíåííîé ôîíîâîé êàðòèíêîé áåç êíîïêè';
-$MESS['LANDING_BLOCK_CVR003.1._NODES_LANDINGBLOCKNODE_IMG'] = 'Ôîíîâàÿ êàðòèíêà';
-$MESS['LANDING_BLOCK_CVR003._NODES_LANDINGBLOCKNODE_CONTAINER'] = 'Íàáîð ýëåìåíòîâ';
-$MESS['LANDING_BLOCK_CVR003.1._NODES_LANDINGBLOCKNODETITLE'] = 'Çàãîëîâîê';
-$MESS['LANDING_BLOCK_CVR003.1._NODES_LANDINGBLOCKNODETEXT'] = 'Òåêñò';
+$MESS['LANDING_BLOCK_CVR003.1._NAME'] = 'ÐžÐ±Ð»Ð¾Ð¶ÐºÐ° Ñ Ð¾Ð´Ð½Ð¾Ð¹ Ð·Ð°Ñ‚ÐµÐ¼Ð½ÐµÐ½Ð½Ð¾Ð¹ Ñ„Ð¾Ð½Ð¾Ð²Ð¾Ð¹ ÐºÐ°Ñ€Ñ‚Ð¸Ð½ÐºÐ¾Ð¹ Ð±ÐµÐ· ÐºÐ½Ð¾Ð¿ÐºÐ¸';
+$MESS['LANDING_BLOCK_CVR003.1._NODES_LANDINGBLOCKNODE_IMG'] = 'Ð¤Ð¾Ð½Ð¾Ð²Ð°Ñ ÐºÐ°Ñ€Ñ‚Ð¸Ð½ÐºÐ°';
+$MESS['LANDING_BLOCK_CVR003._NODES_LANDINGBLOCKNODE_CONTAINER'] = 'ÐÐ°Ð±Ð¾Ñ€ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð¾Ð²';
+$MESS['LANDING_BLOCK_CVR003.1._NODES_LANDINGBLOCKNODETITLE'] = 'Ð—Ð°Ð³Ð¾Ð»Ð¾Ð²Ð¾Ðº';
+$MESS['LANDING_BLOCK_CVR003.1._NODES_LANDINGBLOCKNODETEXT'] = 'Ð¢ÐµÐºÑÑ‚';

@@ -1,6 +1,6 @@
 <?
-$MESS ['PM_SEARCH'] = "PM (ïîèñê)";
-$MESS ['PM_SEARCH_DESCRIPTION'] = "Ïîèñê ïîëüçîâàòåëÿ";
-$MESS ['FORUM'] = "Ôîðóì";
-$MESS ['PM'] = "PM (Ïåðñîíàëüíûå ñîîáùåíèÿ)";
+$MESS ['PM_SEARCH'] = "PM (Ð¿Ð¾Ð¸ÑÐº)";
+$MESS ['PM_SEARCH_DESCRIPTION'] = "ÐŸÐ¾Ð¸ÑÐº Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ";
+$MESS ['FORUM'] = "Ð¤Ð¾Ñ€ÑƒÐ¼";
+$MESS ['PM'] = "PM (ÐŸÐµÑ€ÑÐ¾Ð½Ð°Ð»ÑŒÐ½Ñ‹Ðµ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ)";
 ?>

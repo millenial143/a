@@ -1,2 +1,2 @@
 <?php
-$MESS["CATALOG_IBLOCKSECTIONFIELD_SELECT"] = "âûáðàòü ðàçäåë";
+$MESS["CATALOG_IBLOCKSECTIONFIELD_SELECT"] = "Ð²Ñ‹Ð±Ñ€Ð°Ñ‚ÑŒ Ñ€Ð°Ð·Ð´ÐµÐ»";

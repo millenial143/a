@@ -1,1 +1,1 @@
-<?$MESS["SENDER_MSG_AUDIO_UPLOAD_OWN_AUDIO"] = "Çàãðóçèòü ñâîþ çàïèñü";
+<?$MESS["SENDER_MSG_AUDIO_UPLOAD_OWN_AUDIO"] = "Ð—Ð°Ð³Ñ€ÑƒÐ·Ð¸Ñ‚ÑŒ ÑÐ²Ð¾ÑŽ Ð·Ð°Ð¿Ð¸ÑÑŒ";

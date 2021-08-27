@@ -1,8 +1,8 @@
 <?
-$MESS["SALE_SDR_AJAX_CREATE"] = "Ñîçäàíèå òðàíñïîðòíîé çàÿâêè";
-$MESS["SALE_SDR_AJAX_DELIVERY_NOT_FOUND"] = "Ñëóæáó äîñòàâêè ñ èäåíòèôèêàòîðîì \"#DELIVERY_ID#\" íàéòè íå óäàëîñü";
-$MESS["SALE_SDR_AJAX_NOT_SUPPORT"] = "Ñëóæáà äîñòàâêè ñ èäåíòèôèêàòîðîì \"#DELIVERY_ID#\" íå ïîääåðæèâàåò òðàíñïîðòíûå çàÿâêè";
-$MESS["SALE_SDR_AJAX_REQUEST_NUMBER"] = "Íîìåð çàÿâêè";
-$MESS["SALE_SDR_AJAX_NO_REQUESTS"] = "Íåò íè îäíîé ïîäõîäÿùåé çàÿâêè";
-$MESS["SALE_SDR_AJAX_SHIPMENTS_ADD"] = "Äîáàâëåíèå îòãðóçîê â òðàíñïîðòíóþ çàÿâêó";
+$MESS["SALE_SDR_AJAX_CREATE"] = "Ð¡Ð¾Ð·Ð´Ð°Ð½Ð¸Ðµ Ñ‚Ñ€Ð°Ð½ÑÐ¿Ð¾Ñ€Ñ‚Ð½Ð¾Ð¹ Ð·Ð°ÑÐ²ÐºÐ¸";
+$MESS["SALE_SDR_AJAX_DELIVERY_NOT_FOUND"] = "Ð¡Ð»ÑƒÐ¶Ð±Ñƒ Ð´Ð¾ÑÑ‚Ð°Ð²ÐºÐ¸ Ñ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€Ð¾Ð¼ \"#DELIVERY_ID#\" Ð½Ð°Ð¹Ñ‚Ð¸ Ð½Ðµ ÑƒÐ´Ð°Ð»Ð¾ÑÑŒ";
+$MESS["SALE_SDR_AJAX_NOT_SUPPORT"] = "Ð¡Ð»ÑƒÐ¶Ð±Ð° Ð´Ð¾ÑÑ‚Ð°Ð²ÐºÐ¸ Ñ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€Ð¾Ð¼ \"#DELIVERY_ID#\" Ð½Ðµ Ð¿Ð¾Ð´Ð´ÐµÑ€Ð¶Ð¸Ð²Ð°ÐµÑ‚ Ñ‚Ñ€Ð°Ð½ÑÐ¿Ð¾Ñ€Ñ‚Ð½Ñ‹Ðµ Ð·Ð°ÑÐ²ÐºÐ¸";
+$MESS["SALE_SDR_AJAX_REQUEST_NUMBER"] = "ÐÐ¾Ð¼ÐµÑ€ Ð·Ð°ÑÐ²ÐºÐ¸";
+$MESS["SALE_SDR_AJAX_NO_REQUESTS"] = "ÐÐµÑ‚ Ð½Ð¸ Ð¾Ð´Ð½Ð¾Ð¹ Ð¿Ð¾Ð´Ñ…Ð¾Ð´ÑÑ‰ÐµÐ¹ Ð·Ð°ÑÐ²ÐºÐ¸";
+$MESS["SALE_SDR_AJAX_SHIPMENTS_ADD"] = "Ð”Ð¾Ð±Ð°Ð²Ð»ÐµÐ½Ð¸Ðµ Ð¾Ñ‚Ð³Ñ€ÑƒÐ·Ð¾Ðº Ð² Ñ‚Ñ€Ð°Ð½ÑÐ¿Ð¾Ñ€Ñ‚Ð½ÑƒÑŽ Ð·Ð°ÑÐ²ÐºÑƒ";
 ?>

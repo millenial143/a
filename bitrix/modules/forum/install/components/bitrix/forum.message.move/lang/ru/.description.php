@@ -1,5 +1,5 @@
 <?
-$MESS ['FORUM_MESSAGE_MOVE'] = "Ñîîáùåíèÿ (ïåðåìåùåíèå)";
-$MESS ['FORUM_MESSAGE_MOVE_DESCRIPTION'] = "Ïåðåìåùåíèå ñîîáùåíèé Ôîðóìà";
-$MESS ['FORUM'] = "Ôîðóì";
+$MESS ['FORUM_MESSAGE_MOVE'] = "Ð¡Ð¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ (Ð¿ÐµÑ€ÐµÐ¼ÐµÑ‰ÐµÐ½Ð¸Ðµ)";
+$MESS ['FORUM_MESSAGE_MOVE_DESCRIPTION'] = "ÐŸÐµÑ€ÐµÐ¼ÐµÑ‰ÐµÐ½Ð¸Ðµ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ð¹ Ð¤Ð¾Ñ€ÑƒÐ¼Ð°";
+$MESS ['FORUM'] = "Ð¤Ð¾Ñ€ÑƒÐ¼";
 ?>

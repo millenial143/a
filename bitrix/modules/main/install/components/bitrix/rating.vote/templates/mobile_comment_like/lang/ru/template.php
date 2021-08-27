@@ -1,4 +1,4 @@
 <?
-$MESS["RATING_COMMENT_LIST_BACK"] = "Íàçàä";
-$MESS["RATING_COMMENT_LIKE"] = "Íðàâèòñÿ";
+$MESS["RATING_COMMENT_LIST_BACK"] = "ÐÐ°Ð·Ð°Ð´";
+$MESS["RATING_COMMENT_LIKE"] = "ÐÑ€Ð°Ð²Ð¸Ñ‚ÑÑ";
 ?>

@@ -1,5 +1,5 @@
 <?
-$MESS["BLOG_MODULE_NOT_INSTALL"] = "Ìîäóëü áëîãîâ íå óñòàíîâëåí.";
-$MESS["RESULT_BLOG"] = "Áëîãè";
+$MESS["BLOG_MODULE_NOT_INSTALL"] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ Ð±Ð»Ð¾Ð³Ð¾Ð² Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½.";
+$MESS["RESULT_BLOG"] = "Ð‘Ð»Ð¾Ð³Ð¸";
 $MESS["BC_NAME_TEMPLATE_DEFAULT"] = "#NOBR##LAST_NAME# #NAME##/NOBR#";
 ?>

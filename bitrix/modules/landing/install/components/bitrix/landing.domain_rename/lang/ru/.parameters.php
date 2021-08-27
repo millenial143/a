@@ -1,5 +1,5 @@
 <?php
-$MESS['LANDING_CMP_PAR_SITE_TYPE'] = 'Òèï';
-$MESS['LANDING_CMP_PAR_DOMAIN_ID'] = 'Èäåíòèôèêàòîð äîìåíà';
-$MESS['LANDING_CMP_PAR_FIELD_NAME'] = 'Íàçâàíèå ïîëÿ ôîðìû';
-$MESS['LANDING_CMP_PAR_FIELD_ID'] = 'Èäåíòèôèêàòîð ïîëÿ ôîðìû';
+$MESS['LANDING_CMP_PAR_SITE_TYPE'] = 'Ð¢Ð¸Ð¿';
+$MESS['LANDING_CMP_PAR_DOMAIN_ID'] = 'Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð´Ð¾Ð¼ÐµÐ½Ð°';
+$MESS['LANDING_CMP_PAR_FIELD_NAME'] = 'ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ Ð¿Ð¾Ð»Ñ Ñ„Ð¾Ñ€Ð¼Ñ‹';
+$MESS['LANDING_CMP_PAR_FIELD_ID'] = 'Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð¿Ð¾Ð»Ñ Ñ„Ð¾Ñ€Ð¼Ñ‹';

@@ -1,3 +1,3 @@
 <?php
-$MESS["LANDING_DEMO_WIKI_SEARCHRESULTS-TITLE"] = "Ðåçóëüòàòû ïîèñêà";
-$MESS["LANDING_DEMO_WIKI_SEARCHRESULTS-DESCRIPTION"] = "Ðåçóëüòàòû âàøåãî ïîèñêîâîãî çàïðîñà.";
+$MESS["LANDING_DEMO_WIKI_SEARCHRESULTS-TITLE"] = "Ð ÐµÐ·ÑƒÐ»ÑŒÑ‚Ð°Ñ‚Ñ‹ Ð¿Ð¾Ð¸ÑÐºÐ°";
+$MESS["LANDING_DEMO_WIKI_SEARCHRESULTS-DESCRIPTION"] = "Ð ÐµÐ·ÑƒÐ»ÑŒÑ‚Ð°Ñ‚Ñ‹ Ð²Ð°ÑˆÐµÐ³Ð¾ Ð¿Ð¾Ð¸ÑÐºÐ¾Ð²Ð¾Ð³Ð¾ Ð·Ð°Ð¿Ñ€Ð¾ÑÐ°.";

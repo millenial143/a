@@ -1,3 +1,3 @@
 <?
-$MESS ['SENDER_CALL_TEXT_EDITOR_DURATION'] = "ïðèáëèçèòåëüíàÿ äëèòåëüíîñòü çâîíêà";
+$MESS ['SENDER_CALL_TEXT_EDITOR_DURATION'] = "Ð¿Ñ€Ð¸Ð±Ð»Ð¸Ð·Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ð°Ñ Ð´Ð»Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ð¾ÑÑ‚ÑŒ Ð·Ð²Ð¾Ð½ÐºÐ°";
 ?>

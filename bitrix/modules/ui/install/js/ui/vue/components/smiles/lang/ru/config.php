@@ -1,10 +1,10 @@
 <?
-$MESS["UI_VUE_SMILES_EMOJI_CATEGORY_PEOPLE"] = "Ñìàéëû è ëþäè";
-$MESS["UI_VUE_SMILES_EMOJI_CATEGORY_ANIMALS"] = "Æèâîòíûå è ïðèðîäà";
-$MESS["UI_VUE_SMILES_EMOJI_CATEGORY_FOOD"] = "Åäà è íàïèòêè";
-$MESS["UI_VUE_SMILES_EMOJI_CATEGORY_HOBBY"] = "Õîááè è ñïîðò";
-$MESS["UI_VUE_SMILES_EMOJI_CATEGORY_TRAVEL"] = "Ìåñòà è ïóòåøåñòâèÿ";
-$MESS["UI_VUE_SMILES_EMOJI_CATEGORY_OBJECTS"] = "Îáúåêòû";
-$MESS["UI_VUE_SMILES_EMOJI_CATEGORY_SYMBOLS"] = "Ñèìâîëû";
-$MESS["UI_VUE_SMILES_EMOJI_CATEGORY_FLAGS"] = "Ôëàãè";
+$MESS["UI_VUE_SMILES_EMOJI_CATEGORY_PEOPLE"] = "Ð¡Ð¼Ð°Ð¹Ð»Ñ‹ Ð¸ Ð»ÑŽÐ´Ð¸";
+$MESS["UI_VUE_SMILES_EMOJI_CATEGORY_ANIMALS"] = "Ð–Ð¸Ð²Ð¾Ñ‚Ð½Ñ‹Ðµ Ð¸ Ð¿Ñ€Ð¸Ñ€Ð¾Ð´Ð°";
+$MESS["UI_VUE_SMILES_EMOJI_CATEGORY_FOOD"] = "Ð•Ð´Ð° Ð¸ Ð½Ð°Ð¿Ð¸Ñ‚ÐºÐ¸";
+$MESS["UI_VUE_SMILES_EMOJI_CATEGORY_HOBBY"] = "Ð¥Ð¾Ð±Ð±Ð¸ Ð¸ ÑÐ¿Ð¾Ñ€Ñ‚";
+$MESS["UI_VUE_SMILES_EMOJI_CATEGORY_TRAVEL"] = "ÐœÐµÑÑ‚Ð° Ð¸ Ð¿ÑƒÑ‚ÐµÑˆÐµÑÑ‚Ð²Ð¸Ñ";
+$MESS["UI_VUE_SMILES_EMOJI_CATEGORY_OBJECTS"] = "ÐžÐ±ÑŠÐµÐºÑ‚Ñ‹";
+$MESS["UI_VUE_SMILES_EMOJI_CATEGORY_SYMBOLS"] = "Ð¡Ð¸Ð¼Ð²Ð¾Ð»Ñ‹";
+$MESS["UI_VUE_SMILES_EMOJI_CATEGORY_FLAGS"] = "Ð¤Ð»Ð°Ð³Ð¸";
 ?>

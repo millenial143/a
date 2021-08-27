@@ -1,4 +1,4 @@
 <?php
-$MESS['LANDING_BLOCK_MENU_23-NAME'] = 'Âåðòèêàëüíîå ìåíþ ñ ïóíêòàìè â ðàìêå';
-$MESS['LANDING_BLOCK_MENU_23-NAVBAR'] = 'Ìåíþ';
-$MESS['LANDING_BLOCK_MENU_23-LINK'] = 'Ññûëêà';
+$MESS['LANDING_BLOCK_MENU_23-NAME'] = 'Ð’ÐµÑ€Ñ‚Ð¸ÐºÐ°Ð»ÑŒÐ½Ð¾Ðµ Ð¼ÐµÐ½ÑŽ Ñ Ð¿ÑƒÐ½ÐºÑ‚Ð°Ð¼Ð¸ Ð² Ñ€Ð°Ð¼ÐºÐµ';
+$MESS['LANDING_BLOCK_MENU_23-NAVBAR'] = 'ÐœÐµÐ½ÑŽ';
+$MESS['LANDING_BLOCK_MENU_23-LINK'] = 'Ð¡ÑÑ‹Ð»ÐºÐ°';

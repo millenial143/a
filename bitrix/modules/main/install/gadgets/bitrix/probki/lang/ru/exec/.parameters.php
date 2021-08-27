@@ -4,21 +4,21 @@ if (!defined("B_PROLOG_INCLUDED") || B_PROLOG_INCLUDED!==true)die();
 
 $arCity = Array();
 
-$arCity["c213"] = "Ìîñêâà (Ðîññèÿ)";
-$arCity["c2"] = "Ñàíêò-Ïåòåðáóðã (Ðîññèÿ)";
-$arCity["c54"] = "Åêàòåðèíáóðã (Ðîññèÿ)";
-$arCity["c143"] = "Êèåâ (Óêðàèíà)";
+$arCity["c213"] = "ÐœÐ¾ÑÐºÐ²Ð° (Ð Ð¾ÑÑÐ¸Ñ)";
+$arCity["c2"] = "Ð¡Ð°Ð½ÐºÑ‚-ÐŸÐµÑ‚ÐµÑ€Ð±ÑƒÑ€Ð³ (Ð Ð¾ÑÑÐ¸Ñ)";
+$arCity["c54"] = "Ð•ÐºÐ°Ñ‚ÐµÑ€Ð¸Ð½Ð±ÑƒÑ€Ð³ (Ð Ð¾ÑÑÐ¸Ñ)";
+$arCity["c143"] = "ÐšÐ¸ÐµÐ² (Ð£ÐºÑ€Ð°Ð¸Ð½Ð°)";
 
 
 $arParameters = Array(
 		"PARAMETERS"=> Array(
 			"CACHE_TIME" => array(
-				"NAME" => "Âðåìÿ êåøèðîâàíèÿ, ñåê (0-íå êåøèðîâàòü)",
+				"NAME" => "Ð’Ñ€ÐµÐ¼Ñ ÐºÐµÑˆÐ¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ñ, ÑÐµÐº (0-Ð½Ðµ ÐºÐµÑˆÐ¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ)",
 				"TYPE" => "STRING",
 				"DEFAULT" => "3600"
 				),
 		"SHOW_URL" => Array(
-				"NAME" => "Ïîêàçûâàòü ññûëêó íà ïîäðîáíóþ èíôîðìàöèþ",
+				"NAME" => "ÐŸÐ¾ÐºÐ°Ð·Ñ‹Ð²Ð°Ñ‚ÑŒ ÑÑÑ‹Ð»ÐºÑƒ Ð½Ð° Ð¿Ð¾Ð´Ñ€Ð¾Ð±Ð½ÑƒÑŽ Ð¸Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸ÑŽ",
 				"TYPE" => "CHECKBOX",
 				"MULTIPLE" => "N",
 				"DEFAULT" => "N",
@@ -26,7 +26,7 @@ $arParameters = Array(
 		),
 		"USER_PARAMETERS"=> Array(
 			"CITY"=>Array(
-				"NAME" => "Ãîðîä",
+				"NAME" => "Ð“Ð¾Ñ€Ð¾Ð´",
 				"TYPE" => "LIST",
 				"MULTIPLE" => "N",
 				"DEFAULT" => "c213",

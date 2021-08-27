@@ -1,4 +1,4 @@
 <?php
-$MESS['MAIN_AUTH_PWD_TITLE'] = 'Çàïðîñ ïàðîëÿ';
-$MESS['MAIN_AUTH_PWD_DESCR'] = 'Îòäåëüíàÿ ôîðìà çàïðîñà ïàðîëÿ ïîëüçîâàòåëåì';
-$MESS['MAIN_AUTH_PWD_GROUP_NAME'] = 'Ïîëüçîâàòåëü';
+$MESS['MAIN_AUTH_PWD_TITLE'] = 'Ð—Ð°Ð¿Ñ€Ð¾Ñ Ð¿Ð°Ñ€Ð¾Ð»Ñ';
+$MESS['MAIN_AUTH_PWD_DESCR'] = 'ÐžÑ‚Ð´ÐµÐ»ÑŒÐ½Ð°Ñ Ñ„Ð¾Ñ€Ð¼Ð° Ð·Ð°Ð¿Ñ€Ð¾ÑÐ° Ð¿Ð°Ñ€Ð¾Ð»Ñ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÐµÐ¼';
+$MESS['MAIN_AUTH_PWD_GROUP_NAME'] = 'ÐŸÐ¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒ';

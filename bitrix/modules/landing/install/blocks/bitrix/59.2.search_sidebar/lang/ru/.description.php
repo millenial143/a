@@ -1,6 +1,6 @@
 <?php
-$MESS['LANDING_BLOCK_59_2-NAME'] = 'Ñòðîêà ïîèñêà';
-$MESS['LANDING_BLOCK_59_2-BUTTON'] = 'Êíîïêà';
-$MESS['LANDING_BLOCK_59_2-SEARCH'] = 'Èñêàòü';
-$MESS['LANDING_BLOCK_59_2-SEARCH_RESULT'] = 'Ñòðàíèöà äëÿ ðåçóëüòàòîâ ïîèñêà';
-$MESS['LANDING_BLOCK_59_2-INPUT'] = 'Ïîëå ââîäà';
+$MESS['LANDING_BLOCK_59_2-NAME'] = 'Ð¡Ñ‚Ñ€Ð¾ÐºÐ° Ð¿Ð¾Ð¸ÑÐºÐ°';
+$MESS['LANDING_BLOCK_59_2-BUTTON'] = 'ÐšÐ½Ð¾Ð¿ÐºÐ°';
+$MESS['LANDING_BLOCK_59_2-SEARCH'] = 'Ð˜ÑÐºÐ°Ñ‚ÑŒ';
+$MESS['LANDING_BLOCK_59_2-SEARCH_RESULT'] = 'Ð¡Ñ‚Ñ€Ð°Ð½Ð¸Ñ†Ð° Ð´Ð»Ñ Ñ€ÐµÐ·ÑƒÐ»ÑŒÑ‚Ð°Ñ‚Ð¾Ð² Ð¿Ð¾Ð¸ÑÐºÐ°';
+$MESS['LANDING_BLOCK_59_2-INPUT'] = 'ÐŸÐ¾Ð»Ðµ Ð²Ð²Ð¾Ð´Ð°';

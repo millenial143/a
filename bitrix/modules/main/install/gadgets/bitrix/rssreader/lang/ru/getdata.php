@@ -1,5 +1,5 @@
 <?
-$MESS ['GD_RSS_READER_NEW_RSS'] = "Íàñòðîéòå RSS ëåíòó.";
-$MESS ['GD_RSS_READER_RSS_MORE'] = "Ïîäðîáíåå...";
-$MESS ['GD_RSS_READER_RSS_ERROR'] = "Îøèáêà ïîëó÷åíèÿ RSS ëåíòû.";
+$MESS ['GD_RSS_READER_NEW_RSS'] = "ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹Ñ‚Ðµ RSS Ð»ÐµÐ½Ñ‚Ñƒ.";
+$MESS ['GD_RSS_READER_RSS_MORE'] = "ÐŸÐ¾Ð´Ñ€Ð¾Ð±Ð½ÐµÐµ...";
+$MESS ['GD_RSS_READER_RSS_ERROR'] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð¿Ð¾Ð»ÑƒÑ‡ÐµÐ½Ð¸Ñ RSS Ð»ÐµÐ½Ñ‚Ñ‹.";
 ?>

@@ -1,5 +1,5 @@
 <?
-$MESS["BMNP_DEFAULT_TEMPLATE_NAME"]="Íîâûå êîììåíòàðèè";
-$MESS["BMNP_DEFAULT_TEMPLATE_DESCRIPTION"]="Âûâîäèò ïîñëåäíèå êîììåíòàðèè ê ñîîáùåíèÿì áëîãîâ òåêóùåãî ñàéòà";
-$MESS["BMNP_NAME"]="Áëîãè";
+$MESS["BMNP_DEFAULT_TEMPLATE_NAME"]="ÐÐ¾Ð²Ñ‹Ðµ ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ð¸";
+$MESS["BMNP_DEFAULT_TEMPLATE_DESCRIPTION"]="Ð’Ñ‹Ð²Ð¾Ð´Ð¸Ñ‚ Ð¿Ð¾ÑÐ»ÐµÐ´Ð½Ð¸Ðµ ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ð¸ Ðº ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸ÑÐ¼ Ð±Ð»Ð¾Ð³Ð¾Ð² Ñ‚ÐµÐºÑƒÑ‰ÐµÐ³Ð¾ ÑÐ°Ð¹Ñ‚Ð°";
+$MESS["BMNP_NAME"]="Ð‘Ð»Ð¾Ð³Ð¸";
 ?>

@@ -1,3 +1,3 @@
 <?php
-$MESS['LANDING_BLOCK_27_5_ONE_COL_FIX_TEXT_BRD_NAME_NEW'] = 'Òåêñò ôèêñèðîâàííîé øèðèíû â ðàìêå';
-$MESS['LANDING_BLOCK_27_5_ONE_COL_FIX_TEXT_BRD_NODES_LANDINGBLOCKNODE_TEXT'] = 'Òåêñò';
+$MESS['LANDING_BLOCK_27_5_ONE_COL_FIX_TEXT_BRD_NAME_NEW'] = 'Ð¢ÐµÐºÑÑ‚ Ñ„Ð¸ÐºÑÐ¸Ñ€Ð¾Ð²Ð°Ð½Ð½Ð¾Ð¹ ÑˆÐ¸Ñ€Ð¸Ð½Ñ‹ Ð² Ñ€Ð°Ð¼ÐºÐµ';
+$MESS['LANDING_BLOCK_27_5_ONE_COL_FIX_TEXT_BRD_NODES_LANDINGBLOCKNODE_TEXT'] = 'Ð¢ÐµÐºÑÑ‚';

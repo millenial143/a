@@ -1,2 +1,2 @@
 <?php
-$MESS['LANDING_BLOCK_STORE_ORDER--REGION_NAME'] = 'Òèï ïëàòåëüùèêà';
+$MESS['LANDING_BLOCK_STORE_ORDER--REGION_NAME'] = 'Ð¢Ð¸Ð¿ Ð¿Ð»Ð°Ñ‚ÐµÐ»ÑŒÑ‰Ð¸ÐºÐ°';

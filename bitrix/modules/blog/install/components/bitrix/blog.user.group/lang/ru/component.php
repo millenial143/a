@@ -1,8 +1,8 @@
 <?
-$MESS['BLOG_MODULE_NOT_INSTALL']="Ìîäóëü áëîãîâ íå óñòàíîâëåí.";
-$MESS ['BLOG_ERR_NO_RIGHTS'] = "Îøèáêà! Íåò ïðàâ íà çàïèñü áëîãà";
-$MESS ['BLOG_ERR_NO_BLOG'] = "Îøèáêà! Áëîã íå íàéäåí";
-$MESS ['BLOG_USER_GROUP_TITLE'] = "Ãðóïïû ïîëüçîâàòåëåé áëîãà ";
-$MESS ['BLOG_GROUP_EXIST_1'] = "Ãðóïïà";
-$MESS ['BLOG_GROUP_EXIST_2'] = "óæå ñóùåñòâóåò.";
+$MESS['BLOG_MODULE_NOT_INSTALL']="ÐœÐ¾Ð´ÑƒÐ»ÑŒ Ð±Ð»Ð¾Ð³Ð¾Ð² Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½.";
+$MESS ['BLOG_ERR_NO_RIGHTS'] = "ÐžÑˆÐ¸Ð±ÐºÐ°! ÐÐµÑ‚ Ð¿Ñ€Ð°Ð² Ð½Ð° Ð·Ð°Ð¿Ð¸ÑÑŒ Ð±Ð»Ð¾Ð³Ð°";
+$MESS ['BLOG_ERR_NO_BLOG'] = "ÐžÑˆÐ¸Ð±ÐºÐ°! Ð‘Ð»Ð¾Ð³ Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½";
+$MESS ['BLOG_USER_GROUP_TITLE'] = "Ð“Ñ€ÑƒÐ¿Ð¿Ñ‹ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÐµÐ¹ Ð±Ð»Ð¾Ð³Ð° ";
+$MESS ['BLOG_GROUP_EXIST_1'] = "Ð“Ñ€ÑƒÐ¿Ð¿Ð°";
+$MESS ['BLOG_GROUP_EXIST_2'] = "ÑƒÐ¶Ðµ ÑÑƒÑ‰ÐµÑÑ‚Ð²ÑƒÐµÑ‚.";
 ?>

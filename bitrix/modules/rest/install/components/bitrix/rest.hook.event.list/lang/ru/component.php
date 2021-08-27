@@ -1,9 +1,9 @@
 <?php
-$MESS['REST_HOOK_EDIT'] = 'Ðåäàêòèðîâàòü';
-$MESS['REST_HOOK_DELETE'] = 'Óäàëèòü';
-$MESS['REST_HOOK_TITLE'] = 'Íàçâàíèå';
-$MESS['REST_HOOK_COMMENT'] = 'Êîìììåíòàðèé';
-$MESS['REST_HOOK_DATE_CREATE'] = 'Ñîçäàí';
-$MESS['REST_HOOK_EVENT_NAME'] = 'Ñîáûòèå';
-$MESS['REST_HOOK_EVENT_HANDLER'] = 'Îáðàáîò÷èê';
-$MESS['REST_EVENT_LIST_TITLE'] = 'Èñõîäÿùèå âåáõóêè';
+$MESS['REST_HOOK_EDIT'] = 'Ð ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ';
+$MESS['REST_HOOK_DELETE'] = 'Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ';
+$MESS['REST_HOOK_TITLE'] = 'ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ';
+$MESS['REST_HOOK_COMMENT'] = 'ÐšÐ¾Ð¼Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ð¹';
+$MESS['REST_HOOK_DATE_CREATE'] = 'Ð¡Ð¾Ð·Ð´Ð°Ð½';
+$MESS['REST_HOOK_EVENT_NAME'] = 'Ð¡Ð¾Ð±Ñ‹Ñ‚Ð¸Ðµ';
+$MESS['REST_HOOK_EVENT_HANDLER'] = 'ÐžÐ±Ñ€Ð°Ð±Ð¾Ñ‚Ñ‡Ð¸Ðº';
+$MESS['REST_EVENT_LIST_TITLE'] = 'Ð˜ÑÑ…Ð¾Ð´ÑÑ‰Ð¸Ðµ Ð²ÐµÐ±Ñ…ÑƒÐºÐ¸';

@@ -1,2 +1,2 @@
 <?php
-$MESS['LANDING_DEMO_STORE_CLOTHES-MENU--NAME'] = 'Боковое меню';
+$MESS['LANDING_DEMO_STORE_CLOTHES-MENU--NAME'] = 'Р‘РѕРєРѕРІРѕРµ РјРµРЅСЋ';

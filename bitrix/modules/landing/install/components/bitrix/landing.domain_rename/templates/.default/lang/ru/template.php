@@ -1,12 +1,12 @@
 <?php
-$MESS['LANDING_TPL_DOMAIN_POPUP'] = 'Ñìåíà äîìåíà';
-$MESS['LANDING_TPL_DOMAIN_ATTENTION'] = 'Âíèìàíèå!';
-$MESS['LANDING_TPL_DOMAIN_NAME_OWN'] = 'Ñâîé äîìåí';
-$MESS['LANDING_TPL_DOMAIN_NAME_B24'] = 'Ïîääîìåí Áèòðèêñ24';
-$MESS['LANDING_TPL_DOMAIN_OWN_DOMAIN_ANY_INSTRUCT'] = 'Äëÿ ïîäêëþ÷àåìîãî ñîáñòâåííîãî äîìåíà â DNS íóæíî óêàçàòü ñëåäóþùèå çàïèñè:';
-$MESS['LANDING_TPL_DOMAIN_OWN_DOMAIN_AAAA'] = 'Äëÿ êîððåêòíîãî ïîäêëþ÷åíèÿ âàøåãî äîìåíà íåîáõîäèìî óäàëèòü äðóãèå À-çàïèñè è ÀÀÀÀ-çàïèñè.';
-$MESS['LANDING_TPL_DOMAIN_OWN_DOMAIN_HELP'] = 'Ïîäðîáíåå î ïîäêëþ÷åíèè äîìåíà...';
-$MESS['LANDING_TPL_DOMAIN_OWN_DOMAIN_DNS_1'] = 'Õîñò';
-$MESS['LANDING_TPL_DOMAIN_OWN_DOMAIN_DNS_2'] = 'Òèï çàïèñè';
-$MESS['LANDING_TPL_DOMAIN_OWN_DOMAIN_DNS_3'] = 'Çíà÷åíèå çàïèñè';
-$MESS['LANDING_TPL_DOMAIN_ERROR_EMPTY'] = 'Äîìåííîå èìÿ íå ìîæåò áûòü ïóñòûì.';
+$MESS['LANDING_TPL_DOMAIN_POPUP'] = 'Ð¡Ð¼ÐµÐ½Ð° Ð´Ð¾Ð¼ÐµÐ½Ð°';
+$MESS['LANDING_TPL_DOMAIN_ATTENTION'] = 'Ð’Ð½Ð¸Ð¼Ð°Ð½Ð¸Ðµ!';
+$MESS['LANDING_TPL_DOMAIN_NAME_OWN'] = 'Ð¡Ð²Ð¾Ð¹ Ð´Ð¾Ð¼ÐµÐ½';
+$MESS['LANDING_TPL_DOMAIN_NAME_B24'] = 'ÐŸÐ¾Ð´Ð´Ð¾Ð¼ÐµÐ½ Ð‘Ð¸Ñ‚Ñ€Ð¸ÐºÑ24';
+$MESS['LANDING_TPL_DOMAIN_OWN_DOMAIN_ANY_INSTRUCT'] = 'Ð”Ð»Ñ Ð¿Ð¾Ð´ÐºÐ»ÑŽÑ‡Ð°ÐµÐ¼Ð¾Ð³Ð¾ ÑÐ¾Ð±ÑÑ‚Ð²ÐµÐ½Ð½Ð¾Ð³Ð¾ Ð´Ð¾Ð¼ÐµÐ½Ð° Ð² DNS Ð½ÑƒÐ¶Ð½Ð¾ ÑƒÐºÐ°Ð·Ð°Ñ‚ÑŒ ÑÐ»ÐµÐ´ÑƒÑŽÑ‰Ð¸Ðµ Ð·Ð°Ð¿Ð¸ÑÐ¸:';
+$MESS['LANDING_TPL_DOMAIN_OWN_DOMAIN_AAAA'] = 'Ð”Ð»Ñ ÐºÐ¾Ñ€Ñ€ÐµÐºÑ‚Ð½Ð¾Ð³Ð¾ Ð¿Ð¾Ð´ÐºÐ»ÑŽÑ‡ÐµÐ½Ð¸Ñ Ð²Ð°ÑˆÐµÐ³Ð¾ Ð´Ð¾Ð¼ÐµÐ½Ð° Ð½ÐµÐ¾Ð±Ñ…Ð¾Ð´Ð¸Ð¼Ð¾ ÑƒÐ´Ð°Ð»Ð¸Ñ‚ÑŒ Ð´Ñ€ÑƒÐ³Ð¸Ðµ Ð-Ð·Ð°Ð¿Ð¸ÑÐ¸ Ð¸ ÐÐÐÐ-Ð·Ð°Ð¿Ð¸ÑÐ¸.';
+$MESS['LANDING_TPL_DOMAIN_OWN_DOMAIN_HELP'] = 'ÐŸÐ¾Ð´Ñ€Ð¾Ð±Ð½ÐµÐµ Ð¾ Ð¿Ð¾Ð´ÐºÐ»ÑŽÑ‡ÐµÐ½Ð¸Ð¸ Ð´Ð¾Ð¼ÐµÐ½Ð°...';
+$MESS['LANDING_TPL_DOMAIN_OWN_DOMAIN_DNS_1'] = 'Ð¥Ð¾ÑÑ‚';
+$MESS['LANDING_TPL_DOMAIN_OWN_DOMAIN_DNS_2'] = 'Ð¢Ð¸Ð¿ Ð·Ð°Ð¿Ð¸ÑÐ¸';
+$MESS['LANDING_TPL_DOMAIN_OWN_DOMAIN_DNS_3'] = 'Ð—Ð½Ð°Ñ‡ÐµÐ½Ð¸Ðµ Ð·Ð°Ð¿Ð¸ÑÐ¸';
+$MESS['LANDING_TPL_DOMAIN_ERROR_EMPTY'] = 'Ð”Ð¾Ð¼ÐµÐ½Ð½Ð¾Ðµ Ð¸Ð¼Ñ Ð½Ðµ Ð¼Ð¾Ð¶ÐµÑ‚ Ð±Ñ‹Ñ‚ÑŒ Ð¿ÑƒÑÑ‚Ñ‹Ð¼.';

@@ -1,7 +1,7 @@
 <?
-$MESS["VOTE_SUBMIT_BUTTON"] = "Ãîëîñîâàòü";
-$MESS["VOTE_RESUBMIT_BUTTON"] = "Ïåðåãîëîñîâàòü";
-$MESS["VOTE_STOP_BUTTON"] = "Îñòàíîâèòü";
-$MESS["VOTE_RESUME_BUTTON"] = "Âîçîáíîâèòü";
+$MESS["VOTE_SUBMIT_BUTTON"] = "Ð“Ð¾Ð»Ð¾ÑÐ¾Ð²Ð°Ñ‚ÑŒ";
+$MESS["VOTE_RESUBMIT_BUTTON"] = "ÐŸÐµÑ€ÐµÐ³Ð¾Ð»Ð¾ÑÐ¾Ð²Ð°Ñ‚ÑŒ";
+$MESS["VOTE_STOP_BUTTON"] = "ÐžÑÑ‚Ð°Ð½Ð¾Ð²Ð¸Ñ‚ÑŒ";
+$MESS["VOTE_RESUME_BUTTON"] = "Ð’Ð¾Ð·Ð¾Ð±Ð½Ð¾Ð²Ð¸Ñ‚ÑŒ";
 
 ?>

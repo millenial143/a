@@ -1,6 +1,6 @@
 <?php
-$MESS['LANDING_BLOCK_51_7_COUNTDOWN_13--NAME'] = 'Òàéìåð â êðóãëîé ðàìêå íà ñâåòëîì ôîíå';
-$MESS['LANDING_BLOCK_51_7_COUNTDOWN_13--DATE'] = 'Äàòà îêîí÷àíèÿ';
-$MESS['LANDING_BLOCK_51_7_COUNTDOWN_13--TITLE'] = 'Çàãîëîâîê';
-$MESS['LANDING_BLOCK_51_7_COUNTDOWN_13--NUMBER_NUMBER'] = '×èñëî';
-$MESS['LANDING_BLOCK_51_7_COUNTDOWN_13--NUMBER_TEXT'] = 'Ïîäïèñü';
+$MESS['LANDING_BLOCK_51_7_COUNTDOWN_13--NAME'] = 'Ð¢Ð°Ð¹Ð¼ÐµÑ€ Ð² ÐºÑ€ÑƒÐ³Ð»Ð¾Ð¹ Ñ€Ð°Ð¼ÐºÐµ Ð½Ð° ÑÐ²ÐµÑ‚Ð»Ð¾Ð¼ Ñ„Ð¾Ð½Ðµ';
+$MESS['LANDING_BLOCK_51_7_COUNTDOWN_13--DATE'] = 'Ð”Ð°Ñ‚Ð° Ð¾ÐºÐ¾Ð½Ñ‡Ð°Ð½Ð¸Ñ';
+$MESS['LANDING_BLOCK_51_7_COUNTDOWN_13--TITLE'] = 'Ð—Ð°Ð³Ð¾Ð»Ð¾Ð²Ð¾Ðº';
+$MESS['LANDING_BLOCK_51_7_COUNTDOWN_13--NUMBER_NUMBER'] = 'Ð§Ð¸ÑÐ»Ð¾';
+$MESS['LANDING_BLOCK_51_7_COUNTDOWN_13--NUMBER_TEXT'] = 'ÐŸÐ¾Ð´Ð¿Ð¸ÑÑŒ';

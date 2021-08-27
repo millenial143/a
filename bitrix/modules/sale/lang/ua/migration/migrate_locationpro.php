@@ -1,5 +1,5 @@
 <?
- $MESS ['LOCPRO_TYPE_COUNTRY'] = "Ñòðàíà";
- $MESS ['LOCPRO_TYPE_REGION'] = "Ðåãèîí";
- $MESS ['LOCPRO_TYPE_CITY'] = "Ãîðîä";
+ $MESS ['LOCPRO_TYPE_COUNTRY'] = "Ð¡Ñ‚Ñ€Ð°Ð½Ð°";
+ $MESS ['LOCPRO_TYPE_REGION'] = "Ð ÐµÐ³Ð¸Ð¾Ð½";
+ $MESS ['LOCPRO_TYPE_CITY'] = "Ð“Ð¾Ñ€Ð¾Ð´";
  ?>

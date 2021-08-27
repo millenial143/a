@@ -1,7 +1,7 @@
 <?php
-$MESS["SALE_BSM_WIZARD_WELCOMESTEP_TITLE"] = "Âàæíàÿ èíôîðìàöèÿ";
-$MESS["SALE_BSM_WIZARD_WELCOMESTEP_NEXT"] = "Ïðîäîëæèòü";
-$MESS["SALE_BSM_WIZARD_WELCOMESTEP_ITEMS"] = "Øàãè ìàñòåðà:";
-$MESS["SALE_BSM_WIZARD_WELCOMESTEP_DESCR_ITEM1"] = "Ïðîâåðêà îáÿçàòåëüíûõ òðåáîâàíèé.";
-$MESS["SALE_BSM_WIZARD_WELCOMESTEP_DESCR_ITEM2"] = "Óñòàíîâêà òðåáóåìûõ äëÿ ðàáîòû ìîäóëåé.";
-$MESS["SALE_BSM_WIZARD_WELCOMESTEP_DESCR_ITEM3"] = "Óñòàíîâêà ñàéòà ñî âñåìè íåîáõîäèìûìè ñåðâèñàìè.";
+$MESS["SALE_BSM_WIZARD_WELCOMESTEP_TITLE"] = "Ð’Ð°Ð¶Ð½Ð°Ñ Ð¸Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ñ";
+$MESS["SALE_BSM_WIZARD_WELCOMESTEP_NEXT"] = "ÐŸÑ€Ð¾Ð´Ð¾Ð»Ð¶Ð¸Ñ‚ÑŒ";
+$MESS["SALE_BSM_WIZARD_WELCOMESTEP_ITEMS"] = "Ð¨Ð°Ð³Ð¸ Ð¼Ð°ÑÑ‚ÐµÑ€Ð°:";
+$MESS["SALE_BSM_WIZARD_WELCOMESTEP_DESCR_ITEM1"] = "ÐŸÑ€Ð¾Ð²ÐµÑ€ÐºÐ° Ð¾Ð±ÑÐ·Ð°Ñ‚ÐµÐ»ÑŒÐ½Ñ‹Ñ… Ñ‚Ñ€ÐµÐ±Ð¾Ð²Ð°Ð½Ð¸Ð¹.";
+$MESS["SALE_BSM_WIZARD_WELCOMESTEP_DESCR_ITEM2"] = "Ð£ÑÑ‚Ð°Ð½Ð¾Ð²ÐºÐ° Ñ‚Ñ€ÐµÐ±ÑƒÐµÐ¼Ñ‹Ñ… Ð´Ð»Ñ Ñ€Ð°Ð±Ð¾Ñ‚Ñ‹ Ð¼Ð¾Ð´ÑƒÐ»ÐµÐ¹.";
+$MESS["SALE_BSM_WIZARD_WELCOMESTEP_DESCR_ITEM3"] = "Ð£ÑÑ‚Ð°Ð½Ð¾Ð²ÐºÐ° ÑÐ°Ð¹Ñ‚Ð° ÑÐ¾ Ð²ÑÐµÐ¼Ð¸ Ð½ÐµÐ¾Ð±Ñ…Ð¾Ð´Ð¸Ð¼Ñ‹Ð¼Ð¸ ÑÐµÑ€Ð²Ð¸ÑÐ°Ð¼Ð¸.";

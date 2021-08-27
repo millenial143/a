@@ -1,4 +1,4 @@
 <?php
-$MESS['LANDING_CMP_PAR_TYPE'] = 'Òèï ñàéòà';
-$MESS['LANDING_CMP_PAR_ROLE_EDIT'] = 'ID ðîëè';
-$MESS['LANDING_CMP_PAR_PAGE_URL_ROLES'] = 'Ññûëêà íà ñòðàíèöó ñî ñïèñêîì ðîëåé';
+$MESS['LANDING_CMP_PAR_TYPE'] = 'Ð¢Ð¸Ð¿ ÑÐ°Ð¹Ñ‚Ð°';
+$MESS['LANDING_CMP_PAR_ROLE_EDIT'] = 'ID Ñ€Ð¾Ð»Ð¸';
+$MESS['LANDING_CMP_PAR_PAGE_URL_ROLES'] = 'Ð¡ÑÑ‹Ð»ÐºÐ° Ð½Ð° ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñƒ ÑÐ¾ ÑÐ¿Ð¸ÑÐºÐ¾Ð¼ Ñ€Ð¾Ð»ÐµÐ¹';

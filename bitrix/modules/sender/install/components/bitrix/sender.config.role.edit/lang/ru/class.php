@@ -1,7 +1,7 @@
 <?php
-$MESS["SENDER_CONFIG_ROLE_EDIT_COMP_TITLE"]="Ðîëè";
-$MESS["SENDER_CONFIG_ROLE_EDIT_COMP_TITLE_EDIT"]="Ðåäàêòèðîâàíèå ðîëè";
-$MESS["SENDER_CONFIG_ROLE_EDIT_COMP_TITLE_ADD"]="Ñîçäàíèå ðîëè";
-$MESS["SENDER_CONFIG_ROLE_EDIT_COMP_TEMPLATE_NAME"]="Áåç íàçâàíèÿ";
-$MESS["SENDER_CONFIG_ROLE_EDIT_COMP_ACCESS_RIGHTS"]="Ïðàâà äîñòóïà";
-$MESS["SENDER_DEAL_CATEGORY_ALL"]="Âñå íàïðàâëåíèÿ";
+$MESS["SENDER_CONFIG_ROLE_EDIT_COMP_TITLE"]="Ð Ð¾Ð»Ð¸";
+$MESS["SENDER_CONFIG_ROLE_EDIT_COMP_TITLE_EDIT"]="Ð ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ðµ Ñ€Ð¾Ð»Ð¸";
+$MESS["SENDER_CONFIG_ROLE_EDIT_COMP_TITLE_ADD"]="Ð¡Ð¾Ð·Ð´Ð°Ð½Ð¸Ðµ Ñ€Ð¾Ð»Ð¸";
+$MESS["SENDER_CONFIG_ROLE_EDIT_COMP_TEMPLATE_NAME"]="Ð‘ÐµÐ· Ð½Ð°Ð·Ð²Ð°Ð½Ð¸Ñ";
+$MESS["SENDER_CONFIG_ROLE_EDIT_COMP_ACCESS_RIGHTS"]="ÐŸÑ€Ð°Ð²Ð° Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð°";
+$MESS["SENDER_DEAL_CATEGORY_ALL"]="Ð’ÑÐµ Ð½Ð°Ð¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¸Ñ";

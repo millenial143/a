@@ -1,4 +1,4 @@
 <?php
-$MESS["SAPS_LINK_TEXT"] = "Äëÿ ïåðåõîäà íàæìèòå";
-$MESS["SAPS_LINK_BUTTON"] = "Ïåðåéòè";
-$MESS["SAPS_LINK_BUTTON_OPEN_ADMIN_PAGE"] = "Îòêðûòü àäìèíèñòðàòèâíóþ ñòðàíèöó";
+$MESS["SAPS_LINK_TEXT"] = "Ð”Ð»Ñ Ð¿ÐµÑ€ÐµÑ…Ð¾Ð´Ð° Ð½Ð°Ð¶Ð¼Ð¸Ñ‚Ðµ";
+$MESS["SAPS_LINK_BUTTON"] = "ÐŸÐµÑ€ÐµÐ¹Ñ‚Ð¸";
+$MESS["SAPS_LINK_BUTTON_OPEN_ADMIN_PAGE"] = "ÐžÑ‚ÐºÑ€Ñ‹Ñ‚ÑŒ Ð°Ð´Ð¼Ð¸Ð½Ð¸ÑÑ‚Ñ€Ð°Ñ‚Ð¸Ð²Ð½ÑƒÑŽ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñƒ";

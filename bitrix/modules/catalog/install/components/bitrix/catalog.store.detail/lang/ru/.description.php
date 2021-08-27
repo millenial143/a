@@ -1,6 +1,6 @@
 <?
-$MESS["CP_CATALOG_STORE_MAIN_SECTION"] = "Ìàãàçèí";
-$MESS["CP_CATALOG_STORE_STORE_SECTION"] = "Ñêëàäû";
-$MESS["CP_CATALOG_STORE_CSD_NAME"] = "Èíôîðìàöèÿ î ñêëàäå";
-$MESS["CP_CATALOG_STORE_CSD_DESCRIPTION"] = "Âûâîäèò ïîäðîáíóþ èíôîðìàöèþ î ñêëàäå";
+$MESS["CP_CATALOG_STORE_MAIN_SECTION"] = "ÐœÐ°Ð³Ð°Ð·Ð¸Ð½";
+$MESS["CP_CATALOG_STORE_STORE_SECTION"] = "Ð¡ÐºÐ»Ð°Ð´Ñ‹";
+$MESS["CP_CATALOG_STORE_CSD_NAME"] = "Ð˜Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ñ Ð¾ ÑÐºÐ»Ð°Ð´Ðµ";
+$MESS["CP_CATALOG_STORE_CSD_DESCRIPTION"] = "Ð’Ñ‹Ð²Ð¾Ð´Ð¸Ñ‚ Ð¿Ð¾Ð´Ñ€Ð¾Ð±Ð½ÑƒÑŽ Ð¸Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸ÑŽ Ð¾ ÑÐºÐ»Ð°Ð´Ðµ";
 ?>

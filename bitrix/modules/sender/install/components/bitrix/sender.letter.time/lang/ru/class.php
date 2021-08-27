@@ -1,6 +1,6 @@
 <?
-$MESS["SENDER_LETTER_TIME_COMP_TITLE"] = "Îòïðàâêà";
-$MESS["SENDER_LETTER_TIME_COMP_ERR_NO_LETTER"] = "Ðàññûëêà íå íàéäåíà";
-$MESS["SENDER_LETTER_TIME_COMP_ERR_SCHEDULE_WRONG_TIME"] = "Íå óêàçàíî âðåìÿ çàïóñêà ïî ðàñïèñàíèþ.";
-$MESS["SENDER_LETTER_TIME_COMP_ERR_SCHEDULE_WRONG_WEEK_DAYS"] = "Íå óêàçàíû äíè çàïóñêà ïî ðàñïèñàíèþ.";
+$MESS["SENDER_LETTER_TIME_COMP_TITLE"] = "ÐžÑ‚Ð¿Ñ€Ð°Ð²ÐºÐ°";
+$MESS["SENDER_LETTER_TIME_COMP_ERR_NO_LETTER"] = "Ð Ð°ÑÑÑ‹Ð»ÐºÐ° Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½Ð°";
+$MESS["SENDER_LETTER_TIME_COMP_ERR_SCHEDULE_WRONG_TIME"] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½Ð¾ Ð²Ñ€ÐµÐ¼Ñ Ð·Ð°Ð¿ÑƒÑÐºÐ° Ð¿Ð¾ Ñ€Ð°ÑÐ¿Ð¸ÑÐ°Ð½Ð¸ÑŽ.";
+$MESS["SENDER_LETTER_TIME_COMP_ERR_SCHEDULE_WRONG_WEEK_DAYS"] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½Ñ‹ Ð´Ð½Ð¸ Ð·Ð°Ð¿ÑƒÑÐºÐ° Ð¿Ð¾ Ñ€Ð°ÑÐ¿Ð¸ÑÐ°Ð½Ð¸ÑŽ.";
 ?>

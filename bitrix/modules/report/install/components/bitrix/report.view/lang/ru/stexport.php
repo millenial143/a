@@ -1,5 +1,5 @@
 <?
-$MESS["REPORT_VIEW_STEXPORT_ERR_FILE_NOT_FOUND"] = "Ôàéë ýêñïîðòà íå îáíàðóæåí.";
-$MESS["REPORT_VIEW_STEXPORT_ERR_INVALID_TYPE"] = "Íåâåðíûé òèï ýêñïîðòà.";
-$MESS["REPORT_VIEW_STEXPORT_ERR_GET_FILE_SIZE"] = "Íå óäàëîñü îïðåäåëèòü ðàçìåð ôàéëà ýêñïîðòà.";
+$MESS["REPORT_VIEW_STEXPORT_ERR_FILE_NOT_FOUND"] = "Ð¤Ð°Ð¹Ð» ÑÐºÑÐ¿Ð¾Ñ€Ñ‚Ð° Ð½Ðµ Ð¾Ð±Ð½Ð°Ñ€ÑƒÐ¶ÐµÐ½.";
+$MESS["REPORT_VIEW_STEXPORT_ERR_INVALID_TYPE"] = "ÐÐµÐ²ÐµÑ€Ð½Ñ‹Ð¹ Ñ‚Ð¸Ð¿ ÑÐºÑÐ¿Ð¾Ñ€Ñ‚Ð°.";
+$MESS["REPORT_VIEW_STEXPORT_ERR_GET_FILE_SIZE"] = "ÐÐµ ÑƒÐ´Ð°Ð»Ð¾ÑÑŒ Ð¾Ð¿Ñ€ÐµÐ´ÐµÐ»Ð¸Ñ‚ÑŒ Ñ€Ð°Ð·Ð¼ÐµÑ€ Ñ„Ð°Ð¹Ð»Ð° ÑÐºÑÐ¿Ð¾Ñ€Ñ‚Ð°.";
 ?>

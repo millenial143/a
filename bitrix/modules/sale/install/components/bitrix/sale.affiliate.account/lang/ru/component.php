@@ -1,7 +1,7 @@
 <?
-$MESS["SPCA_AFFILIATE_ACCOUNT"]="Ñ÷åò àôôèëèàòà";
-$MESS["SPCA_AFFILIATE_PAY"]="Íà÷èñëåíèå";
-$MESS["SPCA_AFFILIATE_TRANSF"]="Ïåðå÷èñëåíèå íà âíóòðåííèé ñ÷åò";
-$MESS["SPCA_AFFILIATE_CLEAR"]="Âûïëàòà";
-$MESS["SPCA_NO_SHOP"]="Ìîäóëü ìàãàçèíà íå óñòàíîâëåí";
+$MESS["SPCA_AFFILIATE_ACCOUNT"]="Ð¡Ñ‡ÐµÑ‚ Ð°Ñ„Ñ„Ð¸Ð»Ð¸Ð°Ñ‚Ð°";
+$MESS["SPCA_AFFILIATE_PAY"]="ÐÐ°Ñ‡Ð¸ÑÐ»ÐµÐ½Ð¸Ðµ";
+$MESS["SPCA_AFFILIATE_TRANSF"]="ÐŸÐµÑ€ÐµÑ‡Ð¸ÑÐ»ÐµÐ½Ð¸Ðµ Ð½Ð° Ð²Ð½ÑƒÑ‚Ñ€ÐµÐ½Ð½Ð¸Ð¹ ÑÑ‡ÐµÑ‚";
+$MESS["SPCA_AFFILIATE_CLEAR"]="Ð’Ñ‹Ð¿Ð»Ð°Ñ‚Ð°";
+$MESS["SPCA_NO_SHOP"]="ÐœÐ¾Ð´ÑƒÐ»ÑŒ Ð¼Ð°Ð³Ð°Ð·Ð¸Ð½Ð° Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½";
 ?>

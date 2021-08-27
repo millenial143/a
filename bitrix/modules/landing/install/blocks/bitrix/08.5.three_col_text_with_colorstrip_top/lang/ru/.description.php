@@ -1,11 +1,11 @@
 <?php
-$MESS['LANDING_BLOCK_08_5_NAME'] = 'Êîëîíêè ñ òåêñòîì è öâåòíîé ïîëîñêîé';
-$MESS['LANDING_BLOCK_08_5_CARD'] = 'Êîëîíêà';
-$MESS['LANDING_BLOCK_08_5_INNER'] = 'Áëîê';
-$MESS['LANDING_BLOCK_08_5_TITLE'] = 'Çàãîëîâîê';
-$MESS['LANDING_BLOCK_08_5_TEXT'] = 'Òåêñò';
-$MESS['LANDING_BLOCK_08_5_INFO'] = 'Èíôîðìàöèÿ';
-$MESS['LANDING_BLOCK_08_5_DIVIDING_STRIP'] = 'Ðàçäåëèòåëüíàÿ ïîëîñà';
-$MESS['LANDING_BLOCK_08_5_LINE'] = 'Ïîëîñêà';
+$MESS['LANDING_BLOCK_08_5_NAME'] = 'ÐšÐ¾Ð»Ð¾Ð½ÐºÐ¸ Ñ Ñ‚ÐµÐºÑÑ‚Ð¾Ð¼ Ð¸ Ñ†Ð²ÐµÑ‚Ð½Ð¾Ð¹ Ð¿Ð¾Ð»Ð¾ÑÐºÐ¾Ð¹';
+$MESS['LANDING_BLOCK_08_5_CARD'] = 'ÐšÐ¾Ð»Ð¾Ð½ÐºÐ°';
+$MESS['LANDING_BLOCK_08_5_INNER'] = 'Ð‘Ð»Ð¾Ðº';
+$MESS['LANDING_BLOCK_08_5_TITLE'] = 'Ð—Ð°Ð³Ð¾Ð»Ð¾Ð²Ð¾Ðº';
+$MESS['LANDING_BLOCK_08_5_TEXT'] = 'Ð¢ÐµÐºÑÑ‚';
+$MESS['LANDING_BLOCK_08_5_INFO'] = 'Ð˜Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ñ';
+$MESS['LANDING_BLOCK_08_5_DIVIDING_STRIP'] = 'Ð Ð°Ð·Ð´ÐµÐ»Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ð°Ñ Ð¿Ð¾Ð»Ð¾ÑÐ°';
+$MESS['LANDING_BLOCK_08_5_LINE'] = 'ÐŸÐ¾Ð»Ð¾ÑÐºÐ°';
 
 

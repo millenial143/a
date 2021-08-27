@@ -1,4 +1,4 @@
 <?
-$MESS["BX_CATALOG_CPS_TPL_MESS_USE_SUBSTRING_QUERY"] = "Íå èñïîëüçîâàòü ñëîæíóþ ëîãèêó ïîèñêîâîãî çàïðîñà";
-$MESS["BX_CATALOG_CPS_TPL_MESS_APPEND_SECTION"] = "Ïåðåéòè â ðàçäåë";
+$MESS["BX_CATALOG_CPS_TPL_MESS_USE_SUBSTRING_QUERY"] = "ÐÐµ Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÑŒ ÑÐ»Ð¾Ð¶Ð½ÑƒÑŽ Ð»Ð¾Ð³Ð¸ÐºÑƒ Ð¿Ð¾Ð¸ÑÐºÐ¾Ð²Ð¾Ð³Ð¾ Ð·Ð°Ð¿Ñ€Ð¾ÑÐ°";
+$MESS["BX_CATALOG_CPS_TPL_MESS_APPEND_SECTION"] = "ÐŸÐµÑ€ÐµÐ¹Ñ‚Ð¸ Ð² Ñ€Ð°Ð·Ð´ÐµÐ»";
 ?>

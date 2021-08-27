@@ -1,11 +1,11 @@
 <?php
-$MESS['LANDING_TPL_TITLE'] = 'Ñïèñîê äîìåíîâ';
-$MESS['LANDING_TPL_COL_ACTIVE'] = 'Àêò.';
-$MESS['LANDING_TPL_COL_ACT_Y'] = 'Äà';
-$MESS['LANDING_TPL_COL_ACT_N'] = 'Íåò';
-$MESS['LANDING_TPL_COL_DOMAIN'] = 'Äîìåí';
-$MESS['LANDING_TPL_COL_CREATED'] = 'Ñîçäàí';
-$MESS['LANDING_TPL_COL_MODIFIED'] = 'Èçìåíåí';
-$MESS['LANDING_TPL_ACTION_EDIT'] = 'Èçìåíèòü';
-$MESS['LANDING_TPL_ACTION_DELETE'] = 'Óäàëèòü';
-$MESS['LANDING_TPL_ACTION_ADD'] = 'Íîâûé';
+$MESS['LANDING_TPL_TITLE'] = 'Ð¡Ð¿Ð¸ÑÐ¾Ðº Ð´Ð¾Ð¼ÐµÐ½Ð¾Ð²';
+$MESS['LANDING_TPL_COL_ACTIVE'] = 'ÐÐºÑ‚.';
+$MESS['LANDING_TPL_COL_ACT_Y'] = 'Ð”Ð°';
+$MESS['LANDING_TPL_COL_ACT_N'] = 'ÐÐµÑ‚';
+$MESS['LANDING_TPL_COL_DOMAIN'] = 'Ð”Ð¾Ð¼ÐµÐ½';
+$MESS['LANDING_TPL_COL_CREATED'] = 'Ð¡Ð¾Ð·Ð´Ð°Ð½';
+$MESS['LANDING_TPL_COL_MODIFIED'] = 'Ð˜Ð·Ð¼ÐµÐ½ÐµÐ½';
+$MESS['LANDING_TPL_ACTION_EDIT'] = 'Ð˜Ð·Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ';
+$MESS['LANDING_TPL_ACTION_DELETE'] = 'Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ';
+$MESS['LANDING_TPL_ACTION_ADD'] = 'ÐÐ¾Ð²Ñ‹Ð¹';

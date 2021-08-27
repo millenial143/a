@@ -1,11 +1,11 @@
 <?
-$MESS["BCLMME_TITLE"] = "Ïàðàìåòðû èíñïåêòîðà";
-$MESS["BCLMME_HEAD"] = "Íàñòðîéêà ïàðàìåòðîâ";
-$MESS["BCLMME_DOMAIN_TITLE"] = "Äîìåí";
-$MESS["BCLMME_HTTP_RESPONSE_TIME_TITLE"] = "Ðàáîòîñïîñîáíîñòü ñàéòà";
-$MESS["BCLMME_TEST_DOMAIN_REGISTRATION_TITLE"] = "Ñðîê ðåãèñòðàöèè äîìåíà";
-$MESS["BCLMME_TEST_LICENSE_TITLE"] = "Ñðîê èñòå÷åíèÿ ëèöåíçèè 1Ñ-Áèòðèêñ";
-$MESS["BCLMME_IS_HTTPS_TITLE"] = "Èíñïåêòèðîâàòü äîìåí ïî https";
-$MESS["BCLMME_LANG_TITLE"] = "ßçûê äëÿ îïîâåùåíèé";
-$MESS["BCLMME_EMAILS_TITLE"] = "e-mail äëÿ îïîâåùåíèé";
+$MESS["BCLMME_TITLE"] = "ÐŸÐ°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ñ‹ Ð¸Ð½ÑÐ¿ÐµÐºÑ‚Ð¾Ñ€Ð°";
+$MESS["BCLMME_HEAD"] = "ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ° Ð¿Ð°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ð¾Ð²";
+$MESS["BCLMME_DOMAIN_TITLE"] = "Ð”Ð¾Ð¼ÐµÐ½";
+$MESS["BCLMME_HTTP_RESPONSE_TIME_TITLE"] = "Ð Ð°Ð±Ð¾Ñ‚Ð¾ÑÐ¿Ð¾ÑÐ¾Ð±Ð½Ð¾ÑÑ‚ÑŒ ÑÐ°Ð¹Ñ‚Ð°";
+$MESS["BCLMME_TEST_DOMAIN_REGISTRATION_TITLE"] = "Ð¡Ñ€Ð¾Ðº Ñ€ÐµÐ³Ð¸ÑÑ‚Ñ€Ð°Ñ†Ð¸Ð¸ Ð´Ð¾Ð¼ÐµÐ½Ð°";
+$MESS["BCLMME_TEST_LICENSE_TITLE"] = "Ð¡Ñ€Ð¾Ðº Ð¸ÑÑ‚ÐµÑ‡ÐµÐ½Ð¸Ñ Ð»Ð¸Ñ†ÐµÐ½Ð·Ð¸Ð¸ 1Ð¡-Ð‘Ð¸Ñ‚Ñ€Ð¸ÐºÑ";
+$MESS["BCLMME_IS_HTTPS_TITLE"] = "Ð˜Ð½ÑÐ¿ÐµÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ Ð´Ð¾Ð¼ÐµÐ½ Ð¿Ð¾ https";
+$MESS["BCLMME_LANG_TITLE"] = "Ð¯Ð·Ñ‹Ðº Ð´Ð»Ñ Ð¾Ð¿Ð¾Ð²ÐµÑ‰ÐµÐ½Ð¸Ð¹";
+$MESS["BCLMME_EMAILS_TITLE"] = "e-mail Ð´Ð»Ñ Ð¾Ð¿Ð¾Ð²ÐµÑ‰ÐµÐ½Ð¸Ð¹";
 ?>

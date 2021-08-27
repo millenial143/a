@@ -1,6 +1,6 @@
 <?
-$MESS["CP_CATALOG_SERVICES_MAIN_SECTION"] = "Ìàãàçèí";
-$MESS["CP_CATALOG_SERVICES_PARENT_SECTION"] = "Èíôîðìàöèÿ î òîâàðàõ";
-$MESS["SPGB_SECTION_TEMPLATE_NAME"] = "Ïîäàðêè ê òîâàðàì â êîðçèíå";
-$MESS["SPGB_SECTION_TEMPLATE_DESCRIPTION"] = "Âûâîäèò ïîäàðêè ê òîâàðàì â êîðçèíå";
+$MESS["CP_CATALOG_SERVICES_MAIN_SECTION"] = "ÐœÐ°Ð³Ð°Ð·Ð¸Ð½";
+$MESS["CP_CATALOG_SERVICES_PARENT_SECTION"] = "Ð˜Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ñ Ð¾ Ñ‚Ð¾Ð²Ð°Ñ€Ð°Ñ…";
+$MESS["SPGB_SECTION_TEMPLATE_NAME"] = "ÐŸÐ¾Ð´Ð°Ñ€ÐºÐ¸ Ðº Ñ‚Ð¾Ð²Ð°Ñ€Ð°Ð¼ Ð² ÐºÐ¾Ñ€Ð·Ð¸Ð½Ðµ";
+$MESS["SPGB_SECTION_TEMPLATE_DESCRIPTION"] = "Ð’Ñ‹Ð²Ð¾Ð´Ð¸Ñ‚ Ð¿Ð¾Ð´Ð°Ñ€ÐºÐ¸ Ðº Ñ‚Ð¾Ð²Ð°Ñ€Ð°Ð¼ Ð² ÐºÐ¾Ñ€Ð·Ð¸Ð½Ðµ";
 ?>

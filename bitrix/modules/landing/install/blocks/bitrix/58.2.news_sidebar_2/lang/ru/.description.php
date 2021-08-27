@@ -1,5 +1,5 @@
 <?php
-$MESS['LANDING_BLOCK_58_2_NAME'] = 'Äëÿ ñàéäáàðà: Òåêñòîâûå êàðòî÷êè ñ çàãîëîâêîì';
-$MESS['LANDING_BLOCK_58_2_CARD'] = 'Íîâîñòü';
-$MESS['LANDING_BLOCK_58_2_TITLE'] = 'Çàãîëîâîê';
-$MESS['LANDING_BLOCK_58_2_SUBTITLE'] = 'Òåêñò';
+$MESS['LANDING_BLOCK_58_2_NAME'] = 'Ð”Ð»Ñ ÑÐ°Ð¹Ð´Ð±Ð°Ñ€Ð°: Ð¢ÐµÐºÑÑ‚Ð¾Ð²Ñ‹Ðµ ÐºÐ°Ñ€Ñ‚Ð¾Ñ‡ÐºÐ¸ Ñ Ð·Ð°Ð³Ð¾Ð»Ð¾Ð²ÐºÐ¾Ð¼';
+$MESS['LANDING_BLOCK_58_2_CARD'] = 'ÐÐ¾Ð²Ð¾ÑÑ‚ÑŒ';
+$MESS['LANDING_BLOCK_58_2_TITLE'] = 'Ð—Ð°Ð³Ð¾Ð»Ð¾Ð²Ð¾Ðº';
+$MESS['LANDING_BLOCK_58_2_SUBTITLE'] = 'Ð¢ÐµÐºÑÑ‚';

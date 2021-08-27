@@ -1,8 +1,8 @@
 <?
-$MESS["UI_VUE_REACTION_ICON_LIKE"] = "Íðàâèòñÿ";
-$MESS["UI_VUE_REACTION_ICON_KISS"] = "Âîñõèùàþñü";
-$MESS["UI_VUE_REACTION_ICON_LAUGH"] = "Ñìåþñü";
-$MESS["UI_VUE_REACTION_ICON_WONDER"] = "Óäèâëÿþñü";
-$MESS["UI_VUE_REACTION_ICON_CRY"] = "Ïå÷àëþñü";
-$MESS["UI_VUE_REACTION_ICON_ANGRY"] = "Çëþñü";
+$MESS["UI_VUE_REACTION_ICON_LIKE"] = "ÐÑ€Ð°Ð²Ð¸Ñ‚ÑÑ";
+$MESS["UI_VUE_REACTION_ICON_KISS"] = "Ð’Ð¾ÑÑ…Ð¸Ñ‰Ð°ÑŽÑÑŒ";
+$MESS["UI_VUE_REACTION_ICON_LAUGH"] = "Ð¡Ð¼ÐµÑŽÑÑŒ";
+$MESS["UI_VUE_REACTION_ICON_WONDER"] = "Ð£Ð´Ð¸Ð²Ð»ÑÑŽÑÑŒ";
+$MESS["UI_VUE_REACTION_ICON_CRY"] = "ÐŸÐµÑ‡Ð°Ð»ÑŽÑÑŒ";
+$MESS["UI_VUE_REACTION_ICON_ANGRY"] = "Ð—Ð»ÑŽÑÑŒ";
 ?>

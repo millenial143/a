@@ -1,4 +1,4 @@
 <?php
-$MESS['LNDNG_BLCK_35_10_HEADER_NAME'] = 'Øàïêà ñ íàçâàíèåì êîìïàíèè ñâåðõó è ñëîãàíîì ñíèçó';
-$MESS['LNDNG_BLCK_35_10_HEADER_TITLE'] = 'Íàçâàíèå';
-$MESS['LNDNG_BLCK_35_10_HEADER_SLOGAN'] = 'Òåêñò';
+$MESS['LNDNG_BLCK_35_10_HEADER_NAME'] = 'Ð¨Ð°Ð¿ÐºÐ° Ñ Ð½Ð°Ð·Ð²Ð°Ð½Ð¸ÐµÐ¼ ÐºÐ¾Ð¼Ð¿Ð°Ð½Ð¸Ð¸ ÑÐ²ÐµÑ€Ñ…Ñƒ Ð¸ ÑÐ»Ð¾Ð³Ð°Ð½Ð¾Ð¼ ÑÐ½Ð¸Ð·Ñƒ';
+$MESS['LNDNG_BLCK_35_10_HEADER_TITLE'] = 'ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ';
+$MESS['LNDNG_BLCK_35_10_HEADER_SLOGAN'] = 'Ð¢ÐµÐºÑÑ‚';

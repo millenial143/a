@@ -1,5 +1,5 @@
 <?
-$MESS ['SOP_DEFAULT_TEMPLATE_NAME'] = "Ïîäêëþ÷åíèå ïëàòåæíîé ñèñòåìû";
-$MESS ['SOP_DEFAULT_TEMPLATE_DESCRIPTION'] = "Ïîäêëþ÷åíèå ïëàòåæíîé ñèñòåìû";
-$MESS ['SOP_NAME'] = "Ïðîöåäóðà çàêàçà";
+$MESS ['SOP_DEFAULT_TEMPLATE_NAME'] = "ÐŸÐ¾Ð´ÐºÐ»ÑŽÑ‡ÐµÐ½Ð¸Ðµ Ð¿Ð»Ð°Ñ‚ÐµÐ¶Ð½Ð¾Ð¹ ÑÐ¸ÑÑ‚ÐµÐ¼Ñ‹";
+$MESS ['SOP_DEFAULT_TEMPLATE_DESCRIPTION'] = "ÐŸÐ¾Ð´ÐºÐ»ÑŽÑ‡ÐµÐ½Ð¸Ðµ Ð¿Ð»Ð°Ñ‚ÐµÐ¶Ð½Ð¾Ð¹ ÑÐ¸ÑÑ‚ÐµÐ¼Ñ‹";
+$MESS ['SOP_NAME'] = "ÐŸÑ€Ð¾Ñ†ÐµÐ´ÑƒÑ€Ð° Ð·Ð°ÐºÐ°Ð·Ð°";
 ?>

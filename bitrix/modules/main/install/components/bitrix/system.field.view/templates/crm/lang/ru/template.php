@@ -1,9 +1,9 @@
 <?
-$MESS["CRM_ENTITY_TYPE_LEAD"] = "Ëèä";
-$MESS["CRM_ENTITY_TYPE_CONTACT"] = "Êîíòàêò";
-$MESS["CRM_ENTITY_TYPE_COMPANY"] = "Êîìïàíèÿ";
-$MESS["CRM_ENTITY_TYPE_DEAL"] = "Ñäåëêà";
-$MESS["CRM_ENTITY_TYPE_ORDER"] = "Çàêàç";
-$MESS["CRM_SIP_MGR_UNKNOWN_RECIPIENT"] = "Íåèçâåñòíûé àáîíåíò";
-$MESS["CRM_SIP_MGR_MAKE_CALL"] = "Ïîçâîíèòü";
+$MESS["CRM_ENTITY_TYPE_LEAD"] = "Ð›Ð¸Ð´";
+$MESS["CRM_ENTITY_TYPE_CONTACT"] = "ÐšÐ¾Ð½Ñ‚Ð°ÐºÑ‚";
+$MESS["CRM_ENTITY_TYPE_COMPANY"] = "ÐšÐ¾Ð¼Ð¿Ð°Ð½Ð¸Ñ";
+$MESS["CRM_ENTITY_TYPE_DEAL"] = "Ð¡Ð´ÐµÐ»ÐºÐ°";
+$MESS["CRM_ENTITY_TYPE_ORDER"] = "Ð—Ð°ÐºÐ°Ð·";
+$MESS["CRM_SIP_MGR_UNKNOWN_RECIPIENT"] = "ÐÐµÐ¸Ð·Ð²ÐµÑÑ‚Ð½Ñ‹Ð¹ Ð°Ð±Ð¾Ð½ÐµÐ½Ñ‚";
+$MESS["CRM_SIP_MGR_MAKE_CALL"] = "ÐŸÐ¾Ð·Ð²Ð¾Ð½Ð¸Ñ‚ÑŒ";
 ?>

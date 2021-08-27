@@ -1,2 +1,2 @@
 <?
-$MESS["URLPREVIEW_DETAILS"]="Подробности";
+$MESS["URLPREVIEW_DETAILS"]="РџРѕРґСЂРѕР±РЅРѕСЃС‚Рё";

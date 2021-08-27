@@ -1,3 +1,3 @@
 <?
-$MESS["MLE_INSCRIPTION_FOR_EMPTY"] = "Íåò çàïèñåé";
+$MESS["MLE_INSCRIPTION_FOR_EMPTY"] = "ÐÐµÑ‚ Ð·Ð°Ð¿Ð¸ÑÐµÐ¹";
 ?>

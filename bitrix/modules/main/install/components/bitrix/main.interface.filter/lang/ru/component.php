@@ -1,14 +1,14 @@
 <?
-$MESS["interface_filter_no_no_no_1"] = "(íåò)";
-$MESS["interface_filter_today"] = "ñåãîäíÿ";
-$MESS["interface_filter_yesterday"] = "â÷åðà";
-$MESS["interface_filter_week"] = "ýòà íåäåëÿ";
-$MESS["interface_filter_week_ago"] = "ïðîøë. íåäåëÿ";
-$MESS["interface_filter_month"] = "ýòîò ìåñÿö";
-$MESS["interface_filter_month_ago"] = "ïðîøë. ìåñÿö";
-$MESS["interface_filter_last"] = "çà ïîñëåä.";
-$MESS["interface_filter_exact"] = "òî÷íî";
-$MESS["interface_filter_later"] = "ïîçæå";
-$MESS["interface_filter_earlier"] = "ðàíüøå";
-$MESS["interface_filter_interval"] = "èíòåðâàë";
+$MESS["interface_filter_no_no_no_1"] = "(Ð½ÐµÑ‚)";
+$MESS["interface_filter_today"] = "ÑÐµÐ³Ð¾Ð´Ð½Ñ";
+$MESS["interface_filter_yesterday"] = "Ð²Ñ‡ÐµÑ€Ð°";
+$MESS["interface_filter_week"] = "ÑÑ‚Ð° Ð½ÐµÐ´ÐµÐ»Ñ";
+$MESS["interface_filter_week_ago"] = "Ð¿Ñ€Ð¾ÑˆÐ». Ð½ÐµÐ´ÐµÐ»Ñ";
+$MESS["interface_filter_month"] = "ÑÑ‚Ð¾Ñ‚ Ð¼ÐµÑÑÑ†";
+$MESS["interface_filter_month_ago"] = "Ð¿Ñ€Ð¾ÑˆÐ». Ð¼ÐµÑÑÑ†";
+$MESS["interface_filter_last"] = "Ð·Ð° Ð¿Ð¾ÑÐ»ÐµÐ´.";
+$MESS["interface_filter_exact"] = "Ñ‚Ð¾Ñ‡Ð½Ð¾";
+$MESS["interface_filter_later"] = "Ð¿Ð¾Ð·Ð¶Ðµ";
+$MESS["interface_filter_earlier"] = "Ñ€Ð°Ð½ÑŒÑˆÐµ";
+$MESS["interface_filter_interval"] = "Ð¸Ð½Ñ‚ÐµÑ€Ð²Ð°Ð»";
 ?>

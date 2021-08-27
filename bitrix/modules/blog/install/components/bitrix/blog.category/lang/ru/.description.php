@@ -1,5 +1,5 @@
 <?
-$MESS["BCAT_DEFAULT_TEMPLATE_NAME"]="Òåãè áëîãà";
-$MESS["BCAT_DEFAULT_TEMPLATE_DESCRIPTION"]="Ïîçâîëÿåò ðåäàêòèðîâàòü òåãè ñîîáùåíèé áëîãà";
-$MESS["BCAT_NAME"]="Áëîãè";
+$MESS["BCAT_DEFAULT_TEMPLATE_NAME"]="Ð¢ÐµÐ³Ð¸ Ð±Ð»Ð¾Ð³Ð°";
+$MESS["BCAT_DEFAULT_TEMPLATE_DESCRIPTION"]="ÐŸÐ¾Ð·Ð²Ð¾Ð»ÑÐµÑ‚ Ñ€ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ Ñ‚ÐµÐ³Ð¸ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ð¹ Ð±Ð»Ð¾Ð³Ð°";
+$MESS["BCAT_NAME"]="Ð‘Ð»Ð¾Ð³Ð¸";
 ?>

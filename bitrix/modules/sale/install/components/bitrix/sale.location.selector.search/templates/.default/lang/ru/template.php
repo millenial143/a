@@ -1,7 +1,7 @@
 <?
-$MESS["SALE_SLS_NOTHING_FOUND"] = "Ê ñîæàëåíèþ, íè÷åãî íå íàéäåíî";
-$MESS["SALE_SLS_ERROR_OCCURED"] = "Ê ñîæàëåíèþ, ïðîèçîøëà âíóòðåííÿÿ îøèáêà";
-$MESS["SALE_SLS_CLEAR_SELECTION"] = "Îòìåíèòü âûáîð";
-$MESS["SALE_SLS_EDIT"] = "Ðåäàêòèðîâàòü";
-$MESS["SALE_SLS_INPUT_SOME"] = "Ââåäèòå íàçâàíèå";
+$MESS["SALE_SLS_NOTHING_FOUND"] = "Ðš ÑÐ¾Ð¶Ð°Ð»ÐµÐ½Ð¸ÑŽ, Ð½Ð¸Ñ‡ÐµÐ³Ð¾ Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½Ð¾";
+$MESS["SALE_SLS_ERROR_OCCURED"] = "Ðš ÑÐ¾Ð¶Ð°Ð»ÐµÐ½Ð¸ÑŽ, Ð¿Ñ€Ð¾Ð¸Ð·Ð¾ÑˆÐ»Ð° Ð²Ð½ÑƒÑ‚Ñ€ÐµÐ½Ð½ÑÑ Ð¾ÑˆÐ¸Ð±ÐºÐ°";
+$MESS["SALE_SLS_CLEAR_SELECTION"] = "ÐžÑ‚Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ Ð²Ñ‹Ð±Ð¾Ñ€";
+$MESS["SALE_SLS_EDIT"] = "Ð ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ";
+$MESS["SALE_SLS_INPUT_SOME"] = "Ð’Ð²ÐµÐ´Ð¸Ñ‚Ðµ Ð½Ð°Ð·Ð²Ð°Ð½Ð¸Ðµ";
 ?>

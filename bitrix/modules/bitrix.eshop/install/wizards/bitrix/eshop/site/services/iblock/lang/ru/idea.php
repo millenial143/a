@@ -1,8 +1,8 @@
 <?
-$MESS ['IDEA_CATEGORY_EDIT_FORM_TAB_TITLE'] = "Ðàçäåë"; 
-$MESS ['IDEA_CATEGORY_EDIT_FORM_P_ACTIVE'] = "Ðàçäåë àêòèâåí"; 
-$MESS ['IDEA_CATEGORY_EDIT_FORM_P_NAME'] = "*Íàçâàíèå"; 
-$MESS ['IDEA_CATEGORY_EDIT_FORM_P_CODE'] = "*Ñèìâîëüíûé êîä"; 
-$MESS ['IDEA_CATEGORY_EDIT_FORM_P_IBLOCK_SECTION_ID'] = "Ðîäèòåëüñêèé ðàçäåë";
-$MESS ['IDEA_CATEGORY_EDIT_FORM_P_SORT'] = "Ñîðòèðîâêà"; 
+$MESS ['IDEA_CATEGORY_EDIT_FORM_TAB_TITLE'] = "Ð Ð°Ð·Ð´ÐµÐ»"; 
+$MESS ['IDEA_CATEGORY_EDIT_FORM_P_ACTIVE'] = "Ð Ð°Ð·Ð´ÐµÐ» Ð°ÐºÑ‚Ð¸Ð²ÐµÐ½"; 
+$MESS ['IDEA_CATEGORY_EDIT_FORM_P_NAME'] = "*ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ"; 
+$MESS ['IDEA_CATEGORY_EDIT_FORM_P_CODE'] = "*Ð¡Ð¸Ð¼Ð²Ð¾Ð»ÑŒÐ½Ñ‹Ð¹ ÐºÐ¾Ð´"; 
+$MESS ['IDEA_CATEGORY_EDIT_FORM_P_IBLOCK_SECTION_ID'] = "Ð Ð¾Ð´Ð¸Ñ‚ÐµÐ»ÑŒÑÐºÐ¸Ð¹ Ñ€Ð°Ð·Ð´ÐµÐ»";
+$MESS ['IDEA_CATEGORY_EDIT_FORM_P_SORT'] = "Ð¡Ð¾Ñ€Ñ‚Ð¸Ñ€Ð¾Ð²ÐºÐ°"; 
 ?>

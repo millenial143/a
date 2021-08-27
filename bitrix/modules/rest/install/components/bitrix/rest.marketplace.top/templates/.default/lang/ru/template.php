@@ -1,8 +1,8 @@
 <?
-$MESS["MARKETPLACE_SHOW_APP"] = "Ïîñìîòðåòü";
-$MESS["MARKETPLACE_PRICE_FREE"] = "Áåñïëàòíûå";
-$MESS["MARKETPLACE_PRICE_PAID"] = "Ïëàòíûå";
-$MESS["MARKETPLACE_APP_FREE"] = "Áåñïëàòíî";
-$MESS["MARKETPLACE_APP_PRICE"] = "#PRICE#/ìåñ.";
-$MESS["MARKETPLACE_INSTALLED"] = "óñòàíîâëåíî";
+$MESS["MARKETPLACE_SHOW_APP"] = "ÐŸÐ¾ÑÐ¼Ð¾Ñ‚Ñ€ÐµÑ‚ÑŒ";
+$MESS["MARKETPLACE_PRICE_FREE"] = "Ð‘ÐµÑÐ¿Ð»Ð°Ñ‚Ð½Ñ‹Ðµ";
+$MESS["MARKETPLACE_PRICE_PAID"] = "ÐŸÐ»Ð°Ñ‚Ð½Ñ‹Ðµ";
+$MESS["MARKETPLACE_APP_FREE"] = "Ð‘ÐµÑÐ¿Ð»Ð°Ñ‚Ð½Ð¾";
+$MESS["MARKETPLACE_APP_PRICE"] = "#PRICE#/Ð¼ÐµÑ.";
+$MESS["MARKETPLACE_INSTALLED"] = "ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½Ð¾";
 ?>

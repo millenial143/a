@@ -1,4 +1,4 @@
 <?
-$MESS["SALE_GOPE_WRONG_EMAIL"] = "E-Mail àäðåñ \"#EMAIL#\" â ïîëå \"#NAME#\" íå êîððåêòåí";
-$MESS["SOP_UNKNOWN_GROUP"] = "Íåèçâåñòíàÿ ãðóïïà ñâîéñòâ";
+$MESS["SALE_GOPE_WRONG_EMAIL"] = "E-Mail Ð°Ð´Ñ€ÐµÑ \"#EMAIL#\" Ð² Ð¿Ð¾Ð»Ðµ \"#NAME#\" Ð½Ðµ ÐºÐ¾Ñ€Ñ€ÐµÐºÑ‚ÐµÐ½";
+$MESS["SOP_UNKNOWN_GROUP"] = "ÐÐµÐ¸Ð·Ð²ÐµÑÑ‚Ð½Ð°Ñ Ð³Ñ€ÑƒÐ¿Ð¿Ð° ÑÐ²Ð¾Ð¹ÑÑ‚Ð²";
 

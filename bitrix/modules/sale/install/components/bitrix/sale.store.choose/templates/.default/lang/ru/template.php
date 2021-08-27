@@ -1,15 +1,15 @@
 <?
-$MESS["SALE_SSC_PHONE"] = "Телефон";
-$MESS["SALE_SSC_ADRES"] = "Адрес";
-$MESS["SALE_SSC_WORK"] = "Режим работы";
-$MESS["SALE_SSC_STORE"] = "Склад";
-$MESS["SALE_SSC_EMAIL"] = "Электронная почта";
-$MESS["SALE_SSC_DESC"] = "Описание";
-$MESS["SALE_SSC_CHANGE"] = "Изменить";
-$MESS["SALE_SSC_STORE_EXPORT"] = "Склад самовывоза";
-$MESS["SALE_SSC_ADD_INFO"] = "Дополнительная информация по складу";
-$MESS["SALE_SSC_GOOGLE_MAP_INFO"] = "Внимание! Для того чтобы Google Карты работали корректно необходимо:<ol><li>получить API KEY от Google и установить соответствующие права.<br>(Подробнее об этом #A1#)<li>сохранить этот ключ в настройках модуля #A2#Управление структурой#A3#</li></ol>";
-$MESS["SALE_SSC_GOOGLE_MAP_INFO_TITLE"] = "Информация";
-$MESS["SALE_SSC_DIALOG_CLOSE"] = "Закрыть";
-$MESS["SALE_SSC_MAP_TYPE_CHANGE_ERROR"] = "Ошибка смены типа карты";
+$MESS["SALE_SSC_PHONE"] = "РўРµР»РµС„РѕРЅ";
+$MESS["SALE_SSC_ADRES"] = "РђРґСЂРµСЃ";
+$MESS["SALE_SSC_WORK"] = "Р РµР¶РёРј СЂР°Р±РѕС‚С‹";
+$MESS["SALE_SSC_STORE"] = "РЎРєР»Р°Рґ";
+$MESS["SALE_SSC_EMAIL"] = "Р­Р»РµРєС‚СЂРѕРЅРЅР°СЏ РїРѕС‡С‚Р°";
+$MESS["SALE_SSC_DESC"] = "РћРїРёСЃР°РЅРёРµ";
+$MESS["SALE_SSC_CHANGE"] = "РР·РјРµРЅРёС‚СЊ";
+$MESS["SALE_SSC_STORE_EXPORT"] = "РЎРєР»Р°Рґ СЃР°РјРѕРІС‹РІРѕР·Р°";
+$MESS["SALE_SSC_ADD_INFO"] = "Р”РѕРїРѕР»РЅРёС‚РµР»СЊРЅР°СЏ РёРЅС„РѕСЂРјР°С†РёСЏ РїРѕ СЃРєР»Р°РґСѓ";
+$MESS["SALE_SSC_GOOGLE_MAP_INFO"] = "Р’РЅРёРјР°РЅРёРµ! Р”Р»СЏ С‚РѕРіРѕ С‡С‚РѕР±С‹ Google РљР°СЂС‚С‹ СЂР°Р±РѕС‚Р°Р»Рё РєРѕСЂСЂРµРєС‚РЅРѕ РЅРµРѕР±С…РѕРґРёРјРѕ:<ol><li>РїРѕР»СѓС‡РёС‚СЊ API KEY РѕС‚ Google Рё СѓСЃС‚Р°РЅРѕРІРёС‚СЊ СЃРѕРѕС‚РІРµС‚СЃС‚РІСѓСЋС‰РёРµ РїСЂР°РІР°.<br>(РџРѕРґСЂРѕР±РЅРµРµ РѕР± СЌС‚РѕРј #A1#)<li>СЃРѕС…СЂР°РЅРёС‚СЊ СЌС‚РѕС‚ РєР»СЋС‡ РІ РЅР°СЃС‚СЂРѕР№РєР°С… РјРѕРґСѓР»СЏ #A2#РЈРїСЂР°РІР»РµРЅРёРµ СЃС‚СЂСѓРєС‚СѓСЂРѕР№#A3#</li></ol>";
+$MESS["SALE_SSC_GOOGLE_MAP_INFO_TITLE"] = "РРЅС„РѕСЂРјР°С†РёСЏ";
+$MESS["SALE_SSC_DIALOG_CLOSE"] = "Р—Р°РєСЂС‹С‚СЊ";
+$MESS["SALE_SSC_MAP_TYPE_CHANGE_ERROR"] = "РћС€РёР±РєР° СЃРјРµРЅС‹ С‚РёРїР° РєР°СЂС‚С‹";
 ?>

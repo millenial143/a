@@ -1,4 +1,4 @@
 <?
-$MESS["CATALOG_VIEWED_PRODUCTS_MAIL_TITLE"] = "Áëîê òîâàðîâ";
-$MESS["CATALOG_VIEWED_PRODUCTS_MAIL_YET"] = "Ïîäðîáíåå";
+$MESS["CATALOG_VIEWED_PRODUCTS_MAIL_TITLE"] = "Ð‘Ð»Ð¾Ðº Ñ‚Ð¾Ð²Ð°Ñ€Ð¾Ð²";
+$MESS["CATALOG_VIEWED_PRODUCTS_MAIL_YET"] = "ÐŸÐ¾Ð´Ñ€Ð¾Ð±Ð½ÐµÐµ";
 ?>

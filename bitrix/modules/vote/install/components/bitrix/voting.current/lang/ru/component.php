@@ -1,3 +1,3 @@
 <?
-$MESS["VOTE_MODULE_IS_NOT_INSTALLED"] = "Модуль опросов не установлен.";
+$MESS["VOTE_MODULE_IS_NOT_INSTALLED"] = "РњРѕРґСѓР»СЊ РѕРїСЂРѕСЃРѕРІ РЅРµ СѓСЃС‚Р°РЅРѕРІР»РµРЅ.";
 ?>

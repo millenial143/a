@@ -1,4 +1,4 @@
 <?
-$MESS ['FORUM_BUTTON_FILTER'] = "Ïîêàçàòü";
-$MESS ['FORUM_BUTTON_RESET'] = "Ñáðîñèòü";
+$MESS ['FORUM_BUTTON_FILTER'] = "ÐŸÐ¾ÐºÐ°Ð·Ð°Ñ‚ÑŒ";
+$MESS ['FORUM_BUTTON_RESET'] = "Ð¡Ð±Ñ€Ð¾ÑÐ¸Ñ‚ÑŒ";
 ?>

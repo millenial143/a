@@ -1,5 +1,5 @@
 <?
-$MESS["BPH_DEFAULT_TEMPLATE_NAME"]="Trackback'è ñîîáùåíèÿ";
-$MESS["BPH_DEFAULT_TEMPLATE_DESCRIPTION"]="Âûâîäèò Trackback-àäðåñ è Trackback'è ê ñîîáùåíèþ";
-$MESS["BPH_NAME"]="Áëîãè";
+$MESS["BPH_DEFAULT_TEMPLATE_NAME"]="Trackback'Ð¸ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ";
+$MESS["BPH_DEFAULT_TEMPLATE_DESCRIPTION"]="Ð’Ñ‹Ð²Ð¾Ð´Ð¸Ñ‚ Trackback-Ð°Ð´Ñ€ÐµÑ Ð¸ Trackback'Ð¸ Ðº ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸ÑŽ";
+$MESS["BPH_NAME"]="Ð‘Ð»Ð¾Ð³Ð¸";
 ?>

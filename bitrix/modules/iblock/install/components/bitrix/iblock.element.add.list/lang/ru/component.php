@@ -1,5 +1,5 @@
 <?
-$MESS ['IBLOCK_LIST_PAGES_TITLE'] = "Ñòðàíèöû";
-$MESS ['IBLOCK_FORM_STATUS_ACTIVE'] = "àêòèâåí";
-$MESS ['IBLOCK_FORM_STATUS_INACTIVE'] = "íåàêòèâåí";
+$MESS ['IBLOCK_LIST_PAGES_TITLE'] = "Ð¡Ñ‚Ñ€Ð°Ð½Ð¸Ñ†Ñ‹";
+$MESS ['IBLOCK_FORM_STATUS_ACTIVE'] = "Ð°ÐºÑ‚Ð¸Ð²ÐµÐ½";
+$MESS ['IBLOCK_FORM_STATUS_INACTIVE'] = "Ð½ÐµÐ°ÐºÑ‚Ð¸Ð²ÐµÐ½";
 ?>

@@ -1,7 +1,7 @@
 <?php
-$MESS['LANDING_BLOCK_59_3_NAME2'] = 'Ïîèñêîâàÿ ñòðîêà';
-$MESS['LANDING_BLOCK_59_3_BUTTON'] = 'Êíîïêà';
-$MESS['LANDING_BLOCK_59_3_SEARCH'] = 'Èñêàòü';
-$MESS['LANDING_BLOCK_59_3_SEARCH_RESULT'] = 'Ñòðàíèöà äëÿ ðåçóëüòàòîâ ïîèñêà';
-$MESS['LANDING_BLOCK_59_3_INPUT'] = 'Ïîëå ââîäà';
-$MESS['LANDING_BLOCK_59_3_PLACEHOLDER'] = 'Ïîèñê ïî áàçå çíàíèé';
+$MESS['LANDING_BLOCK_59_3_NAME2'] = 'ÐŸÐ¾Ð¸ÑÐºÐ¾Ð²Ð°Ñ ÑÑ‚Ñ€Ð¾ÐºÐ°';
+$MESS['LANDING_BLOCK_59_3_BUTTON'] = 'ÐšÐ½Ð¾Ð¿ÐºÐ°';
+$MESS['LANDING_BLOCK_59_3_SEARCH'] = 'Ð˜ÑÐºÐ°Ñ‚ÑŒ';
+$MESS['LANDING_BLOCK_59_3_SEARCH_RESULT'] = 'Ð¡Ñ‚Ñ€Ð°Ð½Ð¸Ñ†Ð° Ð´Ð»Ñ Ñ€ÐµÐ·ÑƒÐ»ÑŒÑ‚Ð°Ñ‚Ð¾Ð² Ð¿Ð¾Ð¸ÑÐºÐ°';
+$MESS['LANDING_BLOCK_59_3_INPUT'] = 'ÐŸÐ¾Ð»Ðµ Ð²Ð²Ð¾Ð´Ð°';
+$MESS['LANDING_BLOCK_59_3_PLACEHOLDER'] = 'ÐŸÐ¾Ð¸ÑÐº Ð¿Ð¾ Ð±Ð°Ð·Ðµ Ð·Ð½Ð°Ð½Ð¸Ð¹';

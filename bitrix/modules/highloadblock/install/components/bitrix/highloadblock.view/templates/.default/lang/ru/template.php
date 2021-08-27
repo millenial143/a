@@ -1,4 +1,4 @@
 <?php
-$MESS['HLBLOCK_ROW_VIEW_NAME_COLUMN'] = 'Ïîëå';
-$MESS['HLBLOCK_ROW_VIEW_VALUE_COLUMN'] = 'Çíà÷åíèå';
-$MESS['HLBLOCK_ROW_VIEW_BACK_TO_LIST'] = 'Âåðíóòüñÿ ê ñïèñêó';
+$MESS['HLBLOCK_ROW_VIEW_NAME_COLUMN'] = 'ÐŸÐ¾Ð»Ðµ';
+$MESS['HLBLOCK_ROW_VIEW_VALUE_COLUMN'] = 'Ð—Ð½Ð°Ñ‡ÐµÐ½Ð¸Ðµ';
+$MESS['HLBLOCK_ROW_VIEW_BACK_TO_LIST'] = 'Ð’ÐµÑ€Ð½ÑƒÑ‚ÑŒÑÑ Ðº ÑÐ¿Ð¸ÑÐºÑƒ';

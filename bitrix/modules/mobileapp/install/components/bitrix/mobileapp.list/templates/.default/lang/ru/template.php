@@ -1,3 +1,3 @@
 <?
-$MESS["MAPP_ML_MOBILEAPP_NOT_INSTALLED"] = "Не установлен модуль mobileapp";
+$MESS["MAPP_ML_MOBILEAPP_NOT_INSTALLED"] = "РќРµ СѓСЃС‚Р°РЅРѕРІР»РµРЅ РјРѕРґСѓР»СЊ mobileapp";
 ?>

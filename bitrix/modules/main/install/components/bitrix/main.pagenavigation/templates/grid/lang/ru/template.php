@@ -1,7 +1,7 @@
 <?
-$MESS["grid_nav_prev"]="Ïðåäûäóùàÿ";
-$MESS["grid_nav_paged"]="Ïî ñòðàíèöàì";
-$MESS["grid_pages"]="Ñòðàíèöû:";
-$MESS["grid_nav_next"]="Ñëåäóþùàÿ";
-$MESS["grid_nav_all"]="Âñå";
+$MESS["grid_nav_prev"]="ÐŸÑ€ÐµÐ´Ñ‹Ð´ÑƒÑ‰Ð°Ñ";
+$MESS["grid_nav_paged"]="ÐŸÐ¾ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ð°Ð¼";
+$MESS["grid_pages"]="Ð¡Ñ‚Ñ€Ð°Ð½Ð¸Ñ†Ñ‹:";
+$MESS["grid_nav_next"]="Ð¡Ð»ÐµÐ´ÑƒÑŽÑ‰Ð°Ñ";
+$MESS["grid_nav_all"]="Ð’ÑÐµ";
 ?>

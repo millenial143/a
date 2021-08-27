@@ -1,3 +1,3 @@
 <?
-$MESS["CATALOG_RECOMMENDED_PRODUCTS_COMPONENT_PRODUCT_ID_REQUIRED"] = "Íóæíî óêàçàòü èäåíòèôèêàòîð ïðîäóêòà."
+$MESS["CATALOG_RECOMMENDED_PRODUCTS_COMPONENT_PRODUCT_ID_REQUIRED"] = "ÐÑƒÐ¶Ð½Ð¾ ÑƒÐºÐ°Ð·Ð°Ñ‚ÑŒ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð¿Ñ€Ð¾Ð´ÑƒÐºÑ‚Ð°."
 ?>

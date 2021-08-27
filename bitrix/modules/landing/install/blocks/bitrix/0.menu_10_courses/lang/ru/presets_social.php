@@ -1,3 +1,3 @@
 <?php
-$MESS['LANDING_BLOCK_MENU10__SOCIALS__PRESET_VK'] = 'ÂÊîíòàêòå';
-$MESS['LANDING_BLOCK_MENU10__SOCIALS__PRESET_OK'] = 'Îäíîêëàññíèêè';
+$MESS['LANDING_BLOCK_MENU10__SOCIALS__PRESET_VK'] = 'Ð’ÐšÐ¾Ð½Ñ‚Ð°ÐºÑ‚Ðµ';
+$MESS['LANDING_BLOCK_MENU10__SOCIALS__PRESET_OK'] = 'ÐžÐ´Ð½Ð¾ÐºÐ»Ð°ÑÑÐ½Ð¸ÐºÐ¸';

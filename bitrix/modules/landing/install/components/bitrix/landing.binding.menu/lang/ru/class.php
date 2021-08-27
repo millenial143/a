@@ -1,2 +1,2 @@
 <?php
-$MESS['LANDING_CMP_NOT_MENU_ID'] = 'Íå çàäàí èäåíòèôèêàòîð ìåíþ';
+$MESS['LANDING_CMP_NOT_MENU_ID'] = 'ÐÐµ Ð·Ð°Ð´Ð°Ð½ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð¼ÐµÐ½ÑŽ';

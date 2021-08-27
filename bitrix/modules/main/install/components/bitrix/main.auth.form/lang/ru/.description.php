@@ -1,4 +1,4 @@
 <?php
-$MESS['MAIN_AUTH_FORM_TITLE'] = 'Àâòîðèçàöèÿ';
-$MESS['MAIN_AUTH_FORM_DESCR'] = 'Îòäåëüíàÿ ôîðìà àâòîðèçàöèè ïîëüçîâàòåëÿ';
-$MESS['MAIN_AUTH_FORM_GROUP_NAME'] = 'Ïîëüçîâàòåëü';
+$MESS['MAIN_AUTH_FORM_TITLE'] = 'ÐÐ²Ñ‚Ð¾Ñ€Ð¸Ð·Ð°Ñ†Ð¸Ñ';
+$MESS['MAIN_AUTH_FORM_DESCR'] = 'ÐžÑ‚Ð´ÐµÐ»ÑŒÐ½Ð°Ñ Ñ„Ð¾Ñ€Ð¼Ð° Ð°Ð²Ñ‚Ð¾Ñ€Ð¸Ð·Ð°Ñ†Ð¸Ð¸ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ';
+$MESS['MAIN_AUTH_FORM_GROUP_NAME'] = 'ÐŸÐ¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒ';

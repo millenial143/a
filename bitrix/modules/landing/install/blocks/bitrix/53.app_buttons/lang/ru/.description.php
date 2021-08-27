@@ -1,4 +1,4 @@
 <?php
-$MESS['LANDING_BLOCK_53_APP_BUTTONS--NAME'] = 'Äâå êíîïêè ïðèëîæåíèé â öåíòðå ñòðàíèöû';
-$MESS['LANDING_BLOCK_53_APP_BUTTONS--BTN'] = 'Êíîïêà';
-$MESS['LANDING_BLOCK_53_APP_BUTTONS--BTN_IMG'] = 'Êàðòèíêà äëÿ êíîïêè';
+$MESS['LANDING_BLOCK_53_APP_BUTTONS--NAME'] = 'Ð”Ð²Ðµ ÐºÐ½Ð¾Ð¿ÐºÐ¸ Ð¿Ñ€Ð¸Ð»Ð¾Ð¶ÐµÐ½Ð¸Ð¹ Ð² Ñ†ÐµÐ½Ñ‚Ñ€Ðµ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñ‹';
+$MESS['LANDING_BLOCK_53_APP_BUTTONS--BTN'] = 'ÐšÐ½Ð¾Ð¿ÐºÐ°';
+$MESS['LANDING_BLOCK_53_APP_BUTTONS--BTN_IMG'] = 'ÐšÐ°Ñ€Ñ‚Ð¸Ð½ÐºÐ° Ð´Ð»Ñ ÐºÐ½Ð¾Ð¿ÐºÐ¸';

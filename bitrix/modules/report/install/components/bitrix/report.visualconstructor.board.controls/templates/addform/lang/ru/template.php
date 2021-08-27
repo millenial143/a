@@ -1,5 +1,5 @@
 <?php
-$MESS['SELECT_REPORT_CATEGORY'] = 'Êàòåãîðèÿ îò÷åòà';
-$MESS['SELECT_REPORT_TYPE_TITLE_IN_ADD_FORM'] = 'Âûáðàòü îò÷åò';
-$MESS['CREATE_REPORT_TYPE_TITLE_IN_ADD_FORM'] = 'Ñîçäàòü îò÷åò';
-$MESS['ADD_TO_BOARD'] = 'Äîáàâèòü';
+$MESS['SELECT_REPORT_CATEGORY'] = 'ÐšÐ°Ñ‚ÐµÐ³Ð¾Ñ€Ð¸Ñ Ð¾Ñ‚Ñ‡ÐµÑ‚Ð°';
+$MESS['SELECT_REPORT_TYPE_TITLE_IN_ADD_FORM'] = 'Ð’Ñ‹Ð±Ñ€Ð°Ñ‚ÑŒ Ð¾Ñ‚Ñ‡ÐµÑ‚';
+$MESS['CREATE_REPORT_TYPE_TITLE_IN_ADD_FORM'] = 'Ð¡Ð¾Ð·Ð´Ð°Ñ‚ÑŒ Ð¾Ñ‚Ñ‡ÐµÑ‚';
+$MESS['ADD_TO_BOARD'] = 'Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ';

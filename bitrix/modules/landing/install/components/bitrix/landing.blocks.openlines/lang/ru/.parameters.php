@@ -1,3 +1,3 @@
 <?php
-$MESS['LANDING_CMP_BUTTON_ID'] = 'Èñïîëüçóåìûé âèäæåò';
-$MESS['LANDING_CMP_OL_NO_BUTTONS'] = 'Íåò àêòèâíûõ CRM-âèäæåòîâ';
+$MESS['LANDING_CMP_BUTTON_ID'] = 'Ð˜ÑÐ¿Ð¾Ð»ÑŒÐ·ÑƒÐµÐ¼Ñ‹Ð¹ Ð²Ð¸Ð´Ð¶ÐµÑ‚';
+$MESS['LANDING_CMP_OL_NO_BUTTONS'] = 'ÐÐµÑ‚ Ð°ÐºÑ‚Ð¸Ð²Ð½Ñ‹Ñ… CRM-Ð²Ð¸Ð´Ð¶ÐµÑ‚Ð¾Ð²';

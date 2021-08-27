@@ -1,5 +1,5 @@
 <?
-$MESS ['SECURITY_USER_OTP_INIT_NAME'] = "Ïîäêëþ÷åíèå óñòðîéñòâà OTP";
-$MESS ['SECURITY_USER_OTP_INIT_DESCRIPTION'] = "Ôîðìà èíèöèàëèçàöèè ïîäêëþ÷åíèÿ íîâîãî OTP óñòðîéñòâà.";
-$MESS ['SECURITY_USER_OTP_INIT_SECURITY_SERVICE'] = "Áåçîïàñíîñòü";
+$MESS ['SECURITY_USER_OTP_INIT_NAME'] = "ÐŸÐ¾Ð´ÐºÐ»ÑŽÑ‡ÐµÐ½Ð¸Ðµ ÑƒÑÑ‚Ñ€Ð¾Ð¹ÑÑ‚Ð²Ð° OTP";
+$MESS ['SECURITY_USER_OTP_INIT_DESCRIPTION'] = "Ð¤Ð¾Ñ€Ð¼Ð° Ð¸Ð½Ð¸Ñ†Ð¸Ð°Ð»Ð¸Ð·Ð°Ñ†Ð¸Ð¸ Ð¿Ð¾Ð´ÐºÐ»ÑŽÑ‡ÐµÐ½Ð¸Ñ Ð½Ð¾Ð²Ð¾Ð³Ð¾ OTP ÑƒÑÑ‚Ñ€Ð¾Ð¹ÑÑ‚Ð²Ð°.";
+$MESS ['SECURITY_USER_OTP_INIT_SECURITY_SERVICE'] = "Ð‘ÐµÐ·Ð¾Ð¿Ð°ÑÐ½Ð¾ÑÑ‚ÑŒ";
 ?>

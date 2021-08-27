@@ -1,5 +1,5 @@
 <?
-$MESS ['COMP_MAIN_PROFILE_TITLE'] = "Ïàðàìåòðû ïîëüçîâàòåëÿ";
-$MESS ['COMP_MAIN_PROFILE_DESCR'] = "Ïàðàìåòðû ïîëüçîâàòåëÿ";
-$MESS ['MAIN_USER_GROUP_NAME'] = "Ïîëüçîâàòåëü";
+$MESS ['COMP_MAIN_PROFILE_TITLE'] = "ÐŸÐ°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ñ‹ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ";
+$MESS ['COMP_MAIN_PROFILE_DESCR'] = "ÐŸÐ°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ñ‹ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ";
+$MESS ['MAIN_USER_GROUP_NAME'] = "ÐŸÐ¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒ";
 ?>

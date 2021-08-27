@@ -1,16 +1,16 @@
 <?
-$MESS["SMODE_TITLE"] = "Îòãðóçêà çàêàçà";
-$MESS["SMODE_PRODUCT_NAME"] = "Íàèìåíîâàíèå òîâàðà";
-$MESS["SMODE_PRODUCT"] = "Òîâàð";
-$MESS["SMODE_SAVE"] = "Ñîõðàíèòü";
-$MESS["SMODE_BACK"] = "Íàçàä";
-$MESS["SMODE_STORE"] = "Ñêëàä";
-$MESS["SMODE_BARCODE"] = "Øòðèõ-êîä";
-$MESS["SMODE_DEDUCT"] = "Îòãðóçèòü";
-$MESS["SMODE_READY"] = "Ãîòîâî";
-$MESS["SMODE_ERROR"] = "Îøèáêà îòãðóçêè";
-$MESS["SMODE_DEDUCT_UNDO"] = "Îòìåíèòü";
-$MESS["SMODE_TITLE_UNDO"] = "Îòìåíà îòãðóçêè";
-$MESS["SMODE_DEDUCT_UNDO_REASON"] = "Ïðè÷èíà îòìåíû";
-$MESS["SMODE_DEDUCT_HINT"] = "Äëÿ îòãðóçêè íàæìèòå êíîïêó \"Îòãðóçèòü\"";
+$MESS["SMODE_TITLE"] = "ÐžÑ‚Ð³Ñ€ÑƒÐ·ÐºÐ° Ð·Ð°ÐºÐ°Ð·Ð°";
+$MESS["SMODE_PRODUCT_NAME"] = "ÐÐ°Ð¸Ð¼ÐµÐ½Ð¾Ð²Ð°Ð½Ð¸Ðµ Ñ‚Ð¾Ð²Ð°Ñ€Ð°";
+$MESS["SMODE_PRODUCT"] = "Ð¢Ð¾Ð²Ð°Ñ€";
+$MESS["SMODE_SAVE"] = "Ð¡Ð¾Ñ…Ñ€Ð°Ð½Ð¸Ñ‚ÑŒ";
+$MESS["SMODE_BACK"] = "ÐÐ°Ð·Ð°Ð´";
+$MESS["SMODE_STORE"] = "Ð¡ÐºÐ»Ð°Ð´";
+$MESS["SMODE_BARCODE"] = "Ð¨Ñ‚Ñ€Ð¸Ñ…-ÐºÐ¾Ð´";
+$MESS["SMODE_DEDUCT"] = "ÐžÑ‚Ð³Ñ€ÑƒÐ·Ð¸Ñ‚ÑŒ";
+$MESS["SMODE_READY"] = "Ð“Ð¾Ñ‚Ð¾Ð²Ð¾";
+$MESS["SMODE_ERROR"] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð¾Ñ‚Ð³Ñ€ÑƒÐ·ÐºÐ¸";
+$MESS["SMODE_DEDUCT_UNDO"] = "ÐžÑ‚Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ";
+$MESS["SMODE_TITLE_UNDO"] = "ÐžÑ‚Ð¼ÐµÐ½Ð° Ð¾Ñ‚Ð³Ñ€ÑƒÐ·ÐºÐ¸";
+$MESS["SMODE_DEDUCT_UNDO_REASON"] = "ÐŸÑ€Ð¸Ñ‡Ð¸Ð½Ð° Ð¾Ñ‚Ð¼ÐµÐ½Ñ‹";
+$MESS["SMODE_DEDUCT_HINT"] = "Ð”Ð»Ñ Ð¾Ñ‚Ð³Ñ€ÑƒÐ·ÐºÐ¸ Ð½Ð°Ð¶Ð¼Ð¸Ñ‚Ðµ ÐºÐ½Ð¾Ð¿ÐºÑƒ \"ÐžÑ‚Ð³Ñ€ÑƒÐ·Ð¸Ñ‚ÑŒ\"";
 ?>

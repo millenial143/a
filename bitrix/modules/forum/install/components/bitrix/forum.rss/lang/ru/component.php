@@ -1,15 +1,15 @@
 <?
-$MESS ['F_TEMPLATES_TITLE_FORUMS'] = "#SITE_NAME# [ôîðóì]";
-$MESS ['F_TEMPLATES_TITLE_FORUM'] = "#SITE_NAME# [ôîðóì: #FORUM_TITLE#]";
-$MESS ['F_TEMPLATES_TITLE_TOPIC'] = "#SITE_NAME# [òåìà: #TOPIC_TITLE#]";
-$MESS ['F_TEMPLATES_DESCRIPTION_FORUMS'] = "Íîâûå òåìû ôîðóìîâ ñàéòà #SITE_NAME# [#SERVER_NAME#]";
-$MESS ['F_TEMPLATES_DESCRIPTION_FORUM'] = "Íîâûå òåìû ôîðóìà #FORUM_TITLE# íà ñàéòå #SITE_NAME# [#SERVER_NAME#]";
-$MESS ['F_TEMPLATES_DESCRIPTION_TOPIC'] = "Íîâîå â òåìå #TOPIC_TITLE# ôîðóìà #FORUM_TITLE# íà ñàéòå #SITE_NAME# [#SERVER_NAME#]";
-$MESS ['F_NO_MODULE'] = "Ìîäóëü ôîðóìà íå óñòàíîâëåí";
-$MESS ['F_EMPTY_TYPE'] = "Íå âûáðàíà íè îäíà ñïåöèôèêàöèÿ RSS";
-$MESS ['FILE_DOWNLOAD'] = "Ñêà÷àòü ôàéë";
-$MESS ['F_EMPTY_FORUMS'] = "Ôîðóìû íå íàéäåíû.";
-$MESS ['F_EMPTY_TOPIC'] = "Òåìà íå íàéäåíà.";
-$MESS ['F_EMPTY_TOPIC_ID'] = "Òåìà íå óêàçàíà.";
-$MESS ['F_ERR_BAD_FORUM'] = "Ýòîò ôîðóì íå ïîäõîäèò äëÿ ÷òåíèÿ ÷åðåç RSS.";
+$MESS ['F_TEMPLATES_TITLE_FORUMS'] = "#SITE_NAME# [Ñ„Ð¾Ñ€ÑƒÐ¼]";
+$MESS ['F_TEMPLATES_TITLE_FORUM'] = "#SITE_NAME# [Ñ„Ð¾Ñ€ÑƒÐ¼: #FORUM_TITLE#]";
+$MESS ['F_TEMPLATES_TITLE_TOPIC'] = "#SITE_NAME# [Ñ‚ÐµÐ¼Ð°: #TOPIC_TITLE#]";
+$MESS ['F_TEMPLATES_DESCRIPTION_FORUMS'] = "ÐÐ¾Ð²Ñ‹Ðµ Ñ‚ÐµÐ¼Ñ‹ Ñ„Ð¾Ñ€ÑƒÐ¼Ð¾Ð² ÑÐ°Ð¹Ñ‚Ð° #SITE_NAME# [#SERVER_NAME#]";
+$MESS ['F_TEMPLATES_DESCRIPTION_FORUM'] = "ÐÐ¾Ð²Ñ‹Ðµ Ñ‚ÐµÐ¼Ñ‹ Ñ„Ð¾Ñ€ÑƒÐ¼Ð° #FORUM_TITLE# Ð½Ð° ÑÐ°Ð¹Ñ‚Ðµ #SITE_NAME# [#SERVER_NAME#]";
+$MESS ['F_TEMPLATES_DESCRIPTION_TOPIC'] = "ÐÐ¾Ð²Ð¾Ðµ Ð² Ñ‚ÐµÐ¼Ðµ #TOPIC_TITLE# Ñ„Ð¾Ñ€ÑƒÐ¼Ð° #FORUM_TITLE# Ð½Ð° ÑÐ°Ð¹Ñ‚Ðµ #SITE_NAME# [#SERVER_NAME#]";
+$MESS ['F_NO_MODULE'] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ Ñ„Ð¾Ñ€ÑƒÐ¼Ð° Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½";
+$MESS ['F_EMPTY_TYPE'] = "ÐÐµ Ð²Ñ‹Ð±Ñ€Ð°Ð½Ð° Ð½Ð¸ Ð¾Ð´Ð½Ð° ÑÐ¿ÐµÑ†Ð¸Ñ„Ð¸ÐºÐ°Ñ†Ð¸Ñ RSS";
+$MESS ['FILE_DOWNLOAD'] = "Ð¡ÐºÐ°Ñ‡Ð°Ñ‚ÑŒ Ñ„Ð°Ð¹Ð»";
+$MESS ['F_EMPTY_FORUMS'] = "Ð¤Ð¾Ñ€ÑƒÐ¼Ñ‹ Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½Ñ‹.";
+$MESS ['F_EMPTY_TOPIC'] = "Ð¢ÐµÐ¼Ð° Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½Ð°.";
+$MESS ['F_EMPTY_TOPIC_ID'] = "Ð¢ÐµÐ¼Ð° Ð½Ðµ ÑƒÐºÐ°Ð·Ð°Ð½Ð°.";
+$MESS ['F_ERR_BAD_FORUM'] = "Ð­Ñ‚Ð¾Ñ‚ Ñ„Ð¾Ñ€ÑƒÐ¼ Ð½Ðµ Ð¿Ð¾Ð´Ñ…Ð¾Ð´Ð¸Ñ‚ Ð´Ð»Ñ Ñ‡Ñ‚ÐµÐ½Ð¸Ñ Ñ‡ÐµÑ€ÐµÐ· RSS.";
 ?>

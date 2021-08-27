@@ -1,4 +1,4 @@
 <?
-$MESS["SENDER_CONTACT_IMPORT_LIST_FROM"] = "Ñïèñîê îò ";
-$MESS["SENDER_CONTACT_IMPORT_LIST_FROM1"] = "Íàáîð îò %date%";
+$MESS["SENDER_CONTACT_IMPORT_LIST_FROM"] = "Ð¡Ð¿Ð¸ÑÐ¾Ðº Ð¾Ñ‚ ";
+$MESS["SENDER_CONTACT_IMPORT_LIST_FROM1"] = "ÐÐ°Ð±Ð¾Ñ€ Ð¾Ñ‚ %date%";
 ?>

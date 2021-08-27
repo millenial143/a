@@ -1,2 +1,2 @@
 <?php
-$MESS['LANDING_BLOCK_53_CUSTOM_PICTURE'] = 'Ñâîÿ êàðòèíêà';
+$MESS['LANDING_BLOCK_53_CUSTOM_PICTURE'] = 'Ð¡Ð²Ð¾Ñ ÐºÐ°Ñ€Ñ‚Ð¸Ð½ÐºÐ°';

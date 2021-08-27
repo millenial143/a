@@ -1,5 +1,5 @@
 <?
-$MESS["SALE_BVAL_MAIL_NAME"] = "Âûâîä ïîëåé çàêàçà";
-$MESS["SALE_BVAL_MAIL_DESC"] = "Âûâîä ïîëåé çàêàçà ïî êîäó çàêàçà.";
-$MESS["SALE_BVAL_MAIL_CHILD"] = "Ïåðñîíàëüíûé ðàçäåë";
+$MESS["SALE_BVAL_MAIL_NAME"] = "Ð’Ñ‹Ð²Ð¾Ð´ Ð¿Ð¾Ð»ÐµÐ¹ Ð·Ð°ÐºÐ°Ð·Ð°";
+$MESS["SALE_BVAL_MAIL_DESC"] = "Ð’Ñ‹Ð²Ð¾Ð´ Ð¿Ð¾Ð»ÐµÐ¹ Ð·Ð°ÐºÐ°Ð·Ð° Ð¿Ð¾ ÐºÐ¾Ð´Ñƒ Ð·Ð°ÐºÐ°Ð·Ð°.";
+$MESS["SALE_BVAL_MAIL_CHILD"] = "ÐŸÐµÑ€ÑÐ¾Ð½Ð°Ð»ÑŒÐ½Ñ‹Ð¹ Ñ€Ð°Ð·Ð´ÐµÐ»";
 ?>

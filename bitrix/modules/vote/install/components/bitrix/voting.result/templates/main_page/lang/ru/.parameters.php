@@ -1,6 +1,6 @@
 <?
-$MESS ['THEMES'] = "Òåìà øàáëîíà";
-$MESS ['V_COLOURLESS'] = "áåñöâåòíàÿ";
-$MESS ['V_BLUE'] = "ñèíÿÿ";
-$MESS ['V_GREEN'] = "çåëåíàÿ";
+$MESS ['THEMES'] = "Ð¢ÐµÐ¼Ð° ÑˆÐ°Ð±Ð»Ð¾Ð½Ð°";
+$MESS ['V_COLOURLESS'] = "Ð±ÐµÑÑ†Ð²ÐµÑ‚Ð½Ð°Ñ";
+$MESS ['V_BLUE'] = "ÑÐ¸Ð½ÑÑ";
+$MESS ['V_GREEN'] = "Ð·ÐµÐ»ÐµÐ½Ð°Ñ";
 ?>

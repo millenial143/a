@@ -1,6 +1,6 @@
 <?
-$MESS["BCMMP_MOBILEAPP_NOT_INSTALLED"] = "Íå óñòàíîâëåí ìîäóëü mobileapp";
-$MESS["BCMMP_ACCESS_DENIED"] = "Äîñòóï çàïðåùåí";
-$MESS["BCMMP_BC_NOT_INSTALLED"] = "Íå óñòàíîâëåí ìîäóëü \"Îáëàêî 1Ñ-Áèòðèêñ\"";
-$MESS["BCMMP_SAVE_OPTS_ERROR"] = "Äàííûå ñîõðàíèòü íå óäàëîñü";
+$MESS["BCMMP_MOBILEAPP_NOT_INSTALLED"] = "ÐÐµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½ Ð¼Ð¾Ð´ÑƒÐ»ÑŒ mobileapp";
+$MESS["BCMMP_ACCESS_DENIED"] = "Ð”Ð¾ÑÑ‚ÑƒÐ¿ Ð·Ð°Ð¿Ñ€ÐµÑ‰ÐµÐ½";
+$MESS["BCMMP_BC_NOT_INSTALLED"] = "ÐÐµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½ Ð¼Ð¾Ð´ÑƒÐ»ÑŒ \"ÐžÐ±Ð»Ð°ÐºÐ¾ 1Ð¡-Ð‘Ð¸Ñ‚Ñ€Ð¸ÐºÑ\"";
+$MESS["BCMMP_SAVE_OPTS_ERROR"] = "Ð”Ð°Ð½Ð½Ñ‹Ðµ ÑÐ¾Ñ…Ñ€Ð°Ð½Ð¸Ñ‚ÑŒ Ð½Ðµ ÑƒÐ´Ð°Ð»Ð¾ÑÑŒ";
 ?>

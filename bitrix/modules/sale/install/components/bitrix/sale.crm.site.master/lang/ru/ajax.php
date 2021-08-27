@@ -1,2 +1,2 @@
 <?php
-$MESS["SALE_CSM_LICENSE_FILE_WRITE_ERROR"] = "Íå óäàëîñü îòêðûòü ôàéë \"license_key.php\" íà çàïèñü";
+$MESS["SALE_CSM_LICENSE_FILE_WRITE_ERROR"] = "ÐÐµ ÑƒÐ´Ð°Ð»Ð¾ÑÑŒ Ð¾Ñ‚ÐºÑ€Ñ‹Ñ‚ÑŒ Ñ„Ð°Ð¹Ð» \"license_key.php\" Ð½Ð° Ð·Ð°Ð¿Ð¸ÑÑŒ";

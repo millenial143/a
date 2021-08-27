@@ -1,3 +1,3 @@
 <?
-$MESS["REPORT_IGNORE_FILTER_VALUE"] = "Íå ó÷èòûâàòü";
+$MESS["REPORT_IGNORE_FILTER_VALUE"] = "ÐÐµ ÑƒÑ‡Ð¸Ñ‚Ñ‹Ð²Ð°Ñ‚ÑŒ";
 ?>

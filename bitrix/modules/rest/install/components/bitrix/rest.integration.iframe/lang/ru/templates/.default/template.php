@@ -1,4 +1,4 @@
 <?
-$MESS["REST_INTEGRATION_IFRAME_QUERY_RESULT_TITLE"] = "Ðåçóëüòàò:";
-$MESS["REST_INTEGRATION_IFRAME_QUERY_RESULT_JSON_TITLE"] = "Äåêîäèðîâàííûé json:";
-$MESS["REST_INTEGRATION_IFRAME_QUERY_RESULT_XML_RESULT"] = "Ýêðàíèçèðîâàííûé xml:";
+$MESS["REST_INTEGRATION_IFRAME_QUERY_RESULT_TITLE"] = "Ð ÐµÐ·ÑƒÐ»ÑŒÑ‚Ð°Ñ‚:";
+$MESS["REST_INTEGRATION_IFRAME_QUERY_RESULT_JSON_TITLE"] = "Ð”ÐµÐºÐ¾Ð´Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð½Ñ‹Ð¹ json:";
+$MESS["REST_INTEGRATION_IFRAME_QUERY_RESULT_XML_RESULT"] = "Ð­ÐºÑ€Ð°Ð½Ð¸Ð·Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð½Ñ‹Ð¹ xml:";

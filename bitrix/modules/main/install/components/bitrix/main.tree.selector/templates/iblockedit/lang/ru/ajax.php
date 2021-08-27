@@ -1,10 +1,10 @@
 <?
-$MESS["BT_COMP_MTS_AJAX_ERR_MODULE_ABSENT"] = "Ìîäóëü èíôîðìàöèîííûõ áëîêîâ íå óñòàíîâëåí.";
-$MESS["BT_COMP_MTS_AJAX_ERR_IBLOCK_ACCESS_DENIED"] = "Äîñòóï ê èíôîáëîêó çàïðåùåí";
-$MESS["CT_BMTS_WINDOW_CLOSE"] = "Çàêðûòü";
-$MESS["CT_BMTS_WAIT"] = "Ïîäîæäèòå, èäåò çàãðóçêà ñïèñêà...";
-$MESS["CT_BMTS_SUBMIT"] = "Âûáðàòü";
-$MESS["CT_BMTS_CANCEL"] = "Îòìåíà";
-$MESS["CT_BMTS_UNKNOWN_ERROR"] = "Íåèçâåñòíàÿ îøèáêà.";
-$MESS["BT_COMP_MTS_AJAX_ERR_WIN_ID_ABSENT"] = "Íåâåðíûé èäåíòèôèêàòîð";
+$MESS["BT_COMP_MTS_AJAX_ERR_MODULE_ABSENT"] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ Ð¸Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ð¾Ð½Ð½Ñ‹Ñ… Ð±Ð»Ð¾ÐºÐ¾Ð² Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½.";
+$MESS["BT_COMP_MTS_AJAX_ERR_IBLOCK_ACCESS_DENIED"] = "Ð”Ð¾ÑÑ‚ÑƒÐ¿ Ðº Ð¸Ð½Ñ„Ð¾Ð±Ð»Ð¾ÐºÑƒ Ð·Ð°Ð¿Ñ€ÐµÑ‰ÐµÐ½";
+$MESS["CT_BMTS_WINDOW_CLOSE"] = "Ð—Ð°ÐºÑ€Ñ‹Ñ‚ÑŒ";
+$MESS["CT_BMTS_WAIT"] = "ÐŸÐ¾Ð´Ð¾Ð¶Ð´Ð¸Ñ‚Ðµ, Ð¸Ð´ÐµÑ‚ Ð·Ð°Ð³Ñ€ÑƒÐ·ÐºÐ° ÑÐ¿Ð¸ÑÐºÐ°...";
+$MESS["CT_BMTS_SUBMIT"] = "Ð’Ñ‹Ð±Ñ€Ð°Ñ‚ÑŒ";
+$MESS["CT_BMTS_CANCEL"] = "ÐžÑ‚Ð¼ÐµÐ½Ð°";
+$MESS["CT_BMTS_UNKNOWN_ERROR"] = "ÐÐµÐ¸Ð·Ð²ÐµÑÑ‚Ð½Ð°Ñ Ð¾ÑˆÐ¸Ð±ÐºÐ°.";
+$MESS["BT_COMP_MTS_AJAX_ERR_WIN_ID_ABSENT"] = "ÐÐµÐ²ÐµÑ€Ð½Ñ‹Ð¹ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€";
 ?>

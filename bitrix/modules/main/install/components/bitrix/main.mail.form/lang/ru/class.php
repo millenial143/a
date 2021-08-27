@@ -1,16 +1,16 @@
 <?php
 
-$MESS['MAIN_MAIL_FORM_FROM_FIELD'] = 'Îò êîãî';
-$MESS['MAIN_MAIL_FORM_FROM_FIELD_HINT'] = 'Îòïðàâèòåëü ïî óìîë÷àíèþ';
-$MESS['MAIN_MAIL_FORM_FROM_FIELD_REQUIRED_HINT'] = 'Âûáðàòü îòïðàâèòåëÿ';
-$MESS['MAIN_MAIL_FORM_FROM_FIELD_COPY'] = 'Îòïðàâèòü ìíå êîïèþ';
+$MESS['MAIN_MAIL_FORM_FROM_FIELD'] = 'ÐžÑ‚ ÐºÐ¾Ð³Ð¾';
+$MESS['MAIN_MAIL_FORM_FROM_FIELD_HINT'] = 'ÐžÑ‚Ð¿Ñ€Ð°Ð²Ð¸Ñ‚ÐµÐ»ÑŒ Ð¿Ð¾ ÑƒÐ¼Ð¾Ð»Ñ‡Ð°Ð½Ð¸ÑŽ';
+$MESS['MAIN_MAIL_FORM_FROM_FIELD_REQUIRED_HINT'] = 'Ð’Ñ‹Ð±Ñ€Ð°Ñ‚ÑŒ Ð¾Ñ‚Ð¿Ñ€Ð°Ð²Ð¸Ñ‚ÐµÐ»Ñ';
+$MESS['MAIN_MAIL_FORM_FROM_FIELD_COPY'] = 'ÐžÑ‚Ð¿Ñ€Ð°Ð²Ð¸Ñ‚ÑŒ Ð¼Ð½Ðµ ÐºÐ¾Ð¿Ð¸ÑŽ';
 
-$MESS['MAIN_MAIL_FORM_TO_FIELD'] = 'Êîìó';
-$MESS['MAIN_MAIL_FORM_TO_FIELD_HINT'] = 'Äîáàâèòü ïîëó÷àòåëÿ';
+$MESS['MAIN_MAIL_FORM_TO_FIELD'] = 'ÐšÐ¾Ð¼Ñƒ';
+$MESS['MAIN_MAIL_FORM_TO_FIELD_HINT'] = 'Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ Ð¿Ð¾Ð»ÑƒÑ‡Ð°Ñ‚ÐµÐ»Ñ';
 
-$MESS['MAIN_MAIL_FORM_SAVE_BTN'] = 'Ñîõðàíèòü';
-$MESS['MAIN_MAIL_FORM_CANCEL_BTN'] = 'Îòìåíèòü';
+$MESS['MAIN_MAIL_FORM_SAVE_BTN'] = 'Ð¡Ð¾Ñ…Ñ€Ð°Ð½Ð¸Ñ‚ÑŒ';
+$MESS['MAIN_MAIL_FORM_CANCEL_BTN'] = 'ÐžÑ‚Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ';
 
-$MESS['MAIN_MAIL_FORM_RCPT_MORE_HINT'] = 'åùå #NUM#';
+$MESS['MAIN_MAIL_FORM_RCPT_MORE_HINT'] = 'ÐµÑ‰Ðµ #NUM#';
 
-$MESS['MAIN_MAIL_FORM_EDITOR_HTML_MODE_BTN_HINT'] = 'HTML-ðåæèì';
+$MESS['MAIN_MAIL_FORM_EDITOR_HTML_MODE_BTN_HINT'] = 'HTML-Ñ€ÐµÐ¶Ð¸Ð¼';

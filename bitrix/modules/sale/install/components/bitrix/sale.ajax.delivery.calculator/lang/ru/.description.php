@@ -1,5 +1,5 @@
 <?
-$MESS ["SADC_DEFAULT_TEMPLATE_NAME"] = "Êàëüêóëÿòîð äîñòàâêè (AJAX)";
-$MESS ["SADC_DEFAULT_TEMPLATE_DESCRIPTION"] = "Äèíàìè÷åñêèé êàëüêóëÿòîð äîñòàâêè";
-$MESS ['SAL_NAME'] = 'Ïðîöåäóðà îôîðìëåíèÿ çàêàçà';
+$MESS ["SADC_DEFAULT_TEMPLATE_NAME"] = "ÐšÐ°Ð»ÑŒÐºÑƒÐ»ÑÑ‚Ð¾Ñ€ Ð´Ð¾ÑÑ‚Ð°Ð²ÐºÐ¸ (AJAX)";
+$MESS ["SADC_DEFAULT_TEMPLATE_DESCRIPTION"] = "Ð”Ð¸Ð½Ð°Ð¼Ð¸Ñ‡ÐµÑÐºÐ¸Ð¹ ÐºÐ°Ð»ÑŒÐºÑƒÐ»ÑÑ‚Ð¾Ñ€ Ð´Ð¾ÑÑ‚Ð°Ð²ÐºÐ¸";
+$MESS ['SAL_NAME'] = 'ÐŸÑ€Ð¾Ñ†ÐµÐ´ÑƒÑ€Ð° Ð¾Ñ„Ð¾Ñ€Ð¼Ð»ÐµÐ½Ð¸Ñ Ð·Ð°ÐºÐ°Ð·Ð°';
 ?>

@@ -1,7 +1,7 @@
 <?
-$MESS["BX_PULL_STATUS_ONLINE"] = "Ñîåäèíåíèå ñ ñåðâåðîì óñòàíîâëåíî";
-$MESS["BX_PULL_STATUS_OFFLINE"] = "Îòñóòñòâóåò ñîåäèíåíèå ñ ñåðâåðîì";
-$MESS["BX_PULL_STATUS_CONNECTING"] = "Óñòàíàâëèâàåì ñîåäèíåíèå ñ ñåðâåðîì";
-$MESS["BX_PULL_STATUS_BUTTON_RELOAD"] = "Ïåðåçàãðóçèòü";
-$MESS["BX_PULL_STATUS_BUTTON_RECONNECT"] = "Ïîäêëþ÷èòüñÿ";
+$MESS["BX_PULL_STATUS_ONLINE"] = "Ð¡Ð¾ÐµÐ´Ð¸Ð½ÐµÐ½Ð¸Ðµ Ñ ÑÐµÑ€Ð²ÐµÑ€Ð¾Ð¼ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½Ð¾";
+$MESS["BX_PULL_STATUS_OFFLINE"] = "ÐžÑ‚ÑÑƒÑ‚ÑÑ‚Ð²ÑƒÐµÑ‚ ÑÐ¾ÐµÐ´Ð¸Ð½ÐµÐ½Ð¸Ðµ Ñ ÑÐµÑ€Ð²ÐµÑ€Ð¾Ð¼";
+$MESS["BX_PULL_STATUS_CONNECTING"] = "Ð£ÑÑ‚Ð°Ð½Ð°Ð²Ð»Ð¸Ð²Ð°ÐµÐ¼ ÑÐ¾ÐµÐ´Ð¸Ð½ÐµÐ½Ð¸Ðµ Ñ ÑÐµÑ€Ð²ÐµÑ€Ð¾Ð¼";
+$MESS["BX_PULL_STATUS_BUTTON_RELOAD"] = "ÐŸÐµÑ€ÐµÐ·Ð°Ð³Ñ€ÑƒÐ·Ð¸Ñ‚ÑŒ";
+$MESS["BX_PULL_STATUS_BUTTON_RECONNECT"] = "ÐŸÐ¾Ð´ÐºÐ»ÑŽÑ‡Ð¸Ñ‚ÑŒÑÑ";
 ?>

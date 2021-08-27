@@ -1,2 +1,2 @@
 <?php
-$MESS['REST_DEVOPS_DEFAULT_TITLE_PAGE'] = 'Ðàçðàáîò÷èêàì';
+$MESS['REST_DEVOPS_DEFAULT_TITLE_PAGE'] = 'Ð Ð°Ð·Ñ€Ð°Ð±Ð¾Ñ‚Ñ‡Ð¸ÐºÐ°Ð¼';

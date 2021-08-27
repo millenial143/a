@@ -1,4 +1,4 @@
 <?
-$MESS ['SUPPORT_FAQ_GO_UP'] = "Íàâåðõ";
-$MESS ['FAQ_DELETE_CONFIRM'] = 'Âû óâåðåíû, ÷òî õîòèòå óäàëèòü ýòîò "#ELEMENT#"?';
+$MESS ['SUPPORT_FAQ_GO_UP'] = "ÐÐ°Ð²ÐµÑ€Ñ…";
+$MESS ['FAQ_DELETE_CONFIRM'] = 'Ð’Ñ‹ ÑƒÐ²ÐµÑ€ÐµÐ½Ñ‹, Ñ‡Ñ‚Ð¾ Ñ…Ð¾Ñ‚Ð¸Ñ‚Ðµ ÑƒÐ´Ð°Ð»Ð¸Ñ‚ÑŒ ÑÑ‚Ð¾Ñ‚ "#ELEMENT#"?';
 ?>

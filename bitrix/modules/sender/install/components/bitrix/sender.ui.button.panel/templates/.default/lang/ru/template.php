@@ -1,5 +1,5 @@
 <?
-$MESS["SENDER_UI_BUTTON_PANEL_SAVE"] = "Ñîõðàíèòü";
-$MESS["SENDER_UI_BUTTON_PANEL_CANCEL"] = "Îòìåíà";
-$MESS["SENDER_UI_BUTTON_PANEL_CLOSE"] = "Çàêðûòü";
+$MESS["SENDER_UI_BUTTON_PANEL_SAVE"] = "Ð¡Ð¾Ñ…Ñ€Ð°Ð½Ð¸Ñ‚ÑŒ";
+$MESS["SENDER_UI_BUTTON_PANEL_CANCEL"] = "ÐžÑ‚Ð¼ÐµÐ½Ð°";
+$MESS["SENDER_UI_BUTTON_PANEL_CLOSE"] = "Ð—Ð°ÐºÑ€Ñ‹Ñ‚ÑŒ";
 ?>

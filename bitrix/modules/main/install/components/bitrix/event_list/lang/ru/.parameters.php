@@ -1,9 +1,9 @@
 <?
-$MESS ['EVENT_LIST_FILTER_SETTINGS'] = "Íàñòðîéêà ôèëüòðà";
-$MESS ['EVENT_LIST_LOG_CNT'] = "Êîëè÷åñòâî îòîáðàæàåìûõ çàïèñåé íà ñòðàíèöå";
-$MESS ['EVENT_LIST_FILTER'] = "Ýëåìåíòû â ôèëüòðå";
-$MESS ['EVENT_LIST_USER_PATH'] = "Øàáëîí ïóòè ê ñòðàíèöå ïîëüçîâàòåëÿ";
-$MESS ['EVENT_LIST_FORUM_PATH'] = "Øàáëîí ïóòè ê ôîðóìó";
-$MESS ['EVENT_LIST_FORUM_TOPIC_PATH'] = "Øàáëîí ïóòè ê òåìå ôîðóìà";
-$MESS ['EVENT_LIST_FORUM_MESSAGE_PATH'] = "Øàáëîí ïóòè ê ñîîáùåíèþ ôîðóìà";
+$MESS ['EVENT_LIST_FILTER_SETTINGS'] = "ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ° Ñ„Ð¸Ð»ÑŒÑ‚Ñ€Ð°";
+$MESS ['EVENT_LIST_LOG_CNT'] = "ÐšÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾ Ð¾Ñ‚Ð¾Ð±Ñ€Ð°Ð¶Ð°ÐµÐ¼Ñ‹Ñ… Ð·Ð°Ð¿Ð¸ÑÐµÐ¹ Ð½Ð° ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ðµ";
+$MESS ['EVENT_LIST_FILTER'] = "Ð­Ð»ÐµÐ¼ÐµÐ½Ñ‚Ñ‹ Ð² Ñ„Ð¸Ð»ÑŒÑ‚Ñ€Ðµ";
+$MESS ['EVENT_LIST_USER_PATH'] = "Ð¨Ð°Ð±Ð»Ð¾Ð½ Ð¿ÑƒÑ‚Ð¸ Ðº ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ðµ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ";
+$MESS ['EVENT_LIST_FORUM_PATH'] = "Ð¨Ð°Ð±Ð»Ð¾Ð½ Ð¿ÑƒÑ‚Ð¸ Ðº Ñ„Ð¾Ñ€ÑƒÐ¼Ñƒ";
+$MESS ['EVENT_LIST_FORUM_TOPIC_PATH'] = "Ð¨Ð°Ð±Ð»Ð¾Ð½ Ð¿ÑƒÑ‚Ð¸ Ðº Ñ‚ÐµÐ¼Ðµ Ñ„Ð¾Ñ€ÑƒÐ¼Ð°";
+$MESS ['EVENT_LIST_FORUM_MESSAGE_PATH'] = "Ð¨Ð°Ð±Ð»Ð¾Ð½ Ð¿ÑƒÑ‚Ð¸ Ðº ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸ÑŽ Ñ„Ð¾Ñ€ÑƒÐ¼Ð°";
 ?>

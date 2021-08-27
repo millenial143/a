@@ -1,5 +1,5 @@
 <?
-$MESS ['LU_TITLE_USER'] = "Ïîëüçîâàòåëè";
-$MESS ['F_NO_MODULE'] = "Ìîäóëü ôîðóìà íå óñòàíîâëåí.";
-$MESS ['LU_INCORRECT_LAST_MESSAGE_DATE'] = "Íåïðàâèëüíûé ôîðìàò äàòû";
+$MESS ['LU_TITLE_USER'] = "ÐŸÐ¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ð¸";
+$MESS ['F_NO_MODULE'] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ Ñ„Ð¾Ñ€ÑƒÐ¼Ð° Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½.";
+$MESS ['LU_INCORRECT_LAST_MESSAGE_DATE'] = "ÐÐµÐ¿Ñ€Ð°Ð²Ð¸Ð»ÑŒÐ½Ñ‹Ð¹ Ñ„Ð¾Ñ€Ð¼Ð°Ñ‚ Ð´Ð°Ñ‚Ñ‹";
 ?>

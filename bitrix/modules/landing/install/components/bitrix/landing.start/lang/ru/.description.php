@@ -1,4 +1,4 @@
 <?php
-$MESS['LANDING_CMP_NAMESPACE_NAME'] = 'Ñàéòû 24';
-$MESS['LANDING_CMP_NAME'] = 'Óïðàâëåíèå Ñàéòàìè24';
-$MESS['LANDING_CMP_DESCRIPTION'] = 'Êîìïëåêñíûé êîìïîíåíò óïðàâëåíèÿ ñàéòàìè è ñòðàíèöàìè.';
+$MESS['LANDING_CMP_NAMESPACE_NAME'] = 'Ð¡Ð°Ð¹Ñ‚Ñ‹ 24';
+$MESS['LANDING_CMP_NAME'] = 'Ð£Ð¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¸Ðµ Ð¡Ð°Ð¹Ñ‚Ð°Ð¼Ð¸24';
+$MESS['LANDING_CMP_DESCRIPTION'] = 'ÐšÐ¾Ð¼Ð¿Ð»ÐµÐºÑÐ½Ñ‹Ð¹ ÐºÐ¾Ð¼Ð¿Ð¾Ð½ÐµÐ½Ñ‚ ÑƒÐ¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¸Ñ ÑÐ°Ð¹Ñ‚Ð°Ð¼Ð¸ Ð¸ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ð°Ð¼Ð¸.';

@@ -1,4 +1,4 @@
 <?
-$MESS['SENDER_COMP_TRIGGER_EDIT_TITLE_ADD'] = 'Ñîçäàíèå òðèããåðíîé ðàññûëêè';
-$MESS['SENDER_COMP_TRIGGER_EDIT_TITLE_EDIT'] = 'Ðåäàêòèðîâàíèå òðèããåðíîé ðàññûëêè';
+$MESS['SENDER_COMP_TRIGGER_EDIT_TITLE_ADD'] = 'Ð¡Ð¾Ð·Ð´Ð°Ð½Ð¸Ðµ Ñ‚Ñ€Ð¸Ð³Ð³ÐµÑ€Ð½Ð¾Ð¹ Ñ€Ð°ÑÑÑ‹Ð»ÐºÐ¸';
+$MESS['SENDER_COMP_TRIGGER_EDIT_TITLE_EDIT'] = 'Ð ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ðµ Ñ‚Ñ€Ð¸Ð³Ð³ÐµÑ€Ð½Ð¾Ð¹ Ñ€Ð°ÑÑÑ‹Ð»ÐºÐ¸';
 ?>

@@ -1,14 +1,14 @@
 <?
-$MESS["SALE_EBAY_SEC_REQUIRED"] = "Îáÿçàòåëüíîå";
-$MESS["SALE_EBAY_SEC_ADD_CATEGORY_VARS"] = "Äîáàâèòü ñîîòâåòñòâèå";
-$MESS["SALE_EBAY_SEC_ADD_CATEGORY_PROP"] = "Ñîçäàòü ñâîéñòâî";
-$MESS["SALE_EBAY_SEC_CATEGORY_PROPS"] = "Ñâîéñòâà êàòåãîðèè";
-$MESS["SALE_EBAY_SEC_OFFERS_PROPS"] = "Ñâîéñòâà òîðãîâûõ ïðåäëîæåíèé";
-$MESS["SALE_EBAY_SEC_CATEGORY"] = "Êàòåãîðèÿ";
-$MESS["SALE_EBAY_SEC_PROPERTIES"] = "Ñâîéñòâà";
-$MESS["SALE_EBAY_SEC_JS_CREATE_NEW_CATEGORY_PROP"] = "Ñîçäàíèå íîâîãî ñâîéñòâà äëÿ êàòåãîðèè";
-$MESS["SALE_EBAY_SEC_JS_CONTINUE"] = "Ïðîäîëæèòü";
-$MESS["SALE_EBAY_SEC_JS_CANCEL"] = "Îòìåíèòü";
-$MESS["SALE_EBAY_SEC_JS_PROP_KIND"] = "Êàêîå ñâîéñòâî ñîçäàòü?";
-$MESS["SALE_EBAY_SEC_NO_CATEGORIES"] = "Íå çàãðóæåíû. (Çàãðóçèòü êàòåãîðèè è ñâîéñòâà ìîæíî â #A1#Íàñòðîéêàõ#A2#)";
+$MESS["SALE_EBAY_SEC_REQUIRED"] = "ÐžÐ±ÑÐ·Ð°Ñ‚ÐµÐ»ÑŒÐ½Ð¾Ðµ";
+$MESS["SALE_EBAY_SEC_ADD_CATEGORY_VARS"] = "Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ ÑÐ¾Ð¾Ñ‚Ð²ÐµÑ‚ÑÑ‚Ð²Ð¸Ðµ";
+$MESS["SALE_EBAY_SEC_ADD_CATEGORY_PROP"] = "Ð¡Ð¾Ð·Ð´Ð°Ñ‚ÑŒ ÑÐ²Ð¾Ð¹ÑÑ‚Ð²Ð¾";
+$MESS["SALE_EBAY_SEC_CATEGORY_PROPS"] = "Ð¡Ð²Ð¾Ð¹ÑÑ‚Ð²Ð° ÐºÐ°Ñ‚ÐµÐ³Ð¾Ñ€Ð¸Ð¸";
+$MESS["SALE_EBAY_SEC_OFFERS_PROPS"] = "Ð¡Ð²Ð¾Ð¹ÑÑ‚Ð²Ð° Ñ‚Ð¾Ñ€Ð³Ð¾Ð²Ñ‹Ñ… Ð¿Ñ€ÐµÐ´Ð»Ð¾Ð¶ÐµÐ½Ð¸Ð¹";
+$MESS["SALE_EBAY_SEC_CATEGORY"] = "ÐšÐ°Ñ‚ÐµÐ³Ð¾Ñ€Ð¸Ñ";
+$MESS["SALE_EBAY_SEC_PROPERTIES"] = "Ð¡Ð²Ð¾Ð¹ÑÑ‚Ð²Ð°";
+$MESS["SALE_EBAY_SEC_JS_CREATE_NEW_CATEGORY_PROP"] = "Ð¡Ð¾Ð·Ð´Ð°Ð½Ð¸Ðµ Ð½Ð¾Ð²Ð¾Ð³Ð¾ ÑÐ²Ð¾Ð¹ÑÑ‚Ð²Ð° Ð´Ð»Ñ ÐºÐ°Ñ‚ÐµÐ³Ð¾Ñ€Ð¸Ð¸";
+$MESS["SALE_EBAY_SEC_JS_CONTINUE"] = "ÐŸÑ€Ð¾Ð´Ð¾Ð»Ð¶Ð¸Ñ‚ÑŒ";
+$MESS["SALE_EBAY_SEC_JS_CANCEL"] = "ÐžÑ‚Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ";
+$MESS["SALE_EBAY_SEC_JS_PROP_KIND"] = "ÐšÐ°ÐºÐ¾Ðµ ÑÐ²Ð¾Ð¹ÑÑ‚Ð²Ð¾ ÑÐ¾Ð·Ð´Ð°Ñ‚ÑŒ?";
+$MESS["SALE_EBAY_SEC_NO_CATEGORIES"] = "ÐÐµ Ð·Ð°Ð³Ñ€ÑƒÐ¶ÐµÐ½Ñ‹. (Ð—Ð°Ð³Ñ€ÑƒÐ·Ð¸Ñ‚ÑŒ ÐºÐ°Ñ‚ÐµÐ³Ð¾Ñ€Ð¸Ð¸ Ð¸ ÑÐ²Ð¾Ð¹ÑÑ‚Ð²Ð° Ð¼Ð¾Ð¶Ð½Ð¾ Ð² #A1#ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ°Ñ…#A2#)";
 ?>

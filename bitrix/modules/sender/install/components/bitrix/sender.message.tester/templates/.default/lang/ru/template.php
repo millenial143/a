@@ -1,14 +1,14 @@
 <?
-$MESS["SENDER_MESSAGE_TESTER_TMPL_TEST_SUCCESS"] = "Óñïåøíî îòïðàâëåíî! Ïðîâåðüòå ïî÷òó.";
-$MESS["SENDER_MESSAGE_TESTER_TMPL_TEST_SUCCESS_PHONE"] = "Óñïåøíî îòïðàâëåíî! Ïðîâåðüòå òåëåôîí.";
-$MESS["SENDER_MESSAGE_TESTER_TMPL_TEST_EMPTY"] = "Íå óêàçàíû ïîëó÷àòåëè";
-$MESS["SENDER_MESSAGE_TESTER_TMPL_TEST_SEND"] = "Îòïðàâèòü";
-$MESS["SENDER_MESSAGE_TESTER_TMPL_TEST_SPECIFY"] = "óêàçàòü";
-$MESS["SENDER_MESSAGE_TESTER_TMPL_TEST_HINT"] = "Òåñòîâàÿ îòïðàâêà íóæíà äëÿ ïðîâåðêè êîððåêòíîñòè âèçóàëüíîãî îòîáðàæåíèÿ. Äëÿ ýòîãî âûáåðèòå àäðåñà ïîëó÷àòåëåé.";
-$MESS["SENDER_MESSAGE_TESTER_TMPL_TEST_HINT_PHONE"] = "Òåñòîâàÿ îòïðàâêà íóæíà äëÿ ïðîâåðêè êîððåêòíîñòè âèçóàëüíîãî îòîáðàæåíèÿ. Äëÿ ýòîãî âûáåðèòå íîìåðà òåëåôîíîâ ïîëó÷àòåëåé.";
-$MESS["SENDER_MESSAGE_TESTER_TMPL_TEST_HINT_CALL"] = "Òåñòîâûé çâîíîê íóæåí äëÿ ïðîâåðêè êîððåêòíîñòè îçâó÷èâàíèÿ âàøåãî òåêñòà. Äëÿ ýòîãî âûáåðèòå íîìåðà òåëåôîíîâ ïîëó÷àòåëåé.";
-$MESS["SENDER_MESSAGE_TESTER_TMPL_TEST_RECIPIENTS"] = "Ïîëó÷àòåëè òåñòîâîé îòïðàâêè";
-$MESS["SENDER_MESSAGE_TESTER_TMPL_TEST_CAT_LAST"] = "Ïîñëåäíèå";
-$MESS["SENDER_MESSAGE_TESTER_TMPL_TEST_TITLE_MAIL"] = "Email àäðåñà";
-$MESS["SENDER_MESSAGE_TESTER_TMPL_TEST_TITLE_PHONE"] = "Íîìåðà òåëåôîíîâ";
+$MESS["SENDER_MESSAGE_TESTER_TMPL_TEST_SUCCESS"] = "Ð£ÑÐ¿ÐµÑˆÐ½Ð¾ Ð¾Ñ‚Ð¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¾! ÐŸÑ€Ð¾Ð²ÐµÑ€ÑŒÑ‚Ðµ Ð¿Ð¾Ñ‡Ñ‚Ñƒ.";
+$MESS["SENDER_MESSAGE_TESTER_TMPL_TEST_SUCCESS_PHONE"] = "Ð£ÑÐ¿ÐµÑˆÐ½Ð¾ Ð¾Ñ‚Ð¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¾! ÐŸÑ€Ð¾Ð²ÐµÑ€ÑŒÑ‚Ðµ Ñ‚ÐµÐ»ÐµÑ„Ð¾Ð½.";
+$MESS["SENDER_MESSAGE_TESTER_TMPL_TEST_EMPTY"] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½Ñ‹ Ð¿Ð¾Ð»ÑƒÑ‡Ð°Ñ‚ÐµÐ»Ð¸";
+$MESS["SENDER_MESSAGE_TESTER_TMPL_TEST_SEND"] = "ÐžÑ‚Ð¿Ñ€Ð°Ð²Ð¸Ñ‚ÑŒ";
+$MESS["SENDER_MESSAGE_TESTER_TMPL_TEST_SPECIFY"] = "ÑƒÐºÐ°Ð·Ð°Ñ‚ÑŒ";
+$MESS["SENDER_MESSAGE_TESTER_TMPL_TEST_HINT"] = "Ð¢ÐµÑÑ‚Ð¾Ð²Ð°Ñ Ð¾Ñ‚Ð¿Ñ€Ð°Ð²ÐºÐ° Ð½ÑƒÐ¶Ð½Ð° Ð´Ð»Ñ Ð¿Ñ€Ð¾Ð²ÐµÑ€ÐºÐ¸ ÐºÐ¾Ñ€Ñ€ÐµÐºÑ‚Ð½Ð¾ÑÑ‚Ð¸ Ð²Ð¸Ð·ÑƒÐ°Ð»ÑŒÐ½Ð¾Ð³Ð¾ Ð¾Ñ‚Ð¾Ð±Ñ€Ð°Ð¶ÐµÐ½Ð¸Ñ. Ð”Ð»Ñ ÑÑ‚Ð¾Ð³Ð¾ Ð²Ñ‹Ð±ÐµÑ€Ð¸Ñ‚Ðµ Ð°Ð´Ñ€ÐµÑÐ° Ð¿Ð¾Ð»ÑƒÑ‡Ð°Ñ‚ÐµÐ»ÐµÐ¹.";
+$MESS["SENDER_MESSAGE_TESTER_TMPL_TEST_HINT_PHONE"] = "Ð¢ÐµÑÑ‚Ð¾Ð²Ð°Ñ Ð¾Ñ‚Ð¿Ñ€Ð°Ð²ÐºÐ° Ð½ÑƒÐ¶Ð½Ð° Ð´Ð»Ñ Ð¿Ñ€Ð¾Ð²ÐµÑ€ÐºÐ¸ ÐºÐ¾Ñ€Ñ€ÐµÐºÑ‚Ð½Ð¾ÑÑ‚Ð¸ Ð²Ð¸Ð·ÑƒÐ°Ð»ÑŒÐ½Ð¾Ð³Ð¾ Ð¾Ñ‚Ð¾Ð±Ñ€Ð°Ð¶ÐµÐ½Ð¸Ñ. Ð”Ð»Ñ ÑÑ‚Ð¾Ð³Ð¾ Ð²Ñ‹Ð±ÐµÑ€Ð¸Ñ‚Ðµ Ð½Ð¾Ð¼ÐµÑ€Ð° Ñ‚ÐµÐ»ÐµÑ„Ð¾Ð½Ð¾Ð² Ð¿Ð¾Ð»ÑƒÑ‡Ð°Ñ‚ÐµÐ»ÐµÐ¹.";
+$MESS["SENDER_MESSAGE_TESTER_TMPL_TEST_HINT_CALL"] = "Ð¢ÐµÑÑ‚Ð¾Ð²Ñ‹Ð¹ Ð·Ð²Ð¾Ð½Ð¾Ðº Ð½ÑƒÐ¶ÐµÐ½ Ð´Ð»Ñ Ð¿Ñ€Ð¾Ð²ÐµÑ€ÐºÐ¸ ÐºÐ¾Ñ€Ñ€ÐµÐºÑ‚Ð½Ð¾ÑÑ‚Ð¸ Ð¾Ð·Ð²ÑƒÑ‡Ð¸Ð²Ð°Ð½Ð¸Ñ Ð²Ð°ÑˆÐµÐ³Ð¾ Ñ‚ÐµÐºÑÑ‚Ð°. Ð”Ð»Ñ ÑÑ‚Ð¾Ð³Ð¾ Ð²Ñ‹Ð±ÐµÑ€Ð¸Ñ‚Ðµ Ð½Ð¾Ð¼ÐµÑ€Ð° Ñ‚ÐµÐ»ÐµÑ„Ð¾Ð½Ð¾Ð² Ð¿Ð¾Ð»ÑƒÑ‡Ð°Ñ‚ÐµÐ»ÐµÐ¹.";
+$MESS["SENDER_MESSAGE_TESTER_TMPL_TEST_RECIPIENTS"] = "ÐŸÐ¾Ð»ÑƒÑ‡Ð°Ñ‚ÐµÐ»Ð¸ Ñ‚ÐµÑÑ‚Ð¾Ð²Ð¾Ð¹ Ð¾Ñ‚Ð¿Ñ€Ð°Ð²ÐºÐ¸";
+$MESS["SENDER_MESSAGE_TESTER_TMPL_TEST_CAT_LAST"] = "ÐŸÐ¾ÑÐ»ÐµÐ´Ð½Ð¸Ðµ";
+$MESS["SENDER_MESSAGE_TESTER_TMPL_TEST_TITLE_MAIL"] = "Email Ð°Ð´Ñ€ÐµÑÐ°";
+$MESS["SENDER_MESSAGE_TESTER_TMPL_TEST_TITLE_PHONE"] = "ÐÐ¾Ð¼ÐµÑ€Ð° Ñ‚ÐµÐ»ÐµÑ„Ð¾Ð½Ð¾Ð²";
 ?>

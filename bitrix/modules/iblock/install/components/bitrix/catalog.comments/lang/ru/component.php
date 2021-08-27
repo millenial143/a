@@ -1,10 +1,10 @@
 <?
-$MESS["IBLOCK_CSC_ELEMENT_NOT_FOUND"] = "Ýëåìåíò íå íàéäåí";
-$MESS["IBLOCK_CSC_MODULE_NOT_INSTALLED"] = "Ìîäóëü \"Èíôîðìàöèîííûå áëîêè\" íå óñòàíîâëåí";
-$MESS["IBLOCK_CSC_MODULE_BLOG_NOT_INSTALLED"] = "Ìîäóëü \"Áëîãè\" íå óñòàíîâëåí";
-$MESS["IBLOCK_CSC_BLOG_NAME"] = "Îòçûâû íà òîâàðû";
-$MESS["IBLOCK_CSC_BLOG_DESCRIPTION"] = "Çäåñü õðàíÿòñÿ îòçûâû ïîñåòèòåëåé ìàãàçèíà íà òîâàðû ìàãàçèíà";
-$MESS["IBLOCK_CSC_BLOG_GROUP_CREATE_ERROR"] = "Îøèáêà ñîçäàíèÿ ãðóïïû áëîãîâ";
-$MESS["IBLOCK_CSC_BLOG_GROUP_NAME"] = "Ãðóïïà îòçûâîâ";
-$MESS["IBLOCK_CSC_BLOG_CREATE_ERROR"] = "Îøèáêà ñîçäàíèÿ áëîãà";
+$MESS["IBLOCK_CSC_ELEMENT_NOT_FOUND"] = "Ð­Ð»ÐµÐ¼ÐµÐ½Ñ‚ Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½";
+$MESS["IBLOCK_CSC_MODULE_NOT_INSTALLED"] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ \"Ð˜Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ð¾Ð½Ð½Ñ‹Ðµ Ð±Ð»Ð¾ÐºÐ¸\" Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½";
+$MESS["IBLOCK_CSC_MODULE_BLOG_NOT_INSTALLED"] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ \"Ð‘Ð»Ð¾Ð³Ð¸\" Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½";
+$MESS["IBLOCK_CSC_BLOG_NAME"] = "ÐžÑ‚Ð·Ñ‹Ð²Ñ‹ Ð½Ð° Ñ‚Ð¾Ð²Ð°Ñ€Ñ‹";
+$MESS["IBLOCK_CSC_BLOG_DESCRIPTION"] = "Ð—Ð´ÐµÑÑŒ Ñ…Ñ€Ð°Ð½ÑÑ‚ÑÑ Ð¾Ñ‚Ð·Ñ‹Ð²Ñ‹ Ð¿Ð¾ÑÐµÑ‚Ð¸Ñ‚ÐµÐ»ÐµÐ¹ Ð¼Ð°Ð³Ð°Ð·Ð¸Ð½Ð° Ð½Ð° Ñ‚Ð¾Ð²Ð°Ñ€Ñ‹ Ð¼Ð°Ð³Ð°Ð·Ð¸Ð½Ð°";
+$MESS["IBLOCK_CSC_BLOG_GROUP_CREATE_ERROR"] = "ÐžÑˆÐ¸Ð±ÐºÐ° ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ñ Ð³Ñ€ÑƒÐ¿Ð¿Ñ‹ Ð±Ð»Ð¾Ð³Ð¾Ð²";
+$MESS["IBLOCK_CSC_BLOG_GROUP_NAME"] = "Ð“Ñ€ÑƒÐ¿Ð¿Ð° Ð¾Ñ‚Ð·Ñ‹Ð²Ð¾Ð²";
+$MESS["IBLOCK_CSC_BLOG_CREATE_ERROR"] = "ÐžÑˆÐ¸Ð±ÐºÐ° ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ñ Ð±Ð»Ð¾Ð³Ð°";
 ?>

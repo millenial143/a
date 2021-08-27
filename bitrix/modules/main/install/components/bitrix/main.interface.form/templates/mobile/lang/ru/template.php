@@ -1,15 +1,15 @@
 <?
-$MESS["interface_form_save"] = "Ñîõðàíèòü";
-$MESS["interface_form_cancel"] = "Îòìåíèòü";
-$MESS["interface_form_change"] = "ñìåíèòü";
-$MESS["interface_form_add"] = "äîáàâèòü";
-$MESS["interface_form_select"] = "âûáðàòü";
-$MESS["interface_form_show_more"] = "ïîêàçàòü åù¸";
-$MESS["interface_form_hide"] = "ñêðûòü";
-$MESS["MPF_CANCEL"] = "Îòìåíèòü";
-$MESS["MPF_PHOTO_CAMERA"] = "Ñíÿòü ôîòî";
-$MESS["MPF_PHOTO_GALLERY"] = "Âûáðàòü èç ãàëåðåè";
-$MESS["MPF_ERROR1"] = "Ôàéë íå çàãðóæåí";
-$MESS["interface_form_from"] = "Îò";
-$MESS["interface_form_to"] = "Äî";
+$MESS["interface_form_save"] = "Ð¡Ð¾Ñ…Ñ€Ð°Ð½Ð¸Ñ‚ÑŒ";
+$MESS["interface_form_cancel"] = "ÐžÑ‚Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ";
+$MESS["interface_form_change"] = "ÑÐ¼ÐµÐ½Ð¸Ñ‚ÑŒ";
+$MESS["interface_form_add"] = "Ð´Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ";
+$MESS["interface_form_select"] = "Ð²Ñ‹Ð±Ñ€Ð°Ñ‚ÑŒ";
+$MESS["interface_form_show_more"] = "Ð¿Ð¾ÐºÐ°Ð·Ð°Ñ‚ÑŒ ÐµÑ‰Ñ‘";
+$MESS["interface_form_hide"] = "ÑÐºÑ€Ñ‹Ñ‚ÑŒ";
+$MESS["MPF_CANCEL"] = "ÐžÑ‚Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ";
+$MESS["MPF_PHOTO_CAMERA"] = "Ð¡Ð½ÑÑ‚ÑŒ Ñ„Ð¾Ñ‚Ð¾";
+$MESS["MPF_PHOTO_GALLERY"] = "Ð’Ñ‹Ð±Ñ€Ð°Ñ‚ÑŒ Ð¸Ð· Ð³Ð°Ð»ÐµÑ€ÐµÐ¸";
+$MESS["MPF_ERROR1"] = "Ð¤Ð°Ð¹Ð» Ð½Ðµ Ð·Ð°Ð³Ñ€ÑƒÐ¶ÐµÐ½";
+$MESS["interface_form_from"] = "ÐžÑ‚";
+$MESS["interface_form_to"] = "Ð”Ð¾";
 ?>

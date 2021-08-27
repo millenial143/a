@@ -1,3 +1,3 @@
 <?
-$MESS["BIZVAL_PAGE_LINK_PTYPES"] = "Übereinstimmung der Kundengruppen mit natürlichen und juristischen Personen einstellen.";
+$MESS["BIZVAL_PAGE_LINK_PTYPES"] = "Ãœbereinstimmung der Kundengruppen mit natÃ¼rlichen und juristischen Personen einstellen.";
 ?>

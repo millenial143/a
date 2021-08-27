@@ -1,2 +1,2 @@
 <?php
-$MESS['LANDING_BLOCK_STORE_SALESCENTER_PAYMENT_PAY-NAME'] = 'Èíôîðìàöèÿ î ïëàò¸æíûõ ñèñòåìàõ';
+$MESS['LANDING_BLOCK_STORE_SALESCENTER_PAYMENT_PAY-NAME'] = 'Ð˜Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ñ Ð¾ Ð¿Ð»Ð°Ñ‚Ñ‘Ð¶Ð½Ñ‹Ñ… ÑÐ¸ÑÑ‚ÐµÐ¼Ð°Ñ…';

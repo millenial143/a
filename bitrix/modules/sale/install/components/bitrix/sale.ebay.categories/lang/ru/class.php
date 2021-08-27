@@ -1,4 +1,4 @@
 <?
-$MESS["SALE_EBAY_SEC_CATEGORY_PROP"] = "Ñâîéñòâî êàòåãîðèè";
-$MESS["SALE_EBAY_SEC_OFFERS_PROP"] = "Ñâîéñòâî òîðãîâîãî ïðåäëîæåíèÿ";
+$MESS["SALE_EBAY_SEC_CATEGORY_PROP"] = "Ð¡Ð²Ð¾Ð¹ÑÑ‚Ð²Ð¾ ÐºÐ°Ñ‚ÐµÐ³Ð¾Ñ€Ð¸Ð¸";
+$MESS["SALE_EBAY_SEC_OFFERS_PROP"] = "Ð¡Ð²Ð¾Ð¹ÑÑ‚Ð²Ð¾ Ñ‚Ð¾Ñ€Ð³Ð¾Ð²Ð¾Ð³Ð¾ Ð¿Ñ€ÐµÐ´Ð»Ð¾Ð¶ÐµÐ½Ð¸Ñ";
 ?>

@@ -1,3 +1,3 @@
 <?
-$MESS ["SENDER_MESSAGE_TESTER_ERROR_UNKNOWN_CODE"] = "Óêàçàí íåèçâåñòíûé òèï ñîîáùåíèÿ `%code%`.";
+$MESS ["SENDER_MESSAGE_TESTER_ERROR_UNKNOWN_CODE"] = "Ð£ÐºÐ°Ð·Ð°Ð½ Ð½ÐµÐ¸Ð·Ð²ÐµÑÑ‚Ð½Ñ‹Ð¹ Ñ‚Ð¸Ð¿ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ `%code%`.";
 ?>

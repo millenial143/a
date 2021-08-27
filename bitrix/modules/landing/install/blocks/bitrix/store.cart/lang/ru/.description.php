@@ -1,2 +1,2 @@
 <?php
-$MESS['LANDING_BLOCK_STORE.CART_NAME'] = 'Êîðçèíà';
+$MESS['LANDING_BLOCK_STORE.CART_NAME'] = 'ÐšÐ¾Ñ€Ð·Ð¸Ð½Ð°';

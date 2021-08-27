@@ -1,4 +1,4 @@
 <?
-$MESS["LANDING_BLOCK_32.16.IMG_ONE_BIG_NAME2"] = "Êàðòèíêà ñ îòñòóïàìè äëÿ ñàéäáàðà";
-$MESS["LANDING_BLOCK_32.16.IMG_ONE_BIG_NODES_LANDINGBLOCKNODEIMG"] = "Êàðòèíêà";
+$MESS["LANDING_BLOCK_32.16.IMG_ONE_BIG_NAME2"] = "ÐšÐ°Ñ€Ñ‚Ð¸Ð½ÐºÐ° Ñ Ð¾Ñ‚ÑÑ‚ÑƒÐ¿Ð°Ð¼Ð¸ Ð´Ð»Ñ ÑÐ°Ð¹Ð´Ð±Ð°Ñ€Ð°";
+$MESS["LANDING_BLOCK_32.16.IMG_ONE_BIG_NODES_LANDINGBLOCKNODEIMG"] = "ÐšÐ°Ñ€Ñ‚Ð¸Ð½ÐºÐ°";
 ?>

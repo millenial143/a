@@ -1,6 +1,6 @@
 <?
-$MESS['SECURITY_USER_RECOVERY_CODES_TITLE'] = "Ðåçåðâíûå êîäû";
-$MESS['SECURITY_USER_RECOVERY_CODES_AUTH_ERROR'] = "Âû äîëæíû áûòü àâòîðèçîâàíû.";
-$MESS['SECURITY_USER_RECOVERY_CODES_MODULE_ERROR'] = "Ìîäóëü security íå óñòàíîâëåí";
-$MESS['SECURITY_USER_RECOVERY_CODES_OTP_NOT_ACTIVE'] = "Äâóõýòàïíàÿ àâòîðèçàöèÿ íå èñïîëüçóåòñÿ";
-$MESS['SECURITY_USER_RECOVERY_CODES_DISABLED'] = "Ðåçåðâíûå êîäû íå èñïîëüçóþòñÿ";
+$MESS['SECURITY_USER_RECOVERY_CODES_TITLE'] = "Ð ÐµÐ·ÐµÑ€Ð²Ð½Ñ‹Ðµ ÐºÐ¾Ð´Ñ‹";
+$MESS['SECURITY_USER_RECOVERY_CODES_AUTH_ERROR'] = "Ð’Ñ‹ Ð´Ð¾Ð»Ð¶Ð½Ñ‹ Ð±Ñ‹Ñ‚ÑŒ Ð°Ð²Ñ‚Ð¾Ñ€Ð¸Ð·Ð¾Ð²Ð°Ð½Ñ‹.";
+$MESS['SECURITY_USER_RECOVERY_CODES_MODULE_ERROR'] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ security Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½";
+$MESS['SECURITY_USER_RECOVERY_CODES_OTP_NOT_ACTIVE'] = "Ð”Ð²ÑƒÑ…ÑÑ‚Ð°Ð¿Ð½Ð°Ñ Ð°Ð²Ñ‚Ð¾Ñ€Ð¸Ð·Ð°Ñ†Ð¸Ñ Ð½Ðµ Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·ÑƒÐµÑ‚ÑÑ";
+$MESS['SECURITY_USER_RECOVERY_CODES_DISABLED'] = "Ð ÐµÐ·ÐµÑ€Ð²Ð½Ñ‹Ðµ ÐºÐ¾Ð´Ñ‹ Ð½Ðµ Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·ÑƒÑŽÑ‚ÑÑ";

@@ -1,6 +1,6 @@
 <?php
-$MESS["RMP_ACCESS_DENIED"] = "Äîñòóï çàïðåùåí. Îáðàòèòåñü ê àäìèíèñòðàòîðó äëÿ óñòàíîâêè ïðèëîæåíèÿ";
-$MESS["RMP_APP_TIME_LIMIT_3"] = "3 ìåñÿöà";
-$MESS["RMP_APP_TIME_LIMIT_6"] = "6 ìåñÿöåâ";
-$MESS["RMP_APP_TIME_LIMIT_12"] = "12 ìåñÿöåâ";
+$MESS["RMP_ACCESS_DENIED"] = "Ð”Ð¾ÑÑ‚ÑƒÐ¿ Ð·Ð°Ð¿Ñ€ÐµÑ‰ÐµÐ½. ÐžÐ±Ñ€Ð°Ñ‚Ð¸Ñ‚ÐµÑÑŒ Ðº Ð°Ð´Ð¼Ð¸Ð½Ð¸ÑÑ‚Ñ€Ð°Ñ‚Ð¾Ñ€Ñƒ Ð´Ð»Ñ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²ÐºÐ¸ Ð¿Ñ€Ð¸Ð»Ð¾Ð¶ÐµÐ½Ð¸Ñ";
+$MESS["RMP_APP_TIME_LIMIT_3"] = "3 Ð¼ÐµÑÑÑ†Ð°";
+$MESS["RMP_APP_TIME_LIMIT_6"] = "6 Ð¼ÐµÑÑÑ†ÐµÐ²";
+$MESS["RMP_APP_TIME_LIMIT_12"] = "12 Ð¼ÐµÑÑÑ†ÐµÐ²";
 $MESS["REST_MARKETPLACE_TERMS_OF_SERVICE_LINK"] = "https://www.bitrix24.com/terms/apps24_terms_of_service.pdf";

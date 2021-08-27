@@ -1,3 +1,3 @@
 <?
-$MESS["SALE_DELIVERY_HANDLER_NOT_INSTALL"] = "Ñëóæáà äîñòàâêè íå óñòàíîâëåíà";
+$MESS["SALE_DELIVERY_HANDLER_NOT_INSTALL"] = "Ð¡Ð»ÑƒÐ¶Ð±Ð° Ð´Ð¾ÑÑ‚Ð°Ð²ÐºÐ¸ Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½Ð°";
 ?>

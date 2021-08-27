@@ -1,4 +1,4 @@
 <?
-$MESS["SENDER_LETTER_STAT_COMP_TITLE"] = "Ñòàòèñòèêà ðàññûëêè";
-$MESS["SENDER_LETTER_STAT_COMP_NO_DATA"] = "Íåò äàííûõ. Ðàññûëêà åùå íå îòïðàâëåíà.";
+$MESS["SENDER_LETTER_STAT_COMP_TITLE"] = "Ð¡Ñ‚Ð°Ñ‚Ð¸ÑÑ‚Ð¸ÐºÐ° Ñ€Ð°ÑÑÑ‹Ð»ÐºÐ¸";
+$MESS["SENDER_LETTER_STAT_COMP_NO_DATA"] = "ÐÐµÑ‚ Ð´Ð°Ð½Ð½Ñ‹Ñ…. Ð Ð°ÑÑÑ‹Ð»ÐºÐ° ÐµÑ‰Ðµ Ð½Ðµ Ð¾Ñ‚Ð¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð°.";
 ?>

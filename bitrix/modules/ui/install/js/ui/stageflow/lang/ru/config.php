@@ -1,5 +1,5 @@
 <?php
-$MESS["UI_STAGEFLOW_FINAL_STAGE_NAME"] = "Çàâåðøèòü";
-$MESS["UI_STAGEFLOW_FINAL_STAGE_POPUP_TITLE"] = "Âûáåðèòå ðåçóëüòàò çàâåðøåíèÿ";
-$MESS["UI_STAGEFLOW_FINAL_STAGE_POPUP_FAIL"] = "Ïðîâàë";
-$MESS["UI_STAGEFLOW_FINAL_STAGE_SELECTOR_TITLE"] = "Çàâåðøåíèå:";
+$MESS["UI_STAGEFLOW_FINAL_STAGE_NAME"] = "Ð—Ð°Ð²ÐµÑ€ÑˆÐ¸Ñ‚ÑŒ";
+$MESS["UI_STAGEFLOW_FINAL_STAGE_POPUP_TITLE"] = "Ð’Ñ‹Ð±ÐµÑ€Ð¸Ñ‚Ðµ Ñ€ÐµÐ·ÑƒÐ»ÑŒÑ‚Ð°Ñ‚ Ð·Ð°Ð²ÐµÑ€ÑˆÐµÐ½Ð¸Ñ";
+$MESS["UI_STAGEFLOW_FINAL_STAGE_POPUP_FAIL"] = "ÐŸÑ€Ð¾Ð²Ð°Ð»";
+$MESS["UI_STAGEFLOW_FINAL_STAGE_SELECTOR_TITLE"] = "Ð—Ð°Ð²ÐµÑ€ÑˆÐµÐ½Ð¸Ðµ:";

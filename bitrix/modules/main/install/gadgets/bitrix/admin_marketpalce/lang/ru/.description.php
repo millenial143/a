@@ -1,4 +1,4 @@
 <?
-$MESS["GD_MARKETPLACE_NAME"] = "Ìàðêåòïëåéñ";
-$MESS["GD_MARKETPLACE_DESC"] = "Èíôîðìàöèÿ î Ìàðêåòïëåéñ";
+$MESS["GD_MARKETPLACE_NAME"] = "ÐœÐ°Ñ€ÐºÐµÑ‚Ð¿Ð»ÐµÐ¹Ñ";
+$MESS["GD_MARKETPLACE_DESC"] = "Ð˜Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ñ Ð¾ ÐœÐ°Ñ€ÐºÐµÑ‚Ð¿Ð»ÐµÐ¹Ñ";
 ?>

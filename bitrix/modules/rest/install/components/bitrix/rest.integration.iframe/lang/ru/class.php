@@ -1,4 +1,4 @@
 <?php
-$MESS['REST_INTEGRATION_IFRAME_TITLE'] = 'Ðåçóëüòàò çàïðîñà rest';
-$MESS['REST_INTEGRATION_WRONG_DOMAIN_ERROR'] = 'Îøèáêà, âîçìîæíî çàïðîñ íå ê âàøåìó äîìåíó, âàø äîìåí: #DOMAIN#';
-$MESS['REST_INTEGRATION_IFRAME_ERROR_ACCESS_DENIED'] = 'Íåò äîñòóïà';
+$MESS['REST_INTEGRATION_IFRAME_TITLE'] = 'Ð ÐµÐ·ÑƒÐ»ÑŒÑ‚Ð°Ñ‚ Ð·Ð°Ð¿Ñ€Ð¾ÑÐ° rest';
+$MESS['REST_INTEGRATION_WRONG_DOMAIN_ERROR'] = 'ÐžÑˆÐ¸Ð±ÐºÐ°, Ð²Ð¾Ð·Ð¼Ð¾Ð¶Ð½Ð¾ Ð·Ð°Ð¿Ñ€Ð¾Ñ Ð½Ðµ Ðº Ð²Ð°ÑˆÐµÐ¼Ñƒ Ð´Ð¾Ð¼ÐµÐ½Ñƒ, Ð²Ð°Ñˆ Ð´Ð¾Ð¼ÐµÐ½: #DOMAIN#';
+$MESS['REST_INTEGRATION_IFRAME_ERROR_ACCESS_DENIED'] = 'ÐÐµÑ‚ Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð°';

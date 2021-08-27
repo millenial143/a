@@ -1,3 +1,3 @@
 <?
-$MESS ['MAIN_USER_SELECTOR_SELECT'] = "âûáðàòü";
+$MESS ['MAIN_USER_SELECTOR_SELECT'] = "Ð²Ñ‹Ð±Ñ€Ð°Ñ‚ÑŒ";
 ?>

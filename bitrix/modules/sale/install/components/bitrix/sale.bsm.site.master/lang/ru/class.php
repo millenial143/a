@@ -1,9 +1,9 @@
 <?php
-$MESS["SALE_BSM_TITLE"] = "Ìàñòåð óñòàíîâêè äåâåëîïåðñêîãî ñàéòà";
-$MESS["SALE_BSM_MODULE_NOT_INSTALL"] = "Ìîäóëü Èíòåðíåò-ìàãàçèíà íå óñòàíîâëåí.";
-$MESS["SALE_BSM_MODULE_PERMISSION_DENIED"] = "Äîñòóï çàïðåùåí.";
-$MESS["SALE_BSM_WIZARD_STEP_NOT_FOUND"] = "Ôàéë ñ øàãîì #STEP_NAME# íå íàéäåí";
-$MESS["SALE_BSM_WIZARD_TEMPLATE_NOT_FOUND"] = "Ôàéë ñ øàáëîíîì ìàñòåðà íå íàéäåí";
-$MESS["SALE_BSM_WIZARD_ERROR_SESSION_EXPIRED"] = "Âàøà ñåññèÿ èñòåêëà.";
-$MESS["SALE_BSM_MODULE_MAIN_NAME"] = "Ãëàâíûé ìîäóëü";
-$MESS["SALE_BSM_MODULE_INTRANET_NAME"] = "Èíòðàíåò";
+$MESS["SALE_BSM_TITLE"] = "ÐœÐ°ÑÑ‚ÐµÑ€ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²ÐºÐ¸ Ð´ÐµÐ²ÐµÐ»Ð¾Ð¿ÐµÑ€ÑÐºÐ¾Ð³Ð¾ ÑÐ°Ð¹Ñ‚Ð°";
+$MESS["SALE_BSM_MODULE_NOT_INSTALL"] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ Ð˜Ð½Ñ‚ÐµÑ€Ð½ÐµÑ‚-Ð¼Ð°Ð³Ð°Ð·Ð¸Ð½Ð° Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½.";
+$MESS["SALE_BSM_MODULE_PERMISSION_DENIED"] = "Ð”Ð¾ÑÑ‚ÑƒÐ¿ Ð·Ð°Ð¿Ñ€ÐµÑ‰ÐµÐ½.";
+$MESS["SALE_BSM_WIZARD_STEP_NOT_FOUND"] = "Ð¤Ð°Ð¹Ð» Ñ ÑˆÐ°Ð³Ð¾Ð¼ #STEP_NAME# Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½";
+$MESS["SALE_BSM_WIZARD_TEMPLATE_NOT_FOUND"] = "Ð¤Ð°Ð¹Ð» Ñ ÑˆÐ°Ð±Ð»Ð¾Ð½Ð¾Ð¼ Ð¼Ð°ÑÑ‚ÐµÑ€Ð° Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½";
+$MESS["SALE_BSM_WIZARD_ERROR_SESSION_EXPIRED"] = "Ð’Ð°ÑˆÐ° ÑÐµÑÑÐ¸Ñ Ð¸ÑÑ‚ÐµÐºÐ»Ð°.";
+$MESS["SALE_BSM_MODULE_MAIN_NAME"] = "Ð“Ð»Ð°Ð²Ð½Ñ‹Ð¹ Ð¼Ð¾Ð´ÑƒÐ»ÑŒ";
+$MESS["SALE_BSM_MODULE_INTRANET_NAME"] = "Ð˜Ð½Ñ‚Ñ€Ð°Ð½ÐµÑ‚";

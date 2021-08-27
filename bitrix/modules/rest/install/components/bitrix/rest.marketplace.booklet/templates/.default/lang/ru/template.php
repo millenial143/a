@@ -1,3 +1,3 @@
 <?php
-$MESS["REST_MARKETPLACE_BOOKLET_BTN_SHOW_ALL"] = "ñìîòðåòü âñå";
-$MESS["REST_MARKETPLACE_BOOKLET_TITLE_NEW_APP"] = "Íîâûå ïðèëîæåíèÿ";
+$MESS["REST_MARKETPLACE_BOOKLET_BTN_SHOW_ALL"] = "ÑÐ¼Ð¾Ñ‚Ñ€ÐµÑ‚ÑŒ Ð²ÑÐµ";
+$MESS["REST_MARKETPLACE_BOOKLET_TITLE_NEW_APP"] = "ÐÐ¾Ð²Ñ‹Ðµ Ð¿Ñ€Ð¸Ð»Ð¾Ð¶ÐµÐ½Ð¸Ñ";

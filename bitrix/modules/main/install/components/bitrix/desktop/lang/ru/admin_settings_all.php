@@ -1,11 +1,11 @@
 <?
-$MESS["CMDESKTOP_ADMIN_SETTINGS_ALL_DIALOG_TITLE"] = "Óïðàâëåíèå ðàáî÷èìè ñòîëàìè";
-$MESS["CMDESKTOP_ADMIN_SETTINGS_ALL_DIALOG_DESKTOP"] = "Ðàáî÷èé ñòîë ";
-$MESS["CMDESKTOP_ADMIN_SETTINGS_ALL_NAME"] = "Íàçâàíèå";
-$MESS["CMDESKTOP_ADMIN_SETTINGS_ALL_DRAG"] = "Ïåðåòàùèòü ðàáî÷èé ñòîë ìûøüþ";
-$MESS["CMDESKTOP_ADMIN_SETTINGS_ALL_TOOLTIP_TEXT_EDIT"] = "Íàæìèòå, ÷òîáû ðåäàêòèðîâàòü íàçâàíèå ðàáî÷åãî ñòîëà";
-$MESS["CMDESKTOP_ADMIN_SETTINGS_ALL_TOOLTIP_UP"] = "Ïåðåäâèíóòü ðàáî÷èé ñòîë âûøå";
-$MESS["CMDESKTOP_ADMIN_SETTINGS_ALL_TOOLTIP_DOWN"] = "Ïåðåäâèíóòü ðàáî÷èé ñòîë íèæå";
-$MESS["CMDESKTOP_ADMIN_SETTINGS_ALL_TOOLTIP_DELETE"] = "Óäàëèòü ðàáî÷èé ñòîë";
-$MESS["CMDESKTOP_ADMIN_SETTINGS_ALL_JS_NONAME"] = "--- íåò çíà÷åíèÿ ---";
+$MESS["CMDESKTOP_ADMIN_SETTINGS_ALL_DIALOG_TITLE"] = "Ð£Ð¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¸Ðµ Ñ€Ð°Ð±Ð¾Ñ‡Ð¸Ð¼Ð¸ ÑÑ‚Ð¾Ð»Ð°Ð¼Ð¸";
+$MESS["CMDESKTOP_ADMIN_SETTINGS_ALL_DIALOG_DESKTOP"] = "Ð Ð°Ð±Ð¾Ñ‡Ð¸Ð¹ ÑÑ‚Ð¾Ð» ";
+$MESS["CMDESKTOP_ADMIN_SETTINGS_ALL_NAME"] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ";
+$MESS["CMDESKTOP_ADMIN_SETTINGS_ALL_DRAG"] = "ÐŸÐµÑ€ÐµÑ‚Ð°Ñ‰Ð¸Ñ‚ÑŒ Ñ€Ð°Ð±Ð¾Ñ‡Ð¸Ð¹ ÑÑ‚Ð¾Ð» Ð¼Ñ‹ÑˆÑŒÑŽ";
+$MESS["CMDESKTOP_ADMIN_SETTINGS_ALL_TOOLTIP_TEXT_EDIT"] = "ÐÐ°Ð¶Ð¼Ð¸Ñ‚Ðµ, Ñ‡Ñ‚Ð¾Ð±Ñ‹ Ñ€ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ Ð½Ð°Ð·Ð²Ð°Ð½Ð¸Ðµ Ñ€Ð°Ð±Ð¾Ñ‡ÐµÐ³Ð¾ ÑÑ‚Ð¾Ð»Ð°";
+$MESS["CMDESKTOP_ADMIN_SETTINGS_ALL_TOOLTIP_UP"] = "ÐŸÐµÑ€ÐµÐ´Ð²Ð¸Ð½ÑƒÑ‚ÑŒ Ñ€Ð°Ð±Ð¾Ñ‡Ð¸Ð¹ ÑÑ‚Ð¾Ð» Ð²Ñ‹ÑˆÐµ";
+$MESS["CMDESKTOP_ADMIN_SETTINGS_ALL_TOOLTIP_DOWN"] = "ÐŸÐµÑ€ÐµÐ´Ð²Ð¸Ð½ÑƒÑ‚ÑŒ Ñ€Ð°Ð±Ð¾Ñ‡Ð¸Ð¹ ÑÑ‚Ð¾Ð» Ð½Ð¸Ð¶Ðµ";
+$MESS["CMDESKTOP_ADMIN_SETTINGS_ALL_TOOLTIP_DELETE"] = "Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ Ñ€Ð°Ð±Ð¾Ñ‡Ð¸Ð¹ ÑÑ‚Ð¾Ð»";
+$MESS["CMDESKTOP_ADMIN_SETTINGS_ALL_JS_NONAME"] = "--- Ð½ÐµÑ‚ Ð·Ð½Ð°Ñ‡ÐµÐ½Ð¸Ñ ---";
 ?>

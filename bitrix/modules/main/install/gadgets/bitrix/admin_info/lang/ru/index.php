@@ -1,14 +1,14 @@
 <?
-$MESS["GD_INFO_product"] = "Ïðîåêò ðàáîòàåò íà îñíîâå";
-$MESS["GD_INFO_product_name_1c_bitrix"] = "1Ñ-Áèòðèêñ: Óïðàâëåíèå ñàéòîì";
-$MESS["GD_INFO_product_name_1c_bitrix_portal"] = "1Ñ-Áèòðèêñ: Êîðïîðàòèâíûé ïîðòàë";
-$MESS["GD_INFO_product_name_1c_bitrix_eduportal"] = "1Ñ-Áèòðèêñ: Âíóòðåííèé ïîðòàë ó÷åáíîãî çàâåäåíèÿ";
-$MESS["GD_INFO_product_name_1c_bitrix_gosportal"] = "1Ñ-Áèòðèêñ: Âíóòðåííèé ïîðòàë îðãàíà âëàñòè";
-$MESS["GD_INFO_product_name_1c_bitrix_gossite"] = "1Ñ-Áèòðèêñ: Îôèöèàëüíûé ñàéò îðãàíà âëàñòè";
+$MESS["GD_INFO_product"] = "ÐŸÑ€Ð¾ÐµÐºÑ‚ Ñ€Ð°Ð±Ð¾Ñ‚Ð°ÐµÑ‚ Ð½Ð° Ð¾ÑÐ½Ð¾Ð²Ðµ";
+$MESS["GD_INFO_product_name_1c_bitrix"] = "1Ð¡-Ð‘Ð¸Ñ‚Ñ€Ð¸ÐºÑ: Ð£Ð¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¸Ðµ ÑÐ°Ð¹Ñ‚Ð¾Ð¼";
+$MESS["GD_INFO_product_name_1c_bitrix_portal"] = "1Ð¡-Ð‘Ð¸Ñ‚Ñ€Ð¸ÐºÑ: ÐšÐ¾Ñ€Ð¿Ð¾Ñ€Ð°Ñ‚Ð¸Ð²Ð½Ñ‹Ð¹ Ð¿Ð¾Ñ€Ñ‚Ð°Ð»";
+$MESS["GD_INFO_product_name_1c_bitrix_eduportal"] = "1Ð¡-Ð‘Ð¸Ñ‚Ñ€Ð¸ÐºÑ: Ð’Ð½ÑƒÑ‚Ñ€ÐµÐ½Ð½Ð¸Ð¹ Ð¿Ð¾Ñ€Ñ‚Ð°Ð» ÑƒÑ‡ÐµÐ±Ð½Ð¾Ð³Ð¾ Ð·Ð°Ð²ÐµÐ´ÐµÐ½Ð¸Ñ";
+$MESS["GD_INFO_product_name_1c_bitrix_gosportal"] = "1Ð¡-Ð‘Ð¸Ñ‚Ñ€Ð¸ÐºÑ: Ð’Ð½ÑƒÑ‚Ñ€ÐµÐ½Ð½Ð¸Ð¹ Ð¿Ð¾Ñ€Ñ‚Ð°Ð» Ð¾Ñ€Ð³Ð°Ð½Ð° Ð²Ð»Ð°ÑÑ‚Ð¸";
+$MESS["GD_INFO_product_name_1c_bitrix_gossite"] = "1Ð¡-Ð‘Ð¸Ñ‚Ñ€Ð¸ÐºÑ: ÐžÑ„Ð¸Ñ†Ð¸Ð°Ð»ÑŒÐ½Ñ‹Ð¹ ÑÐ°Ð¹Ñ‚ Ð¾Ñ€Ð³Ð°Ð½Ð° Ð²Ð»Ð°ÑÑ‚Ð¸";
 $MESS["GD_INFO_product_name_bitrix"] = " ";
 $MESS["GD_INFO_product_name_bitrix_portal"] = " ";
-$MESS["GD_INFO_LASTUPDATE"] = "Ïîñëåäíåå îáíîâëåíèå: #VALUE#";
-$MESS["GD_INFO_PERFMON"] = "Òåêóùàÿ îöåíêà ïðîèçâîäèòåëüíîñòè: #VALUE#";
-$MESS["GD_INFO_PERFMON_NO_RESULT"] = "íå ïðîâîäèëàñü";
-$MESS["GD_INFO_USERS"] = "Êîëè÷åñòâî ïîëüçîâàòåëåé: #VALUE#";
+$MESS["GD_INFO_LASTUPDATE"] = "ÐŸÐ¾ÑÐ»ÐµÐ´Ð½ÐµÐµ Ð¾Ð±Ð½Ð¾Ð²Ð»ÐµÐ½Ð¸Ðµ: #VALUE#";
+$MESS["GD_INFO_PERFMON"] = "Ð¢ÐµÐºÑƒÑ‰Ð°Ñ Ð¾Ñ†ÐµÐ½ÐºÐ° Ð¿Ñ€Ð¾Ð¸Ð·Ð²Ð¾Ð´Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ð¾ÑÑ‚Ð¸: #VALUE#";
+$MESS["GD_INFO_PERFMON_NO_RESULT"] = "Ð½Ðµ Ð¿Ñ€Ð¾Ð²Ð¾Ð´Ð¸Ð»Ð°ÑÑŒ";
+$MESS["GD_INFO_USERS"] = "ÐšÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÐµÐ¹: #VALUE#";
 ?>

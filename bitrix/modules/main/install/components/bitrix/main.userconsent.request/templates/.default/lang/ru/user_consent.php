@@ -1,8 +1,8 @@
 <?
-$MESS["MAIN_USER_CONSENT_REQUEST_TITLE"] = "Ñîãëàñèå ïîëüçîâàòåëÿ";
-$MESS["MAIN_USER_CONSENT_REQUEST_BTN_ACCEPT"] = "Ïðèíèìàþ";
-$MESS["MAIN_USER_CONSENT_REQUEST_BTN_REJECT"] = "Íå ïðèíèìàþ";
-$MESS["MAIN_USER_CONSENT_REQUEST_LOADING"] = "Çàãðóçêà..";
-$MESS["MAIN_USER_CONSENT_REQUEST_ERR_TEXT_LOAD"] = "Íå óäàëîñü çàãðóçèòü òåêñò ñîãëàøåíèÿ.";
-$MESS["MAIN_USER_CONSENT_REQUEST_URL_CONFIRM"] = "Îçíàêîìüòåñü ñ òåêñòîì ïî ññûëêå";
+$MESS["MAIN_USER_CONSENT_REQUEST_TITLE"] = "Ð¡Ð¾Ð³Ð»Ð°ÑÐ¸Ðµ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ";
+$MESS["MAIN_USER_CONSENT_REQUEST_BTN_ACCEPT"] = "ÐŸÑ€Ð¸Ð½Ð¸Ð¼Ð°ÑŽ";
+$MESS["MAIN_USER_CONSENT_REQUEST_BTN_REJECT"] = "ÐÐµ Ð¿Ñ€Ð¸Ð½Ð¸Ð¼Ð°ÑŽ";
+$MESS["MAIN_USER_CONSENT_REQUEST_LOADING"] = "Ð—Ð°Ð³Ñ€ÑƒÐ·ÐºÐ°..";
+$MESS["MAIN_USER_CONSENT_REQUEST_ERR_TEXT_LOAD"] = "ÐÐµ ÑƒÐ´Ð°Ð»Ð¾ÑÑŒ Ð·Ð°Ð³Ñ€ÑƒÐ·Ð¸Ñ‚ÑŒ Ñ‚ÐµÐºÑÑ‚ ÑÐ¾Ð³Ð»Ð°ÑˆÐµÐ½Ð¸Ñ.";
+$MESS["MAIN_USER_CONSENT_REQUEST_URL_CONFIRM"] = "ÐžÐ·Ð½Ð°ÐºÐ¾Ð¼ÑŒÑ‚ÐµÑÑŒ Ñ Ñ‚ÐµÐºÑÑ‚Ð¾Ð¼ Ð¿Ð¾ ÑÑÑ‹Ð»ÐºÐµ";
 ?>

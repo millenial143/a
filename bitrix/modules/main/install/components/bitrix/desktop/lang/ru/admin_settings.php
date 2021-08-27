@@ -1,7 +1,7 @@
 <?
-$MESS["CMDESKTOP_ADMIN_COLUMNS"] = "Ñòîëáöîâ";
-$MESS["CMDESKTOP_ADMIN_COLUMN_WIDTH"] = "Øèðèíà ñòîëáöà (px èëè %) #";
-$MESS["CMDESKTOP_ADMIN_SETTINGS_DIALOG_TITLE"] = "Íàñòðîéêè ðàáî÷åãî ñòîëà";
-$MESS["CMDESKTOP_ADMIN_DESKTOP_NAME"] = "Íàçâàíèå ðàáî÷åãî ñòîëà";
-$MESS["CMDESKTOP_ADMIN_DESKTOP_DELETE_CONFIRM"] = "Âû äåéñòâèòåëüíî õîòèòå óäàëèòü ðàáî÷èé ñòîë #NAME#?";
+$MESS["CMDESKTOP_ADMIN_COLUMNS"] = "Ð¡Ñ‚Ð¾Ð»Ð±Ñ†Ð¾Ð²";
+$MESS["CMDESKTOP_ADMIN_COLUMN_WIDTH"] = "Ð¨Ð¸Ñ€Ð¸Ð½Ð° ÑÑ‚Ð¾Ð»Ð±Ñ†Ð° (px Ð¸Ð»Ð¸ %) #";
+$MESS["CMDESKTOP_ADMIN_SETTINGS_DIALOG_TITLE"] = "ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸ Ñ€Ð°Ð±Ð¾Ñ‡ÐµÐ³Ð¾ ÑÑ‚Ð¾Ð»Ð°";
+$MESS["CMDESKTOP_ADMIN_DESKTOP_NAME"] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ Ñ€Ð°Ð±Ð¾Ñ‡ÐµÐ³Ð¾ ÑÑ‚Ð¾Ð»Ð°";
+$MESS["CMDESKTOP_ADMIN_DESKTOP_DELETE_CONFIRM"] = "Ð’Ñ‹ Ð´ÐµÐ¹ÑÑ‚Ð²Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ð¾ Ñ…Ð¾Ñ‚Ð¸Ñ‚Ðµ ÑƒÐ´Ð°Ð»Ð¸Ñ‚ÑŒ Ñ€Ð°Ð±Ð¾Ñ‡Ð¸Ð¹ ÑÑ‚Ð¾Ð» #NAME#?";
 ?>

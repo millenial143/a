@@ -1,8 +1,8 @@
 <?
-$MESS["socserv_fb_id"] = "Идентификатор приложения (App ID):";
-$MESS["socserv_fb_secret"] = "Секретный код приложения (App Secret):";
-$MESS["socserv_fb_note"] = "Используйте вашу учетную запись на Facebook.com для входа на сайт.";
-$MESS["socserv_fb_sett_note"] = "Для получения кодов необходимо <a href=\"https://developers.facebook.com/apps/\">зарегистрировать приложение</a> Facebook.";
-$MESS["socserv_fb_sett_note1"] = "Для получения кодов необходимо <a href=\"https://developers.facebook.com/apps/\">зарегистрировать приложение</a> Facebook.<br><br>В приложении включите функцию \"Вход через Facebook\"<br>В поле \"Действительные URL-адреса для перенаправления OAuth\" укажите адрес <a href=\"#URL#\">#URL#</a>";
-$MESS["socserv_fb_note_intranet"] = "Войти, используя аккаунт Facebook.";
+$MESS["socserv_fb_id"] = "РРґРµРЅС‚РёС„РёРєР°С‚РѕСЂ РїСЂРёР»РѕР¶РµРЅРёСЏ (App ID):";
+$MESS["socserv_fb_secret"] = "РЎРµРєСЂРµС‚РЅС‹Р№ РєРѕРґ РїСЂРёР»РѕР¶РµРЅРёСЏ (App Secret):";
+$MESS["socserv_fb_note"] = "РСЃРїРѕР»СЊР·СѓР№С‚Рµ РІР°С€Сѓ СѓС‡РµС‚РЅСѓСЋ Р·Р°РїРёСЃСЊ РЅР° Facebook.com РґР»СЏ РІС…РѕРґР° РЅР° СЃР°Р№С‚.";
+$MESS["socserv_fb_sett_note"] = "Р”Р»СЏ РїРѕР»СѓС‡РµРЅРёСЏ РєРѕРґРѕРІ РЅРµРѕР±С…РѕРґРёРјРѕ <a href=\"https://developers.facebook.com/apps/\">Р·Р°СЂРµРіРёСЃС‚СЂРёСЂРѕРІР°С‚СЊ РїСЂРёР»РѕР¶РµРЅРёРµ</a> Facebook.";
+$MESS["socserv_fb_sett_note1"] = "Р”Р»СЏ РїРѕР»СѓС‡РµРЅРёСЏ РєРѕРґРѕРІ РЅРµРѕР±С…РѕРґРёРјРѕ <a href=\"https://developers.facebook.com/apps/\">Р·Р°СЂРµРіРёСЃС‚СЂРёСЂРѕРІР°С‚СЊ РїСЂРёР»РѕР¶РµРЅРёРµ</a> Facebook.<br><br>Р’ РїСЂРёР»РѕР¶РµРЅРёРё РІРєР»СЋС‡РёС‚Рµ С„СѓРЅРєС†РёСЋ \"Р’С…РѕРґ С‡РµСЂРµР· Facebook\"<br>Р’ РїРѕР»Рµ \"Р”РµР№СЃС‚РІРёС‚РµР»СЊРЅС‹Рµ URL-Р°РґСЂРµСЃР° РґР»СЏ РїРµСЂРµРЅР°РїСЂР°РІР»РµРЅРёСЏ OAuth\" СѓРєР°Р¶РёС‚Рµ Р°РґСЂРµСЃ <a href=\"#URL#\">#URL#</a>";
+$MESS["socserv_fb_note_intranet"] = "Р’РѕР№С‚Рё, РёСЃРїРѕР»СЊР·СѓСЏ Р°РєРєР°СѓРЅС‚ Facebook.";
 ?>

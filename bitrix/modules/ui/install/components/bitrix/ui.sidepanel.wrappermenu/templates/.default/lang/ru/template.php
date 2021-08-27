@@ -1,4 +1,4 @@
 <?
-$MESS ['UI_SIDEPANEL_MENU_BUTTON_OPEN'] = "Ðàçâåðíóòü";
-$MESS ['UI_SIDEPANEL_MENU_BUTTON_CLOSE'] = "Ñâåðíóòü";
-$MESS ['UI_SIDEPANEL_MENU_ADD_ITEM'] = "äîáàâèòü ñòðàíèöó";
+$MESS ['UI_SIDEPANEL_MENU_BUTTON_OPEN'] = "Ð Ð°Ð·Ð²ÐµÑ€Ð½ÑƒÑ‚ÑŒ";
+$MESS ['UI_SIDEPANEL_MENU_BUTTON_CLOSE'] = "Ð¡Ð²ÐµÑ€Ð½ÑƒÑ‚ÑŒ";
+$MESS ['UI_SIDEPANEL_MENU_ADD_ITEM'] = "Ð´Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñƒ";

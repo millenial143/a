@@ -1,30 +1,30 @@
 <?
-$MESS["REPORT_SELECT_CALC_VAR_MIN"] = "Ìèíèìàëüíîå";
-$MESS["REPORT_SELECT_CALC_VAR_AVG"] = "Ñðåäíåå";
-$MESS["REPORT_SELECT_CALC_VAR_MAX"] = "Ìàêñèìàëüíîå";
-$MESS["REPORT_SELECT_CALC_VAR_SUM"] = "Ñóììà";
-$MESS["REPORT_SELECT_CALC_VAR_COUNT_DISTINCT"] = "Êîëè÷åñòâî óíèêàëüíûõ";
-$MESS["REPORT_SELECT_CALC_VAR_GROUP_CONCAT"] = "Ïåðå÷èñëåíèå";
-$MESS["REPORT_USER_NOT_FOUND"] = "Ïîëüçîâàòåëü íå íàéäåí";
-$MESS["REPORT_FILE_NOT_FOUND"] = "Ôàéë íå íàéäåí";
-$MESS["REPORT_PROJECT_NOT_FOUND"] = "Ïðîåêò íå íàéäåí";
-$MESS["REPORT_NOT_FOUND"] = "Îò÷åò ñ ID \"%s\" íå íàéäåí.";
-$MESS["REPORT_VIEW_PERMISSION_DENIED"] = "Íåäîñòàòî÷íî ïðàâ äëÿ ïðîñìîòðà îò÷åòà.";
-$MESS["REPORT_UNKNOWN_FIELD_DEFINITION"] = "Â îò÷¸òå èñïîëüçóåòñÿ íåñóùåñòâóþùåå ïîëå. Âîçìîæíî ýòî ïîëüçîâàòåëüñêîå ".
-	"ïîëå, êîòîðîå áûëî óäàëåíî. Íåîáõîäèìî ïðîâåðèòü è ïåðåñîõðàíèòü êîíôèãóðàöèþ îò÷¸òà";
-$MESS["REPORT_UNKNOWN_ERROR"] = "Íåèçâåñòíàÿ îøèáêà.";
-$MESS["REPORT_BOOLEAN_VALUE_TRUE"] = "Äà";
-$MESS["REPORT_BOOLEAN_VALUE_FALSE"] = "Íåò";
-$MESS["REPORT_PRCNT_FROM_TITLE"] = "% îò";
+$MESS["REPORT_SELECT_CALC_VAR_MIN"] = "ÐœÐ¸Ð½Ð¸Ð¼Ð°Ð»ÑŒÐ½Ð¾Ðµ";
+$MESS["REPORT_SELECT_CALC_VAR_AVG"] = "Ð¡Ñ€ÐµÐ´Ð½ÐµÐµ";
+$MESS["REPORT_SELECT_CALC_VAR_MAX"] = "ÐœÐ°ÐºÑÐ¸Ð¼Ð°Ð»ÑŒÐ½Ð¾Ðµ";
+$MESS["REPORT_SELECT_CALC_VAR_SUM"] = "Ð¡ÑƒÐ¼Ð¼Ð°";
+$MESS["REPORT_SELECT_CALC_VAR_COUNT_DISTINCT"] = "ÐšÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾ ÑƒÐ½Ð¸ÐºÐ°Ð»ÑŒÐ½Ñ‹Ñ…";
+$MESS["REPORT_SELECT_CALC_VAR_GROUP_CONCAT"] = "ÐŸÐµÑ€ÐµÑ‡Ð¸ÑÐ»ÐµÐ½Ð¸Ðµ";
+$MESS["REPORT_USER_NOT_FOUND"] = "ÐŸÐ¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒ Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½";
+$MESS["REPORT_FILE_NOT_FOUND"] = "Ð¤Ð°Ð¹Ð» Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½";
+$MESS["REPORT_PROJECT_NOT_FOUND"] = "ÐŸÑ€Ð¾ÐµÐºÑ‚ Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½";
+$MESS["REPORT_NOT_FOUND"] = "ÐžÑ‚Ñ‡ÐµÑ‚ Ñ ID \"%s\" Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½.";
+$MESS["REPORT_VIEW_PERMISSION_DENIED"] = "ÐÐµÐ´Ð¾ÑÑ‚Ð°Ñ‚Ð¾Ñ‡Ð½Ð¾ Ð¿Ñ€Ð°Ð² Ð´Ð»Ñ Ð¿Ñ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€Ð° Ð¾Ñ‚Ñ‡ÐµÑ‚Ð°.";
+$MESS["REPORT_UNKNOWN_FIELD_DEFINITION"] = "Ð’ Ð¾Ñ‚Ñ‡Ñ‘Ñ‚Ðµ Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·ÑƒÐµÑ‚ÑÑ Ð½ÐµÑÑƒÑ‰ÐµÑÑ‚Ð²ÑƒÑŽÑ‰ÐµÐµ Ð¿Ð¾Ð»Ðµ. Ð’Ð¾Ð·Ð¼Ð¾Ð¶Ð½Ð¾ ÑÑ‚Ð¾ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒÑÐºÐ¾Ðµ ".
+	"Ð¿Ð¾Ð»Ðµ, ÐºÐ¾Ñ‚Ð¾Ñ€Ð¾Ðµ Ð±Ñ‹Ð»Ð¾ ÑƒÐ´Ð°Ð»ÐµÐ½Ð¾. ÐÐµÐ¾Ð±Ñ…Ð¾Ð´Ð¸Ð¼Ð¾ Ð¿Ñ€Ð¾Ð²ÐµÑ€Ð¸Ñ‚ÑŒ Ð¸ Ð¿ÐµÑ€ÐµÑÐ¾Ñ…Ñ€Ð°Ð½Ð¸Ñ‚ÑŒ ÐºÐ¾Ð½Ñ„Ð¸Ð³ÑƒÑ€Ð°Ñ†Ð¸ÑŽ Ð¾Ñ‚Ñ‡Ñ‘Ñ‚Ð°";
+$MESS["REPORT_UNKNOWN_ERROR"] = "ÐÐµÐ¸Ð·Ð²ÐµÑÑ‚Ð½Ð°Ñ Ð¾ÑˆÐ¸Ð±ÐºÐ°.";
+$MESS["REPORT_BOOLEAN_VALUE_TRUE"] = "Ð”Ð°";
+$MESS["REPORT_BOOLEAN_VALUE_FALSE"] = "ÐÐµÑ‚";
+$MESS["REPORT_PRCNT_FROM_TITLE"] = "% Ð¾Ñ‚";
 
-$MESS["REPORT_CHART_TYPE_LINE"] = "Ãðàôèê";
-$MESS["REPORT_CHART_TYPE_BAR"] = "Ãèñòîãðàììà";
-$MESS["REPORT_CHART_TYPE_PIE"] = "Êðóãîâàÿ";
-$MESS["REPORT_HELPER_NOT_DEFINED"] = "Íå çàäàí âñïîìîãàòåëüíûé êëàññ.";
-$MESS["REPORT_COLUMNS_HAS_CYCLIC_DEPENDENCY"] = "Îò÷¸ò íå ìîæåò áûòü ïîñòðîåí èç-çà öèêëè÷åñêîé çàâèñèìîñòè êîëîíîê. ".
-	"Âíèìàòåëüíî ïðîâåðüòå â íàñòðîéêàõ îò÷¸òà, íå îáðàçóþò ëè êîëîíêè ñ îïåðàöèåé \"Äîëÿ îò ïîëÿ\" öèêëè÷åñêèå ".
-	"çàâèñèìîñòè.";
-$MESS["REPORT_STEXPORT_TITLE"] = "Ýêñïîðò îò÷¸òà.";
-$MESS["REPORT_STEXPORT_SUMMARY"] = "Áóäåò ñôîðìèðîâàí ôàéë ýêñïîðòà äëÿ îò÷¸òà. Âûïîëíåíèå ýòîé îïåðàöèè ìîæåò çàíÿòü ".
-	"ïðîäîëæèòåëüíîå âðåìÿ ïðè áîëüøîì êîëè÷åñòâå äàííûõ.";
+$MESS["REPORT_CHART_TYPE_LINE"] = "Ð“Ñ€Ð°Ñ„Ð¸Ðº";
+$MESS["REPORT_CHART_TYPE_BAR"] = "Ð“Ð¸ÑÑ‚Ð¾Ð³Ñ€Ð°Ð¼Ð¼Ð°";
+$MESS["REPORT_CHART_TYPE_PIE"] = "ÐšÑ€ÑƒÐ³Ð¾Ð²Ð°Ñ";
+$MESS["REPORT_HELPER_NOT_DEFINED"] = "ÐÐµ Ð·Ð°Ð´Ð°Ð½ Ð²ÑÐ¿Ð¾Ð¼Ð¾Ð³Ð°Ñ‚ÐµÐ»ÑŒÐ½Ñ‹Ð¹ ÐºÐ»Ð°ÑÑ.";
+$MESS["REPORT_COLUMNS_HAS_CYCLIC_DEPENDENCY"] = "ÐžÑ‚Ñ‡Ñ‘Ñ‚ Ð½Ðµ Ð¼Ð¾Ð¶ÐµÑ‚ Ð±Ñ‹Ñ‚ÑŒ Ð¿Ð¾ÑÑ‚Ñ€Ð¾ÐµÐ½ Ð¸Ð·-Ð·Ð° Ñ†Ð¸ÐºÐ»Ð¸Ñ‡ÐµÑÐºÐ¾Ð¹ Ð·Ð°Ð²Ð¸ÑÐ¸Ð¼Ð¾ÑÑ‚Ð¸ ÐºÐ¾Ð»Ð¾Ð½Ð¾Ðº. ".
+	"Ð’Ð½Ð¸Ð¼Ð°Ñ‚ÐµÐ»ÑŒÐ½Ð¾ Ð¿Ñ€Ð¾Ð²ÐµÑ€ÑŒÑ‚Ðµ Ð² Ð½Ð°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ°Ñ… Ð¾Ñ‚Ñ‡Ñ‘Ñ‚Ð°, Ð½Ðµ Ð¾Ð±Ñ€Ð°Ð·ÑƒÑŽÑ‚ Ð»Ð¸ ÐºÐ¾Ð»Ð¾Ð½ÐºÐ¸ Ñ Ð¾Ð¿ÐµÑ€Ð°Ñ†Ð¸ÐµÐ¹ \"Ð”Ð¾Ð»Ñ Ð¾Ñ‚ Ð¿Ð¾Ð»Ñ\" Ñ†Ð¸ÐºÐ»Ð¸Ñ‡ÐµÑÐºÐ¸Ðµ ".
+	"Ð·Ð°Ð²Ð¸ÑÐ¸Ð¼Ð¾ÑÑ‚Ð¸.";
+$MESS["REPORT_STEXPORT_TITLE"] = "Ð­ÐºÑÐ¿Ð¾Ñ€Ñ‚ Ð¾Ñ‚Ñ‡Ñ‘Ñ‚Ð°.";
+$MESS["REPORT_STEXPORT_SUMMARY"] = "Ð‘ÑƒÐ´ÐµÑ‚ ÑÑ„Ð¾Ñ€Ð¼Ð¸Ñ€Ð¾Ð²Ð°Ð½ Ñ„Ð°Ð¹Ð» ÑÐºÑÐ¿Ð¾Ñ€Ñ‚Ð° Ð´Ð»Ñ Ð¾Ñ‚Ñ‡Ñ‘Ñ‚Ð°. Ð’Ñ‹Ð¿Ð¾Ð»Ð½ÐµÐ½Ð¸Ðµ ÑÑ‚Ð¾Ð¹ Ð¾Ð¿ÐµÑ€Ð°Ñ†Ð¸Ð¸ Ð¼Ð¾Ð¶ÐµÑ‚ Ð·Ð°Ð½ÑÑ‚ÑŒ ".
+	"Ð¿Ñ€Ð¾Ð´Ð¾Ð»Ð¶Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ð¾Ðµ Ð²Ñ€ÐµÐ¼Ñ Ð¿Ñ€Ð¸ Ð±Ð¾Ð»ÑŒÑˆÐ¾Ð¼ ÐºÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ðµ Ð´Ð°Ð½Ð½Ñ‹Ñ….";
 ?>

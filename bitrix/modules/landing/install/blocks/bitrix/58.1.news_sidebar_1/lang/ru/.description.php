@@ -1,6 +1,6 @@
 <?php
-$MESS['LANDING_BLOCK_58_1_NAME'] = 'Äëÿ ñàéäáàðà: Òåêñòîâûå êàðòî÷êè ñ çàãîëîâêîì è êàðòèíêîé';
-$MESS['LANDING_BLOCK_58_1_CARD'] = 'Íîâîñòü';
-$MESS['LANDING_BLOCK_58_1_TITLE'] = 'Çàãîëîâîê';
-$MESS['LANDING_BLOCK_58_1_SUBTITLE'] = 'Òåêñò';
-$MESS['LANDING_BLOCK_58_1_IMG'] = 'Êàðòèíêà';
+$MESS['LANDING_BLOCK_58_1_NAME'] = 'Ð”Ð»Ñ ÑÐ°Ð¹Ð´Ð±Ð°Ñ€Ð°: Ð¢ÐµÐºÑÑ‚Ð¾Ð²Ñ‹Ðµ ÐºÐ°Ñ€Ñ‚Ð¾Ñ‡ÐºÐ¸ Ñ Ð·Ð°Ð³Ð¾Ð»Ð¾Ð²ÐºÐ¾Ð¼ Ð¸ ÐºÐ°Ñ€Ñ‚Ð¸Ð½ÐºÐ¾Ð¹';
+$MESS['LANDING_BLOCK_58_1_CARD'] = 'ÐÐ¾Ð²Ð¾ÑÑ‚ÑŒ';
+$MESS['LANDING_BLOCK_58_1_TITLE'] = 'Ð—Ð°Ð³Ð¾Ð»Ð¾Ð²Ð¾Ðº';
+$MESS['LANDING_BLOCK_58_1_SUBTITLE'] = 'Ð¢ÐµÐºÑÑ‚';
+$MESS['LANDING_BLOCK_58_1_IMG'] = 'ÐšÐ°Ñ€Ñ‚Ð¸Ð½ÐºÐ°';

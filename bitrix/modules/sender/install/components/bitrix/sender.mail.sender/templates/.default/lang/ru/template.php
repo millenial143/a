@@ -1,4 +1,4 @@
 <?
-$MESS ['SENDER_UI_MAILBOX_SELECTOR_ADD'] = "Äîáàâèòü àäðåñ";
-$MESS ['SENDER_UI_MAILBOX_SELECTOR_SETUP'] = "Íàñòðîèòü îòïðàâèòåëÿ";
+$MESS ['SENDER_UI_MAILBOX_SELECTOR_ADD'] = "Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ Ð°Ð´Ñ€ÐµÑ";
+$MESS ['SENDER_UI_MAILBOX_SELECTOR_SETUP'] = "ÐÐ°ÑÑ‚Ñ€Ð¾Ð¸Ñ‚ÑŒ Ð¾Ñ‚Ð¿Ñ€Ð°Ð²Ð¸Ñ‚ÐµÐ»Ñ";
 ?>

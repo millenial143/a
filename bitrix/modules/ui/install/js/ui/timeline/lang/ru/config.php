@@ -1,14 +1,14 @@
 <?php
-$MESS["UI_TIMELINE_STAGE_CHANGE_SUBTITLE"] = "Èçìåíåíà ñòàäèÿ";
-$MESS["UI_TIMELINE_FIELDS_CHANGE_SUBTITLE"] = "Ïîëÿ çàïîëíåíû";
-$MESS["UI_TIMELINE_EDITOR_COMMENT"] = "Êîììåíòàðèé";
-$MESS["UI_TIMELINE_EDITOR_COMMENT_TEXTAREA"] = "Îñòàâüòå êîììåíòàðèé";
-$MESS["UI_TIMELINE_EDITOR_COMMENT_SEND"] = "Îòïðàâèòü";
-$MESS["UI_TIMELINE_EDITOR_COMMENT_CANCEL"] = "Îòìåíà";
-$MESS["UI_TIMELINE_TASKS_TITLE"] = "Çàïëàíèðîâàíî";
-$MESS["UI_TIMELINE_EMPTY_COMMENT_NOTIFICATION"] = "Íå óêàçàí òåêñò ñîîáùåíèÿ";
-$MESS["UI_TIMELINE_COMMENT_DELETE_CONFIRM"] = "Âû äåéñòâèòåëüíî õîòèòå óäàëèòü ýòîò êîììåíòàðèé?";
-$MESS["UI_TIMELINE_EXPAND_SM"] = "ðàçâåðíóòü";
-$MESS["UI_TIMELINE_COLLAPSE_SM"] = "ñâåðíóòü";
-$MESS["UI_TIMELINE_ACTION_MODIFY"] = "Èçìåíèòü";
-$MESS["UI_TIMELINE_ACTION_DELETE"] = "Óäàëèòü";
+$MESS["UI_TIMELINE_STAGE_CHANGE_SUBTITLE"] = "Ð˜Ð·Ð¼ÐµÐ½ÐµÐ½Ð° ÑÑ‚Ð°Ð´Ð¸Ñ";
+$MESS["UI_TIMELINE_FIELDS_CHANGE_SUBTITLE"] = "ÐŸÐ¾Ð»Ñ Ð·Ð°Ð¿Ð¾Ð»Ð½ÐµÐ½Ñ‹";
+$MESS["UI_TIMELINE_EDITOR_COMMENT"] = "ÐšÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ð¹";
+$MESS["UI_TIMELINE_EDITOR_COMMENT_TEXTAREA"] = "ÐžÑÑ‚Ð°Ð²ÑŒÑ‚Ðµ ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ð¹";
+$MESS["UI_TIMELINE_EDITOR_COMMENT_SEND"] = "ÐžÑ‚Ð¿Ñ€Ð°Ð²Ð¸Ñ‚ÑŒ";
+$MESS["UI_TIMELINE_EDITOR_COMMENT_CANCEL"] = "ÐžÑ‚Ð¼ÐµÐ½Ð°";
+$MESS["UI_TIMELINE_TASKS_TITLE"] = "Ð—Ð°Ð¿Ð»Ð°Ð½Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¾";
+$MESS["UI_TIMELINE_EMPTY_COMMENT_NOTIFICATION"] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½ Ñ‚ÐµÐºÑÑ‚ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ";
+$MESS["UI_TIMELINE_COMMENT_DELETE_CONFIRM"] = "Ð’Ñ‹ Ð´ÐµÐ¹ÑÑ‚Ð²Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ð¾ Ñ…Ð¾Ñ‚Ð¸Ñ‚Ðµ ÑƒÐ´Ð°Ð»Ð¸Ñ‚ÑŒ ÑÑ‚Ð¾Ñ‚ ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ð¹?";
+$MESS["UI_TIMELINE_EXPAND_SM"] = "Ñ€Ð°Ð·Ð²ÐµÑ€Ð½ÑƒÑ‚ÑŒ";
+$MESS["UI_TIMELINE_COLLAPSE_SM"] = "ÑÐ²ÐµÑ€Ð½ÑƒÑ‚ÑŒ";
+$MESS["UI_TIMELINE_ACTION_MODIFY"] = "Ð˜Ð·Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ";
+$MESS["UI_TIMELINE_ACTION_DELETE"] = "Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ";

@@ -1,3 +1,3 @@
 <?
-$MESS["SALE_CASHBOX_NOT_FOUND"] = "Â³ëüíà êàñà íå çíàéäåíà";
+$MESS["SALE_CASHBOX_NOT_FOUND"] = "Ð’Ñ–Ð»ÑŒÐ½Ð° ÐºÐ°ÑÐ° Ð½Ðµ Ð·Ð½Ð°Ð¹Ð´ÐµÐ½Ð°";
 ?>

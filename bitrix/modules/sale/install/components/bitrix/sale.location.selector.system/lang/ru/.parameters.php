@@ -1,6 +1,6 @@
 <?
-$MESS["SALE_SLSS_LINK_ENTITY_NAME_PARAMETER"] = "Èìÿ êëàññà ñóùíîñòè, âêëþ÷àÿ namespace";
-$MESS["SALE_SLSS_ENTITY_PRIMARY_PARAMETER"] = "ID ýêçåìïëÿðà ñóùíîñòè";
-$MESS["SALE_SLSS_INPUT_NAME_PARAMETER"] = "Èìÿ ïîëÿ ââîäà";
-$MESS["SALE_SLSS_ENTITY_VARIABLE_NAME_PARAMETER"] = "Èìÿ ïåðåìåííîé â çàïðîñå";
+$MESS["SALE_SLSS_LINK_ENTITY_NAME_PARAMETER"] = "Ð˜Ð¼Ñ ÐºÐ»Ð°ÑÑÐ° ÑÑƒÑ‰Ð½Ð¾ÑÑ‚Ð¸, Ð²ÐºÐ»ÑŽÑ‡Ð°Ñ namespace";
+$MESS["SALE_SLSS_ENTITY_PRIMARY_PARAMETER"] = "ID ÑÐºÐ·ÐµÐ¼Ð¿Ð»ÑÑ€Ð° ÑÑƒÑ‰Ð½Ð¾ÑÑ‚Ð¸";
+$MESS["SALE_SLSS_INPUT_NAME_PARAMETER"] = "Ð˜Ð¼Ñ Ð¿Ð¾Ð»Ñ Ð²Ð²Ð¾Ð´Ð°";
+$MESS["SALE_SLSS_ENTITY_VARIABLE_NAME_PARAMETER"] = "Ð˜Ð¼Ñ Ð¿ÐµÑ€ÐµÐ¼ÐµÐ½Ð½Ð¾Ð¹ Ð² Ð·Ð°Ð¿Ñ€Ð¾ÑÐµ";
 ?>

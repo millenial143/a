@@ -1,15 +1,15 @@
 <?
-$MESS ['SENDER_MAIL_LINK_EDITOR_TITLE'] = "utm-ìåòêè";
-$MESS ['SENDER_MAIL_LINK_EDITOR_ACCEPT'] = "Ïðèìåíèòü";
-$MESS ['SENDER_MAIL_LINK_EDITOR_CANCEL'] = "Îòìåíèòü";
-$MESS ['SENDER_MAIL_LINK_EDITOR_UTM_SOURCE'] = "Èñòî÷íèê êàìïàíèè";
-$MESS ['SENDER_MAIL_LINK_EDITOR_DESC_UTM_SOURCE'] = "Èñòî÷íèê ïåðåõîäà: google, yandex, newsletter è ïðî÷åå.";
-$MESS ['SENDER_MAIL_LINK_EDITOR_UTM_MEDIUM'] = "Êàíàë êàìïàíèè";
-$MESS ['SENDER_MAIL_LINK_EDITOR_DESC_UTM_MEDIUM'] = "Òèï òðàôèêà: cpc, ppc, banner, email è ïðî÷åå.";
-$MESS ['SENDER_MAIL_LINK_EDITOR_UTM_CAMPAIGN'] = "Íàçâàíèå êàìïàíèè";
-$MESS ['SENDER_MAIL_LINK_EDITOR_DESC_UTM_CAMPAIGN'] = "Ïîçâîëÿåò îòëè÷àòü ðåêëàìíûå êàìïàíèè â ñòàòèñòèêå äðóã îò äðóãà.\n Ìîæíî óêàçàòü çàãîëîâîê ðàññûëêè.";
-$MESS ['SENDER_MAIL_LINK_EDITOR_UTM_TERM'] = "Êëþ÷åâîå ñëîâî";
-$MESS ['SENDER_MAIL_LINK_EDITOR_DESC_UTM_TERM'] = "Ïåðå÷èñëèòå îïëà÷èâàåìûå êëþ÷åâûå ñëîâà ÷åðåç ïðîáåëû èëè çàïÿòûå.";
-$MESS ['SENDER_MAIL_LINK_EDITOR_UTM_CONTENT'] = "Ñîäåðæàíèå êàìïàíèè";
-$MESS ['SENDER_MAIL_LINK_EDITOR_DESC_UTM_CONTENT'] = "Èíôîðìàöèÿ, ïîçâîëÿþùàÿ ðàçëè÷àòü îáúÿâëåíèÿ.";
+$MESS ['SENDER_MAIL_LINK_EDITOR_TITLE'] = "utm-Ð¼ÐµÑ‚ÐºÐ¸";
+$MESS ['SENDER_MAIL_LINK_EDITOR_ACCEPT'] = "ÐŸÑ€Ð¸Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ";
+$MESS ['SENDER_MAIL_LINK_EDITOR_CANCEL'] = "ÐžÑ‚Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ";
+$MESS ['SENDER_MAIL_LINK_EDITOR_UTM_SOURCE'] = "Ð˜ÑÑ‚Ð¾Ñ‡Ð½Ð¸Ðº ÐºÐ°Ð¼Ð¿Ð°Ð½Ð¸Ð¸";
+$MESS ['SENDER_MAIL_LINK_EDITOR_DESC_UTM_SOURCE'] = "Ð˜ÑÑ‚Ð¾Ñ‡Ð½Ð¸Ðº Ð¿ÐµÑ€ÐµÑ…Ð¾Ð´Ð°: google, yandex, newsletter Ð¸ Ð¿Ñ€Ð¾Ñ‡ÐµÐµ.";
+$MESS ['SENDER_MAIL_LINK_EDITOR_UTM_MEDIUM'] = "ÐšÐ°Ð½Ð°Ð» ÐºÐ°Ð¼Ð¿Ð°Ð½Ð¸Ð¸";
+$MESS ['SENDER_MAIL_LINK_EDITOR_DESC_UTM_MEDIUM'] = "Ð¢Ð¸Ð¿ Ñ‚Ñ€Ð°Ñ„Ð¸ÐºÐ°: cpc, ppc, banner, email Ð¸ Ð¿Ñ€Ð¾Ñ‡ÐµÐµ.";
+$MESS ['SENDER_MAIL_LINK_EDITOR_UTM_CAMPAIGN'] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ ÐºÐ°Ð¼Ð¿Ð°Ð½Ð¸Ð¸";
+$MESS ['SENDER_MAIL_LINK_EDITOR_DESC_UTM_CAMPAIGN'] = "ÐŸÐ¾Ð·Ð²Ð¾Ð»ÑÐµÑ‚ Ð¾Ñ‚Ð»Ð¸Ñ‡Ð°Ñ‚ÑŒ Ñ€ÐµÐºÐ»Ð°Ð¼Ð½Ñ‹Ðµ ÐºÐ°Ð¼Ð¿Ð°Ð½Ð¸Ð¸ Ð² ÑÑ‚Ð°Ñ‚Ð¸ÑÑ‚Ð¸ÐºÐµ Ð´Ñ€ÑƒÐ³ Ð¾Ñ‚ Ð´Ñ€ÑƒÐ³Ð°.\n ÐœÐ¾Ð¶Ð½Ð¾ ÑƒÐºÐ°Ð·Ð°Ñ‚ÑŒ Ð·Ð°Ð³Ð¾Ð»Ð¾Ð²Ð¾Ðº Ñ€Ð°ÑÑÑ‹Ð»ÐºÐ¸.";
+$MESS ['SENDER_MAIL_LINK_EDITOR_UTM_TERM'] = "ÐšÐ»ÑŽÑ‡ÐµÐ²Ð¾Ðµ ÑÐ»Ð¾Ð²Ð¾";
+$MESS ['SENDER_MAIL_LINK_EDITOR_DESC_UTM_TERM'] = "ÐŸÐµÑ€ÐµÑ‡Ð¸ÑÐ»Ð¸Ñ‚Ðµ Ð¾Ð¿Ð»Ð°Ñ‡Ð¸Ð²Ð°ÐµÐ¼Ñ‹Ðµ ÐºÐ»ÑŽÑ‡ÐµÐ²Ñ‹Ðµ ÑÐ»Ð¾Ð²Ð° Ñ‡ÐµÑ€ÐµÐ· Ð¿Ñ€Ð¾Ð±ÐµÐ»Ñ‹ Ð¸Ð»Ð¸ Ð·Ð°Ð¿ÑÑ‚Ñ‹Ðµ.";
+$MESS ['SENDER_MAIL_LINK_EDITOR_UTM_CONTENT'] = "Ð¡Ð¾Ð´ÐµÑ€Ð¶Ð°Ð½Ð¸Ðµ ÐºÐ°Ð¼Ð¿Ð°Ð½Ð¸Ð¸";
+$MESS ['SENDER_MAIL_LINK_EDITOR_DESC_UTM_CONTENT'] = "Ð˜Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ñ, Ð¿Ð¾Ð·Ð²Ð¾Ð»ÑÑŽÑ‰Ð°Ñ Ñ€Ð°Ð·Ð»Ð¸Ñ‡Ð°Ñ‚ÑŒ Ð¾Ð±ÑŠÑÐ²Ð»ÐµÐ½Ð¸Ñ.";
 ?>

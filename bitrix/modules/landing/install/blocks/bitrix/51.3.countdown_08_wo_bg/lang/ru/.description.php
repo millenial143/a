@@ -1,6 +1,6 @@
 <?php
-$MESS['LANDING_BLOCK_51_3_COUNTDOWN_08_WO_BG--NAME'] = 'Òàéìåð â ðàìêå íà ñâåòëîì ôîíå';
-$MESS['LANDING_BLOCK_51_3_COUNTDOWN_08_WO_BG--DATE'] = 'Äàòà îêîí÷àíèÿ';
-$MESS['LANDING_BLOCK_51_3_COUNTDOWN_08_WO_BG--TITLE'] = 'Çàãîëîâîê';
-$MESS['LANDING_BLOCK_51_3_COUNTDOWN_08_WO_BG--NUMBER_NUMBER'] = '×èñëî';
-$MESS['LANDING_BLOCK_51_3_COUNTDOWN_08_WO_BG--NUMBER_TEXT'] = 'Ïîäïèñü';
+$MESS['LANDING_BLOCK_51_3_COUNTDOWN_08_WO_BG--NAME'] = 'Ð¢Ð°Ð¹Ð¼ÐµÑ€ Ð² Ñ€Ð°Ð¼ÐºÐµ Ð½Ð° ÑÐ²ÐµÑ‚Ð»Ð¾Ð¼ Ñ„Ð¾Ð½Ðµ';
+$MESS['LANDING_BLOCK_51_3_COUNTDOWN_08_WO_BG--DATE'] = 'Ð”Ð°Ñ‚Ð° Ð¾ÐºÐ¾Ð½Ñ‡Ð°Ð½Ð¸Ñ';
+$MESS['LANDING_BLOCK_51_3_COUNTDOWN_08_WO_BG--TITLE'] = 'Ð—Ð°Ð³Ð¾Ð»Ð¾Ð²Ð¾Ðº';
+$MESS['LANDING_BLOCK_51_3_COUNTDOWN_08_WO_BG--NUMBER_NUMBER'] = 'Ð§Ð¸ÑÐ»Ð¾';
+$MESS['LANDING_BLOCK_51_3_COUNTDOWN_08_WO_BG--NUMBER_TEXT'] = 'ÐŸÐ¾Ð´Ð¿Ð¸ÑÑŒ';

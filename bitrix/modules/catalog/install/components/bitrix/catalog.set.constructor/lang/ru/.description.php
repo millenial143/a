@@ -1,5 +1,5 @@
 <?
-$MESS ['T_IBLOCK_DESC_SET'] = "Конструктор наборов";
-$MESS ['IBLOCK_SET_NAME'] = "Конструктор наборов";
-$MESS ['IBLOCK_SET_DESCRIPTION'] = "Конструктор наборов";
+$MESS ['T_IBLOCK_DESC_SET'] = "РљРѕРЅСЃС‚СЂСѓРєС‚РѕСЂ РЅР°Р±РѕСЂРѕРІ";
+$MESS ['IBLOCK_SET_NAME'] = "РљРѕРЅСЃС‚СЂСѓРєС‚РѕСЂ РЅР°Р±РѕСЂРѕРІ";
+$MESS ['IBLOCK_SET_DESCRIPTION'] = "РљРѕРЅСЃС‚СЂСѓРєС‚РѕСЂ РЅР°Р±РѕСЂРѕРІ";
 ?>

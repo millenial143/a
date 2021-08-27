@@ -1,7 +1,7 @@
 <?php
-$MESS['LANDING_DEMO_STORE_CHATS_LIGHT-WEBFORM-NAME'] = 'CRM-ôîðìà';
-$MESS['LANDING_DEMO_STORE_CHATS_LIGHT-WEBFORM-DESC'] = 'Ñòðàíèöà ñ ôîðìîé äëÿ çàÿâîê.';
-$MESS['LANDING_DEMO_STORE_CHATS_LIGHT-WEBFORM-RICH_NAME'] = 'CRM-ôîðìà';
-$MESS['LANDING_DEMO_STORE_CHATS_LIGHT-WEBFORM-RICH_DESC'] = ' Îñòàâüòå ñâîè êîíòàêòíûå äàííûå è ìû îáÿçàòåëüíî ñâÿæåìñÿ ñ âàìè!';
-$MESS['LANDING_DEMO_STORE_CHATS_LIGHT-WEBFORM-TEXT1'] = 'Åñòü âîïðîñû?';
-$MESS['LANDING_DEMO_STORE_CHATS_LIGHT-WEBFORM-TEXT2'] = 'Îñòàâüòå âàø íîìåð òåëåôîíà è ìû ïåðåçâîíèì âàì â áëèæàéøåå âðåìÿ!';
+$MESS['LANDING_DEMO_STORE_CHATS_LIGHT-WEBFORM-NAME'] = 'CRM-Ñ„Ð¾Ñ€Ð¼Ð°';
+$MESS['LANDING_DEMO_STORE_CHATS_LIGHT-WEBFORM-DESC'] = 'Ð¡Ñ‚Ñ€Ð°Ð½Ð¸Ñ†Ð° Ñ Ñ„Ð¾Ñ€Ð¼Ð¾Ð¹ Ð´Ð»Ñ Ð·Ð°ÑÐ²Ð¾Ðº.';
+$MESS['LANDING_DEMO_STORE_CHATS_LIGHT-WEBFORM-RICH_NAME'] = 'CRM-Ñ„Ð¾Ñ€Ð¼Ð°';
+$MESS['LANDING_DEMO_STORE_CHATS_LIGHT-WEBFORM-RICH_DESC'] = ' ÐžÑÑ‚Ð°Ð²ÑŒÑ‚Ðµ ÑÐ²Ð¾Ð¸ ÐºÐ¾Ð½Ñ‚Ð°ÐºÑ‚Ð½Ñ‹Ðµ Ð´Ð°Ð½Ð½Ñ‹Ðµ Ð¸ Ð¼Ñ‹ Ð¾Ð±ÑÐ·Ð°Ñ‚ÐµÐ»ÑŒÐ½Ð¾ ÑÐ²ÑÐ¶ÐµÐ¼ÑÑ Ñ Ð²Ð°Ð¼Ð¸!';
+$MESS['LANDING_DEMO_STORE_CHATS_LIGHT-WEBFORM-TEXT1'] = 'Ð•ÑÑ‚ÑŒ Ð²Ð¾Ð¿Ñ€Ð¾ÑÑ‹?';
+$MESS['LANDING_DEMO_STORE_CHATS_LIGHT-WEBFORM-TEXT2'] = 'ÐžÑÑ‚Ð°Ð²ÑŒÑ‚Ðµ Ð²Ð°Ñˆ Ð½Ð¾Ð¼ÐµÑ€ Ñ‚ÐµÐ»ÐµÑ„Ð¾Ð½Ð° Ð¸ Ð¼Ñ‹ Ð¿ÐµÑ€ÐµÐ·Ð²Ð¾Ð½Ð¸Ð¼ Ð²Ð°Ð¼ Ð² Ð±Ð»Ð¸Ð¶Ð°Ð¹ÑˆÐµÐµ Ð²Ñ€ÐµÐ¼Ñ!';

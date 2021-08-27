@@ -1,5 +1,5 @@
 <?
-$MESS["FRM_DOWNLOAD"] = "Ñêà÷àòü";
-$MESS["FRM_DOWNLOAD_TITLE"] = "Ñêà÷àòü ôàéë &laquo;#FILE_NAME#&raquo;";
-$MESS["FRM_VIEW_TITLE"] = "Îòêðûòü ôàéë &laquo;#FILE_NAME#&raquo; â íîâîì îêíå";
+$MESS["FRM_DOWNLOAD"] = "Ð¡ÐºÐ°Ñ‡Ð°Ñ‚ÑŒ";
+$MESS["FRM_DOWNLOAD_TITLE"] = "Ð¡ÐºÐ°Ñ‡Ð°Ñ‚ÑŒ Ñ„Ð°Ð¹Ð» &laquo;#FILE_NAME#&raquo;";
+$MESS["FRM_VIEW_TITLE"] = "ÐžÑ‚ÐºÑ€Ñ‹Ñ‚ÑŒ Ñ„Ð°Ð¹Ð» &laquo;#FILE_NAME#&raquo; Ð² Ð½Ð¾Ð²Ð¾Ð¼ Ð¾ÐºÐ½Ðµ";
 ?>

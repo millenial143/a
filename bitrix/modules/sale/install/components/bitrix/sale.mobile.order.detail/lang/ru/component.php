@@ -1,11 +1,11 @@
 <?
-$MESS["SMOD_SALE_NOT_INSTALLED"] = "Íå óñòàíîâëåí ìîäóëü sale";
-$MESS["SMOD_MOBILEAPP_NOT_INSTALLED"] = "Íå óñòàíîâëåí ìîäóëü mobileapp";
-$MESS["SMOD_NO_PERMS2VIEW"] = "Íåäîñòàòî÷íî ïðàâ äëÿ ïðîñìîòðà çàêàçà";
-$MESS["SMOD_PAY_CONFIRM"] = "Ïîäòâåðäèòü îïëàòó";
-$MESS["SMOD_ACCOUNT"] = "Îïëàòà ñ âíóòðåííåãî ñ÷åòà";
-$MESS["SMOD_PAY_BACK"] = "Âåðíóòü ñðåäñòâà íà âíóòðåííèé ñ÷åò";
-$MESS["SMOD_PAY_CANCEL"] = "Îòìåíèòü îïëàòó";
-$MESS["SMOD_PAYMENT"] = "Îïëàòà";
-$MESS["SMOD_STATUS"] = "Ñòàòóñ çàêàçà";
+$MESS["SMOD_SALE_NOT_INSTALLED"] = "ÐÐµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½ Ð¼Ð¾Ð´ÑƒÐ»ÑŒ sale";
+$MESS["SMOD_MOBILEAPP_NOT_INSTALLED"] = "ÐÐµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½ Ð¼Ð¾Ð´ÑƒÐ»ÑŒ mobileapp";
+$MESS["SMOD_NO_PERMS2VIEW"] = "ÐÐµÐ´Ð¾ÑÑ‚Ð°Ñ‚Ð¾Ñ‡Ð½Ð¾ Ð¿Ñ€Ð°Ð² Ð´Ð»Ñ Ð¿Ñ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€Ð° Ð·Ð°ÐºÐ°Ð·Ð°";
+$MESS["SMOD_PAY_CONFIRM"] = "ÐŸÐ¾Ð´Ñ‚Ð²ÐµÑ€Ð´Ð¸Ñ‚ÑŒ Ð¾Ð¿Ð»Ð°Ñ‚Ñƒ";
+$MESS["SMOD_ACCOUNT"] = "ÐžÐ¿Ð»Ð°Ñ‚Ð° Ñ Ð²Ð½ÑƒÑ‚Ñ€ÐµÐ½Ð½ÐµÐ³Ð¾ ÑÑ‡ÐµÑ‚Ð°";
+$MESS["SMOD_PAY_BACK"] = "Ð’ÐµÑ€Ð½ÑƒÑ‚ÑŒ ÑÑ€ÐµÐ´ÑÑ‚Ð²Ð° Ð½Ð° Ð²Ð½ÑƒÑ‚Ñ€ÐµÐ½Ð½Ð¸Ð¹ ÑÑ‡ÐµÑ‚";
+$MESS["SMOD_PAY_CANCEL"] = "ÐžÑ‚Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ Ð¾Ð¿Ð»Ð°Ñ‚Ñƒ";
+$MESS["SMOD_PAYMENT"] = "ÐžÐ¿Ð»Ð°Ñ‚Ð°";
+$MESS["SMOD_STATUS"] = "Ð¡Ñ‚Ð°Ñ‚ÑƒÑ Ð·Ð°ÐºÐ°Ð·Ð°";
 ?>

@@ -1,8 +1,8 @@
 <?php
-$MESS['LANDING_BLOCK_49_5--NAME'] = 'Îáëîæêà ñ îäíèì çàòåìíåííûì ôîíîâûì âèäåî';
-$MESS['LANDING_BLOCK_49_5--LANDINGBLOCKNODE_VIDEO'] = 'Ôîíîâîå âèäåî';
-$MESS['LANDING_BLOCK_49_5--LANDINGBLOCKNODE_CONTAINER'] = 'Íàáîð ýëåìåíòîâ';
-$MESS['LANDING_BLOCK_49_5--LANDINGBLOCKNODETITLE'] = 'Çàãîëîâîê';
-$MESS['LANDING_BLOCK_49_5--LANDINGBLOCKNODETEXT'] = 'Òåêñò';
-$MESS['LANDING_BLOCK_49_5--LANDINGBLOCKNODE_BUTTON'] = 'Êíîïêà';
+$MESS['LANDING_BLOCK_49_5--NAME'] = 'ÐžÐ±Ð»Ð¾Ð¶ÐºÐ° Ñ Ð¾Ð´Ð½Ð¸Ð¼ Ð·Ð°Ñ‚ÐµÐ¼Ð½ÐµÐ½Ð½Ñ‹Ð¼ Ñ„Ð¾Ð½Ð¾Ð²Ñ‹Ð¼ Ð²Ð¸Ð´ÐµÐ¾';
+$MESS['LANDING_BLOCK_49_5--LANDINGBLOCKNODE_VIDEO'] = 'Ð¤Ð¾Ð½Ð¾Ð²Ð¾Ðµ Ð²Ð¸Ð´ÐµÐ¾';
+$MESS['LANDING_BLOCK_49_5--LANDINGBLOCKNODE_CONTAINER'] = 'ÐÐ°Ð±Ð¾Ñ€ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð¾Ð²';
+$MESS['LANDING_BLOCK_49_5--LANDINGBLOCKNODETITLE'] = 'Ð—Ð°Ð³Ð¾Ð»Ð¾Ð²Ð¾Ðº';
+$MESS['LANDING_BLOCK_49_5--LANDINGBLOCKNODETEXT'] = 'Ð¢ÐµÐºÑÑ‚';
+$MESS['LANDING_BLOCK_49_5--LANDINGBLOCKNODE_BUTTON'] = 'ÐšÐ½Ð¾Ð¿ÐºÐ°';
 

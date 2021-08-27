@@ -1,11 +1,11 @@
 <?php
-$MESS['HLLIST_COMPONENT_BLOCK_ID_PARAM'] = 'ID highload áëîêà';
-$MESS['HLLIST_COMPONENT_DETAIL_URL_PARAM'] = 'Ïóòü ê ñòðàíèöå ïðîñìîòðà çàïèñè';
-$MESS['HLLIST_COMPONENT_ROWS_PER_PAGE_PARAM'] = 'Ðàçáèòü ïî ñòðàíèöàì êîëè÷åñòâîì';
-$MESS['HLLIST_COMPONENT_PAGEN_ID_PARAM'] = 'Èäåíòèôèêàòîð ñòðàíèöû';
-$MESS['HLLIST_COMPONENT_FILTER_NAME_PARAM'] = 'Èäåíòèôèêàòîð ôèëüòðà';
-$MESS['HLLIST_COMPONENT_CHECK_PERMISSIONS_PARAM'] = 'Ïðîâåðÿòü ïðàâà äîñòóïà';
-$MESS['HLLIST_COMPONENT_SORT_FIELD_PARAM'] = 'Ïîëå ñîðòèðîâêè';
-$MESS['HLLIST_COMPONENT_SORT_ORDER_PARAM'] = 'Íàïðàâëåíèå ñîðòèðîâêè';
-$MESS['HLLIST_COMPONENT_SORT_ORDER_PARAM_DESC'] = 'Ïî óáûâàíèþ';
-$MESS['HLLIST_COMPONENT_SORT_ORDER_PARAM_ASC'] = 'Ïî âîçðàñòàíèþ';
+$MESS['HLLIST_COMPONENT_BLOCK_ID_PARAM'] = 'ID highload Ð±Ð»Ð¾ÐºÐ°';
+$MESS['HLLIST_COMPONENT_DETAIL_URL_PARAM'] = 'ÐŸÑƒÑ‚ÑŒ Ðº ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ðµ Ð¿Ñ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€Ð° Ð·Ð°Ð¿Ð¸ÑÐ¸';
+$MESS['HLLIST_COMPONENT_ROWS_PER_PAGE_PARAM'] = 'Ð Ð°Ð·Ð±Ð¸Ñ‚ÑŒ Ð¿Ð¾ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ð°Ð¼ ÐºÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾Ð¼';
+$MESS['HLLIST_COMPONENT_PAGEN_ID_PARAM'] = 'Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñ‹';
+$MESS['HLLIST_COMPONENT_FILTER_NAME_PARAM'] = 'Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ñ„Ð¸Ð»ÑŒÑ‚Ñ€Ð°';
+$MESS['HLLIST_COMPONENT_CHECK_PERMISSIONS_PARAM'] = 'ÐŸÑ€Ð¾Ð²ÐµÑ€ÑÑ‚ÑŒ Ð¿Ñ€Ð°Ð²Ð° Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð°';
+$MESS['HLLIST_COMPONENT_SORT_FIELD_PARAM'] = 'ÐŸÐ¾Ð»Ðµ ÑÐ¾Ñ€Ñ‚Ð¸Ñ€Ð¾Ð²ÐºÐ¸';
+$MESS['HLLIST_COMPONENT_SORT_ORDER_PARAM'] = 'ÐÐ°Ð¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¸Ðµ ÑÐ¾Ñ€Ñ‚Ð¸Ñ€Ð¾Ð²ÐºÐ¸';
+$MESS['HLLIST_COMPONENT_SORT_ORDER_PARAM_DESC'] = 'ÐŸÐ¾ ÑƒÐ±Ñ‹Ð²Ð°Ð½Ð¸ÑŽ';
+$MESS['HLLIST_COMPONENT_SORT_ORDER_PARAM_ASC'] = 'ÐŸÐ¾ Ð²Ð¾Ð·Ñ€Ð°ÑÑ‚Ð°Ð½Ð¸ÑŽ';

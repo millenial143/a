@@ -1,11 +1,11 @@
 <?
-$MESS ['F_NO_MODULE'] = "Ìîäóëü ôîðóìà íå óñòàíîâëåí.";
-$MESS ['F_ERROR_MESSAGE_NOT_FOUND'] = "Ñîîáùåíèå íå íàéäåíî.";
-$MESS ['FPF_CREATE_IN_FORUM'] = "Ñîçäàòü òåìó â ôîðóìå";
-$MESS ['FPF_REPLY_FORM'] = "Ôîðìà îòâåòîâ";
-$MESS ['FPF_EDIT_FORM'] = "Ôîðìà èçìåíåíèÿ ñîîáùåíèÿ";
-$MESS ['FPF_NO_ICON'] = "áåç èêîíêè";
-$MESS ['FPF_SEND'] = "Îòïðàâèòü";
-$MESS ['FPF_REPLY'] = "Îòâåòèòü";
-$MESS ['FPF_EDIT'] = "Èçìåíèòü";
+$MESS ['F_NO_MODULE'] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ Ñ„Ð¾Ñ€ÑƒÐ¼Ð° Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½.";
+$MESS ['F_ERROR_MESSAGE_NOT_FOUND'] = "Ð¡Ð¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½Ð¾.";
+$MESS ['FPF_CREATE_IN_FORUM'] = "Ð¡Ð¾Ð·Ð´Ð°Ñ‚ÑŒ Ñ‚ÐµÐ¼Ñƒ Ð² Ñ„Ð¾Ñ€ÑƒÐ¼Ðµ";
+$MESS ['FPF_REPLY_FORM'] = "Ð¤Ð¾Ñ€Ð¼Ð° Ð¾Ñ‚Ð²ÐµÑ‚Ð¾Ð²";
+$MESS ['FPF_EDIT_FORM'] = "Ð¤Ð¾Ñ€Ð¼Ð° Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ñ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ";
+$MESS ['FPF_NO_ICON'] = "Ð±ÐµÐ· Ð¸ÐºÐ¾Ð½ÐºÐ¸";
+$MESS ['FPF_SEND'] = "ÐžÑ‚Ð¿Ñ€Ð°Ð²Ð¸Ñ‚ÑŒ";
+$MESS ['FPF_REPLY'] = "ÐžÑ‚Ð²ÐµÑ‚Ð¸Ñ‚ÑŒ";
+$MESS ['FPF_EDIT'] = "Ð˜Ð·Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ";
 ?>

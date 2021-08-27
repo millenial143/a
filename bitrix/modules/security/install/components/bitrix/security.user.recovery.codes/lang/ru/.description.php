@@ -1,5 +1,5 @@
 <?
-$MESS ['SECURITY_USER_RECOVERY_CODES_NAME'] = "Ðåçåðâíûå êîäû OTP";
-$MESS ['SECURITY_USER_RECOVERY_CODES_DESCRIPTION'] = "Óïðàâëåíèå ðåçåðâíûìè êîäàìè OTP";
-$MESS ['SECURITY_USER_RECOVERY_CODES_SECURITY_SERVICE'] = "Áåçîïàñíîñòü";
+$MESS ['SECURITY_USER_RECOVERY_CODES_NAME'] = "Ð ÐµÐ·ÐµÑ€Ð²Ð½Ñ‹Ðµ ÐºÐ¾Ð´Ñ‹ OTP";
+$MESS ['SECURITY_USER_RECOVERY_CODES_DESCRIPTION'] = "Ð£Ð¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¸Ðµ Ñ€ÐµÐ·ÐµÑ€Ð²Ð½Ñ‹Ð¼Ð¸ ÐºÐ¾Ð´Ð°Ð¼Ð¸ OTP";
+$MESS ['SECURITY_USER_RECOVERY_CODES_SECURITY_SERVICE'] = "Ð‘ÐµÐ·Ð¾Ð¿Ð°ÑÐ½Ð¾ÑÑ‚ÑŒ";
 ?>

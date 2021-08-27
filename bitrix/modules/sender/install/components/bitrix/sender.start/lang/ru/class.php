@@ -1,3 +1,3 @@
 <?
-$MESS["SENDER_START_TITLE"] = "Ñòàðò";
+$MESS["SENDER_START_TITLE"] = "Ð¡Ñ‚Ð°Ñ€Ñ‚";
 ?>

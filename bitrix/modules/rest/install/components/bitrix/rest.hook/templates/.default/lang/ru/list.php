@@ -1,3 +1,3 @@
 <?php
-$MESS['REST_RH_LIST_EVENT_SECTION'] = 'Èñõîäÿùèå âåáõóêè';
-$MESS['REST_RH_LIST_AP_SECTION'] = 'Âõîäÿùèå âåáõóêè';
+$MESS['REST_RH_LIST_EVENT_SECTION'] = 'Ð˜ÑÑ…Ð¾Ð´ÑÑ‰Ð¸Ðµ Ð²ÐµÐ±Ñ…ÑƒÐºÐ¸';
+$MESS['REST_RH_LIST_AP_SECTION'] = 'Ð’Ñ…Ð¾Ð´ÑÑ‰Ð¸Ðµ Ð²ÐµÐ±Ñ…ÑƒÐºÐ¸';

@@ -1,8 +1,8 @@
 <?php
-$MESS['LANDING_BLOCK_35_6_HEADER--NAME_NEW'] = 'Øàïêà ñ êîíòàêòàìè è ïîèñêîì';
-$MESS['LANDING_BLOCK_35_6_HEADER--NODES_CARD'] = 'Êîíòàêò';
-$MESS['LANDING_BLOCK_35_6_HEADER--NODES_LOGO'] = 'Ëîãîòèï';
-$MESS['LANDING_BLOCK_35_6_HEADER--NODES_LINK'] = 'Ññûëêà';
-$MESS['LANDING_BLOCK_35_6_HEADER--NODES_CARD_TITLE'] = 'Ïîäïèñü';
-$MESS['LANDING_BLOCK_35_6_HEADER--NODES_ICON'] = 'Èêîíêà';
-$MESS['LANDING_BLOCK_35_6_HEADER--NODES_TEXT'] = 'Òåêñò';
+$MESS['LANDING_BLOCK_35_6_HEADER--NAME_NEW'] = 'Ð¨Ð°Ð¿ÐºÐ° Ñ ÐºÐ¾Ð½Ñ‚Ð°ÐºÑ‚Ð°Ð¼Ð¸ Ð¸ Ð¿Ð¾Ð¸ÑÐºÐ¾Ð¼';
+$MESS['LANDING_BLOCK_35_6_HEADER--NODES_CARD'] = 'ÐšÐ¾Ð½Ñ‚Ð°ÐºÑ‚';
+$MESS['LANDING_BLOCK_35_6_HEADER--NODES_LOGO'] = 'Ð›Ð¾Ð³Ð¾Ñ‚Ð¸Ð¿';
+$MESS['LANDING_BLOCK_35_6_HEADER--NODES_LINK'] = 'Ð¡ÑÑ‹Ð»ÐºÐ°';
+$MESS['LANDING_BLOCK_35_6_HEADER--NODES_CARD_TITLE'] = 'ÐŸÐ¾Ð´Ð¿Ð¸ÑÑŒ';
+$MESS['LANDING_BLOCK_35_6_HEADER--NODES_ICON'] = 'Ð˜ÐºÐ¾Ð½ÐºÐ°';
+$MESS['LANDING_BLOCK_35_6_HEADER--NODES_TEXT'] = 'Ð¢ÐµÐºÑÑ‚';

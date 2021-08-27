@@ -1,2 +1,2 @@
 <?php
-$MESS['LANDING_CMP_ERROR_REGISTRATION'] = 'Îøèáêà ðåãèñòðàöèè íîâîãî äîìåíà';
+$MESS['LANDING_CMP_ERROR_REGISTRATION'] = 'ÐžÑˆÐ¸Ð±ÐºÐ° Ñ€ÐµÐ³Ð¸ÑÑ‚Ñ€Ð°Ñ†Ð¸Ð¸ Ð½Ð¾Ð²Ð¾Ð³Ð¾ Ð´Ð¾Ð¼ÐµÐ½Ð°';

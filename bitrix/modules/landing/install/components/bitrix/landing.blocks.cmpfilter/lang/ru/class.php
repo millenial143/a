@@ -1,2 +1,2 @@
 <?php
-$MESS['LD_COMP_FILTER_NAME'] = 'Íàçâàíèå';
+$MESS['LD_COMP_FILTER_NAME'] = 'ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ';

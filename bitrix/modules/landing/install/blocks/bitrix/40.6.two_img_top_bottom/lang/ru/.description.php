@@ -1,7 +1,7 @@
 <?php
-$MESS['LANDING_BLOCK_40_6_NAME'] = 'Äâå êàðòèíêè ïîä òåêñòîì: îäíà âûøå äðóãîé';
-$MESS['LANDING_BLOCK_40_6_CARD'] = 'Áëîê';
-$MESS['LANDING_BLOCK_40_6_TITLE'] = 'Çàãîëîâîê';
-$MESS['LANDING_BLOCK_40_6_TEXT'] = 'Òåêñò';
-$MESS['LANDING_BLOCK_40_6_IMG'] = 'Êàðòèíêà';
-$MESS['LANDING_BLOCK_40_6_CONTAINER'] = 'Íàáîð ýëåìåíòîâ';
+$MESS['LANDING_BLOCK_40_6_NAME'] = 'Ð”Ð²Ðµ ÐºÐ°Ñ€Ñ‚Ð¸Ð½ÐºÐ¸ Ð¿Ð¾Ð´ Ñ‚ÐµÐºÑÑ‚Ð¾Ð¼: Ð¾Ð´Ð½Ð° Ð²Ñ‹ÑˆÐµ Ð´Ñ€ÑƒÐ³Ð¾Ð¹';
+$MESS['LANDING_BLOCK_40_6_CARD'] = 'Ð‘Ð»Ð¾Ðº';
+$MESS['LANDING_BLOCK_40_6_TITLE'] = 'Ð—Ð°Ð³Ð¾Ð»Ð¾Ð²Ð¾Ðº';
+$MESS['LANDING_BLOCK_40_6_TEXT'] = 'Ð¢ÐµÐºÑÑ‚';
+$MESS['LANDING_BLOCK_40_6_IMG'] = 'ÐšÐ°Ñ€Ñ‚Ð¸Ð½ÐºÐ°';
+$MESS['LANDING_BLOCK_40_6_CONTAINER'] = 'ÐÐ°Ð±Ð¾Ñ€ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð¾Ð²';

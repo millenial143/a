@@ -1,12 +1,12 @@
 <?
-$MESS ['VOTE_DROPDOWN_SET'] = "âûáåðèòå çíà÷åíèå";
-$MESS ['VOTE_START_DATE'] = "Íà÷àëî";
-$MESS ['VOTE_END_DATE'] = "Îêîí÷àíèå";
-$MESS ['VOTE_IS_ACTIVE'] = "Îïðîñ àêòèâåí.";
-$MESS ['VOTE_IS_NOT_ACTIVE'] = "Îïðîñ íåàêòèâåí.";
-$MESS ['VOTE_SUBMIT_BUTTON'] = "Ãîëîñîâàòü";
-$MESS ['VOTE_RESET'] = "Ñáðîñèòü";
-$MESS ['VOTE_VOTES'] = "Ãîëîñîâ";
-$MESS ['F_CAPTCHA_TITLE'] = "Çàùèòà îò àâòîìàòè÷åñêèõ ñîîáùåíèé";
-$MESS ['F_CAPTCHA_PROMT'] = "Ñèìâîëû íà êàðòèíêå";
+$MESS ['VOTE_DROPDOWN_SET'] = "Ð²Ñ‹Ð±ÐµÑ€Ð¸Ñ‚Ðµ Ð·Ð½Ð°Ñ‡ÐµÐ½Ð¸Ðµ";
+$MESS ['VOTE_START_DATE'] = "ÐÐ°Ñ‡Ð°Ð»Ð¾";
+$MESS ['VOTE_END_DATE'] = "ÐžÐºÐ¾Ð½Ñ‡Ð°Ð½Ð¸Ðµ";
+$MESS ['VOTE_IS_ACTIVE'] = "ÐžÐ¿Ñ€Ð¾Ñ Ð°ÐºÑ‚Ð¸Ð²ÐµÐ½.";
+$MESS ['VOTE_IS_NOT_ACTIVE'] = "ÐžÐ¿Ñ€Ð¾Ñ Ð½ÐµÐ°ÐºÑ‚Ð¸Ð²ÐµÐ½.";
+$MESS ['VOTE_SUBMIT_BUTTON'] = "Ð“Ð¾Ð»Ð¾ÑÐ¾Ð²Ð°Ñ‚ÑŒ";
+$MESS ['VOTE_RESET'] = "Ð¡Ð±Ñ€Ð¾ÑÐ¸Ñ‚ÑŒ";
+$MESS ['VOTE_VOTES'] = "Ð“Ð¾Ð»Ð¾ÑÐ¾Ð²";
+$MESS ['F_CAPTCHA_TITLE'] = "Ð—Ð°Ñ‰Ð¸Ñ‚Ð° Ð¾Ñ‚ Ð°Ð²Ñ‚Ð¾Ð¼Ð°Ñ‚Ð¸Ñ‡ÐµÑÐºÐ¸Ñ… ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ð¹";
+$MESS ['F_CAPTCHA_PROMT'] = "Ð¡Ð¸Ð¼Ð²Ð¾Ð»Ñ‹ Ð½Ð° ÐºÐ°Ñ€Ñ‚Ð¸Ð½ÐºÐµ";
 ?>

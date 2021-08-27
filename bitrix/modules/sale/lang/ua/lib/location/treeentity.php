@@ -1,9 +1,9 @@
 <?
-$MESS["SALE_LOCATION_TREE_ENTITY_NODE_NOT_FOUND_EXCEPTION"] = "Çàçíà÷åíèé âóçîë íå çíàéäåíèé";
-$MESS["SALE_LOCATION_TREE_ENTITY_BAD_ARGUMENT_NODEINFO_UNSET_EXCEPTION"] = "Ïàðàìåòðè øóêàíèõ âóçë³â";
-$MESS["SALE_LOCATION_TREE_ENTITY_BAD_ARGUMENT_PRIMARY_UNSET_EXCEPTION"] = "ID âóçëà";
-$MESS["SALE_LOCATION_TREE_ENTITY_BAD_ARGUMENT_CONDITION_UNSET_EXCEPTION"] = "Óìîâè âèáîðó âóçëà";
-$MESS["SALE_LOCATION_TREE_ENTITY_BAD_ARGUMENT_NODEINFO_MISFORMED_EXCEPTION"] = "Íåâ³ðíî ñôîðìîâàí³ ïàðàìåòðè âóçë³â äëÿ ï³äáîðó øëÿõ³â";
-$MESS["SALE_LOCATION_TREE_ENTITY_CANNOT_MOVE_STRAIGHT_TO_ITSELF_EXCEPTION"] = "Íåìîæëèâî ïåðåì³ñòèòè ï³ääåðåâî ñàìå â ñåáå";
-$MESS["SALE_LOCATION_TREE_ENTITY_CANNOT_MOVE_TO_ITSELF_EXCEPTION"] = "Íåìîæëèâî ïåðåì³ñòèòè ï³ääåðåâî âñåðåäèíó ñåáå";
+$MESS["SALE_LOCATION_TREE_ENTITY_NODE_NOT_FOUND_EXCEPTION"] = "Ð—Ð°Ð·Ð½Ð°Ñ‡ÐµÐ½Ð¸Ð¹ Ð²ÑƒÐ·Ð¾Ð» Ð½Ðµ Ð·Ð½Ð°Ð¹Ð´ÐµÐ½Ð¸Ð¹";
+$MESS["SALE_LOCATION_TREE_ENTITY_BAD_ARGUMENT_NODEINFO_UNSET_EXCEPTION"] = "ÐŸÐ°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ð¸ ÑˆÑƒÐºÐ°Ð½Ð¸Ñ… Ð²ÑƒÐ·Ð»Ñ–Ð²";
+$MESS["SALE_LOCATION_TREE_ENTITY_BAD_ARGUMENT_PRIMARY_UNSET_EXCEPTION"] = "ID Ð²ÑƒÐ·Ð»Ð°";
+$MESS["SALE_LOCATION_TREE_ENTITY_BAD_ARGUMENT_CONDITION_UNSET_EXCEPTION"] = "Ð£Ð¼Ð¾Ð²Ð¸ Ð²Ð¸Ð±Ð¾Ñ€Ñƒ Ð²ÑƒÐ·Ð»Ð°";
+$MESS["SALE_LOCATION_TREE_ENTITY_BAD_ARGUMENT_NODEINFO_MISFORMED_EXCEPTION"] = "ÐÐµÐ²Ñ–Ñ€Ð½Ð¾ ÑÑ„Ð¾Ñ€Ð¼Ð¾Ð²Ð°Ð½Ñ– Ð¿Ð°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ð¸ Ð²ÑƒÐ·Ð»Ñ–Ð² Ð´Ð»Ñ Ð¿Ñ–Ð´Ð±Ð¾Ñ€Ñƒ ÑˆÐ»ÑÑ…Ñ–Ð²";
+$MESS["SALE_LOCATION_TREE_ENTITY_CANNOT_MOVE_STRAIGHT_TO_ITSELF_EXCEPTION"] = "ÐÐµÐ¼Ð¾Ð¶Ð»Ð¸Ð²Ð¾ Ð¿ÐµÑ€ÐµÐ¼Ñ–ÑÑ‚Ð¸Ñ‚Ð¸ Ð¿Ñ–Ð´Ð´ÐµÑ€ÐµÐ²Ð¾ ÑÐ°Ð¼Ðµ Ð² ÑÐµÐ±Ðµ";
+$MESS["SALE_LOCATION_TREE_ENTITY_CANNOT_MOVE_TO_ITSELF_EXCEPTION"] = "ÐÐµÐ¼Ð¾Ð¶Ð»Ð¸Ð²Ð¾ Ð¿ÐµÑ€ÐµÐ¼Ñ–ÑÑ‚Ð¸Ñ‚Ð¸ Ð¿Ñ–Ð´Ð´ÐµÑ€ÐµÐ²Ð¾ Ð²ÑÐµÑ€ÐµÐ´Ð¸Ð½Ñƒ ÑÐµÐ±Ðµ";
 ?>

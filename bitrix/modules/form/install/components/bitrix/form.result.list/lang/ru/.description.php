@@ -1,5 +1,5 @@
 <?
-$MESS ["FORM_RESULT_LIST_COMPONENT_NAME"] = "Ñïèñîê ðåçóëüòàòîâ";
-$MESS ["FORM_RESULT_LIST_COMPONENT_DESCR"] = "Ñïèñîê ðåçóëüòàòîâ";
-$MESS ["FORM_SERVICE"] = "Âåá-ôîðìû";
+$MESS ["FORM_RESULT_LIST_COMPONENT_NAME"] = "Ð¡Ð¿Ð¸ÑÐ¾Ðº Ñ€ÐµÐ·ÑƒÐ»ÑŒÑ‚Ð°Ñ‚Ð¾Ð²";
+$MESS ["FORM_RESULT_LIST_COMPONENT_DESCR"] = "Ð¡Ð¿Ð¸ÑÐ¾Ðº Ñ€ÐµÐ·ÑƒÐ»ÑŒÑ‚Ð°Ñ‚Ð¾Ð²";
+$MESS ["FORM_SERVICE"] = "Ð’ÐµÐ±-Ñ„Ð¾Ñ€Ð¼Ñ‹";
 ?>

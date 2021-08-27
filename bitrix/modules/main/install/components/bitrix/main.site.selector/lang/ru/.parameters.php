@@ -1,5 +1,5 @@
 <?
-$MESS ['SITE_SELECTOR_SITES_ALL'] = " --- âñå --- ";
-$MESS ['SITE_SELECTOR_PARAMS'] = "Ïàðàìåòðû êîìïîíåíòà";
-$MESS ['SITE_SELECTOR_SITE_LIST'] = "Ñïèñîê ñàéòîâ";
+$MESS ['SITE_SELECTOR_SITES_ALL'] = " --- Ð²ÑÐµ --- ";
+$MESS ['SITE_SELECTOR_PARAMS'] = "ÐŸÐ°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ñ‹ ÐºÐ¾Ð¼Ð¿Ð¾Ð½ÐµÐ½Ñ‚Ð°";
+$MESS ['SITE_SELECTOR_SITE_LIST'] = "Ð¡Ð¿Ð¸ÑÐ¾Ðº ÑÐ°Ð¹Ñ‚Ð¾Ð²";
 ?>

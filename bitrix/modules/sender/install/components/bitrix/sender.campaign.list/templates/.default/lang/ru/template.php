@@ -1,7 +1,7 @@
 <?
-$MESS["SENDER_CAMPAIGN_LIST_BTN_EDIT_TITLE"] = "Èçìåíèòü êàìïàíèþ";
-$MESS["SENDER_CAMPAIGN_LIST_BTN_EDIT"] = "Èçìåíèòü";
-$MESS["SENDER_TEMPLATE_LIST_BTN_VIEW"] = "Ïðîñìîòðåòü";
-$MESS["SENDER_CAMPAIGN_LIST_BTN_REMOVE_TITLE"] = "Óäàëèòü êàìïàíèþ";
-$MESS["SENDER_CAMPAIGN_LIST_BTN_REMOVE"] = "Óäàëèòü";
-$MESS["SENDER_CAMPAIGN_LIST_BTN_ADD"] = "Äîáàâèòü êàìïàíèþ";
+$MESS["SENDER_CAMPAIGN_LIST_BTN_EDIT_TITLE"] = "Ð˜Ð·Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ ÐºÐ°Ð¼Ð¿Ð°Ð½Ð¸ÑŽ";
+$MESS["SENDER_CAMPAIGN_LIST_BTN_EDIT"] = "Ð˜Ð·Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ";
+$MESS["SENDER_TEMPLATE_LIST_BTN_VIEW"] = "ÐŸÑ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€ÐµÑ‚ÑŒ";
+$MESS["SENDER_CAMPAIGN_LIST_BTN_REMOVE_TITLE"] = "Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ ÐºÐ°Ð¼Ð¿Ð°Ð½Ð¸ÑŽ";
+$MESS["SENDER_CAMPAIGN_LIST_BTN_REMOVE"] = "Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ";
+$MESS["SENDER_CAMPAIGN_LIST_BTN_ADD"] = "Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ ÐºÐ°Ð¼Ð¿Ð°Ð½Ð¸ÑŽ";

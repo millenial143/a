@@ -1,6 +1,6 @@
 <?
-$MESS["SALE_LOCATION_NAME_NAME_ENTITY_OWNER_NOT_SET_EXCEPTION"] = "Íå çàäàíèé åëåìåíò äëÿ ïðèâ'ÿçêè";
-$MESS["SALE_LOCATION_NAME_NAME_ENTITY_CANNOT_ADD_NAMES_EXCEPTION"] = "Ïîìèëêà äîäàâàííÿ ³ìåí³ ñóòíîñò³";
-$MESS["SALE_LOCATION_NAME_NAME_ENTITY_CANNOT_UPDATE_NAMES_EXCEPTION"] = "Ïîìèëêà çì³íè ³ìåí³ ñóòíîñò³";
-$MESS["SALE_LOCATION_NAME_NAME_ENTITY_CANNOT_DELETE_NAMES_EXCEPTION"] = "Ïîìèëêà âèäàëåííÿ ³ìåí³ ñóòíîñò³";
+$MESS["SALE_LOCATION_NAME_NAME_ENTITY_OWNER_NOT_SET_EXCEPTION"] = "ÐÐµ Ð·Ð°Ð´Ð°Ð½Ð¸Ð¹ ÐµÐ»ÐµÐ¼ÐµÐ½Ñ‚ Ð´Ð»Ñ Ð¿Ñ€Ð¸Ð²'ÑÐ·ÐºÐ¸";
+$MESS["SALE_LOCATION_NAME_NAME_ENTITY_CANNOT_ADD_NAMES_EXCEPTION"] = "ÐŸÐ¾Ð¼Ð¸Ð»ÐºÐ° Ð´Ð¾Ð´Ð°Ð²Ð°Ð½Ð½Ñ Ñ–Ð¼ÐµÐ½Ñ– ÑÑƒÑ‚Ð½Ð¾ÑÑ‚Ñ–";
+$MESS["SALE_LOCATION_NAME_NAME_ENTITY_CANNOT_UPDATE_NAMES_EXCEPTION"] = "ÐŸÐ¾Ð¼Ð¸Ð»ÐºÐ° Ð·Ð¼Ñ–Ð½Ð¸ Ñ–Ð¼ÐµÐ½Ñ– ÑÑƒÑ‚Ð½Ð¾ÑÑ‚Ñ–";
+$MESS["SALE_LOCATION_NAME_NAME_ENTITY_CANNOT_DELETE_NAMES_EXCEPTION"] = "ÐŸÐ¾Ð¼Ð¸Ð»ÐºÐ° Ð²Ð¸Ð´Ð°Ð»ÐµÐ½Ð½Ñ Ñ–Ð¼ÐµÐ½Ñ– ÑÑƒÑ‚Ð½Ð¾ÑÑ‚Ñ–";
 ?>

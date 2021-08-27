@@ -1,20 +1,20 @@
 <?
-$MESS["JS_UI_ACCESSRIGHTS_ROLES"] = "Ðîëè";
+$MESS["JS_UI_ACCESSRIGHTS_ROLES"] = "Ð Ð¾Ð»Ð¸";
 
-$MESS["JS_UI_ACCESSRIGHTS_STAFF"] = "ÑÎÒÐÓÄÍÈÊÈ";
-$MESS["JS_UI_ACCESSRIGHTS_USER_GROUPS"] = "ÃÐÓÏÏÛ ÏÎËÜÇÎÂÀÒÅËÅÉ";
-$MESS["JS_UI_ACCESSRIGHTS_SOCNETGROUP"] = "ÐÀÁÎ×ÈÅ ÃÐÓÏÏÛ";
-$MESS["JS_UI_ACCESSRIGHTS_DEPARTMENTS"] = "ÎÒÄÅËÛ";
+$MESS["JS_UI_ACCESSRIGHTS_STAFF"] = "Ð¡ÐžÐ¢Ð Ð£Ð”ÐÐ˜ÐšÐ˜";
+$MESS["JS_UI_ACCESSRIGHTS_USER_GROUPS"] = "Ð“Ð Ð£ÐŸÐŸÐ« ÐŸÐžÐ›Ð¬Ð—ÐžÐ’ÐÐ¢Ð•Ð›Ð•Ð™";
+$MESS["JS_UI_ACCESSRIGHTS_SOCNETGROUP"] = "Ð ÐÐ‘ÐžÐ§Ð˜Ð• Ð“Ð Ð£ÐŸÐŸÐ«";
+$MESS["JS_UI_ACCESSRIGHTS_DEPARTMENTS"] = "ÐžÐ¢Ð”Ð•Ð›Ð«";
 
-$MESS["JS_UI_ACCESSRIGHTS_ADD"] = "Äîáàâèòü";
-$MESS["JS_UI_ACCESSRIGHTS_REMOVE"] = "Óäàëèòü";
-$MESS["JS_UI_ACCESSRIGHTS_ROLE_NAME"] = "Íàçâàíèå ðîëè";
-$MESS["JS_UI_ACCESSRIGHTS_EMPLOYEES_AND_DEPARTMENTS"] = "Ñîòðóäíèêè è îòäåëû";
-$MESS["JS_UI_ACCESSRIGHTS_CREATE_ROLE"] = "Ñîçäàòü ðîëü";
-$MESS["JS_UI_ACCESSRIGHTS_COPY_ROLE"] = "Êîïèðîâàòü èç ðîëè";
-$MESS["JS_UI_ACCESSRIGHTS_ROLE_REMOVE"] = "Ðîëü óäàëåíà";
-$MESS["JS_UI_ACCESSRIGHTS_STTINGS_HAVE_BEEN_SAVED"] = "Íàñòðîéêè ñîõðàíåíû";
-$MESS["JS_UI_ACCESSRIGHTS_POPUP_REMOVE"] = "Óäàëèòü";
-$MESS["JS_UI_ACCESSRIGHTS_POPUP_CANCEL"] = "Îòìåíèòü";
-$MESS["JS_UI_ACCESSRIGHTS_POPUP_REMOVE_THIS_ROLE"] = "Âû óâåðåíû, ÷òî õîòèòå óäàëèòü äàííóþ ðîëü?";
+$MESS["JS_UI_ACCESSRIGHTS_ADD"] = "Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ";
+$MESS["JS_UI_ACCESSRIGHTS_REMOVE"] = "Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ";
+$MESS["JS_UI_ACCESSRIGHTS_ROLE_NAME"] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ Ñ€Ð¾Ð»Ð¸";
+$MESS["JS_UI_ACCESSRIGHTS_EMPLOYEES_AND_DEPARTMENTS"] = "Ð¡Ð¾Ñ‚Ñ€ÑƒÐ´Ð½Ð¸ÐºÐ¸ Ð¸ Ð¾Ñ‚Ð´ÐµÐ»Ñ‹";
+$MESS["JS_UI_ACCESSRIGHTS_CREATE_ROLE"] = "Ð¡Ð¾Ð·Ð´Ð°Ñ‚ÑŒ Ñ€Ð¾Ð»ÑŒ";
+$MESS["JS_UI_ACCESSRIGHTS_COPY_ROLE"] = "ÐšÐ¾Ð¿Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ Ð¸Ð· Ñ€Ð¾Ð»Ð¸";
+$MESS["JS_UI_ACCESSRIGHTS_ROLE_REMOVE"] = "Ð Ð¾Ð»ÑŒ ÑƒÐ´Ð°Ð»ÐµÐ½Ð°";
+$MESS["JS_UI_ACCESSRIGHTS_STTINGS_HAVE_BEEN_SAVED"] = "ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸ ÑÐ¾Ñ…Ñ€Ð°Ð½ÐµÐ½Ñ‹";
+$MESS["JS_UI_ACCESSRIGHTS_POPUP_REMOVE"] = "Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ";
+$MESS["JS_UI_ACCESSRIGHTS_POPUP_CANCEL"] = "ÐžÑ‚Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ";
+$MESS["JS_UI_ACCESSRIGHTS_POPUP_REMOVE_THIS_ROLE"] = "Ð’Ñ‹ ÑƒÐ²ÐµÑ€ÐµÐ½Ñ‹, Ñ‡Ñ‚Ð¾ Ñ…Ð¾Ñ‚Ð¸Ñ‚Ðµ ÑƒÐ´Ð°Ð»Ð¸Ñ‚ÑŒ Ð´Ð°Ð½Ð½ÑƒÑŽ Ñ€Ð¾Ð»ÑŒ?";
 ?>

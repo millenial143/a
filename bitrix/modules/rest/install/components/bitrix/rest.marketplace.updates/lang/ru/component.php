@@ -1,2 +1,2 @@
 <?
-$MESS["MARKETPLACE_UPDATES"] = "Îáíîâëåíèÿ";
+$MESS["MARKETPLACE_UPDATES"] = "ÐžÐ±Ð½Ð¾Ð²Ð»ÐµÐ½Ð¸Ñ";

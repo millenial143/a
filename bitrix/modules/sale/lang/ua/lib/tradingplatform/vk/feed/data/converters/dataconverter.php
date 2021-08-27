@@ -1,5 +1,5 @@
 <?
-$MESS["SALE_VK_PRODUCT_LAQUO"] = "«";
-$MESS["SALE_VK_PRODUCT_RAQUO"] = "»";
-$MESS["SALE_VK_INCH"] = "äþéìà";
+$MESS["SALE_VK_PRODUCT_LAQUO"] = "Â«";
+$MESS["SALE_VK_PRODUCT_RAQUO"] = "Â»";
+$MESS["SALE_VK_INCH"] = "Ð´ÑŽÐ¹Ð¼Ð°";
 ?>

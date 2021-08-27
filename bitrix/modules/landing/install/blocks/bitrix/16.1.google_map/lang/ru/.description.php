@@ -1,2 +1,2 @@
 <?php
-$MESS['LANDING_BLOCK_16_1_GOOGLE_MAP--NAME'] = 'Êàðòà Google íà âñþ øèðèíó ñòðàíèöû';
+$MESS['LANDING_BLOCK_16_1_GOOGLE_MAP--NAME'] = 'ÐšÐ°Ñ€Ñ‚Ð° Google Ð½Ð° Ð²ÑÑŽ ÑˆÐ¸Ñ€Ð¸Ð½Ñƒ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñ‹';

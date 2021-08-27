@@ -1,3 +1,3 @@
 <?
-$MESS["T_IBLOCK_TEMPLATE_BTN_MORE"] = "Подробнее";
+$MESS["T_IBLOCK_TEMPLATE_BTN_MORE"] = "РџРѕРґСЂРѕР±РЅРµРµ";
 ?>

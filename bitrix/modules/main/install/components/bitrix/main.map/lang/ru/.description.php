@@ -1,5 +1,5 @@
 <?
-$MESS ['MAIN_SITE_MAP_COMPONENT_NAME'] = "Êàðòà ñàéòà";
-$MESS ['MAIN_SITE_MAP_COMPONENT_DESCR'] = "Êàðòà ñàéòà";
-$MESS ['MAIN_SITE_MAP_GROUP_NAME'] = "Êàðòà ñàéòà";
+$MESS ['MAIN_SITE_MAP_COMPONENT_NAME'] = "ÐšÐ°Ñ€Ñ‚Ð° ÑÐ°Ð¹Ñ‚Ð°";
+$MESS ['MAIN_SITE_MAP_COMPONENT_DESCR'] = "ÐšÐ°Ñ€Ñ‚Ð° ÑÐ°Ð¹Ñ‚Ð°";
+$MESS ['MAIN_SITE_MAP_GROUP_NAME'] = "ÐšÐ°Ñ€Ñ‚Ð° ÑÐ°Ð¹Ñ‚Ð°";
 ?>

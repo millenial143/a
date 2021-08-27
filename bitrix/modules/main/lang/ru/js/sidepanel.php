@@ -1,4 +1,4 @@
 <?
-$MESS["MAIN_SIDEPANEL_CLOSE"] = "Çàêðûòü";
-$MESS["MAIN_SIDEPANEL_PRINT"] = "Ïå÷àòü";
+$MESS["MAIN_SIDEPANEL_CLOSE"] = "Ð—Ð°ÐºÑ€Ñ‹Ñ‚ÑŒ";
+$MESS["MAIN_SIDEPANEL_PRINT"] = "ÐŸÐµÑ‡Ð°Ñ‚ÑŒ";
 

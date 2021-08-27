@@ -1,5 +1,5 @@
 <?
-$MESS ['CD_RO_NAME'] = "RSS íîâîñòè (ýêñïîðò)";
-$MESS ['CD_RO_DESCRIPTION'] = "Ýêñïîðò íîâîñòåé â ôîðìàòå RSS";
+$MESS ['CD_RO_NAME'] = "RSS Ð½Ð¾Ð²Ð¾ÑÑ‚Ð¸ (ÑÐºÑÐ¿Ð¾Ñ€Ñ‚)";
+$MESS ['CD_RO_DESCRIPTION'] = "Ð­ÐºÑÐ¿Ð¾Ñ€Ñ‚ Ð½Ð¾Ð²Ð¾ÑÑ‚ÐµÐ¹ Ð² Ñ„Ð¾Ñ€Ð¼Ð°Ñ‚Ðµ RSS";
 $MESS ['CD_RO_RSS'] = "RSS";
 ?>

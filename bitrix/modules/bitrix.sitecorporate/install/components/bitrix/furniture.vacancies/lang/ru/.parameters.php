@@ -1,6 +1,6 @@
 <?
-$MESS ['SUPPORT_FAQ_EL_GROUP_SETTINGS'] = "Íàñòðîéêè êîìïîíåíòà";
-$MESS ['SUPPORT_FAQ_EL_SETTING_IBTYPES'] = "Òèïû èíôîáëîêîâ";
-$MESS ['SUPPORT_FAQ_EL_SETTING_IBLIST'] = "Ñïèñîê èíôîáëîêîâ";
-$MESS ['CP_BSFEL_CACHE_GROUPS'] = "Ó÷èòûâàòü ïðàâà äîñòóïà";
+$MESS ['SUPPORT_FAQ_EL_GROUP_SETTINGS'] = "ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸ ÐºÐ¾Ð¼Ð¿Ð¾Ð½ÐµÐ½Ñ‚Ð°";
+$MESS ['SUPPORT_FAQ_EL_SETTING_IBTYPES'] = "Ð¢Ð¸Ð¿Ñ‹ Ð¸Ð½Ñ„Ð¾Ð±Ð»Ð¾ÐºÐ¾Ð²";
+$MESS ['SUPPORT_FAQ_EL_SETTING_IBLIST'] = "Ð¡Ð¿Ð¸ÑÐ¾Ðº Ð¸Ð½Ñ„Ð¾Ð±Ð»Ð¾ÐºÐ¾Ð²";
+$MESS ['CP_BSFEL_CACHE_GROUPS'] = "Ð£Ñ‡Ð¸Ñ‚Ñ‹Ð²Ð°Ñ‚ÑŒ Ð¿Ñ€Ð°Ð²Ð° Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð°";
 ?>

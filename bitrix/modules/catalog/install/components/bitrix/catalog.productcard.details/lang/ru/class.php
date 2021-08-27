@@ -1,5 +1,5 @@
 <?php
-$MESS["CPD_ERROR_EMPTY_LIST_ITEMS"] = "Äîáàâüòå ýëåìåíòû äëÿ ñïèñêà";
-$MESS["CPD_ERROR_EMPTY_DIRECTORY_ITEMS"] = "Äîáàâüòå ýëåìåíòû äëÿ ñïèñêà ñïðàâî÷íèêà";
-$MESS["CPD_ERROR_ADD_HIGHLOAD_BLOCK"] = "Íå óäàëîñü ñîçäàòü ñïðàâî÷íèê ñ òàêèì íàçâàíèåì";
-$MESS["CPD_NEW_PRODUCT_TITLE"] = "Íîâûé òîâàð";
+$MESS["CPD_ERROR_EMPTY_LIST_ITEMS"] = "Ð”Ð¾Ð±Ð°Ð²ÑŒÑ‚Ðµ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ñ‹ Ð´Ð»Ñ ÑÐ¿Ð¸ÑÐºÐ°";
+$MESS["CPD_ERROR_EMPTY_DIRECTORY_ITEMS"] = "Ð”Ð¾Ð±Ð°Ð²ÑŒÑ‚Ðµ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ñ‹ Ð´Ð»Ñ ÑÐ¿Ð¸ÑÐºÐ° ÑÐ¿Ñ€Ð°Ð²Ð¾Ñ‡Ð½Ð¸ÐºÐ°";
+$MESS["CPD_ERROR_ADD_HIGHLOAD_BLOCK"] = "ÐÐµ ÑƒÐ´Ð°Ð»Ð¾ÑÑŒ ÑÐ¾Ð·Ð´Ð°Ñ‚ÑŒ ÑÐ¿Ñ€Ð°Ð²Ð¾Ñ‡Ð½Ð¸Ðº Ñ Ñ‚Ð°ÐºÐ¸Ð¼ Ð½Ð°Ð·Ð²Ð°Ð½Ð¸ÐµÐ¼";
+$MESS["CPD_NEW_PRODUCT_TITLE"] = "ÐÐ¾Ð²Ñ‹Ð¹ Ñ‚Ð¾Ð²Ð°Ñ€";

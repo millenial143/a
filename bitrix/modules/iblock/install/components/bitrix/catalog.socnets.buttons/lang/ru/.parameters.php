@@ -1,15 +1,15 @@
 <?
-$MESS["CATALOG_SB_FB_USE"] = "Âêëþ÷èòü èñïîëüçîâàíèå Facebook";
-$MESS["CATALOG_SB_FB_SECTION_TITLE"] = "Íàñòðîéêè Facebook";
-$MESS["CATALOG_SB_TW_USE"] = "Âêëþ÷èòü èñïîëüçîâàíèå Twitter";
-$MESS["CATALOG_SB_TW_SECTION_TITLE"] = "Íàñòðîéêè Twitter";
-$MESS["CATALOG_SB_VK_USE"] = "Âêëþ÷èòü èñïîëüçîâàíèå Â Êîíòàêòå";
-$MESS["CATALOG_SB_VK_SECTION_TITLE"] = "Íàñòðîéêè Â Êîíòàêòå";
-$MESS["CATALOG_SB_BASE_URL_TO_LIKE"] = "Àäðåñ ïóáëèêóåìîé ñòðàíèöû";
-$MESS["CATALOG_SB_BASE_TITLE"] = "Çàãîëîâîê ïóáëèêàöèè";
-$MESS["CATALOG_SB_BASE_DESCRIPTION"] = "Òåêñò ïóáëèêàöèè";
-$MESS["CATALOG_SB_BASE_IMAGE"] = "Àäðåñ èçîáðàæåíèÿ";
-$MESS["CATALOG_SB_TW_VIA"] = "Ñ ïîìîùüþ (via)";
-$MESS["CATALOG_SB_TW_HASHTAGS"] = "Îòìåòèòü (hashtags)";
-$MESS["CATALOG_SB_TW_RELATED"] = "Ðåêîìåíäîâàòü (related)";
+$MESS["CATALOG_SB_FB_USE"] = "Ð’ÐºÐ»ÑŽÑ‡Ð¸Ñ‚ÑŒ Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ð½Ð¸Ðµ Facebook";
+$MESS["CATALOG_SB_FB_SECTION_TITLE"] = "ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸ Facebook";
+$MESS["CATALOG_SB_TW_USE"] = "Ð’ÐºÐ»ÑŽÑ‡Ð¸Ñ‚ÑŒ Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ð½Ð¸Ðµ Twitter";
+$MESS["CATALOG_SB_TW_SECTION_TITLE"] = "ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸ Twitter";
+$MESS["CATALOG_SB_VK_USE"] = "Ð’ÐºÐ»ÑŽÑ‡Ð¸Ñ‚ÑŒ Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ð½Ð¸Ðµ Ð’ ÐšÐ¾Ð½Ñ‚Ð°ÐºÑ‚Ðµ";
+$MESS["CATALOG_SB_VK_SECTION_TITLE"] = "ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸ Ð’ ÐšÐ¾Ð½Ñ‚Ð°ÐºÑ‚Ðµ";
+$MESS["CATALOG_SB_BASE_URL_TO_LIKE"] = "ÐÐ´Ñ€ÐµÑ Ð¿ÑƒÐ±Ð»Ð¸ÐºÑƒÐµÐ¼Ð¾Ð¹ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñ‹";
+$MESS["CATALOG_SB_BASE_TITLE"] = "Ð—Ð°Ð³Ð¾Ð»Ð¾Ð²Ð¾Ðº Ð¿ÑƒÐ±Ð»Ð¸ÐºÐ°Ñ†Ð¸Ð¸";
+$MESS["CATALOG_SB_BASE_DESCRIPTION"] = "Ð¢ÐµÐºÑÑ‚ Ð¿ÑƒÐ±Ð»Ð¸ÐºÐ°Ñ†Ð¸Ð¸";
+$MESS["CATALOG_SB_BASE_IMAGE"] = "ÐÐ´Ñ€ÐµÑ Ð¸Ð·Ð¾Ð±Ñ€Ð°Ð¶ÐµÐ½Ð¸Ñ";
+$MESS["CATALOG_SB_TW_VIA"] = "Ð¡ Ð¿Ð¾Ð¼Ð¾Ñ‰ÑŒÑŽ (via)";
+$MESS["CATALOG_SB_TW_HASHTAGS"] = "ÐžÑ‚Ð¼ÐµÑ‚Ð¸Ñ‚ÑŒ (hashtags)";
+$MESS["CATALOG_SB_TW_RELATED"] = "Ð ÐµÐºÐ¾Ð¼ÐµÐ½Ð´Ð¾Ð²Ð°Ñ‚ÑŒ (related)";
 ?>

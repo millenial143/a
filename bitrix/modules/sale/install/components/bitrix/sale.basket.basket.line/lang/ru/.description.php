@@ -1,5 +1,5 @@
 <?
-$MESS ['SBBL_DEFAULT_TEMPLATE_NAME'] = "Ññûëêà íà êîðçèíó";
-$MESS ['SBBL_DEFAULT_TEMPLATE_DESCRIPTION'] = "Îòîáðàæàåò êîëè÷åñòâî òîâàðîâ â êîðçèíå è ññûëêó íà ïåðñîíàëüíûé ðàçäåë";
-$MESS ['SBBL_NAME'] = "Êîðçèíà";
+$MESS ['SBBL_DEFAULT_TEMPLATE_NAME'] = "Ð¡ÑÑ‹Ð»ÐºÐ° Ð½Ð° ÐºÐ¾Ñ€Ð·Ð¸Ð½Ñƒ";
+$MESS ['SBBL_DEFAULT_TEMPLATE_DESCRIPTION'] = "ÐžÑ‚Ð¾Ð±Ñ€Ð°Ð¶Ð°ÐµÑ‚ ÐºÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾ Ñ‚Ð¾Ð²Ð°Ñ€Ð¾Ð² Ð² ÐºÐ¾Ñ€Ð·Ð¸Ð½Ðµ Ð¸ ÑÑÑ‹Ð»ÐºÑƒ Ð½Ð° Ð¿ÐµÑ€ÑÐ¾Ð½Ð°Ð»ÑŒÐ½Ñ‹Ð¹ Ñ€Ð°Ð·Ð´ÐµÐ»";
+$MESS ['SBBL_NAME'] = "ÐšÐ¾Ñ€Ð·Ð¸Ð½Ð°";
 ?>

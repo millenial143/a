@@ -1,3 +1,3 @@
 <?php
-$MESS['LANDING_BLOCK_32.2.1.IMG_ONE_BIG_FULL__NAME'] = 'Áîëüøàÿ êàðòèíêà íà âåñü ýêðàí';
-$MESS['LANDING_BLOCK_32.2.1.IMG_ONE_BIG_FULL__NODES_LANDINGBLOCKNODEIMG'] = 'Êàðòèíêà';
+$MESS['LANDING_BLOCK_32.2.1.IMG_ONE_BIG_FULL__NAME'] = 'Ð‘Ð¾Ð»ÑŒÑˆÐ°Ñ ÐºÐ°Ñ€Ñ‚Ð¸Ð½ÐºÐ° Ð½Ð° Ð²ÐµÑÑŒ ÑÐºÑ€Ð°Ð½';
+$MESS['LANDING_BLOCK_32.2.1.IMG_ONE_BIG_FULL__NODES_LANDINGBLOCKNODEIMG'] = 'ÐšÐ°Ñ€Ñ‚Ð¸Ð½ÐºÐ°';

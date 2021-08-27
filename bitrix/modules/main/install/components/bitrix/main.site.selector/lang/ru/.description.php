@@ -1,5 +1,5 @@
 <?
-$MESS ['MAIN_SITE_SELECTOR_NAME'] = "Âûáîð ñàéòà";
-$MESS ['MAIN_SITE_SELECTOR_DESCR'] = "Ïåðåêëþ÷àòåëü ñàéòîâ (äëÿ èñïîëüçîâàíèÿ â øàáëîíå ñàéòà).";
-$MESS ['MAIN_NAVIGATION_SERVICE'] = "Íàâèãàöèÿ";
+$MESS ['MAIN_SITE_SELECTOR_NAME'] = "Ð’Ñ‹Ð±Ð¾Ñ€ ÑÐ°Ð¹Ñ‚Ð°";
+$MESS ['MAIN_SITE_SELECTOR_DESCR'] = "ÐŸÐµÑ€ÐµÐºÐ»ÑŽÑ‡Ð°Ñ‚ÐµÐ»ÑŒ ÑÐ°Ð¹Ñ‚Ð¾Ð² (Ð´Ð»Ñ Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ð½Ð¸Ñ Ð² ÑˆÐ°Ð±Ð»Ð¾Ð½Ðµ ÑÐ°Ð¹Ñ‚Ð°).";
+$MESS ['MAIN_NAVIGATION_SERVICE'] = "ÐÐ°Ð²Ð¸Ð³Ð°Ñ†Ð¸Ñ";
 ?>

@@ -1,3 +1,3 @@
 <?
-$MESS["CMDESKTOP_UP_TITLE_STD"] = "Íàçâàíèå ãàäæåòà";
+$MESS["CMDESKTOP_UP_TITLE_STD"] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ Ð³Ð°Ð´Ð¶ÐµÑ‚Ð°";
 ?>

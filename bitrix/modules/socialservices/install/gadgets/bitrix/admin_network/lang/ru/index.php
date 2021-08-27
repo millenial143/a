@@ -1,7 +1,7 @@
 <?
-$MESS["GD_NETWORK_TITLE"] = "Åäèíàÿ àâòîðèçàöèÿ";
-$MESS["GD_NETWORK_CONNECT"] = "Ïîäêëþ÷èòü";
-$MESS["GD_NETWORK_CONNECTED"] = "Ïîäêëþ÷åíî";
-$MESS["GD_NETWORK_ADDITIONAL"] = "Áèòðèêñ24.Íåòâîðê";
-$MESS["GD_NETWORK_ADDITIONAL2"] = "Îäèí ëîãèí è ïàðîëü äëÿ ëþáîãî âàøåãî ñàéòà";
+$MESS["GD_NETWORK_TITLE"] = "Ð•Ð´Ð¸Ð½Ð°Ñ Ð°Ð²Ñ‚Ð¾Ñ€Ð¸Ð·Ð°Ñ†Ð¸Ñ";
+$MESS["GD_NETWORK_CONNECT"] = "ÐŸÐ¾Ð´ÐºÐ»ÑŽÑ‡Ð¸Ñ‚ÑŒ";
+$MESS["GD_NETWORK_CONNECTED"] = "ÐŸÐ¾Ð´ÐºÐ»ÑŽÑ‡ÐµÐ½Ð¾";
+$MESS["GD_NETWORK_ADDITIONAL"] = "Ð‘Ð¸Ñ‚Ñ€Ð¸ÐºÑ24.ÐÐµÑ‚Ð²Ð¾Ñ€Ðº";
+$MESS["GD_NETWORK_ADDITIONAL2"] = "ÐžÐ´Ð¸Ð½ Ð»Ð¾Ð³Ð¸Ð½ Ð¸ Ð¿Ð°Ñ€Ð¾Ð»ÑŒ Ð´Ð»Ñ Ð»ÑŽÐ±Ð¾Ð³Ð¾ Ð²Ð°ÑˆÐµÐ³Ð¾ ÑÐ°Ð¹Ñ‚Ð°";
 ?>

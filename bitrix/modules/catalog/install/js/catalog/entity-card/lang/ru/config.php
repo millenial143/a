@@ -1,10 +1,10 @@
 <?php
-$MESS["CATALOG_ENTITY_CARD_LIST_TITLE"] = "Ñïèñîê";
-$MESS["CATALOG_ENTITY_CARD_LIST_LEGEND"] = "Èäåàëüíî èñïîëüçîâàòü äëÿ çàäàíèÿ: ðàçìåðîâ, ïðîèçâîäèòåëåé, ìàòåðèàëîâ èëè èíûõ òåêñòîâûõ è ÷èñëîâûõ çíà÷åíèé";
-$MESS["CATALOG_ENTITY_CARD_DICTIONARY_TITLE"] = "Ñïðàâî÷íèê";
-$MESS["CATALOG_ENTITY_CARD_DICTIONARY_LEGEND"] = "Èäåàëüíî èñïîëüçîâàòü äëÿ çàäàíèÿ: öâåòîâ, ôàêòóðû òêàíè, ðèñóíêà ïðîòåêòîðà èëè èíûõ ñâîéñòâ, äëÿ êîòîðûõ êàðòèíêà õîðîøî ïåðåäàåò ñóòü";
-$MESS["CATALOG_ENTITY_CARD_DIRECTORY_TABLE_NAME"] = "Íàçâàíèå ñïðàâî÷íèêà";
-$MESS["CATALOG_ENTITY_CARD_EMPTY_SECTION"] = "ðàçäåë íå âûáðàí";
-$MESS["CATALOG_ENTITY_CARD_NEW_FIELD_ITEM_PLACEHOLDER"] = "Íîâûé ýëåìåíò";
-$MESS["CATALOG_ENTITY_CARD_FILE_CLOSE_NOTIFICATION"] = "Íàæìèòå êíîïêó \"ñîõðàíèòü\", ÷òîáû èçìåíåíèÿ ïî ôàéëàì âñòóïèëè â ñèëó";
-$MESS["CATALOG_ENTITY_CARD_UNSAVED_DATA_MESSAGE"] = "Ïðè ñîçäàíèè íîâîãî ñâîéñòâà âàðèàöèè íåñîõðàíåííûå äàííûå áóäóò ïîòåðÿíû.";
+$MESS["CATALOG_ENTITY_CARD_LIST_TITLE"] = "Ð¡Ð¿Ð¸ÑÐ¾Ðº";
+$MESS["CATALOG_ENTITY_CARD_LIST_LEGEND"] = "Ð˜Ð´ÐµÐ°Ð»ÑŒÐ½Ð¾ Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÑŒ Ð´Ð»Ñ Ð·Ð°Ð´Ð°Ð½Ð¸Ñ: Ñ€Ð°Ð·Ð¼ÐµÑ€Ð¾Ð², Ð¿Ñ€Ð¾Ð¸Ð·Ð²Ð¾Ð´Ð¸Ñ‚ÐµÐ»ÐµÐ¹, Ð¼Ð°Ñ‚ÐµÑ€Ð¸Ð°Ð»Ð¾Ð² Ð¸Ð»Ð¸ Ð¸Ð½Ñ‹Ñ… Ñ‚ÐµÐºÑÑ‚Ð¾Ð²Ñ‹Ñ… Ð¸ Ñ‡Ð¸ÑÐ»Ð¾Ð²Ñ‹Ñ… Ð·Ð½Ð°Ñ‡ÐµÐ½Ð¸Ð¹";
+$MESS["CATALOG_ENTITY_CARD_DICTIONARY_TITLE"] = "Ð¡Ð¿Ñ€Ð°Ð²Ð¾Ñ‡Ð½Ð¸Ðº";
+$MESS["CATALOG_ENTITY_CARD_DICTIONARY_LEGEND"] = "Ð˜Ð´ÐµÐ°Ð»ÑŒÐ½Ð¾ Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÑŒ Ð´Ð»Ñ Ð·Ð°Ð´Ð°Ð½Ð¸Ñ: Ñ†Ð²ÐµÑ‚Ð¾Ð², Ñ„Ð°ÐºÑ‚ÑƒÑ€Ñ‹ Ñ‚ÐºÐ°Ð½Ð¸, Ñ€Ð¸ÑÑƒÐ½ÐºÐ° Ð¿Ñ€Ð¾Ñ‚ÐµÐºÑ‚Ð¾Ñ€Ð° Ð¸Ð»Ð¸ Ð¸Ð½Ñ‹Ñ… ÑÐ²Ð¾Ð¹ÑÑ‚Ð², Ð´Ð»Ñ ÐºÐ¾Ñ‚Ð¾Ñ€Ñ‹Ñ… ÐºÐ°Ñ€Ñ‚Ð¸Ð½ÐºÐ° Ñ…Ð¾Ñ€Ð¾ÑˆÐ¾ Ð¿ÐµÑ€ÐµÐ´Ð°ÐµÑ‚ ÑÑƒÑ‚ÑŒ";
+$MESS["CATALOG_ENTITY_CARD_DIRECTORY_TABLE_NAME"] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ ÑÐ¿Ñ€Ð°Ð²Ð¾Ñ‡Ð½Ð¸ÐºÐ°";
+$MESS["CATALOG_ENTITY_CARD_EMPTY_SECTION"] = "Ñ€Ð°Ð·Ð´ÐµÐ» Ð½Ðµ Ð²Ñ‹Ð±Ñ€Ð°Ð½";
+$MESS["CATALOG_ENTITY_CARD_NEW_FIELD_ITEM_PLACEHOLDER"] = "ÐÐ¾Ð²Ñ‹Ð¹ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚";
+$MESS["CATALOG_ENTITY_CARD_FILE_CLOSE_NOTIFICATION"] = "ÐÐ°Ð¶Ð¼Ð¸Ñ‚Ðµ ÐºÐ½Ð¾Ð¿ÐºÑƒ \"ÑÐ¾Ñ…Ñ€Ð°Ð½Ð¸Ñ‚ÑŒ\", Ñ‡Ñ‚Ð¾Ð±Ñ‹ Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ñ Ð¿Ð¾ Ñ„Ð°Ð¹Ð»Ð°Ð¼ Ð²ÑÑ‚ÑƒÐ¿Ð¸Ð»Ð¸ Ð² ÑÐ¸Ð»Ñƒ";
+$MESS["CATALOG_ENTITY_CARD_UNSAVED_DATA_MESSAGE"] = "ÐŸÑ€Ð¸ ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ð¸ Ð½Ð¾Ð²Ð¾Ð³Ð¾ ÑÐ²Ð¾Ð¹ÑÑ‚Ð²Ð° Ð²Ð°Ñ€Ð¸Ð°Ñ†Ð¸Ð¸ Ð½ÐµÑÐ¾Ñ…Ñ€Ð°Ð½ÐµÐ½Ð½Ñ‹Ðµ Ð´Ð°Ð½Ð½Ñ‹Ðµ Ð±ÑƒÐ´ÑƒÑ‚ Ð¿Ð¾Ñ‚ÐµÑ€ÑÐ½Ñ‹.";

@@ -1,7 +1,7 @@
 <?php
-$MESS['REST_HEVE_NOT_FOUND'] = "Îáðàáîò÷èê ñîáûòèÿ íå íàéäåí";
-$MESS['REST_HEVE_EDIT_TITLE'] = "Ðåäàêòèðîâàíèå èñõîäÿùåãî âåáõóêà";
-$MESS['REST_HEVE_ADD_TITLE'] = "Äîáàâëåíèå èñõîäÿùåãî âåáõóêà";
-$MESS['REST_HEVE_ERROR_EVENT_NAME'] = "Íå óêàçàíî ñîáûòèå";
-$MESS['REST_HEVE_ERROR_EVENT_HANDLER'] = "Íåêîððåêòíûé àäðåñ îáðàáîò÷èêà";
-$MESS['REST_HEVE_TITLE_DEFAULT'] = 'Îáðàáîò÷èê ñîáûòèÿ';
+$MESS['REST_HEVE_NOT_FOUND'] = "ÐžÐ±Ñ€Ð°Ð±Ð¾Ñ‚Ñ‡Ð¸Ðº ÑÐ¾Ð±Ñ‹Ñ‚Ð¸Ñ Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½";
+$MESS['REST_HEVE_EDIT_TITLE'] = "Ð ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ðµ Ð¸ÑÑ…Ð¾Ð´ÑÑ‰ÐµÐ³Ð¾ Ð²ÐµÐ±Ñ…ÑƒÐºÐ°";
+$MESS['REST_HEVE_ADD_TITLE'] = "Ð”Ð¾Ð±Ð°Ð²Ð»ÐµÐ½Ð¸Ðµ Ð¸ÑÑ…Ð¾Ð´ÑÑ‰ÐµÐ³Ð¾ Ð²ÐµÐ±Ñ…ÑƒÐºÐ°";
+$MESS['REST_HEVE_ERROR_EVENT_NAME'] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½Ð¾ ÑÐ¾Ð±Ñ‹Ñ‚Ð¸Ðµ";
+$MESS['REST_HEVE_ERROR_EVENT_HANDLER'] = "ÐÐµÐºÐ¾Ñ€Ñ€ÐµÐºÑ‚Ð½Ñ‹Ð¹ Ð°Ð´Ñ€ÐµÑ Ð¾Ð±Ñ€Ð°Ð±Ð¾Ñ‚Ñ‡Ð¸ÐºÐ°";
+$MESS['REST_HEVE_TITLE_DEFAULT'] = 'ÐžÐ±Ñ€Ð°Ð±Ð¾Ñ‚Ñ‡Ð¸Ðº ÑÐ¾Ð±Ñ‹Ñ‚Ð¸Ñ';

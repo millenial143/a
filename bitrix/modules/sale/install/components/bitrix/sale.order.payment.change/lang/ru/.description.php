@@ -1,5 +1,5 @@
 <?
-$MESS ['SOPC_DEFAULT_TEMPLATE_NAME'] = "Ñìåíà ñïîñîáà îïëàòû";
-$MESS ['SOPC_DEFAULT_TEMPLATE_DESCRIPTION'] = "Ñìåíà ïëàòåæíîé ñèñòåìû äëÿ îïëàòû çàêàçà";
-$MESS ['SOPC_NAME'] = "Ïðîöåäóðà çàêàçà";
+$MESS ['SOPC_DEFAULT_TEMPLATE_NAME'] = "Ð¡Ð¼ÐµÐ½Ð° ÑÐ¿Ð¾ÑÐ¾Ð±Ð° Ð¾Ð¿Ð»Ð°Ñ‚Ñ‹";
+$MESS ['SOPC_DEFAULT_TEMPLATE_DESCRIPTION'] = "Ð¡Ð¼ÐµÐ½Ð° Ð¿Ð»Ð°Ñ‚ÐµÐ¶Ð½Ð¾Ð¹ ÑÐ¸ÑÑ‚ÐµÐ¼Ñ‹ Ð´Ð»Ñ Ð¾Ð¿Ð»Ð°Ñ‚Ñ‹ Ð·Ð°ÐºÐ°Ð·Ð°";
+$MESS ['SOPC_NAME'] = "ÐŸÑ€Ð¾Ñ†ÐµÐ´ÑƒÑ€Ð° Ð·Ð°ÐºÐ°Ð·Ð°";
 ?>

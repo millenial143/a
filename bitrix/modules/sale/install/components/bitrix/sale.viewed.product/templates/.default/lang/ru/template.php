@@ -1,6 +1,6 @@
 <?
-$MESS["SBB_TITLE"] = "Îôîðìëåíèå çàêàçà";
-$MESS["VIEW_HEADER"] = "Ïðîñìîòðåííûå òîâàðû";
-$MESS["PRODUCT_BUY"] = "Êóïèòü";
-$MESS["PRODUCT_BASKET"] = "Â êîðçèíó";
+$MESS["SBB_TITLE"] = "ÐžÑ„Ð¾Ñ€Ð¼Ð»ÐµÐ½Ð¸Ðµ Ð·Ð°ÐºÐ°Ð·Ð°";
+$MESS["VIEW_HEADER"] = "ÐŸÑ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€ÐµÐ½Ð½Ñ‹Ðµ Ñ‚Ð¾Ð²Ð°Ñ€Ñ‹";
+$MESS["PRODUCT_BUY"] = "ÐšÑƒÐ¿Ð¸Ñ‚ÑŒ";
+$MESS["PRODUCT_BASKET"] = "Ð’ ÐºÐ¾Ñ€Ð·Ð¸Ð½Ñƒ";
 ?>

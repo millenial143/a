@@ -1,10 +1,10 @@
 <?
-$MESS["GD_PRD_P_SITE_ID"] = "Ñàéò";
-$MESS["GD_PRD_P_SITE_ID_ALL"] = "Âñå";
-$MESS["GD_PRD_P_WEEK"] = "Íåäåëÿ";
-$MESS["GD_PRD_P_MONTH"] = "Ìåñÿö";
-$MESS["GD_PRD_P_QUATER"] = "Êâàðòàë";
-$MESS["GD_PRD_P_YEAR"] = "Ãîä";
-$MESS["GD_PRD_P_PERIOD"] = "Ïåðèîä";
-$MESS["GD_PRD_P_LIMIT"] = "Êîëè÷åñòâî òîâàðîâ";
+$MESS["GD_PRD_P_SITE_ID"] = "Ð¡Ð°Ð¹Ñ‚";
+$MESS["GD_PRD_P_SITE_ID_ALL"] = "Ð’ÑÐµ";
+$MESS["GD_PRD_P_WEEK"] = "ÐÐµÐ´ÐµÐ»Ñ";
+$MESS["GD_PRD_P_MONTH"] = "ÐœÐµÑÑÑ†";
+$MESS["GD_PRD_P_QUATER"] = "ÐšÐ²Ð°Ñ€Ñ‚Ð°Ð»";
+$MESS["GD_PRD_P_YEAR"] = "Ð“Ð¾Ð´";
+$MESS["GD_PRD_P_PERIOD"] = "ÐŸÐµÑ€Ð¸Ð¾Ð´";
+$MESS["GD_PRD_P_LIMIT"] = "ÐšÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾ Ñ‚Ð¾Ð²Ð°Ñ€Ð¾Ð²";
 ?>

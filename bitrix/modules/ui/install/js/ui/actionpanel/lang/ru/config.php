@@ -1,4 +1,4 @@
 <?
-$MESS["JS_UI_ACTIONPANEL_MORE_BLOCK"] = "Åù¸";
-$MESS["JS_UI_ACTIONPANEL_IS_SELECTED"] = "Âûáðàíî:";
+$MESS["JS_UI_ACTIONPANEL_MORE_BLOCK"] = "Ð•Ñ‰Ñ‘";
+$MESS["JS_UI_ACTIONPANEL_IS_SELECTED"] = "Ð’Ñ‹Ð±Ñ€Ð°Ð½Ð¾:";
 ?>

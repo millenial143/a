@@ -1,2 +1,2 @@
 <?php
-$MESS["SALE_BSM_WIZARD_PUSHCHECKER_LICENSE_NOT_FOUND"] = "Ëèöåíçèÿ íå íàéäåíà";
+$MESS["SALE_BSM_WIZARD_PUSHCHECKER_LICENSE_NOT_FOUND"] = "Ð›Ð¸Ñ†ÐµÐ½Ð·Ð¸Ñ Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½Ð°";

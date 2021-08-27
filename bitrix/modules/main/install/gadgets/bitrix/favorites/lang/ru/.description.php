@@ -1,4 +1,4 @@
 <?
-$MESS ['GD_FAVORITES_NAME'] = "Èçáðàííûå ññûëêè";
-$MESS ['GD_FAVORITES_DESC'] = "Âûâîäèò èçáðàííûå ññûëêè";
+$MESS ['GD_FAVORITES_NAME'] = "Ð˜Ð·Ð±Ñ€Ð°Ð½Ð½Ñ‹Ðµ ÑÑÑ‹Ð»ÐºÐ¸";
+$MESS ['GD_FAVORITES_DESC'] = "Ð’Ñ‹Ð²Ð¾Ð´Ð¸Ñ‚ Ð¸Ð·Ð±Ñ€Ð°Ð½Ð½Ñ‹Ðµ ÑÑÑ‹Ð»ÐºÐ¸";
 ?>

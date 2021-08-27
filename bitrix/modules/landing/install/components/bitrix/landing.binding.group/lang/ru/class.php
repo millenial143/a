@@ -1,4 +1,4 @@
 <?php
-$MESS['LANDING_CMP_NOT_GROUP_ID'] = 'Íå çàäàí èäåíòèôèêàòîð ãðóïïû';
-$MESS['LANDING_CMP_NOT_IN_GROUP'] = 'Âû íå ñîñòîèòå â äàííîé ãðóïïå';
-$MESS['LANDING_CMP_ALREADY_EXIST'] = 'Ïðèâÿçêà óæå ñóùåñòâóåò';
+$MESS['LANDING_CMP_NOT_GROUP_ID'] = 'ÐÐµ Ð·Ð°Ð´Ð°Ð½ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð³Ñ€ÑƒÐ¿Ð¿Ñ‹';
+$MESS['LANDING_CMP_NOT_IN_GROUP'] = 'Ð’Ñ‹ Ð½Ðµ ÑÐ¾ÑÑ‚Ð¾Ð¸Ñ‚Ðµ Ð² Ð´Ð°Ð½Ð½Ð¾Ð¹ Ð³Ñ€ÑƒÐ¿Ð¿Ðµ';
+$MESS['LANDING_CMP_ALREADY_EXIST'] = 'ÐŸÑ€Ð¸Ð²ÑÐ·ÐºÐ° ÑƒÐ¶Ðµ ÑÑƒÑ‰ÐµÑÑ‚Ð²ÑƒÐµÑ‚';

@@ -1,4 +1,4 @@
 <?
-$MESS["B24C_BUTTONS_LIST_NAME"] = "Ñïèñîê êíîïîê";
-$MESS["B24C_BUTTONS_LIST_DESCRIPTION"] = "Ñïèñîê êíîïîê äëÿ íàñòðîéêè";
+$MESS["B24C_BUTTONS_LIST_NAME"] = "Ð¡Ð¿Ð¸ÑÐ¾Ðº ÐºÐ½Ð¾Ð¿Ð¾Ðº";
+$MESS["B24C_BUTTONS_LIST_DESCRIPTION"] = "Ð¡Ð¿Ð¸ÑÐ¾Ðº ÐºÐ½Ð¾Ð¿Ð¾Ðº Ð´Ð»Ñ Ð½Ð°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸";
 ?>

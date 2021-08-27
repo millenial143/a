@@ -1,6 +1,6 @@
 <?
-$MESS ['IBL_NEWS_CAL_PR_M'] = "Ïðåäûäóùèé ìåñÿö";
-$MESS ['IBL_NEWS_CAL_N_M'] = "Ñëåäóþùèé ìåñÿö";
-$MESS ['IBL_NEWS_CAL_PR_Y'] = "Ïðåäûäóùèé ãîä";
-$MESS ['IBL_NEWS_CAL_N_Y'] = "Ñëåäóþùèé ãîä";
+$MESS ['IBL_NEWS_CAL_PR_M'] = "ÐŸÑ€ÐµÐ´Ñ‹Ð´ÑƒÑ‰Ð¸Ð¹ Ð¼ÐµÑÑÑ†";
+$MESS ['IBL_NEWS_CAL_N_M'] = "Ð¡Ð»ÐµÐ´ÑƒÑŽÑ‰Ð¸Ð¹ Ð¼ÐµÑÑÑ†";
+$MESS ['IBL_NEWS_CAL_PR_Y'] = "ÐŸÑ€ÐµÐ´Ñ‹Ð´ÑƒÑ‰Ð¸Ð¹ Ð³Ð¾Ð´";
+$MESS ['IBL_NEWS_CAL_N_Y'] = "Ð¡Ð»ÐµÐ´ÑƒÑŽÑ‰Ð¸Ð¹ Ð³Ð¾Ð´";
 ?>
