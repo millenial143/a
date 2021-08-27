@@ -1,3 +1,3 @@
 <?php
-$MESS["SENDER_COMP_TOLOKA_EDIT_TITLE_TEMPLATES"] = "Âûáðàòü øàáëîí ßíäåêñ.Òîëîêà";
-$MESS["SENDER_COMP_TOLOKA_CONNECT"] = "Ïîäêëþ÷åíèå ßíäåêñ.Òîëîêà";
+$MESS["SENDER_COMP_TOLOKA_EDIT_TITLE_TEMPLATES"] = "Ð’Ñ‹Ð±Ñ€Ð°Ñ‚ÑŒ ÑˆÐ°Ð±Ð»Ð¾Ð½ Ð¯Ð½Ð´ÐµÐºÑ.Ð¢Ð¾Ð»Ð¾ÐºÐ°";
+$MESS["SENDER_COMP_TOLOKA_CONNECT"] = "ÐŸÐ¾Ð´ÐºÐ»ÑŽÑ‡ÐµÐ½Ð¸Ðµ Ð¯Ð½Ð´ÐµÐºÑ.Ð¢Ð¾Ð»Ð¾ÐºÐ°";

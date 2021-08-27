@@ -1,6 +1,6 @@
 <?
-$MESS ['MYMS_COMP_NAME'] = "ßíäåêñ.Êàðòû: ïîèñê ïî àäðåñó";
-$MESS ['MYMS_COMP_DESCRIPTION'] = "ßíäåêñ.Êàðòà ñ ôîðìîé ïîèñêà ïî àäðåñó";
-$MESS ['MAIN_YANDEX_MAP_SERVICE'] = "ßíäåêñ.Êàðòû";
-$MESS ['MAIN_Y_CONTENT'] = "Êîíòåíò";
+$MESS ['MYMS_COMP_NAME'] = "Ð¯Ð½Ð´ÐµÐºÑ.ÐšÐ°Ñ€Ñ‚Ñ‹: Ð¿Ð¾Ð¸ÑÐº Ð¿Ð¾ Ð°Ð´Ñ€ÐµÑÑƒ";
+$MESS ['MYMS_COMP_DESCRIPTION'] = "Ð¯Ð½Ð´ÐµÐºÑ.ÐšÐ°Ñ€Ñ‚Ð° Ñ Ñ„Ð¾Ñ€Ð¼Ð¾Ð¹ Ð¿Ð¾Ð¸ÑÐºÐ° Ð¿Ð¾ Ð°Ð´Ñ€ÐµÑÑƒ";
+$MESS ['MAIN_YANDEX_MAP_SERVICE'] = "Ð¯Ð½Ð´ÐµÐºÑ.ÐšÐ°Ñ€Ñ‚Ñ‹";
+$MESS ['MAIN_Y_CONTENT'] = "ÐšÐ¾Ð½Ñ‚ÐµÐ½Ñ‚";
 ?>

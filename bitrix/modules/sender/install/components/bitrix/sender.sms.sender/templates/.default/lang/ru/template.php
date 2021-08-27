@@ -1,7 +1,7 @@
 <?
-$MESS ['SENDER_SMS_SENDER_TEMPLATE_SERVICE'] = "÷åðåç ñåðâèñ";
-$MESS ['SENDER_SMS_SENDER_TEMPLATE_FROM_NUMBER'] = "ñ íîìåðà";
-$MESS ['SENDER_SMS_SENDER_TEMPLATE_SETUP'] = "íàñòðîèòü";
-$MESS ['SENDER_SMS_SENDER_TEMPLATE_HINT'] = "Äîáàâèòü èëè íàñòðîèòü íîìåð âû ìîæåòå â íàñòðîéêàõ CRM, â ðàçäåëå èíòåãðàöèé.";
-$MESS ['SENDER_SMS_SENDER_MARKETPLACE_LINK'] = "Âûáðàòü äðóãîé ñåðâèñ";
+$MESS ['SENDER_SMS_SENDER_TEMPLATE_SERVICE'] = "Ñ‡ÐµÑ€ÐµÐ· ÑÐµÑ€Ð²Ð¸Ñ";
+$MESS ['SENDER_SMS_SENDER_TEMPLATE_FROM_NUMBER'] = "Ñ Ð½Ð¾Ð¼ÐµÑ€Ð°";
+$MESS ['SENDER_SMS_SENDER_TEMPLATE_SETUP'] = "Ð½Ð°ÑÑ‚Ñ€Ð¾Ð¸Ñ‚ÑŒ";
+$MESS ['SENDER_SMS_SENDER_TEMPLATE_HINT'] = "Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ Ð¸Ð»Ð¸ Ð½Ð°ÑÑ‚Ñ€Ð¾Ð¸Ñ‚ÑŒ Ð½Ð¾Ð¼ÐµÑ€ Ð²Ñ‹ Ð¼Ð¾Ð¶ÐµÑ‚Ðµ Ð² Ð½Ð°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ°Ñ… CRM, Ð² Ñ€Ð°Ð·Ð´ÐµÐ»Ðµ Ð¸Ð½Ñ‚ÐµÐ³Ñ€Ð°Ñ†Ð¸Ð¹.";
+$MESS ['SENDER_SMS_SENDER_MARKETPLACE_LINK'] = "Ð’Ñ‹Ð±Ñ€Ð°Ñ‚ÑŒ Ð´Ñ€ÑƒÐ³Ð¾Ð¹ ÑÐµÑ€Ð²Ð¸Ñ";
 ?>

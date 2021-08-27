@@ -1,7 +1,7 @@
 <?
-$MESS["IEST_CURRENT_SELECTED_ITEMS"] = "Âûáðàííûå";
-$MESS["IEST_SELECT_ITEMS"] = "Âûáðàòü";
-$MESS["IEST_ERROR_ACCESS_DENIED"] = "Ó âàñ íåò ïðàâ äëÿ ïðîñìîòðà ýëåìåíòîâ";
-$MESS["IEST_LAST_ELEMENT"] = "Ïîñëåäíèå";
-$MESS["IEST_ELEMENT_SEARCH"] = "Ïîèñê";
+$MESS["IEST_CURRENT_SELECTED_ITEMS"] = "Ð’Ñ‹Ð±Ñ€Ð°Ð½Ð½Ñ‹Ðµ";
+$MESS["IEST_SELECT_ITEMS"] = "Ð’Ñ‹Ð±Ñ€Ð°Ñ‚ÑŒ";
+$MESS["IEST_ERROR_ACCESS_DENIED"] = "Ð£ Ð²Ð°Ñ Ð½ÐµÑ‚ Ð¿Ñ€Ð°Ð² Ð´Ð»Ñ Ð¿Ñ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€Ð° ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð¾Ð²";
+$MESS["IEST_LAST_ELEMENT"] = "ÐŸÐ¾ÑÐ»ÐµÐ´Ð½Ð¸Ðµ";
+$MESS["IEST_ELEMENT_SEARCH"] = "ÐŸÐ¾Ð¸ÑÐº";
 ?>

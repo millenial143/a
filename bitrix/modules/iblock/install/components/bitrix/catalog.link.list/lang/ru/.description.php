@@ -1,5 +1,5 @@
 <?
-$MESS ['T_IBLOCK_DESC_CATALOG'] = "Êàòàëîã";
-$MESS ['IBLOCK_LINK_ELEMENT_LIST_TEMPLATE_NAME'] = "Ñïèñîê ñâÿçàííûõ ýëåìåíòîâ";
-$MESS ['IBLOCK_LINK_ELEMENT_LIST_TEMPLATE_DESCRIPTION'] = "Âûâîäèò ñïèñîê ñâÿçàííûõ ýëåìåíòîâ äëÿ çàäàííîãî ýëåìåíòà";
+$MESS ['T_IBLOCK_DESC_CATALOG'] = "ÐšÐ°Ñ‚Ð°Ð»Ð¾Ð³";
+$MESS ['IBLOCK_LINK_ELEMENT_LIST_TEMPLATE_NAME'] = "Ð¡Ð¿Ð¸ÑÐ¾Ðº ÑÐ²ÑÐ·Ð°Ð½Ð½Ñ‹Ñ… ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð¾Ð²";
+$MESS ['IBLOCK_LINK_ELEMENT_LIST_TEMPLATE_DESCRIPTION'] = "Ð’Ñ‹Ð²Ð¾Ð´Ð¸Ñ‚ ÑÐ¿Ð¸ÑÐ¾Ðº ÑÐ²ÑÐ·Ð°Ð½Ð½Ñ‹Ñ… ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð¾Ð² Ð´Ð»Ñ Ð·Ð°Ð´Ð°Ð½Ð½Ð¾Ð³Ð¾ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð°";
 ?>

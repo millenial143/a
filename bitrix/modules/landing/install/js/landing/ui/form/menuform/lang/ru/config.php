@@ -1,3 +1,3 @@
 <?php
-$MESS['LANDING_ADD_MENU_ITEM'] = 'Äîáàâèòü ïóíêò';
-$MESS['LANDING_NEW_PAGE_LABEL'] = 'Íîâàÿ ñòðàíèöà';
+$MESS['LANDING_ADD_MENU_ITEM'] = 'Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ Ð¿ÑƒÐ½ÐºÑ‚';
+$MESS['LANDING_NEW_PAGE_LABEL'] = 'ÐÐ¾Ð²Ð°Ñ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ð°';

@@ -1,5 +1,5 @@
 <?
-$MESS ['MAIN_MAIL_UNSUBSCRIBE_DESC_NAME'] = "Ôîðìà îòïèñêè îò ïèñåì";
-$MESS ['MAIN_MAIL_UNSUBSCRIBE_DESC_DESC'] = "Ôîðìà îòïèñêè îò ïèñåì";
-$MESS ['MAIN_USER_GROUP_NAME'] = "Ïîëüçîâàòåëü";
+$MESS ['MAIN_MAIL_UNSUBSCRIBE_DESC_NAME'] = "Ð¤Ð¾Ñ€Ð¼Ð° Ð¾Ñ‚Ð¿Ð¸ÑÐºÐ¸ Ð¾Ñ‚ Ð¿Ð¸ÑÐµÐ¼";
+$MESS ['MAIN_MAIL_UNSUBSCRIBE_DESC_DESC'] = "Ð¤Ð¾Ñ€Ð¼Ð° Ð¾Ñ‚Ð¿Ð¸ÑÐºÐ¸ Ð¾Ñ‚ Ð¿Ð¸ÑÐµÐ¼";
+$MESS ['MAIN_USER_GROUP_NAME'] = "ÐŸÐ¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒ";
 ?>

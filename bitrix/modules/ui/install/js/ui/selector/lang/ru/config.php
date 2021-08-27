@@ -1,9 +1,9 @@
 <?
-$MESS["MAIN_UI_SELECTOR_SELECT_TEXT"] = "Âñå ýëåìåíòû ãðóïïû ñ ïîäãðóïïàìè";
-$MESS["MAIN_UI_SELECTOR_SELECT_FLAT_TEXT"] = "Âñå ýëåìåíòû ãðóïïû";
-$MESS["MAIN_UI_SELECTOR_PLEASE_WAIT"] = "Çàãðóçêà, ïîæàëóéñòà ïîäîæäèòå...";
-$MESS["MAIN_UI_SELECTOR_WAITER_TEXT"] = "Èäåò ïîèñê äîïîëíèòåëüíûõ ðåçóëüòàòîâ...";
-$MESS["MAIN_UI_SELECTOR_SEARCH_TAB_TITLE"] = "Ïîèñê";
-$MESS["MAIN_UI_SELECTOR_HIDDEN_TITLE"] = "Ñêðûòî";
-$MESS["MAIN_UI_SELECTOR_STUB_PLEASE_WAIT"] = "Ïîæàëóéñòà ïîäîæäèòå, èäåò ïîèñê...";
-$MESS["MAIN_UI_SELECTOR_STUB_EMPTY_LIST"] = "Íåò ýëåìåíòîâ äëÿ îòîáðàæåíèÿ";
+$MESS["MAIN_UI_SELECTOR_SELECT_TEXT"] = "Ð’ÑÐµ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ñ‹ Ð³Ñ€ÑƒÐ¿Ð¿Ñ‹ Ñ Ð¿Ð¾Ð´Ð³Ñ€ÑƒÐ¿Ð¿Ð°Ð¼Ð¸";
+$MESS["MAIN_UI_SELECTOR_SELECT_FLAT_TEXT"] = "Ð’ÑÐµ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ñ‹ Ð³Ñ€ÑƒÐ¿Ð¿Ñ‹";
+$MESS["MAIN_UI_SELECTOR_PLEASE_WAIT"] = "Ð—Ð°Ð³Ñ€ÑƒÐ·ÐºÐ°, Ð¿Ð¾Ð¶Ð°Ð»ÑƒÐ¹ÑÑ‚Ð° Ð¿Ð¾Ð´Ð¾Ð¶Ð´Ð¸Ñ‚Ðµ...";
+$MESS["MAIN_UI_SELECTOR_WAITER_TEXT"] = "Ð˜Ð´ÐµÑ‚ Ð¿Ð¾Ð¸ÑÐº Ð´Ð¾Ð¿Ð¾Ð»Ð½Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ñ‹Ñ… Ñ€ÐµÐ·ÑƒÐ»ÑŒÑ‚Ð°Ñ‚Ð¾Ð²...";
+$MESS["MAIN_UI_SELECTOR_SEARCH_TAB_TITLE"] = "ÐŸÐ¾Ð¸ÑÐº";
+$MESS["MAIN_UI_SELECTOR_HIDDEN_TITLE"] = "Ð¡ÐºÑ€Ñ‹Ñ‚Ð¾";
+$MESS["MAIN_UI_SELECTOR_STUB_PLEASE_WAIT"] = "ÐŸÐ¾Ð¶Ð°Ð»ÑƒÐ¹ÑÑ‚Ð° Ð¿Ð¾Ð´Ð¾Ð¶Ð´Ð¸Ñ‚Ðµ, Ð¸Ð´ÐµÑ‚ Ð¿Ð¾Ð¸ÑÐº...";
+$MESS["MAIN_UI_SELECTOR_STUB_EMPTY_LIST"] = "ÐÐµÑ‚ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð¾Ð² Ð´Ð»Ñ Ð¾Ñ‚Ð¾Ð±Ñ€Ð°Ð¶ÐµÐ½Ð¸Ñ";

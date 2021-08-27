@@ -1,5 +1,5 @@
 <?
-$MESS["RATING_COMPONENT_PROGRESS"] = "èçìåíåíèå: ";
-$MESS["RATING_COMPONENT_CURRENT_POSITION"] = "Ìåñòî â ðåéòèíãå: ";
-$MESS["RATING_COMPONENT_PREVIOUS_POSITION"] = "ïðåäûäóùåå: ";
+$MESS["RATING_COMPONENT_PROGRESS"] = "Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ðµ: ";
+$MESS["RATING_COMPONENT_CURRENT_POSITION"] = "ÐœÐµÑÑ‚Ð¾ Ð² Ñ€ÐµÐ¹Ñ‚Ð¸Ð½Ð³Ðµ: ";
+$MESS["RATING_COMPONENT_PREVIOUS_POSITION"] = "Ð¿Ñ€ÐµÐ´Ñ‹Ð´ÑƒÑ‰ÐµÐµ: ";
 ?>

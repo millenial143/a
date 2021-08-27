@@ -1,5 +1,5 @@
 <?
-$MESS ['WD_NEXT_ADVICE'] = "ñëåäóþùèé ñîâåò";
-$MESS ['WD_PREV_ADVICE'] = "ïðåäûäóùèé ñîâåò";
-$MESS ['WD_BANNER_CLOSE'] = "Çàêðûòü ïîäñêàçêè";
+$MESS ['WD_NEXT_ADVICE'] = "ÑÐ»ÐµÐ´ÑƒÑŽÑ‰Ð¸Ð¹ ÑÐ¾Ð²ÐµÑ‚";
+$MESS ['WD_PREV_ADVICE'] = "Ð¿Ñ€ÐµÐ´Ñ‹Ð´ÑƒÑ‰Ð¸Ð¹ ÑÐ¾Ð²ÐµÑ‚";
+$MESS ['WD_BANNER_CLOSE'] = "Ð—Ð°ÐºÑ€Ñ‹Ñ‚ÑŒ Ð¿Ð¾Ð´ÑÐºÐ°Ð·ÐºÐ¸";
 ?>

@@ -1,5 +1,5 @@
 <?
-$MESS["SENDER_CONTACT_SET_LIST_TITLE"] = "Ñòàòè÷åñêèå íàáîðû àäðåñîâ";
-$MESS["SENDER_CONTACT_SET_LIST_UI_COLUMN_NAME"] = "Íàçâàíèå";
-$MESS["SENDER_CONTACT_SET_LIST_UI_COLUMN_CODE"] = "Ñèìâîëüíûé êîä";
+$MESS["SENDER_CONTACT_SET_LIST_TITLE"] = "Ð¡Ñ‚Ð°Ñ‚Ð¸Ñ‡ÐµÑÐºÐ¸Ðµ Ð½Ð°Ð±Ð¾Ñ€Ñ‹ Ð°Ð´Ñ€ÐµÑÐ¾Ð²";
+$MESS["SENDER_CONTACT_SET_LIST_UI_COLUMN_NAME"] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ";
+$MESS["SENDER_CONTACT_SET_LIST_UI_COLUMN_CODE"] = "Ð¡Ð¸Ð¼Ð²Ð¾Ð»ÑŒÐ½Ñ‹Ð¹ ÐºÐ¾Ð´";
 ?>

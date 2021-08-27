@@ -1,12 +1,12 @@
 <?php
-$MESS['LANDING_TPL_TITLE'] = 'Ïðàâà äîñòóïà';
-$MESS['LANDING_TPL_COL_ROLE'] = 'Ðîëü';
-$MESS['LANDING_TPL_COL_ROLES'] = 'Ñïèñîê ðîëåé';
-$MESS['LANDING_TPL_ACTION_ADD'] = 'Äîáàâèòü';
-$MESS['LANDING_TPL_ACTION_EDIT'] = 'Ðåäàêòèðîâàòü';
-$MESS['LANDING_TPL_ACTION_DEL'] = 'Óäàëèòü';
-$MESS['LANDING_TPL_ACTION_SAVE'] = 'Ñîõðàíèòü';
-$MESS['LANDING_TPL_ACTION_RIGHT'] = 'Äîáàâèòü ïðàâî äîñòóïà';
-$MESS['LANDING_TPL_EXTENDED_MODE'] = 'Âêëþ÷åíà ðàñøèðåííàÿ ìîäåëü ïðàâ. Âû ìîæåòå óñòàíàâëèâàòü ïðàâà â íàñòðîéêàõ êîíêðåòíîãî ñàéòà.';
-$MESS['LANDING_TPL_BUTTON_MODE_TO_ROLE'] = 'Ïåðåêëþ÷èòü íà ðîëåâóþ ìîäåëü';
-$MESS['LANDING_TPL_BUTTON_SAVE'] = 'Ñîõðàíèòü';
+$MESS['LANDING_TPL_TITLE'] = 'ÐŸÑ€Ð°Ð²Ð° Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð°';
+$MESS['LANDING_TPL_COL_ROLE'] = 'Ð Ð¾Ð»ÑŒ';
+$MESS['LANDING_TPL_COL_ROLES'] = 'Ð¡Ð¿Ð¸ÑÐ¾Ðº Ñ€Ð¾Ð»ÐµÐ¹';
+$MESS['LANDING_TPL_ACTION_ADD'] = 'Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ';
+$MESS['LANDING_TPL_ACTION_EDIT'] = 'Ð ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ';
+$MESS['LANDING_TPL_ACTION_DEL'] = 'Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ';
+$MESS['LANDING_TPL_ACTION_SAVE'] = 'Ð¡Ð¾Ñ…Ñ€Ð°Ð½Ð¸Ñ‚ÑŒ';
+$MESS['LANDING_TPL_ACTION_RIGHT'] = 'Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ Ð¿Ñ€Ð°Ð²Ð¾ Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð°';
+$MESS['LANDING_TPL_EXTENDED_MODE'] = 'Ð’ÐºÐ»ÑŽÑ‡ÐµÐ½Ð° Ñ€Ð°ÑÑˆÐ¸Ñ€ÐµÐ½Ð½Ð°Ñ Ð¼Ð¾Ð´ÐµÐ»ÑŒ Ð¿Ñ€Ð°Ð². Ð’Ñ‹ Ð¼Ð¾Ð¶ÐµÑ‚Ðµ ÑƒÑÑ‚Ð°Ð½Ð°Ð²Ð»Ð¸Ð²Ð°Ñ‚ÑŒ Ð¿Ñ€Ð°Ð²Ð° Ð² Ð½Ð°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ°Ñ… ÐºÐ¾Ð½ÐºÑ€ÐµÑ‚Ð½Ð¾Ð³Ð¾ ÑÐ°Ð¹Ñ‚Ð°.';
+$MESS['LANDING_TPL_BUTTON_MODE_TO_ROLE'] = 'ÐŸÐµÑ€ÐµÐºÐ»ÑŽÑ‡Ð¸Ñ‚ÑŒ Ð½Ð° Ñ€Ð¾Ð»ÐµÐ²ÑƒÑŽ Ð¼Ð¾Ð´ÐµÐ»ÑŒ';
+$MESS['LANDING_TPL_BUTTON_SAVE'] = 'Ð¡Ð¾Ñ…Ñ€Ð°Ð½Ð¸Ñ‚ÑŒ';

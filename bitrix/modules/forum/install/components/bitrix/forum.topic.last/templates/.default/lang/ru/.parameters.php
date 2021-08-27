@@ -1,13 +1,13 @@
 <?
-$MESS ['F_SHOW_NAV'] = "Ïîêàçûâàòü íàâèãàöèþ";
-$MESS ['F_SHOW_NAV_TOP'] = "ñâåðõó";
-$MESS ['F_SHOW_NAV_BOTTOM'] = "ñíèçó";
-$MESS ['F_SHOW_COLUMNS'] = "Ïîêàçûâàòü êîëîíêè";
-$MESS ['F_SHOW_COLUMNS_USER_START_NAME'] = "àâòîð òåìû";
-$MESS ['F_SHOW_COLUMNS_POSTS'] = "êîëè÷åñòâî îòâåòîâ";
-$MESS ['F_SHOW_COLUMNS_VIEWS'] = "êîëè÷åñòâî ïðîñìîòðîâ";
-$MESS ['F_SHOW_COLUMNS_LAST_POST_DATE'] = "îáíîâëåíèå òåìû";
-$MESS ['F_SHOW_SORTING'] = "Ïîêàçûâàòü ñîðòèðîâêó";
-$MESS ['F_SEPARATE'] = "Øàáëîí-ðàçäåëèòåëü äëÿ òåìû è ôîðóìà";
-$MESS ['F_IN_FORUM'] = "â ôîðóìå #FORUM#";
+$MESS ['F_SHOW_NAV'] = "ÐŸÐ¾ÐºÐ°Ð·Ñ‹Ð²Ð°Ñ‚ÑŒ Ð½Ð°Ð²Ð¸Ð³Ð°Ñ†Ð¸ÑŽ";
+$MESS ['F_SHOW_NAV_TOP'] = "ÑÐ²ÐµÑ€Ñ…Ñƒ";
+$MESS ['F_SHOW_NAV_BOTTOM'] = "ÑÐ½Ð¸Ð·Ñƒ";
+$MESS ['F_SHOW_COLUMNS'] = "ÐŸÐ¾ÐºÐ°Ð·Ñ‹Ð²Ð°Ñ‚ÑŒ ÐºÐ¾Ð»Ð¾Ð½ÐºÐ¸";
+$MESS ['F_SHOW_COLUMNS_USER_START_NAME'] = "Ð°Ð²Ñ‚Ð¾Ñ€ Ñ‚ÐµÐ¼Ñ‹";
+$MESS ['F_SHOW_COLUMNS_POSTS'] = "ÐºÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾ Ð¾Ñ‚Ð²ÐµÑ‚Ð¾Ð²";
+$MESS ['F_SHOW_COLUMNS_VIEWS'] = "ÐºÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾ Ð¿Ñ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€Ð¾Ð²";
+$MESS ['F_SHOW_COLUMNS_LAST_POST_DATE'] = "Ð¾Ð±Ð½Ð¾Ð²Ð»ÐµÐ½Ð¸Ðµ Ñ‚ÐµÐ¼Ñ‹";
+$MESS ['F_SHOW_SORTING'] = "ÐŸÐ¾ÐºÐ°Ð·Ñ‹Ð²Ð°Ñ‚ÑŒ ÑÐ¾Ñ€Ñ‚Ð¸Ñ€Ð¾Ð²ÐºÑƒ";
+$MESS ['F_SEPARATE'] = "Ð¨Ð°Ð±Ð»Ð¾Ð½-Ñ€Ð°Ð·Ð´ÐµÐ»Ð¸Ñ‚ÐµÐ»ÑŒ Ð´Ð»Ñ Ñ‚ÐµÐ¼Ñ‹ Ð¸ Ñ„Ð¾Ñ€ÑƒÐ¼Ð°";
+$MESS ['F_IN_FORUM'] = "Ð² Ñ„Ð¾Ñ€ÑƒÐ¼Ðµ #FORUM#";
 ?>

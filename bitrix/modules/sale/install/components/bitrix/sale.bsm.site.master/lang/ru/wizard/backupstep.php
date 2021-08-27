@@ -1,7 +1,7 @@
 <?php
-$MESS["SALE_BSM_WIZARD_BACKUPSTEP_TITLE"] = "Резервная копия";
-$MESS["SALE_BSM_WIZARD_BACKUPSTEP_DESCR_TEXT"] = "Перед запуском мастера рекомендуется сделать резервную копию сайта.";
-$MESS["SALE_BSM_WIZARD_BACKUPSTEP_DESCR_LINK"] = "Подробнее о создании резервной копии Вы можете узнать в <a href=\"#LINK_INSTRUCTION#\" target=\"_blank\">документации</a>";
-$MESS["SALE_BSM_WIZARD_BACKUPSTEP_DESCR_NEXT"] = "После создания резервной копии нажмите на кнопку \"Продолжить\"";
-$MESS["SALE_BSM_WIZARD_BACKUPSTEP_NEXT"] = "Продолжить";
-$MESS["SALE_BSM_WIZARD_BACKUPSTEP_ALL_DONE"] = "Я всё выполнил";
+$MESS["SALE_BSM_WIZARD_BACKUPSTEP_TITLE"] = "Р РµР·РµСЂРІРЅР°СЏ РєРѕРїРёСЏ";
+$MESS["SALE_BSM_WIZARD_BACKUPSTEP_DESCR_TEXT"] = "РџРµСЂРµРґ Р·Р°РїСѓСЃРєРѕРј РјР°СЃС‚РµСЂР° СЂРµРєРѕРјРµРЅРґСѓРµС‚СЃСЏ СЃРґРµР»Р°С‚СЊ СЂРµР·РµСЂРІРЅСѓСЋ РєРѕРїРёСЋ СЃР°Р№С‚Р°.";
+$MESS["SALE_BSM_WIZARD_BACKUPSTEP_DESCR_LINK"] = "РџРѕРґСЂРѕР±РЅРµРµ Рѕ СЃРѕР·РґР°РЅРёРё СЂРµР·РµСЂРІРЅРѕР№ РєРѕРїРёРё Р’С‹ РјРѕР¶РµС‚Рµ СѓР·РЅР°С‚СЊ РІ <a href=\"#LINK_INSTRUCTION#\" target=\"_blank\">РґРѕРєСѓРјРµРЅС‚Р°С†РёРё</a>";
+$MESS["SALE_BSM_WIZARD_BACKUPSTEP_DESCR_NEXT"] = "РџРѕСЃР»Рµ СЃРѕР·РґР°РЅРёСЏ СЂРµР·РµСЂРІРЅРѕР№ РєРѕРїРёРё РЅР°Р¶РјРёС‚Рµ РЅР° РєРЅРѕРїРєСѓ \"РџСЂРѕРґРѕР»Р¶РёС‚СЊ\"";
+$MESS["SALE_BSM_WIZARD_BACKUPSTEP_NEXT"] = "РџСЂРѕРґРѕР»Р¶РёС‚СЊ";
+$MESS["SALE_BSM_WIZARD_BACKUPSTEP_ALL_DONE"] = "РЇ РІСЃС‘ РІС‹РїРѕР»РЅРёР»";

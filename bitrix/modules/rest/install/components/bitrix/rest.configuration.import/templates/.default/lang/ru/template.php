@@ -1,18 +1,18 @@
 <?php
-$MESS['REST_CONFIGURATION_IMPORT_APP_ERROR_TYPE'] = 'Äàííîå ïðèëîæåíèå íå ÿâëÿåòñÿ êîíôèãóðàöèîííûì';
-$MESS['REST_CONFIGURATION_IMPORT_SAVE_FILE_BTN'] = 'Çàãðóçèòü';
-$MESS['REST_CONFIGURATION_IMPORT_TITLE_BLOCK'] = 'Èìïîðò îòðàñëåâûõ íàñòðîåê';
-$MESS['REST_CONFIGURATION_IMPORT_ROLLBACK_TITLE_BLOCK'] = 'Âîññòàíîâëåíèå îòðàñëåâûõ íàñòðîåê';
-$MESS['REST_CONFIGURATION_IMPORT_SAVE_FILE_DESCRIPTION'] = 'Çàãðóçèòå ôàéë ñ îòðàñëåâûìè íàñòðîéêàìè';
-$MESS['REST_CONFIGURATION_IMPORT_ROLLBACK_SUBMIT_BTN'] = 'Ïðèìåíèòü';
-$MESS['REST_CONFIGURATION_IMPORT_ROLLBACK_MODE_DESCRIPTION'] = 'Äëÿ óäàëåíèÿ èñïîëüçóåìîãî ïðèëîæåíèÿ íåîáõîäèìî âûáðàòü îäèí èç äîñòóïíûõ âàðèàíòîâ íàñòðîéêè âàøåãî Áèòðèêñ24, ëèáî âûáðàòü â ìàðêåòïëåéñå íîâîå ïðèëîæåíèå';
-$MESS['REST_CONFIGURATION_IMPORT_EASY_DELETE_APP'] = 'Ó âàñ íåò äîñòóïíûõ âàðèàíòîâ äëÿ èçìåíåíèÿ íàñòðîåê Áèòðèêñ24, ïîýòîìó ìû ïðîñòî óäàëèëè ïðèëîæåíèå';
+$MESS['REST_CONFIGURATION_IMPORT_APP_ERROR_TYPE'] = 'Ð”Ð°Ð½Ð½Ð¾Ðµ Ð¿Ñ€Ð¸Ð»Ð¾Ð¶ÐµÐ½Ð¸Ðµ Ð½Ðµ ÑÐ²Ð»ÑÐµÑ‚ÑÑ ÐºÐ¾Ð½Ñ„Ð¸Ð³ÑƒÑ€Ð°Ñ†Ð¸Ð¾Ð½Ð½Ñ‹Ð¼';
+$MESS['REST_CONFIGURATION_IMPORT_SAVE_FILE_BTN'] = 'Ð—Ð°Ð³Ñ€ÑƒÐ·Ð¸Ñ‚ÑŒ';
+$MESS['REST_CONFIGURATION_IMPORT_TITLE_BLOCK'] = 'Ð˜Ð¼Ð¿Ð¾Ñ€Ñ‚ Ð¾Ñ‚Ñ€Ð°ÑÐ»ÐµÐ²Ñ‹Ñ… Ð½Ð°ÑÑ‚Ñ€Ð¾ÐµÐº';
+$MESS['REST_CONFIGURATION_IMPORT_ROLLBACK_TITLE_BLOCK'] = 'Ð’Ð¾ÑÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½Ð¸Ðµ Ð¾Ñ‚Ñ€Ð°ÑÐ»ÐµÐ²Ñ‹Ñ… Ð½Ð°ÑÑ‚Ñ€Ð¾ÐµÐº';
+$MESS['REST_CONFIGURATION_IMPORT_SAVE_FILE_DESCRIPTION'] = 'Ð—Ð°Ð³Ñ€ÑƒÐ·Ð¸Ñ‚Ðµ Ñ„Ð°Ð¹Ð» Ñ Ð¾Ñ‚Ñ€Ð°ÑÐ»ÐµÐ²Ñ‹Ð¼Ð¸ Ð½Ð°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ°Ð¼Ð¸';
+$MESS['REST_CONFIGURATION_IMPORT_ROLLBACK_SUBMIT_BTN'] = 'ÐŸÑ€Ð¸Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ';
+$MESS['REST_CONFIGURATION_IMPORT_ROLLBACK_MODE_DESCRIPTION'] = 'Ð”Ð»Ñ ÑƒÐ´Ð°Ð»ÐµÐ½Ð¸Ñ Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·ÑƒÐµÐ¼Ð¾Ð³Ð¾ Ð¿Ñ€Ð¸Ð»Ð¾Ð¶ÐµÐ½Ð¸Ñ Ð½ÐµÐ¾Ð±Ñ…Ð¾Ð´Ð¸Ð¼Ð¾ Ð²Ñ‹Ð±Ñ€Ð°Ñ‚ÑŒ Ð¾Ð´Ð¸Ð½ Ð¸Ð· Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð½Ñ‹Ñ… Ð²Ð°Ñ€Ð¸Ð°Ð½Ñ‚Ð¾Ð² Ð½Ð°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸ Ð²Ð°ÑˆÐµÐ³Ð¾ Ð‘Ð¸Ñ‚Ñ€Ð¸ÐºÑ24, Ð»Ð¸Ð±Ð¾ Ð²Ñ‹Ð±Ñ€Ð°Ñ‚ÑŒ Ð² Ð¼Ð°Ñ€ÐºÐµÑ‚Ð¿Ð»ÐµÐ¹ÑÐµ Ð½Ð¾Ð²Ð¾Ðµ Ð¿Ñ€Ð¸Ð»Ð¾Ð¶ÐµÐ½Ð¸Ðµ';
+$MESS['REST_CONFIGURATION_IMPORT_EASY_DELETE_APP'] = 'Ð£ Ð²Ð°Ñ Ð½ÐµÑ‚ Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð½Ñ‹Ñ… Ð²Ð°Ñ€Ð¸Ð°Ð½Ñ‚Ð¾Ð² Ð´Ð»Ñ Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ñ Ð½Ð°ÑÑ‚Ñ€Ð¾ÐµÐº Ð‘Ð¸Ñ‚Ñ€Ð¸ÐºÑ24, Ð¿Ð¾ÑÑ‚Ð¾Ð¼Ñƒ Ð¼Ñ‹ Ð¿Ñ€Ð¾ÑÑ‚Ð¾ ÑƒÐ´Ð°Ð»Ð¸Ð»Ð¸ Ð¿Ñ€Ð¸Ð»Ð¾Ð¶ÐµÐ½Ð¸Ðµ';
 
-$MESS['REST_CONFIGURATION_IMPORT_FINISH_DESCRIPTION'] = 'Íàñòðîéêè óñïåøíî èìïîðòèðîâàíû';
-$MESS['REST_CONFIGURATION_IMPORT_FINISH_ERROR_DESCRIPTION'] = 'Íàñòðîéêè èìïîðòèðîâàíû, íî ñ íåêîòîðûìè îøèáêàìè.';
-$MESS['REST_CONFIGURATION_IMPORT_ERRORS_REPORT_BTN'] = 'Îò÷¸ò îá îøèáêàõ';
-$MESS['REST_CONFIGURATION_IMPORT_ERRORS_POPUP_TITLE'] = 'Îò÷¸ò îá îøèáêàõ';
-$MESS['REST_CONFIGURATION_IMPORT_ERRORS_POPUP_TEXT_LABEL'] = 'Îïèñàíèå ïðîáëåìû';
-$MESS['REST_CONFIGURATION_IMPORT_ERRORS_POPUP_TEXT_PLACEHOLDER'] = 'Òåêñò îïèñàíèÿ ïðîáëåìû';
-$MESS['REST_CONFIGURATION_IMPORT_ERRORS_POPUP_BTN_COPY'] = 'Êîïèðîâàòü';
-$MESS['REST_CONFIGURATION_IMPORT_ERRORS_MAX_FILE_SIZE'] = 'Ìàêñèìàëüíûé ðàçìåð çàãðóæàåìîãî ôàéëà: #SIZE# Ìáàéò';
+$MESS['REST_CONFIGURATION_IMPORT_FINISH_DESCRIPTION'] = 'ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸ ÑƒÑÐ¿ÐµÑˆÐ½Ð¾ Ð¸Ð¼Ð¿Ð¾Ñ€Ñ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ñ‹';
+$MESS['REST_CONFIGURATION_IMPORT_FINISH_ERROR_DESCRIPTION'] = 'ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸ Ð¸Ð¼Ð¿Ð¾Ñ€Ñ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ñ‹, Ð½Ð¾ Ñ Ð½ÐµÐºÐ¾Ñ‚Ð¾Ñ€Ñ‹Ð¼Ð¸ Ð¾ÑˆÐ¸Ð±ÐºÐ°Ð¼Ð¸.';
+$MESS['REST_CONFIGURATION_IMPORT_ERRORS_REPORT_BTN'] = 'ÐžÑ‚Ñ‡Ñ‘Ñ‚ Ð¾Ð± Ð¾ÑˆÐ¸Ð±ÐºÐ°Ñ…';
+$MESS['REST_CONFIGURATION_IMPORT_ERRORS_POPUP_TITLE'] = 'ÐžÑ‚Ñ‡Ñ‘Ñ‚ Ð¾Ð± Ð¾ÑˆÐ¸Ð±ÐºÐ°Ñ…';
+$MESS['REST_CONFIGURATION_IMPORT_ERRORS_POPUP_TEXT_LABEL'] = 'ÐžÐ¿Ð¸ÑÐ°Ð½Ð¸Ðµ Ð¿Ñ€Ð¾Ð±Ð»ÐµÐ¼Ñ‹';
+$MESS['REST_CONFIGURATION_IMPORT_ERRORS_POPUP_TEXT_PLACEHOLDER'] = 'Ð¢ÐµÐºÑÑ‚ Ð¾Ð¿Ð¸ÑÐ°Ð½Ð¸Ñ Ð¿Ñ€Ð¾Ð±Ð»ÐµÐ¼Ñ‹';
+$MESS['REST_CONFIGURATION_IMPORT_ERRORS_POPUP_BTN_COPY'] = 'ÐšÐ¾Ð¿Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ';
+$MESS['REST_CONFIGURATION_IMPORT_ERRORS_MAX_FILE_SIZE'] = 'ÐœÐ°ÐºÑÐ¸Ð¼Ð°Ð»ÑŒÐ½Ñ‹Ð¹ Ñ€Ð°Ð·Ð¼ÐµÑ€ Ð·Ð°Ð³Ñ€ÑƒÐ¶Ð°ÐµÐ¼Ð¾Ð³Ð¾ Ñ„Ð°Ð¹Ð»Ð°: #SIZE# ÐœÐ±Ð°Ð¹Ñ‚';

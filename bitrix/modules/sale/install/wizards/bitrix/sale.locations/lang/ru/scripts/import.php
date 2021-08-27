@@ -1,20 +1,20 @@
 <?
-$MESS['WSL_IMPORT_ERROR_ACCESS_DENIED'] = 'Ошибка! Нет доступа.';
-$MESS['WSL_IMPORT_ERROR_FILES'] = 'Ошибка! Неверные имена файлов.';
-$MESS['WSL_IMPORT_FILES_LOADING'] = 'Обрабатываем файлы...';
-$MESS['WSL_IMPORT_ERROR_NO_LOC_FILE'] = "Нет загруженного файла местоположений";
-$MESS['WSL_IMPORT_ERROR_WRONG_LOC_FILE'] = "Неверный формат файла местоположений";
-$MESS['WSL_IMPORT_ERROR_NO_LANG'] = "Не найден язык";
-$MESS['WSL_IMPORT_LOC_STATS'] = "Местоположения:<ul>
-<li>стран загружено: #NUMCOUNTRIES#</li>
-<li>регионов загружено: #NUMREGIONES#</li>
-<li>городов загружено: #NUMCITIES#</li>
-<li>Всего местоположений: #NUMLOCATIONS#</li>
+$MESS['WSL_IMPORT_ERROR_ACCESS_DENIED'] = 'РћС€РёР±РєР°! РќРµС‚ РґРѕСЃС‚СѓРїР°.';
+$MESS['WSL_IMPORT_ERROR_FILES'] = 'РћС€РёР±РєР°! РќРµРІРµСЂРЅС‹Рµ РёРјРµРЅР° С„Р°Р№Р»РѕРІ.';
+$MESS['WSL_IMPORT_FILES_LOADING'] = 'РћР±СЂР°Р±Р°С‚С‹РІР°РµРј С„Р°Р№Р»С‹...';
+$MESS['WSL_IMPORT_ERROR_NO_LOC_FILE'] = "РќРµС‚ Р·Р°РіСЂСѓР¶РµРЅРЅРѕРіРѕ С„Р°Р№Р»Р° РјРµСЃС‚РѕРїРѕР»РѕР¶РµРЅРёР№";
+$MESS['WSL_IMPORT_ERROR_WRONG_LOC_FILE'] = "РќРµРІРµСЂРЅС‹Р№ С„РѕСЂРјР°С‚ С„Р°Р№Р»Р° РјРµСЃС‚РѕРїРѕР»РѕР¶РµРЅРёР№";
+$MESS['WSL_IMPORT_ERROR_NO_LANG'] = "РќРµ РЅР°Р№РґРµРЅ СЏР·С‹Рє";
+$MESS['WSL_IMPORT_LOC_STATS'] = "РњРµСЃС‚РѕРїРѕР»РѕР¶РµРЅРёСЏ:<ul>
+<li>СЃС‚СЂР°РЅ Р·Р°РіСЂСѓР¶РµРЅРѕ: #NUMCOUNTRIES#</li>
+<li>СЂРµРіРёРѕРЅРѕРІ Р·Р°РіСЂСѓР¶РµРЅРѕ: #NUMREGIONES#</li>
+<li>РіРѕСЂРѕРґРѕРІ Р·Р°РіСЂСѓР¶РµРЅРѕ: #NUMCITIES#</li>
+<li>Р’СЃРµРіРѕ РјРµСЃС‚РѕРїРѕР»РѕР¶РµРЅРёР№: #NUMLOCATIONS#</li>
 </ul>";
-$MESS['WSL_IMPORT_ZIP_STATS'] = "Индексы:<ul>
-<li>индексов загружено: #NUMZIP#</li>
-<li>для городов: #NUMCITIES#</li>
+$MESS['WSL_IMPORT_ZIP_STATS'] = "РРЅРґРµРєСЃС‹:<ul>
+<li>РёРЅРґРµРєСЃРѕРІ Р·Р°РіСЂСѓР¶РµРЅРѕ: #NUMZIP#</li>
+<li>РґР»СЏ РіРѕСЂРѕРґРѕРІ: #NUMCITIES#</li>
 </ul>";
-$MESS['WSL_IMPORT_ERROR_NO_ZIP_FILE'] = "Нет файла с индексами";
-$MESS['WSL_IMPORT_ALL_DONE'] = 'Обработка завершена.';
+$MESS['WSL_IMPORT_ERROR_NO_ZIP_FILE'] = "РќРµС‚ С„Р°Р№Р»Р° СЃ РёРЅРґРµРєСЃР°РјРё";
+$MESS['WSL_IMPORT_ALL_DONE'] = 'РћР±СЂР°Р±РѕС‚РєР° Р·Р°РІРµСЂС€РµРЅР°.';
 ?>

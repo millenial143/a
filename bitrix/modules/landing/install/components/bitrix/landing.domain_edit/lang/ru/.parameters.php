@@ -1,3 +1,3 @@
 <?php
-$MESS['LANDING_CMP_PAR_DOMAIN_ID'] = 'ID äîìåíà';
-$MESS['LANDING_CMP_PAR_PAGE_URL_DOMAINS'] = 'Ññûëêà íà ñòðàíèöó ñî ñïèñêîì äîìåíîâ';
+$MESS['LANDING_CMP_PAR_DOMAIN_ID'] = 'ID Ð´Ð¾Ð¼ÐµÐ½Ð°';
+$MESS['LANDING_CMP_PAR_PAGE_URL_DOMAINS'] = 'Ð¡ÑÑ‹Ð»ÐºÐ° Ð½Ð° ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñƒ ÑÐ¾ ÑÐ¿Ð¸ÑÐºÐ¾Ð¼ Ð´Ð¾Ð¼ÐµÐ½Ð¾Ð²';

@@ -1,5 +1,5 @@
 <?
-$MESS ['BITRIXTVBIG_COMPONENT_NAME'] = "Âèäåîòåêà";
-$MESS ['BITRIXTVBIG_COMPONENT_DESCRIPTION'] = "Âûâîäèò âèäåî ñ äåðåâîì ðîëèêîâ";
-$MESS ['BITRIXTVBIG_COMPONENTS'] = "Ìåäèà";
+$MESS ['BITRIXTVBIG_COMPONENT_NAME'] = "Ð’Ð¸Ð´ÐµÐ¾Ñ‚ÐµÐºÐ°";
+$MESS ['BITRIXTVBIG_COMPONENT_DESCRIPTION'] = "Ð’Ñ‹Ð²Ð¾Ð´Ð¸Ñ‚ Ð²Ð¸Ð´ÐµÐ¾ Ñ Ð´ÐµÑ€ÐµÐ²Ð¾Ð¼ Ñ€Ð¾Ð»Ð¸ÐºÐ¾Ð²";
+$MESS ['BITRIXTVBIG_COMPONENTS'] = "ÐœÐµÐ´Ð¸Ð°";
 ?>

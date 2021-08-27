@@ -1,6 +1,6 @@
 <?
-$MESS["BX_CMP_CDI_TPL_MESS_NO_DISCOUNT_SAVE"] = "Âû íå ïîäïàäàåòå ïîä óñëîâèÿ äåéñòâèÿ íàêîïèòåëüíûõ ïðîãðàìì";
-$MESS["BX_CMP_CDI_TPL_MESS_DISCOUNT_SAVE"] = "Íàêîïèòåëüíûå ïðîãðàììû";
-$MESS["BX_CMP_CDI_TPL_MESS_SIZE"] = "Âàøà ñêèäêà ñîñòàâëÿåò";
-$MESS["BX_CMP_CDI_TPL_MESS_NEXT_LEVEL"] = "Äëÿ óâåëè÷åíèÿ ñêèäêè äî #SIZE# ñäåëàéòå çàêàç íà ñóììó íå ìåíåå #SUMM#";
+$MESS["BX_CMP_CDI_TPL_MESS_NO_DISCOUNT_SAVE"] = "Ð’Ñ‹ Ð½Ðµ Ð¿Ð¾Ð´Ð¿Ð°Ð´Ð°ÐµÑ‚Ðµ Ð¿Ð¾Ð´ ÑƒÑÐ»Ð¾Ð²Ð¸Ñ Ð´ÐµÐ¹ÑÑ‚Ð²Ð¸Ñ Ð½Ð°ÐºÐ¾Ð¿Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ñ‹Ñ… Ð¿Ñ€Ð¾Ð³Ñ€Ð°Ð¼Ð¼";
+$MESS["BX_CMP_CDI_TPL_MESS_DISCOUNT_SAVE"] = "ÐÐ°ÐºÐ¾Ð¿Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ñ‹Ðµ Ð¿Ñ€Ð¾Ð³Ñ€Ð°Ð¼Ð¼Ñ‹";
+$MESS["BX_CMP_CDI_TPL_MESS_SIZE"] = "Ð’Ð°ÑˆÐ° ÑÐºÐ¸Ð´ÐºÐ° ÑÐ¾ÑÑ‚Ð°Ð²Ð»ÑÐµÑ‚";
+$MESS["BX_CMP_CDI_TPL_MESS_NEXT_LEVEL"] = "Ð”Ð»Ñ ÑƒÐ²ÐµÐ»Ð¸Ñ‡ÐµÐ½Ð¸Ñ ÑÐºÐ¸Ð´ÐºÐ¸ Ð´Ð¾ #SIZE# ÑÐ´ÐµÐ»Ð°Ð¹Ñ‚Ðµ Ð·Ð°ÐºÐ°Ð· Ð½Ð° ÑÑƒÐ¼Ð¼Ñƒ Ð½Ðµ Ð¼ÐµÐ½ÐµÐµ #SUMM#";
 ?>

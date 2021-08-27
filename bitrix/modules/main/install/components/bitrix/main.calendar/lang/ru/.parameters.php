@@ -1,12 +1,12 @@
 <?
-$MESS ['COMP_MAIN_CALENDAR_SHOW_INPUT'] = "Ïîêàçûâàòü ýëåìåíò óïðàâëåíèÿ";
-$MESS ['COMP_MAIN_CALENDAR_SHOW_INPUT_Y'] = "ñ ïîëåì ââîäà";
-$MESS ['COMP_MAIN_CALENDAR_SHOW_INPUT_N'] = "òîëüêî èêîíêó";
-$MESS ['COMP_MAIN_CALENDAR_FORM_NAME'] = "Èìÿ ôîðìû";
-$MESS ['COMP_MAIN_CALENDAR_INPUT_NAME'] = "Èìÿ ïåðâîãî ïîëÿ èíòåðâàëà";
-$MESS ['COMP_MAIN_CALENDAR_INPUT_NAME_FINISH'] = "Èìÿ âòîðîãî ïîëÿ èíòåðâàëà";
-$MESS ['COMP_MAIN_CALENDAR_INPUT_VALUE'] = "Çíà÷åíèå ïåðâîãî ïîëÿ èíòåðâàëà";
-$MESS ['COMP_MAIN_CALENDAR_INPUT_VALUE_FINISH'] = "Çíà÷åíèå âòîðîãî ïîëÿ èíòåðâàëà";
-$MESS ['COMP_MAIN_CALENDAR_SHOW_TIME'] = "Ïîçâîëÿòü ââîäèòü âðåìÿ";
-$MESS ['COMP_MAIN_CALENDAR_HIDE_TIMEBAR'] = "Ñêðûâàòü ïîëå äëÿ ââîäà âðåìåíè";
+$MESS ['COMP_MAIN_CALENDAR_SHOW_INPUT'] = "ÐŸÐ¾ÐºÐ°Ð·Ñ‹Ð²Ð°Ñ‚ÑŒ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚ ÑƒÐ¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¸Ñ";
+$MESS ['COMP_MAIN_CALENDAR_SHOW_INPUT_Y'] = "Ñ Ð¿Ð¾Ð»ÐµÐ¼ Ð²Ð²Ð¾Ð´Ð°";
+$MESS ['COMP_MAIN_CALENDAR_SHOW_INPUT_N'] = "Ñ‚Ð¾Ð»ÑŒÐºÐ¾ Ð¸ÐºÐ¾Ð½ÐºÑƒ";
+$MESS ['COMP_MAIN_CALENDAR_FORM_NAME'] = "Ð˜Ð¼Ñ Ñ„Ð¾Ñ€Ð¼Ñ‹";
+$MESS ['COMP_MAIN_CALENDAR_INPUT_NAME'] = "Ð˜Ð¼Ñ Ð¿ÐµÑ€Ð²Ð¾Ð³Ð¾ Ð¿Ð¾Ð»Ñ Ð¸Ð½Ñ‚ÐµÑ€Ð²Ð°Ð»Ð°";
+$MESS ['COMP_MAIN_CALENDAR_INPUT_NAME_FINISH'] = "Ð˜Ð¼Ñ Ð²Ñ‚Ð¾Ñ€Ð¾Ð³Ð¾ Ð¿Ð¾Ð»Ñ Ð¸Ð½Ñ‚ÐµÑ€Ð²Ð°Ð»Ð°";
+$MESS ['COMP_MAIN_CALENDAR_INPUT_VALUE'] = "Ð—Ð½Ð°Ñ‡ÐµÐ½Ð¸Ðµ Ð¿ÐµÑ€Ð²Ð¾Ð³Ð¾ Ð¿Ð¾Ð»Ñ Ð¸Ð½Ñ‚ÐµÑ€Ð²Ð°Ð»Ð°";
+$MESS ['COMP_MAIN_CALENDAR_INPUT_VALUE_FINISH'] = "Ð—Ð½Ð°Ñ‡ÐµÐ½Ð¸Ðµ Ð²Ñ‚Ð¾Ñ€Ð¾Ð³Ð¾ Ð¿Ð¾Ð»Ñ Ð¸Ð½Ñ‚ÐµÑ€Ð²Ð°Ð»Ð°";
+$MESS ['COMP_MAIN_CALENDAR_SHOW_TIME'] = "ÐŸÐ¾Ð·Ð²Ð¾Ð»ÑÑ‚ÑŒ Ð²Ð²Ð¾Ð´Ð¸Ñ‚ÑŒ Ð²Ñ€ÐµÐ¼Ñ";
+$MESS ['COMP_MAIN_CALENDAR_HIDE_TIMEBAR'] = "Ð¡ÐºÑ€Ñ‹Ð²Ð°Ñ‚ÑŒ Ð¿Ð¾Ð»Ðµ Ð´Ð»Ñ Ð²Ð²Ð¾Ð´Ð° Ð²Ñ€ÐµÐ¼ÐµÐ½Ð¸";
 ?>

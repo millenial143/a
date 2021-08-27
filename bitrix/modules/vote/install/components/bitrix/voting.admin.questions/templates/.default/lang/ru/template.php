@@ -1,14 +1,14 @@
 <?
-$MESS["VOTE_QUESTION_TYPE"] = "Òèï òåêñòà (text, html)";
-$MESS["VOTE_IMAGE_ID"] = "Êàðòèíêà";
-$MESS["VOTE_ADD_QUESTION"] = "Äîáàâèòü âîïðîñ";
-$MESS["VOTE_TIMESTAMP_X"] = "Èçìåíåíî";
-$MESS["VOTE_C_SORT"] = "Ñîðò.";
-$MESS["VOTE_DIAGRAM"] = "Äèàãð.";
-$MESS["VOTE_QUESTION"] = "Âîïðîñ";
-$MESS["VOTE_CONFIRM_DEL_QUESTION"] = "Âû óâåðåíû ÷òî õîòèòå óäàëèòü âîïðîñ?";
-$MESS["VOTE_ACTIVATE"] = "àêòèâèðîâàòü";
-$MESS["VOTE_DEACTIVATE"] = "äåàêòèâèðîâàòü";
-$MESS["VOTE_ACTIVE"] = "Àêò.";
-$MESS["VOTE_REQUIRED"] = "Îáÿçàòåëåí ê îòâåòó";
+$MESS["VOTE_QUESTION_TYPE"] = "Ð¢Ð¸Ð¿ Ñ‚ÐµÐºÑÑ‚Ð° (text, html)";
+$MESS["VOTE_IMAGE_ID"] = "ÐšÐ°Ñ€Ñ‚Ð¸Ð½ÐºÐ°";
+$MESS["VOTE_ADD_QUESTION"] = "Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ Ð²Ð¾Ð¿Ñ€Ð¾Ñ";
+$MESS["VOTE_TIMESTAMP_X"] = "Ð˜Ð·Ð¼ÐµÐ½ÐµÐ½Ð¾";
+$MESS["VOTE_C_SORT"] = "Ð¡Ð¾Ñ€Ñ‚.";
+$MESS["VOTE_DIAGRAM"] = "Ð”Ð¸Ð°Ð³Ñ€.";
+$MESS["VOTE_QUESTION"] = "Ð’Ð¾Ð¿Ñ€Ð¾Ñ";
+$MESS["VOTE_CONFIRM_DEL_QUESTION"] = "Ð’Ñ‹ ÑƒÐ²ÐµÑ€ÐµÐ½Ñ‹ Ñ‡Ñ‚Ð¾ Ñ…Ð¾Ñ‚Ð¸Ñ‚Ðµ ÑƒÐ´Ð°Ð»Ð¸Ñ‚ÑŒ Ð²Ð¾Ð¿Ñ€Ð¾Ñ?";
+$MESS["VOTE_ACTIVATE"] = "Ð°ÐºÑ‚Ð¸Ð²Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ";
+$MESS["VOTE_DEACTIVATE"] = "Ð´ÐµÐ°ÐºÑ‚Ð¸Ð²Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ";
+$MESS["VOTE_ACTIVE"] = "ÐÐºÑ‚.";
+$MESS["VOTE_REQUIRED"] = "ÐžÐ±ÑÐ·Ð°Ñ‚ÐµÐ»ÐµÐ½ Ðº Ð¾Ñ‚Ð²ÐµÑ‚Ñƒ";
 ?>

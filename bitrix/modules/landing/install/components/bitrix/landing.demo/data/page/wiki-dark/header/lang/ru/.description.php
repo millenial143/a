@@ -1,2 +1,2 @@
 <?php
-$MESS["LANDING_DEMO_WIKI_DARK_HEADER"] = "Øàïêà";
+$MESS["LANDING_DEMO_WIKI_DARK_HEADER"] = "Ð¨Ð°Ð¿ÐºÐ°";

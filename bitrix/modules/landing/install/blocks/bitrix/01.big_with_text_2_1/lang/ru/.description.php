@@ -1,6 +1,6 @@
 <?php
-$MESS['LANDING_BLOCK_1_BIG_WITH_TEXT_2_1_NAME'] = 'Îáëîæêà ñ îäíîé ôîíîâîé êàðòèíêîé áåç êíîïêè';
-$MESS['LANDING_BLOCK_1_BIG_WITH_TEXT_2_1_NODES_LANDINGBLOCKTITLE'] = 'Çàãîëîâîê';
-$MESS['LANDING_BLOCK_1_BIG_WITH_TEXT_2_1_NODES_LANDINGBLOCKIMG'] = 'Ôîíîâàÿ êàðòèíêà';
-$MESS['LANDING_BLOCK_1_BIG_WITH_TEXT_2_1_STYLE_LANDINGBLOCKTITLE'] = 'Çàãîëîâîê';
-$MESS['LANDING_BLOCK_1_BIG_WITH_TEXT_2_1_BACKGROUND'] = 'Ôîí';
+$MESS['LANDING_BLOCK_1_BIG_WITH_TEXT_2_1_NAME'] = 'ÐžÐ±Ð»Ð¾Ð¶ÐºÐ° Ñ Ð¾Ð´Ð½Ð¾Ð¹ Ñ„Ð¾Ð½Ð¾Ð²Ð¾Ð¹ ÐºÐ°Ñ€Ñ‚Ð¸Ð½ÐºÐ¾Ð¹ Ð±ÐµÐ· ÐºÐ½Ð¾Ð¿ÐºÐ¸';
+$MESS['LANDING_BLOCK_1_BIG_WITH_TEXT_2_1_NODES_LANDINGBLOCKTITLE'] = 'Ð—Ð°Ð³Ð¾Ð»Ð¾Ð²Ð¾Ðº';
+$MESS['LANDING_BLOCK_1_BIG_WITH_TEXT_2_1_NODES_LANDINGBLOCKIMG'] = 'Ð¤Ð¾Ð½Ð¾Ð²Ð°Ñ ÐºÐ°Ñ€Ñ‚Ð¸Ð½ÐºÐ°';
+$MESS['LANDING_BLOCK_1_BIG_WITH_TEXT_2_1_STYLE_LANDINGBLOCKTITLE'] = 'Ð—Ð°Ð³Ð¾Ð»Ð¾Ð²Ð¾Ðº';
+$MESS['LANDING_BLOCK_1_BIG_WITH_TEXT_2_1_BACKGROUND'] = 'Ð¤Ð¾Ð½';

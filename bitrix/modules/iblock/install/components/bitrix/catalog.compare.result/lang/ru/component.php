@@ -1,7 +1,7 @@
 <?
-$MESS["IBLOCK_MODULE_NOT_INSTALLED"] = "Ìîäóëü Èíôîðìàöèîííûõ áëîêîâ íå óñòàíîâëåí";
-$MESS["CATALOG_COMPARE_LIST_EMPTY"] = "Ñïèñîê ñðàâíèâàåìûõ ýëåìåíòîâ ïóñò.";
-$MESS["CATALOG_ERROR2BASKET"] = "Îøèáêà äîáàâëåíèÿ òîâàðà â êîðçèíó";
-$MESS["CP_BCCR_ERR_MESS_PRODUCT_NOT_FOUND"] = "Òîâàð íå íàéäåí";
-$MESS["CP_BCCR_MESS_SUCCESSFUL_ADD_TO_COMPARE"] = "Òîâàð äîáàâëåí â ñïèñîê ñðàâíåíèÿ";
+$MESS["IBLOCK_MODULE_NOT_INSTALLED"] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ Ð˜Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ð¾Ð½Ð½Ñ‹Ñ… Ð±Ð»Ð¾ÐºÐ¾Ð² Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½";
+$MESS["CATALOG_COMPARE_LIST_EMPTY"] = "Ð¡Ð¿Ð¸ÑÐ¾Ðº ÑÑ€Ð°Ð²Ð½Ð¸Ð²Ð°ÐµÐ¼Ñ‹Ñ… ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð¾Ð² Ð¿ÑƒÑÑ‚.";
+$MESS["CATALOG_ERROR2BASKET"] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð´Ð¾Ð±Ð°Ð²Ð»ÐµÐ½Ð¸Ñ Ñ‚Ð¾Ð²Ð°Ñ€Ð° Ð² ÐºÐ¾Ñ€Ð·Ð¸Ð½Ñƒ";
+$MESS["CP_BCCR_ERR_MESS_PRODUCT_NOT_FOUND"] = "Ð¢Ð¾Ð²Ð°Ñ€ Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½";
+$MESS["CP_BCCR_MESS_SUCCESSFUL_ADD_TO_COMPARE"] = "Ð¢Ð¾Ð²Ð°Ñ€ Ð´Ð¾Ð±Ð°Ð²Ð»ÐµÐ½ Ð² ÑÐ¿Ð¸ÑÐ¾Ðº ÑÑ€Ð°Ð²Ð½ÐµÐ½Ð¸Ñ";
 ?>

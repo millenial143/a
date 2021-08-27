@@ -1,13 +1,13 @@
 <?
-$MESS["AUTH_IMOL_USER"] = "Ïîëüçîâàòåëü";
-$MESS["AUTH_IMOL_GUEST"] = "Ãîñòü";
+$MESS["AUTH_IMOL_USER"] = "ÐŸÐ¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒ";
+$MESS["AUTH_IMOL_GUEST"] = "Ð“Ð¾ÑÑ‚ÑŒ";
 $MESS["AUTH_IMOL_MAIL"] = "Email";
-$MESS["AUTH_IMOL_SITE"] = "Ñàéò";
-$MESS["AUTH_IMOL_PAGE"] = "Ñòðàíèöà ñàéòà";
-$MESS["AUTH_IMOL_SEARCHER"] = "Ïîèñêîâàÿ ñèñòåìà";
-$MESS["AUTH_IMOL_SEARCHER_PHRASE"] = "Ïîèñêîâàÿ ôðàçà";
-$MESS["AUTH_IMOL_FIRST_VISIT"] = "Ïîñåòèòåëü âïåðâûå íà ñàéòå";
-$MESS["AUTH_IMOL_FIRST_VISIT_Y"] = "Äà";
-$MESS["AUTH_IMOL_FIRST_VISIT_N"] = "Íåò";
-$MESS["AUTH_IMOL_COUNTRY"] = "Ñòðàíà ïîëüçîâàòåëÿ";
+$MESS["AUTH_IMOL_SITE"] = "Ð¡Ð°Ð¹Ñ‚";
+$MESS["AUTH_IMOL_PAGE"] = "Ð¡Ñ‚Ñ€Ð°Ð½Ð¸Ñ†Ð° ÑÐ°Ð¹Ñ‚Ð°";
+$MESS["AUTH_IMOL_SEARCHER"] = "ÐŸÐ¾Ð¸ÑÐºÐ¾Ð²Ð°Ñ ÑÐ¸ÑÑ‚ÐµÐ¼Ð°";
+$MESS["AUTH_IMOL_SEARCHER_PHRASE"] = "ÐŸÐ¾Ð¸ÑÐºÐ¾Ð²Ð°Ñ Ñ„Ñ€Ð°Ð·Ð°";
+$MESS["AUTH_IMOL_FIRST_VISIT"] = "ÐŸÐ¾ÑÐµÑ‚Ð¸Ñ‚ÐµÐ»ÑŒ Ð²Ð¿ÐµÑ€Ð²Ñ‹Ðµ Ð½Ð° ÑÐ°Ð¹Ñ‚Ðµ";
+$MESS["AUTH_IMOL_FIRST_VISIT_Y"] = "Ð”Ð°";
+$MESS["AUTH_IMOL_FIRST_VISIT_N"] = "ÐÐµÑ‚";
+$MESS["AUTH_IMOL_COUNTRY"] = "Ð¡Ñ‚Ñ€Ð°Ð½Ð° Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ";
 ?>

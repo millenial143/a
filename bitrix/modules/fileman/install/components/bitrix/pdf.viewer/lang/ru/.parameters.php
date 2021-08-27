@@ -1,9 +1,9 @@
 <?php
-$MESS["FILEMAN_PDFVIEWER_PARAMETER_VIEWER_ID"] = "Èäåíòèôèêàòîð ïðîñìîòðùèêà";
-$MESS["FILEMAN_PDFVIEWER_PARAMETER_PATH"] = "Ïóòü ê ôàéëó";
-$MESS["FILEMAN_PDFVIEWER_PARAMETER_TITLE"] = "Çàãîëîâîê";
-$MESS["FILEMAN_PDFVIEWER_PARAMETER_WIDTH"] = "Øèðèíà";
-$MESS["FILEMAN_PDFVIEWER_PARAMETER_HEIGHT"] = "Âûñîòà";
-$MESS["FILEMAN_PDFVIEWER_PARAMETER_IFRAME"] = "Áóäåò ïîêàçàí âî ôðåéìå";
-$MESS["FILEMAN_PDFVIEWER_PARAMETER_PRINT"] = "Âûâîäèòü êíîïêó ïå÷àòè";
-$MESS["FILEMAN_PDFVIEWER_PARAMETER_PRINT_URL"] = "Ññûëêà íà ñòðàíèöó ïå÷àòè";
+$MESS["FILEMAN_PDFVIEWER_PARAMETER_VIEWER_ID"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð¿Ñ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€Ñ‰Ð¸ÐºÐ°";
+$MESS["FILEMAN_PDFVIEWER_PARAMETER_PATH"] = "ÐŸÑƒÑ‚ÑŒ Ðº Ñ„Ð°Ð¹Ð»Ñƒ";
+$MESS["FILEMAN_PDFVIEWER_PARAMETER_TITLE"] = "Ð—Ð°Ð³Ð¾Ð»Ð¾Ð²Ð¾Ðº";
+$MESS["FILEMAN_PDFVIEWER_PARAMETER_WIDTH"] = "Ð¨Ð¸Ñ€Ð¸Ð½Ð°";
+$MESS["FILEMAN_PDFVIEWER_PARAMETER_HEIGHT"] = "Ð’Ñ‹ÑÐ¾Ñ‚Ð°";
+$MESS["FILEMAN_PDFVIEWER_PARAMETER_IFRAME"] = "Ð‘ÑƒÐ´ÐµÑ‚ Ð¿Ð¾ÐºÐ°Ð·Ð°Ð½ Ð²Ð¾ Ñ„Ñ€ÐµÐ¹Ð¼Ðµ";
+$MESS["FILEMAN_PDFVIEWER_PARAMETER_PRINT"] = "Ð’Ñ‹Ð²Ð¾Ð´Ð¸Ñ‚ÑŒ ÐºÐ½Ð¾Ð¿ÐºÑƒ Ð¿ÐµÑ‡Ð°Ñ‚Ð¸";
+$MESS["FILEMAN_PDFVIEWER_PARAMETER_PRINT_URL"] = "Ð¡ÑÑ‹Ð»ÐºÐ° Ð½Ð° ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñƒ Ð¿ÐµÑ‡Ð°Ñ‚Ð¸";

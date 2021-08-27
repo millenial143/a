@@ -1,5 +1,5 @@
 <?php
-$MESS['LANDING_BLOCK_8_4-NAME'] = 'Çàãîëîâîê ñ òåêñòîì è ðàçäåëèòåëåì';
-$MESS['LANDING_BLOCK_8_4-CONTAINER'] = 'Íàáîð ýëåìåíòîâ';
-$MESS['LANDING_BLOCK_8_4-TITLE'] = 'Çàãîëîâîê';
-$MESS['LANDING_BLOCK_8_4-TEXT'] = 'Òåêñò';
+$MESS['LANDING_BLOCK_8_4-NAME'] = 'Ð—Ð°Ð³Ð¾Ð»Ð¾Ð²Ð¾Ðº Ñ Ñ‚ÐµÐºÑÑ‚Ð¾Ð¼ Ð¸ Ñ€Ð°Ð·Ð´ÐµÐ»Ð¸Ñ‚ÐµÐ»ÐµÐ¼';
+$MESS['LANDING_BLOCK_8_4-CONTAINER'] = 'ÐÐ°Ð±Ð¾Ñ€ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð¾Ð²';
+$MESS['LANDING_BLOCK_8_4-TITLE'] = 'Ð—Ð°Ð³Ð¾Ð»Ð¾Ð²Ð¾Ðº';
+$MESS['LANDING_BLOCK_8_4-TEXT'] = 'Ð¢ÐµÐºÑÑ‚';

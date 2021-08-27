@@ -1,6 +1,6 @@
 <?
-$MESS["SALE_CSDRP_ACCESS_DENIED"] = "Äîñòóï çàïðåùåí";
-$MESS["SALE_CSDRP_SALE_NOT_INCLUDED"] = "Íå óäàëîñü ïîäêëþ÷èòü ìîäóëü \"Èíòåðíåò-ìàãàçèí\"";
-$MESS["SALE_CSDRP_DELIVERY_NOT_SUPPORTED"] = "Ñëóæáà äîñòàâêè ñ èäåíòèôèêàòîðîì #DELIVERY_ID# íå ïîääåðæèâàåò òðàíñïîðòíûå çàÿâêè";
-$MESS["SALE_CSDRP_OBJECT_DELIVERY_ERROR"] = "Íå óäàëîñü ñîçäàòü îáúåêò ñëóæáû äîñòàâêè ñ èäåíòèôêàòîðîì #DELIVERY_ID#";
+$MESS["SALE_CSDRP_ACCESS_DENIED"] = "Ð”Ð¾ÑÑ‚ÑƒÐ¿ Ð·Ð°Ð¿Ñ€ÐµÑ‰ÐµÐ½";
+$MESS["SALE_CSDRP_SALE_NOT_INCLUDED"] = "ÐÐµ ÑƒÐ´Ð°Ð»Ð¾ÑÑŒ Ð¿Ð¾Ð´ÐºÐ»ÑŽÑ‡Ð¸Ñ‚ÑŒ Ð¼Ð¾Ð´ÑƒÐ»ÑŒ \"Ð˜Ð½Ñ‚ÐµÑ€Ð½ÐµÑ‚-Ð¼Ð°Ð³Ð°Ð·Ð¸Ð½\"";
+$MESS["SALE_CSDRP_DELIVERY_NOT_SUPPORTED"] = "Ð¡Ð»ÑƒÐ¶Ð±Ð° Ð´Ð¾ÑÑ‚Ð°Ð²ÐºÐ¸ Ñ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€Ð¾Ð¼ #DELIVERY_ID# Ð½Ðµ Ð¿Ð¾Ð´Ð´ÐµÑ€Ð¶Ð¸Ð²Ð°ÐµÑ‚ Ñ‚Ñ€Ð°Ð½ÑÐ¿Ð¾Ñ€Ñ‚Ð½Ñ‹Ðµ Ð·Ð°ÑÐ²ÐºÐ¸";
+$MESS["SALE_CSDRP_OBJECT_DELIVERY_ERROR"] = "ÐÐµ ÑƒÐ´Ð°Ð»Ð¾ÑÑŒ ÑÐ¾Ð·Ð´Ð°Ñ‚ÑŒ Ð¾Ð±ÑŠÐµÐºÑ‚ ÑÐ»ÑƒÐ¶Ð±Ñ‹ Ð´Ð¾ÑÑ‚Ð°Ð²ÐºÐ¸ Ñ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„ÐºÐ°Ñ‚Ð¾Ñ€Ð¾Ð¼ #DELIVERY_ID#";
 ?>

@@ -1,6 +1,6 @@
 <?php
 $MESS["SALE_BSM_WIZARD_PUSHANDPULLSTEP_TITLE"] = "Push and Pull";
-$MESS["SALE_BSM_WIZARD_PUSHANDPULLSTEP_NEXT"] = "Продолжить";
-$MESS["SALE_BSM_WIZARD_PUSHANDPULLSTEP_PREV"] = "Назад";
-$MESS["SALE_BSM_WIZARD_PUSHANDPULLSTEP_SETUP"] = "Для дальнейшей работы рекомендуем Вам настроить модуль <a href='/bitrix/admin/settings.php?mid=pull&mid_menu=1&lang=#LANGUAGE_ID#' target='_blank'>Push and Pull</a>.";
-$MESS["SALE_BSM_WIZARD_PUSHANDPULLSTEP_ERROR_DESC"] = "При попытке использования Push сервера Bitrix произошли следующие ошибки:";
+$MESS["SALE_BSM_WIZARD_PUSHANDPULLSTEP_NEXT"] = "РџСЂРѕРґРѕР»Р¶РёС‚СЊ";
+$MESS["SALE_BSM_WIZARD_PUSHANDPULLSTEP_PREV"] = "РќР°Р·Р°Рґ";
+$MESS["SALE_BSM_WIZARD_PUSHANDPULLSTEP_SETUP"] = "Р”Р»СЏ РґР°Р»СЊРЅРµР№С€РµР№ СЂР°Р±РѕС‚С‹ СЂРµРєРѕРјРµРЅРґСѓРµРј Р’Р°Рј РЅР°СЃС‚СЂРѕРёС‚СЊ РјРѕРґСѓР»СЊ <a href='/bitrix/admin/settings.php?mid=pull&mid_menu=1&lang=#LANGUAGE_ID#' target='_blank'>Push and Pull</a>.";
+$MESS["SALE_BSM_WIZARD_PUSHANDPULLSTEP_ERROR_DESC"] = "РџСЂРё РїРѕРїС‹С‚РєРµ РёСЃРїРѕР»СЊР·РѕРІР°РЅРёСЏ Push СЃРµСЂРІРµСЂР° Bitrix РїСЂРѕРёР·РѕС€Р»Рё СЃР»РµРґСѓСЋС‰РёРµ РѕС€РёР±РєРё:";

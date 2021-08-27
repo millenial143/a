@@ -1,2 +1,2 @@
 <?php
-$MESS['WIDGET_SETTINGS_CONTENT_TITLE'] = 'Íàñòðîéêè âèäæåòà';
+$MESS['WIDGET_SETTINGS_CONTENT_TITLE'] = 'ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸ Ð²Ð¸Ð´Ð¶ÐµÑ‚Ð°';

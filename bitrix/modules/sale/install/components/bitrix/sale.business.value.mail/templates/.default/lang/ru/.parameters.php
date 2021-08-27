@@ -1,4 +1,4 @@
 <?
-$MESS['SALE_BVAL_MAIL_DISPLAY_NAME'] = "Выводить название поля";
-$MESS['SALE_BVAL_MAIL_DISPLAY_EMPTY'] = "Выводить пустые поля";
+$MESS['SALE_BVAL_MAIL_DISPLAY_NAME'] = "Р’С‹РІРѕРґРёС‚СЊ РЅР°Р·РІР°РЅРёРµ РїРѕР»СЏ";
+$MESS['SALE_BVAL_MAIL_DISPLAY_EMPTY'] = "Р’С‹РІРѕРґРёС‚СЊ РїСѓСЃС‚С‹Рµ РїРѕР»СЏ";
 ?>

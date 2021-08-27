@@ -1,6 +1,6 @@
 <?
-$MESS ['PM_FOLDER'] = "PM (ïàïêè)";
-$MESS ['PM_FOLDER_DESCRIPTION'] = "Ïàïêè ïîëüçîâàòåëÿ";
-$MESS ['FORUM'] = "Ôîðóì";
-$MESS ['PM'] = "PM (Ïåðñîíàëüíûå ñîîáùåíèÿ)";
+$MESS ['PM_FOLDER'] = "PM (Ð¿Ð°Ð¿ÐºÐ¸)";
+$MESS ['PM_FOLDER_DESCRIPTION'] = "ÐŸÐ°Ð¿ÐºÐ¸ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ";
+$MESS ['FORUM'] = "Ð¤Ð¾Ñ€ÑƒÐ¼";
+$MESS ['PM'] = "PM (ÐŸÐµÑ€ÑÐ¾Ð½Ð°Ð»ÑŒÐ½Ñ‹Ðµ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ)";
 ?>

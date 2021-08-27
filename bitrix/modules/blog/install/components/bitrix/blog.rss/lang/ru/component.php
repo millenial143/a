@@ -1,5 +1,5 @@
 <?
-$MESS ['BLOG_MODULE_NOT_INSTALL'] = "Модуль блогов не установлен.";
-$MESS ['BLOG_RSS_NO_BLOG'] = "Блог не найден.";
-$MESS ['BLOG_RSS_NO_BLOG_POST'] = "Сообщение не найдено.";
+$MESS ['BLOG_MODULE_NOT_INSTALL'] = "РњРѕРґСѓР»СЊ Р±Р»РѕРіРѕРІ РЅРµ СѓСЃС‚Р°РЅРѕРІР»РµРЅ.";
+$MESS ['BLOG_RSS_NO_BLOG'] = "Р‘Р»РѕРі РЅРµ РЅР°Р№РґРµРЅ.";
+$MESS ['BLOG_RSS_NO_BLOG_POST'] = "РЎРѕРѕР±С‰РµРЅРёРµ РЅРµ РЅР°Р№РґРµРЅРѕ.";
 ?>

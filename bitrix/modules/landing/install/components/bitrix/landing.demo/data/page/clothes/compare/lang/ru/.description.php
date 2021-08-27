@@ -1,2 +1,2 @@
 <?php
-$MESS['LANDING_DEMO_STORE_CLOTHES-COMPARE--NAME'] = 'Ñðàâíåíèå';
+$MESS['LANDING_DEMO_STORE_CLOTHES-COMPARE--NAME'] = 'Ð¡Ñ€Ð°Ð²Ð½ÐµÐ½Ð¸Ðµ';

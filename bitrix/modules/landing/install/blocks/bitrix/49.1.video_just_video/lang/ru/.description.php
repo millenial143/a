@@ -1,3 +1,3 @@
 <?php
-$MESS['LANDING_BLOCK_49_JUST_VIDEO_NAME'] = 'Âèäåî ôèêñèðîâàííîé øèðèíû ïî öåíòðó';
-$MESS['LANDING_BLOCK_49_JUST_VIDEO_EMBED'] = 'Ññûëêà íà âèäåî';
+$MESS['LANDING_BLOCK_49_JUST_VIDEO_NAME'] = 'Ð’Ð¸Ð´ÐµÐ¾ Ñ„Ð¸ÐºÑÐ¸Ñ€Ð¾Ð²Ð°Ð½Ð½Ð¾Ð¹ ÑˆÐ¸Ñ€Ð¸Ð½Ñ‹ Ð¿Ð¾ Ñ†ÐµÐ½Ñ‚Ñ€Ñƒ';
+$MESS['LANDING_BLOCK_49_JUST_VIDEO_EMBED'] = 'Ð¡ÑÑ‹Ð»ÐºÐ° Ð½Ð° Ð²Ð¸Ð´ÐµÐ¾';

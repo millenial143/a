@@ -1,3 +1,3 @@
 <?php
-$MESS['LANDING_CMP_PAR_HTML_CODE'] = 'HTML êîä';
-$MESS['LANDING_CMP_PAR_SKIP_MOVING_FALSE'] = 'Ïåðåìåùàòü íàéäåííûå ñêðèïòû â êîíåö ñòðàíèöû';
+$MESS['LANDING_CMP_PAR_HTML_CODE'] = 'HTML ÐºÐ¾Ð´';
+$MESS['LANDING_CMP_PAR_SKIP_MOVING_FALSE'] = 'ÐŸÐµÑ€ÐµÐ¼ÐµÑ‰Ð°Ñ‚ÑŒ Ð½Ð°Ð¹Ð´ÐµÐ½Ð½Ñ‹Ðµ ÑÐºÑ€Ð¸Ð¿Ñ‚Ñ‹ Ð² ÐºÐ¾Ð½ÐµÑ† ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñ‹';

@@ -1,9 +1,9 @@
 <?php
-$MESS['REST_HOOK_EDIT'] = 'Ðåäàêòèðîâàòü';
-$MESS['REST_HOOK_DELETE'] = 'Óäàëèòü';
-$MESS['REST_HOOK_HEADER_TITLE'] = 'Íàçâàíèå';
-$MESS['REST_HOOK_HEADER_COMMENT'] = 'Ïðèìå÷åíèå';
-$MESS['REST_HOOK_HEADER_DATE_CREATE'] = 'Ñîçäàí';
-$MESS['REST_HOOK_HEADER_DATE_LOGIN'] = 'Ïîñëåäíèé âõîä';
-$MESS['REST_HOOK_HEADER_LAST_IP'] = 'Ïîñëåäíèé IP';
-$MESS['REST_AP_LIST_TITLE'] = 'Âõîäÿùèå âåáõóêè';
+$MESS['REST_HOOK_EDIT'] = 'Ð ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ';
+$MESS['REST_HOOK_DELETE'] = 'Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ';
+$MESS['REST_HOOK_HEADER_TITLE'] = 'ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ';
+$MESS['REST_HOOK_HEADER_COMMENT'] = 'ÐŸÑ€Ð¸Ð¼ÐµÑ‡ÐµÐ½Ð¸Ðµ';
+$MESS['REST_HOOK_HEADER_DATE_CREATE'] = 'Ð¡Ð¾Ð·Ð´Ð°Ð½';
+$MESS['REST_HOOK_HEADER_DATE_LOGIN'] = 'ÐŸÐ¾ÑÐ»ÐµÐ´Ð½Ð¸Ð¹ Ð²Ñ…Ð¾Ð´';
+$MESS['REST_HOOK_HEADER_LAST_IP'] = 'ÐŸÐ¾ÑÐ»ÐµÐ´Ð½Ð¸Ð¹ IP';
+$MESS['REST_AP_LIST_TITLE'] = 'Ð’Ñ…Ð¾Ð´ÑÑ‰Ð¸Ðµ Ð²ÐµÐ±Ñ…ÑƒÐºÐ¸';

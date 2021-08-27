@@ -1,12 +1,12 @@
 <?php
-$MESS['LANDING_DEMO_STORE_MINI_CATALOG_HANDMADE_TXT_1'] = 'Ìàãàçèí Õýíäìåéäà';
-$MESS['LANDING_DEMO_STORE_MINI_CATALOG_HANDMADE_TXT_NEW'] = 'Õýíäìåéä-ìàãàçèí';
-$MESS['LANDING_DEMO_STORE_MINI_CATALOG_HANDMADE_DESC'] = 'Íåáîëüøîé øàáëîí äëÿ íåáîëüøîãî ìàãàçèíà òîâàðîâ ðó÷íîé ðàáîòû.';
-$MESS["LANDING_DEMO_STORE_MINI_CATALOG_HANDMADE_TXT_2"] = "Handmade-ìàãàçèí÷èê &quot;Ìå÷òà&quot;";
-$MESS["LANDING_DEMO_STORE_MINI_CATALOG_HANDMADE_TXT_3"] = "Äåëàåì óêðàøåíèÿ ñ ëþáîâüþ!";
-$MESS["LANDING_DEMO_STORE_MINI_CATALOG_HANDMADE_TXT_4"] = "Êóïèòü ñåé÷àñ";
-$MESS["LANDING_DEMO_STORE_MINI_CATALOG_HANDMADE_TXT_5"] = "Î íàñ";
-$MESS["LANDING_DEMO_STORE_MINI_CATALOG_HANDMADE_TXT_6"] = "Íàøè óêðàøåíèÿ";
-$MESS["LANDING_DEMO_STORE_MINI_CATALOG_HANDMADE_TXT_7"] = "Ðàáî÷èé ïðîöåññ";
-$MESS["LANDING_DEMO_STORE_MINI_CATALOG_HANDMADE_TXT_8"] = "Óêðàøåíèÿ íà íàøèõ ïîêóïàòåëÿõ";
-$MESS["LANDING_DEMO_STORE_MINI_CATALOG_HANDMADE_TXT_9"] = "Êîíòàêòû";
+$MESS['LANDING_DEMO_STORE_MINI_CATALOG_HANDMADE_TXT_1'] = 'ÐœÐ°Ð³Ð°Ð·Ð¸Ð½ Ð¥ÑÐ½Ð´Ð¼ÐµÐ¹Ð´Ð°';
+$MESS['LANDING_DEMO_STORE_MINI_CATALOG_HANDMADE_TXT_NEW'] = 'Ð¥ÑÐ½Ð´Ð¼ÐµÐ¹Ð´-Ð¼Ð°Ð³Ð°Ð·Ð¸Ð½';
+$MESS['LANDING_DEMO_STORE_MINI_CATALOG_HANDMADE_DESC'] = 'ÐÐµÐ±Ð¾Ð»ÑŒÑˆÐ¾Ð¹ ÑˆÐ°Ð±Ð»Ð¾Ð½ Ð´Ð»Ñ Ð½ÐµÐ±Ð¾Ð»ÑŒÑˆÐ¾Ð³Ð¾ Ð¼Ð°Ð³Ð°Ð·Ð¸Ð½Ð° Ñ‚Ð¾Ð²Ð°Ñ€Ð¾Ð² Ñ€ÑƒÑ‡Ð½Ð¾Ð¹ Ñ€Ð°Ð±Ð¾Ñ‚Ñ‹.';
+$MESS["LANDING_DEMO_STORE_MINI_CATALOG_HANDMADE_TXT_2"] = "Handmade-Ð¼Ð°Ð³Ð°Ð·Ð¸Ð½Ñ‡Ð¸Ðº &quot;ÐœÐµÑ‡Ñ‚Ð°&quot;";
+$MESS["LANDING_DEMO_STORE_MINI_CATALOG_HANDMADE_TXT_3"] = "Ð”ÐµÐ»Ð°ÐµÐ¼ ÑƒÐºÑ€Ð°ÑˆÐµÐ½Ð¸Ñ Ñ Ð»ÑŽÐ±Ð¾Ð²ÑŒÑŽ!";
+$MESS["LANDING_DEMO_STORE_MINI_CATALOG_HANDMADE_TXT_4"] = "ÐšÑƒÐ¿Ð¸Ñ‚ÑŒ ÑÐµÐ¹Ñ‡Ð°Ñ";
+$MESS["LANDING_DEMO_STORE_MINI_CATALOG_HANDMADE_TXT_5"] = "Ðž Ð½Ð°Ñ";
+$MESS["LANDING_DEMO_STORE_MINI_CATALOG_HANDMADE_TXT_6"] = "ÐÐ°ÑˆÐ¸ ÑƒÐºÑ€Ð°ÑˆÐµÐ½Ð¸Ñ";
+$MESS["LANDING_DEMO_STORE_MINI_CATALOG_HANDMADE_TXT_7"] = "Ð Ð°Ð±Ð¾Ñ‡Ð¸Ð¹ Ð¿Ñ€Ð¾Ñ†ÐµÑÑ";
+$MESS["LANDING_DEMO_STORE_MINI_CATALOG_HANDMADE_TXT_8"] = "Ð£ÐºÑ€Ð°ÑˆÐµÐ½Ð¸Ñ Ð½Ð° Ð½Ð°ÑˆÐ¸Ñ… Ð¿Ð¾ÐºÑƒÐ¿Ð°Ñ‚ÐµÐ»ÑÑ…";
+$MESS["LANDING_DEMO_STORE_MINI_CATALOG_HANDMADE_TXT_9"] = "ÐšÐ¾Ð½Ñ‚Ð°ÐºÑ‚Ñ‹";

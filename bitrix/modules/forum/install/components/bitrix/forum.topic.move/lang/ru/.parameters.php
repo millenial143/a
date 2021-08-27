@@ -1,11 +1,11 @@
 <?
-$MESS ['F_INDEX_TEMPLATE'] = "Ñòðàíèöà ñïèñêà ôîðóìîâ";
-$MESS ['F_READ_TEMPLATE'] = "Ñòðàíèöà ÷òåíèÿ òåìû";
-$MESS ['F_LIST_TEMPLATE'] = "Ñòðàíèöà ñïèñêà òåì";
-$MESS ['F_MOVE_TEMPLATE'] = "Ñòðàíèöà ïåðåíîñà òåì";
-$MESS ['F_PROFILE_VIEW_TEMPLATE'] = "Ñòðàíèöà ïðîôèëÿ ïîëüçîâàòåëÿ";
-$MESS ['F_SET_NAVIGATION'] = "Ïîêàçûâàòü íàâèãàöèþ";
-$MESS ['F_DEFAULT_FID'] = "ID ôîðóìà";
-$MESS ['F_DEFAULT_TID'] = "ID òåìû";
-$MESS ['F_MESSAGE_TEMPLATE'] = "Ñòðàíèöà ÷òåíèÿ ñîîáùåíèÿ";
+$MESS ['F_INDEX_TEMPLATE'] = "Ð¡Ñ‚Ñ€Ð°Ð½Ð¸Ñ†Ð° ÑÐ¿Ð¸ÑÐºÐ° Ñ„Ð¾Ñ€ÑƒÐ¼Ð¾Ð²";
+$MESS ['F_READ_TEMPLATE'] = "Ð¡Ñ‚Ñ€Ð°Ð½Ð¸Ñ†Ð° Ñ‡Ñ‚ÐµÐ½Ð¸Ñ Ñ‚ÐµÐ¼Ñ‹";
+$MESS ['F_LIST_TEMPLATE'] = "Ð¡Ñ‚Ñ€Ð°Ð½Ð¸Ñ†Ð° ÑÐ¿Ð¸ÑÐºÐ° Ñ‚ÐµÐ¼";
+$MESS ['F_MOVE_TEMPLATE'] = "Ð¡Ñ‚Ñ€Ð°Ð½Ð¸Ñ†Ð° Ð¿ÐµÑ€ÐµÐ½Ð¾ÑÐ° Ñ‚ÐµÐ¼";
+$MESS ['F_PROFILE_VIEW_TEMPLATE'] = "Ð¡Ñ‚Ñ€Ð°Ð½Ð¸Ñ†Ð° Ð¿Ñ€Ð¾Ñ„Ð¸Ð»Ñ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ";
+$MESS ['F_SET_NAVIGATION'] = "ÐŸÐ¾ÐºÐ°Ð·Ñ‹Ð²Ð°Ñ‚ÑŒ Ð½Ð°Ð²Ð¸Ð³Ð°Ñ†Ð¸ÑŽ";
+$MESS ['F_DEFAULT_FID'] = "ID Ñ„Ð¾Ñ€ÑƒÐ¼Ð°";
+$MESS ['F_DEFAULT_TID'] = "ID Ñ‚ÐµÐ¼Ñ‹";
+$MESS ['F_MESSAGE_TEMPLATE'] = "Ð¡Ñ‚Ñ€Ð°Ð½Ð¸Ñ†Ð° Ñ‡Ñ‚ÐµÐ½Ð¸Ñ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ";
 ?>

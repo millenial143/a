@@ -1,4 +1,4 @@
 <?
-$MESS["VOTE_SUBMIT_BUTTON"] = "Ãîëîñîâàòü";
-$MESS["F_CAPTCHA_PROMT"] = "Ñèìâîëû íà êàðòèíêå";
+$MESS["VOTE_SUBMIT_BUTTON"] = "Ð“Ð¾Ð»Ð¾ÑÐ¾Ð²Ð°Ñ‚ÑŒ";
+$MESS["F_CAPTCHA_PROMT"] = "Ð¡Ð¸Ð¼Ð²Ð¾Ð»Ñ‹ Ð½Ð° ÐºÐ°Ñ€Ñ‚Ð¸Ð½ÐºÐµ";
 ?>

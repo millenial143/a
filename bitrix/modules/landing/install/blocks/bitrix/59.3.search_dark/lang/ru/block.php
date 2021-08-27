@@ -1,3 +1,3 @@
 <?php
-$MESS['LANDING_BLOCK_SEARCH'] = 'Èñêàòü';
-$MESS['LANDING_BLOCK_PLACEHOLDER'] = 'Ïîèñê ïî áàçå çíàíèé';
+$MESS['LANDING_BLOCK_SEARCH'] = 'Ð˜ÑÐºÐ°Ñ‚ÑŒ';
+$MESS['LANDING_BLOCK_PLACEHOLDER'] = 'ÐŸÐ¾Ð¸ÑÐº Ð¿Ð¾ Ð±Ð°Ð·Ðµ Ð·Ð½Ð°Ð½Ð¸Ð¹';

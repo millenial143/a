@@ -1,5 +1,5 @@
 <?php
-$MESS["MARKETPLACE_BEST"] = "Ëó÷øåå";
-$MESS["MARKETPLACE_CATEGORIES"] = "Êàòåãîðèè";
-$MESS["MARKETPLACE_SHOPPING"] = "Ïîêóïêè";
-$MESS["MARKETPLACE_UPDATES"] = "Îáíîâëåíèÿ";
+$MESS["MARKETPLACE_BEST"] = "Ð›ÑƒÑ‡ÑˆÐµÐµ";
+$MESS["MARKETPLACE_CATEGORIES"] = "ÐšÐ°Ñ‚ÐµÐ³Ð¾Ñ€Ð¸Ð¸";
+$MESS["MARKETPLACE_SHOPPING"] = "ÐŸÐ¾ÐºÑƒÐ¿ÐºÐ¸";
+$MESS["MARKETPLACE_UPDATES"] = "ÐžÐ±Ð½Ð¾Ð²Ð»ÐµÐ½Ð¸Ñ";

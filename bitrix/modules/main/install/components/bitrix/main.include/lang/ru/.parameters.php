@@ -1,11 +1,11 @@
 <?
-$MESS ['MAIN_INCLUDE_PAGE'] = "äëÿ ñòðàíèöû";
-$MESS ['MAIN_INCLUDE_SECT'] = "äëÿ ðàçäåëà";
-$MESS ['MAIN_INCLUDE_FILE'] = "èç ôàéëà";
-$MESS ['MAIN_INCLUDE_PARAMS'] = "Ïàðàìåòðû êîìïîíåíòà";
-$MESS ['MAIN_INCLUDE_AREA_FILE_SHOW'] = "Ïîêàçûâàòü âêëþ÷àåìóþ îáëàñòü";
-$MESS ['MAIN_INCLUDE_AREA_FILE_SUFFIX'] = "Ñóôôèêñ èìåíè ôàéëà âêëþ÷àåìîé îáëàñòè";
-$MESS ['MAIN_INCLUDE_AREA_FILE_RECURSIVE'] = "Ðåêóðñèâíîå ïîäêëþ÷åíèå âêëþ÷àåìûõ îáëàñòåé ðàçäåëîâ";
-$MESS ['MAIN_INCLUDE_EDIT_TEMPLATE'] = "Øàáëîí îáëàñòè ïî óìîë÷àíèþ";
-$MESS ['MAIN_INCLUDE_PATH'] = "Ïóòü ê ôàéëó îáëàñòè";
+$MESS ['MAIN_INCLUDE_PAGE'] = "Ð´Ð»Ñ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñ‹";
+$MESS ['MAIN_INCLUDE_SECT'] = "Ð´Ð»Ñ Ñ€Ð°Ð·Ð´ÐµÐ»Ð°";
+$MESS ['MAIN_INCLUDE_FILE'] = "Ð¸Ð· Ñ„Ð°Ð¹Ð»Ð°";
+$MESS ['MAIN_INCLUDE_PARAMS'] = "ÐŸÐ°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ñ‹ ÐºÐ¾Ð¼Ð¿Ð¾Ð½ÐµÐ½Ñ‚Ð°";
+$MESS ['MAIN_INCLUDE_AREA_FILE_SHOW'] = "ÐŸÐ¾ÐºÐ°Ð·Ñ‹Ð²Ð°Ñ‚ÑŒ Ð²ÐºÐ»ÑŽÑ‡Ð°ÐµÐ¼ÑƒÑŽ Ð¾Ð±Ð»Ð°ÑÑ‚ÑŒ";
+$MESS ['MAIN_INCLUDE_AREA_FILE_SUFFIX'] = "Ð¡ÑƒÑ„Ñ„Ð¸ÐºÑ Ð¸Ð¼ÐµÐ½Ð¸ Ñ„Ð°Ð¹Ð»Ð° Ð²ÐºÐ»ÑŽÑ‡Ð°ÐµÐ¼Ð¾Ð¹ Ð¾Ð±Ð»Ð°ÑÑ‚Ð¸";
+$MESS ['MAIN_INCLUDE_AREA_FILE_RECURSIVE'] = "Ð ÐµÐºÑƒÑ€ÑÐ¸Ð²Ð½Ð¾Ðµ Ð¿Ð¾Ð´ÐºÐ»ÑŽÑ‡ÐµÐ½Ð¸Ðµ Ð²ÐºÐ»ÑŽÑ‡Ð°ÐµÐ¼Ñ‹Ñ… Ð¾Ð±Ð»Ð°ÑÑ‚ÐµÐ¹ Ñ€Ð°Ð·Ð´ÐµÐ»Ð¾Ð²";
+$MESS ['MAIN_INCLUDE_EDIT_TEMPLATE'] = "Ð¨Ð°Ð±Ð»Ð¾Ð½ Ð¾Ð±Ð»Ð°ÑÑ‚Ð¸ Ð¿Ð¾ ÑƒÐ¼Ð¾Ð»Ñ‡Ð°Ð½Ð¸ÑŽ";
+$MESS ['MAIN_INCLUDE_PATH'] = "ÐŸÑƒÑ‚ÑŒ Ðº Ñ„Ð°Ð¹Ð»Ñƒ Ð¾Ð±Ð»Ð°ÑÑ‚Ð¸";
 ?>

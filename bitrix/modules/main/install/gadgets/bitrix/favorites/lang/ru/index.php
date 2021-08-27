@@ -1,11 +1,11 @@
 <?
-$MESS ['GD_FAVORITES_DEL'] = "óäàëèòü";
-$MESS ['GD_FAVORITES_ADD'] = "Äîáàâèòü...";
-$MESS ['GD_FAVORITES_CH'] = "Èçìåíèòü...";
-$MESS ['GD_FAVORITES_CH_EXIT'] = "Âûéòè èç ðåæèìà ðåäàêòèðîâàíèÿ";
-$MESS ['GD_FAVORITES_NEW_URL'] = "Íîâàÿ ññûëêà:";
-$MESS ['GD_FAVORITES_URL'] = "Ññûëêà:";
-$MESS ['GD_FAVORITES_NAME'] = "Íàçâàíèå:";
-$MESS ['GD_FAVORITES_ADD_URL'] = "Äîáàâèòü";
-$MESS ['GD_FAVORITES_CANCEL_URL'] = "Îòìåíà";
+$MESS ['GD_FAVORITES_DEL'] = "ÑƒÐ´Ð°Ð»Ð¸Ñ‚ÑŒ";
+$MESS ['GD_FAVORITES_ADD'] = "Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ...";
+$MESS ['GD_FAVORITES_CH'] = "Ð˜Ð·Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ...";
+$MESS ['GD_FAVORITES_CH_EXIT'] = "Ð’Ñ‹Ð¹Ñ‚Ð¸ Ð¸Ð· Ñ€ÐµÐ¶Ð¸Ð¼Ð° Ñ€ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ñ";
+$MESS ['GD_FAVORITES_NEW_URL'] = "ÐÐ¾Ð²Ð°Ñ ÑÑÑ‹Ð»ÐºÐ°:";
+$MESS ['GD_FAVORITES_URL'] = "Ð¡ÑÑ‹Ð»ÐºÐ°:";
+$MESS ['GD_FAVORITES_NAME'] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ:";
+$MESS ['GD_FAVORITES_ADD_URL'] = "Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ";
+$MESS ['GD_FAVORITES_CANCEL_URL'] = "ÐžÑ‚Ð¼ÐµÐ½Ð°";
 ?>

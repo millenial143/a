@@ -1,7 +1,7 @@
 <?
-$MESS["COMMENTS_GROUP_NAME"] = "Ôîðóìû äëÿ êîììåíòàðèåâ";
+$MESS["COMMENTS_GROUP_NAME"] = "Ð¤Ð¾Ñ€ÑƒÐ¼Ñ‹ Ð´Ð»Ñ ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸ÐµÐ²";
 $MESS["COMMENTS_GROUP_DESCRIPTION"] = "";
 
-$MESS["ESHOP_REVIEWS_FORUM_NAME"] = "Îòçûâû î òîâàðàõ";
+$MESS["ESHOP_REVIEWS_FORUM_NAME"] = "ÐžÑ‚Ð·Ñ‹Ð²Ñ‹ Ð¾ Ñ‚Ð¾Ð²Ð°Ñ€Ð°Ñ…";
 $MESS["ESHOP_REVIEWS_FORUM_DESCRIPTION"] = "";
 ?>

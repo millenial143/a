@@ -1,7 +1,7 @@
 <?
-$MESS["SENDER_COMP_TEMPLATE_SELECTOR_SELECT"] = "Âûáðàòü";
-$MESS["SENDER_COMP_TEMPLATE_SELECTOR_DEMO"] = "Äåìî";
-$MESS["SENDER_COMP_TEMPLATE_SELECTOR_CANCEL"] = "Çàêðûòü";
-$MESS["SENDER_COMP_TEMPLATE_SELECTOR_SHOW_MORE"] = "Ïîêàçàòü åùå ýëåìåíòû";
-$MESS["SENDER_COMP_TEMPLATE_SELECTOR_PREVIEW_TITLE"] = "Ïðåäïðîñìîòð øàáëîíà \"%name%\"";
+$MESS["SENDER_COMP_TEMPLATE_SELECTOR_SELECT"] = "Ð’Ñ‹Ð±Ñ€Ð°Ñ‚ÑŒ";
+$MESS["SENDER_COMP_TEMPLATE_SELECTOR_DEMO"] = "Ð”ÐµÐ¼Ð¾";
+$MESS["SENDER_COMP_TEMPLATE_SELECTOR_CANCEL"] = "Ð—Ð°ÐºÑ€Ñ‹Ñ‚ÑŒ";
+$MESS["SENDER_COMP_TEMPLATE_SELECTOR_SHOW_MORE"] = "ÐŸÐ¾ÐºÐ°Ð·Ð°Ñ‚ÑŒ ÐµÑ‰Ðµ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ñ‹";
+$MESS["SENDER_COMP_TEMPLATE_SELECTOR_PREVIEW_TITLE"] = "ÐŸÑ€ÐµÐ´Ð¿Ñ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€ ÑˆÐ°Ð±Ð»Ð¾Ð½Ð° \"%name%\"";
 ?>

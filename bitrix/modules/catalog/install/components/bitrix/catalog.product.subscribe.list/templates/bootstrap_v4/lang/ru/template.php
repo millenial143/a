@@ -1,33 +1,33 @@
 <?
-$MESS["CPSL_TPL_MESS_BTN_DETAIL"] = "Подробнее";
-$MESS["CPSL_ADD_TO_BASKET_OK"] = "Товар добавлен в корзину";
-$MESS["CPSL_CATALOG_TITLE_ERROR"] = "Ошибка";
-$MESS["CPSL_CATALOG_TITLE_BASKET_PROPS"] = "Свойства товара, добавляемые в корзину";
-$MESS["CPSL_CATALOG_BASKET_UNKNOWN_ERROR"] = "Неизвестная ошибка при добавлении товара в корзину";
-$MESS["CPSL_CATALOG_BTN_MESSAGE_CLOSE"] = "Закрыть";
-$MESS["CPSL_CATALOG_BTN_MESSAGE_BASKET_REDIRECT"] = "Перейти в корзину";
-$MESS["CPSL_CATALOG_BTN_MESSAGE_SEND_PROPS"] = "Выбрать";
-$MESS["CPSL_TPL_MESS_BTN_SUBSCRIBE_DELETE"] = "Удалить";
-$MESS["CPSL_STATUS_SUCCESS"] = "Успешно";
-$MESS["CPSL_STATUS_ERROR"] = "Произошла ошибка";
-$MESS["CPSL_TITLE_PAGE_WHEN_ACCESSING"] = "Получение доступа к просмотру подписок";
-$MESS["CPSL_HEADLINE_FORM_SEND_CODE"] = "Введите контакт для отправки кода проверки";
-$MESS["CPSL_CONTACT_TYPE_SELECTION"] = "Выберите тип контакта";
-$MESS["CPSL_CONTACT_TYPE_NAME"] = "Контакт";
-$MESS["CPSL_BUTTON_SUBMIT_CODE"] = "Отправить код";
-$MESS["CPSL_HEADLINE_FORM_FOR_ACCESSING"] = "Введите код проверки для доступа к просмотру";
-$MESS["CPSL_CODE_LABLE"] = "Проверочный код";
-$MESS["CPSL_BUTTON_SUBMIT_ACCESS"] = "Получить доступ";
-$MESS["CPSL_IDENTIFICATION_REQUEST_OK"] = "Вам отправлен код доступа";
-$MESS["CPSL_IDENTIFICATION_REQUEST_FAIL"] = "Произошла ошибка";
-$MESS["CPSL_SUBSCRIBE_NOT_FOUND"] = "Вы не подписаны на товары";
-$MESS["CPSL_SUBSCRIBE_TITLE"] = "Список товаров на которые вы подписаны";
-$MESS["CPSL_SUBSCRIBE_TITLE_NEW"] = "Ваши подписки";
-$MESS["CPSL_SUBSCRIBE_POPUP_TITLE_AUTHORIZE"] = "Получение доступа к подпискам";
-$MESS["CPSL_SUBSCRIBE_POPUP_TITLE_IDENTIFICATION"] = "Получение доступа к подпискам";
-$MESS["CPSL_SUBSCRIBE_POPUP_TITLE_UNSUBSCRIBE"] = "Отписка от товара";
-$MESS["CPSL_SUBSCRIBE_PAGE_TITLE_AUTHORIZE"] = "Для просмотра списка подписок необходимо 
-<a href=\"javascript:void(0);\" class=\"alert-link\" id=\"cpsl-auth\">авторизоваться</a> или 
-<a href=\"javascript:void(0);\" class=\"alert-link\" id=\"cpsl-identification\">получить код доступа</a>";
-$MESS["CPSL_TPL_MESS_BTN_UNSUBSCRIBE"] = "Отписаться";
+$MESS["CPSL_TPL_MESS_BTN_DETAIL"] = "РџРѕРґСЂРѕР±РЅРµРµ";
+$MESS["CPSL_ADD_TO_BASKET_OK"] = "РўРѕРІР°СЂ РґРѕР±Р°РІР»РµРЅ РІ РєРѕСЂР·РёРЅСѓ";
+$MESS["CPSL_CATALOG_TITLE_ERROR"] = "РћС€РёР±РєР°";
+$MESS["CPSL_CATALOG_TITLE_BASKET_PROPS"] = "РЎРІРѕР№СЃС‚РІР° С‚РѕРІР°СЂР°, РґРѕР±Р°РІР»СЏРµРјС‹Рµ РІ РєРѕСЂР·РёРЅСѓ";
+$MESS["CPSL_CATALOG_BASKET_UNKNOWN_ERROR"] = "РќРµРёР·РІРµСЃС‚РЅР°СЏ РѕС€РёР±РєР° РїСЂРё РґРѕР±Р°РІР»РµРЅРёРё С‚РѕРІР°СЂР° РІ РєРѕСЂР·РёРЅСѓ";
+$MESS["CPSL_CATALOG_BTN_MESSAGE_CLOSE"] = "Р—Р°РєСЂС‹С‚СЊ";
+$MESS["CPSL_CATALOG_BTN_MESSAGE_BASKET_REDIRECT"] = "РџРµСЂРµР№С‚Рё РІ РєРѕСЂР·РёРЅСѓ";
+$MESS["CPSL_CATALOG_BTN_MESSAGE_SEND_PROPS"] = "Р’С‹Р±СЂР°С‚СЊ";
+$MESS["CPSL_TPL_MESS_BTN_SUBSCRIBE_DELETE"] = "РЈРґР°Р»РёС‚СЊ";
+$MESS["CPSL_STATUS_SUCCESS"] = "РЈСЃРїРµС€РЅРѕ";
+$MESS["CPSL_STATUS_ERROR"] = "РџСЂРѕРёР·РѕС€Р»Р° РѕС€РёР±РєР°";
+$MESS["CPSL_TITLE_PAGE_WHEN_ACCESSING"] = "РџРѕР»СѓС‡РµРЅРёРµ РґРѕСЃС‚СѓРїР° Рє РїСЂРѕСЃРјРѕС‚СЂСѓ РїРѕРґРїРёСЃРѕРє";
+$MESS["CPSL_HEADLINE_FORM_SEND_CODE"] = "Р’РІРµРґРёС‚Рµ РєРѕРЅС‚Р°РєС‚ РґР»СЏ РѕС‚РїСЂР°РІРєРё РєРѕРґР° РїСЂРѕРІРµСЂРєРё";
+$MESS["CPSL_CONTACT_TYPE_SELECTION"] = "Р’С‹Р±РµСЂРёС‚Рµ С‚РёРї РєРѕРЅС‚Р°РєС‚Р°";
+$MESS["CPSL_CONTACT_TYPE_NAME"] = "РљРѕРЅС‚Р°РєС‚";
+$MESS["CPSL_BUTTON_SUBMIT_CODE"] = "РћС‚РїСЂР°РІРёС‚СЊ РєРѕРґ";
+$MESS["CPSL_HEADLINE_FORM_FOR_ACCESSING"] = "Р’РІРµРґРёС‚Рµ РєРѕРґ РїСЂРѕРІРµСЂРєРё РґР»СЏ РґРѕСЃС‚СѓРїР° Рє РїСЂРѕСЃРјРѕС‚СЂСѓ";
+$MESS["CPSL_CODE_LABLE"] = "РџСЂРѕРІРµСЂРѕС‡РЅС‹Р№ РєРѕРґ";
+$MESS["CPSL_BUTTON_SUBMIT_ACCESS"] = "РџРѕР»СѓС‡РёС‚СЊ РґРѕСЃС‚СѓРї";
+$MESS["CPSL_IDENTIFICATION_REQUEST_OK"] = "Р’Р°Рј РѕС‚РїСЂР°РІР»РµРЅ РєРѕРґ РґРѕСЃС‚СѓРїР°";
+$MESS["CPSL_IDENTIFICATION_REQUEST_FAIL"] = "РџСЂРѕРёР·РѕС€Р»Р° РѕС€РёР±РєР°";
+$MESS["CPSL_SUBSCRIBE_NOT_FOUND"] = "Р’С‹ РЅРµ РїРѕРґРїРёСЃР°РЅС‹ РЅР° С‚РѕРІР°СЂС‹";
+$MESS["CPSL_SUBSCRIBE_TITLE"] = "РЎРїРёСЃРѕРє С‚РѕРІР°СЂРѕРІ РЅР° РєРѕС‚РѕСЂС‹Рµ РІС‹ РїРѕРґРїРёСЃР°РЅС‹";
+$MESS["CPSL_SUBSCRIBE_TITLE_NEW"] = "Р’Р°С€Рё РїРѕРґРїРёСЃРєРё";
+$MESS["CPSL_SUBSCRIBE_POPUP_TITLE_AUTHORIZE"] = "РџРѕР»СѓС‡РµРЅРёРµ РґРѕСЃС‚СѓРїР° Рє РїРѕРґРїРёСЃРєР°Рј";
+$MESS["CPSL_SUBSCRIBE_POPUP_TITLE_IDENTIFICATION"] = "РџРѕР»СѓС‡РµРЅРёРµ РґРѕСЃС‚СѓРїР° Рє РїРѕРґРїРёСЃРєР°Рј";
+$MESS["CPSL_SUBSCRIBE_POPUP_TITLE_UNSUBSCRIBE"] = "РћС‚РїРёСЃРєР° РѕС‚ С‚РѕРІР°СЂР°";
+$MESS["CPSL_SUBSCRIBE_PAGE_TITLE_AUTHORIZE"] = "Р”Р»СЏ РїСЂРѕСЃРјРѕС‚СЂР° СЃРїРёСЃРєР° РїРѕРґРїРёСЃРѕРє РЅРµРѕР±С…РѕРґРёРјРѕ 
+<a href=\"javascript:void(0);\" class=\"alert-link\" id=\"cpsl-auth\">Р°РІС‚РѕСЂРёР·РѕРІР°С‚СЊСЃСЏ</a> РёР»Рё 
+<a href=\"javascript:void(0);\" class=\"alert-link\" id=\"cpsl-identification\">РїРѕР»СѓС‡РёС‚СЊ РєРѕРґ РґРѕСЃС‚СѓРїР°</a>";
+$MESS["CPSL_TPL_MESS_BTN_UNSUBSCRIBE"] = "РћС‚РїРёСЃР°С‚СЊСЃСЏ";
 ?>

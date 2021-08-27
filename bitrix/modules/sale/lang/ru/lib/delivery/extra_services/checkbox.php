@@ -1,4 +1,4 @@
 <?
-$MESS["DELIVERY_EXTRA_SERVICE_CHECKBOX_TITLE"] = "Åäèíè÷íàÿ óñëóãà";
-$MESS["DELIVERY_EXTRA_SERVICE_CHECKBOX_PRICE"] = "Öåíà çà óñëóãó";
+$MESS["DELIVERY_EXTRA_SERVICE_CHECKBOX_TITLE"] = "Ð•Ð´Ð¸Ð½Ð¸Ñ‡Ð½Ð°Ñ ÑƒÑÐ»ÑƒÐ³Ð°";
+$MESS["DELIVERY_EXTRA_SERVICE_CHECKBOX_PRICE"] = "Ð¦ÐµÐ½Ð° Ð·Ð° ÑƒÑÐ»ÑƒÐ³Ñƒ";
 ?>

@@ -1,6 +1,6 @@
 <?php
-$MESS['LANDING_CMP_PAR_FILTER_TYPE'] = 'Òèï ôèëüòðà';
-$MESS['LANDING_CMP_PAR_BUTTONS'] = 'Ìàññèâ êíîïîê';
-$MESS['LANDING_CMP_PAR_SETTING_LINK'] = 'Ññûëêà äëÿ èêîíêè íàñòðîåê';
-$MESS['LANDING_CMP_PAR_FOLDER_SITE_ID'] = 'Èäåíòèôèêàòîð ñàéòà äëÿ ñîçäàíèÿ ïàïêè';
-$MESS['LANDING_CMP_PAR_DRAFT_MODE'] = 'Âñåãäà ðàáîòàòü â ðåæèìå ÷åðíîâèêà';
+$MESS['LANDING_CMP_PAR_FILTER_TYPE'] = 'Ð¢Ð¸Ð¿ Ñ„Ð¸Ð»ÑŒÑ‚Ñ€Ð°';
+$MESS['LANDING_CMP_PAR_BUTTONS'] = 'ÐœÐ°ÑÑÐ¸Ð² ÐºÐ½Ð¾Ð¿Ð¾Ðº';
+$MESS['LANDING_CMP_PAR_SETTING_LINK'] = 'Ð¡ÑÑ‹Ð»ÐºÐ° Ð´Ð»Ñ Ð¸ÐºÐ¾Ð½ÐºÐ¸ Ð½Ð°ÑÑ‚Ñ€Ð¾ÐµÐº';
+$MESS['LANDING_CMP_PAR_FOLDER_SITE_ID'] = 'Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ ÑÐ°Ð¹Ñ‚Ð° Ð´Ð»Ñ ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ñ Ð¿Ð°Ð¿ÐºÐ¸';
+$MESS['LANDING_CMP_PAR_DRAFT_MODE'] = 'Ð’ÑÐµÐ³Ð´Ð° Ñ€Ð°Ð±Ð¾Ñ‚Ð°Ñ‚ÑŒ Ð² Ñ€ÐµÐ¶Ð¸Ð¼Ðµ Ñ‡ÐµÑ€Ð½Ð¾Ð²Ð¸ÐºÐ°';

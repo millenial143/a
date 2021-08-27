@@ -1,6 +1,6 @@
 <?
-$MESS["CPLSD_NAME"] = "Ñïèñîê òîâàðîâ íà êîòîðûå âû ïîäïèñàíû";
-$MESS["CPLSD_DESCRIPTION"] = "Ñïèñîê òîâàðîâ íà êîòîðûå âû ïîäïèñàíû";
-$MESS["CP_CATALOG_SERVICES_MAIN_SECTION"] = "Ìàãàçèí";
-$MESS["CP_CATALOG_SERVICES_PARENT_SECTION"] = "Èíôîðìàöèÿ î òîâàðàõ";
+$MESS["CPLSD_NAME"] = "Ð¡Ð¿Ð¸ÑÐ¾Ðº Ñ‚Ð¾Ð²Ð°Ñ€Ð¾Ð² Ð½Ð° ÐºÐ¾Ñ‚Ð¾Ñ€Ñ‹Ðµ Ð²Ñ‹ Ð¿Ð¾Ð´Ð¿Ð¸ÑÐ°Ð½Ñ‹";
+$MESS["CPLSD_DESCRIPTION"] = "Ð¡Ð¿Ð¸ÑÐ¾Ðº Ñ‚Ð¾Ð²Ð°Ñ€Ð¾Ð² Ð½Ð° ÐºÐ¾Ñ‚Ð¾Ñ€Ñ‹Ðµ Ð²Ñ‹ Ð¿Ð¾Ð´Ð¿Ð¸ÑÐ°Ð½Ñ‹";
+$MESS["CP_CATALOG_SERVICES_MAIN_SECTION"] = "ÐœÐ°Ð³Ð°Ð·Ð¸Ð½";
+$MESS["CP_CATALOG_SERVICES_PARENT_SECTION"] = "Ð˜Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ñ Ð¾ Ñ‚Ð¾Ð²Ð°Ñ€Ð°Ñ…";
 ?>

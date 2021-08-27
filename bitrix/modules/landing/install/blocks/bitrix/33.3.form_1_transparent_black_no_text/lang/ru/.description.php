@@ -1,3 +1,3 @@
 <?php
-$MESS['LANDING_BLOCK_FORM_33.3'] = 'Ôîðìà íà ò¸ìíîì ôîíå ïî öåíòðó';
-$MESS['LANDING_BLOCK_FORM_33.3_NODE_BGIMG'] = 'Ôîíîâàÿ êàðòèíêà';
+$MESS['LANDING_BLOCK_FORM_33.3'] = 'Ð¤Ð¾Ñ€Ð¼Ð° Ð½Ð° Ñ‚Ñ‘Ð¼Ð½Ð¾Ð¼ Ñ„Ð¾Ð½Ðµ Ð¿Ð¾ Ñ†ÐµÐ½Ñ‚Ñ€Ñƒ';
+$MESS['LANDING_BLOCK_FORM_33.3_NODE_BGIMG'] = 'Ð¤Ð¾Ð½Ð¾Ð²Ð°Ñ ÐºÐ°Ñ€Ñ‚Ð¸Ð½ÐºÐ°';

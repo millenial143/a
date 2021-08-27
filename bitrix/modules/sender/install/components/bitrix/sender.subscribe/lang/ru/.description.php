@@ -1,6 +1,6 @@
 <?
-$MESS ['CD_BSF_NAME'] = "Ôîðìà ïîäïèñêè";
-$MESS ['CD_BSF_DESCRIPTION'] = "Ôîðìà ïîäïèñêè";
-$MESS ['CD_BSF_SERVICE'] = "Email-ìàðêåòèíã";
-$MESS ['CD_BSF_SERVICE1'] = "Ìàðêåòèíã 24";
+$MESS ['CD_BSF_NAME'] = "Ð¤Ð¾Ñ€Ð¼Ð° Ð¿Ð¾Ð´Ð¿Ð¸ÑÐºÐ¸";
+$MESS ['CD_BSF_DESCRIPTION'] = "Ð¤Ð¾Ñ€Ð¼Ð° Ð¿Ð¾Ð´Ð¿Ð¸ÑÐºÐ¸";
+$MESS ['CD_BSF_SERVICE'] = "Email-Ð¼Ð°Ñ€ÐºÐµÑ‚Ð¸Ð½Ð³";
+$MESS ['CD_BSF_SERVICE1'] = "ÐœÐ°Ñ€ÐºÐµÑ‚Ð¸Ð½Ð³ 24";
 ?>

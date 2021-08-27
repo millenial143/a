@@ -1,4 +1,4 @@
 <?
-$MESS["MOBILE_APP_OFFLINE_TITLE"] = "Äåéñòâèå íåâîçìîæíî";
-$MESS["MOBILE_APP_OFFLINE_MESSAGE"] = "Íåò ñâÿçè ñ ñåòüþ";
+$MESS["MOBILE_APP_OFFLINE_TITLE"] = "Ð”ÐµÐ¹ÑÑ‚Ð²Ð¸Ðµ Ð½ÐµÐ²Ð¾Ð·Ð¼Ð¾Ð¶Ð½Ð¾";
+$MESS["MOBILE_APP_OFFLINE_MESSAGE"] = "ÐÐµÑ‚ ÑÐ²ÑÐ·Ð¸ Ñ ÑÐµÑ‚ÑŒÑŽ";
 ?>

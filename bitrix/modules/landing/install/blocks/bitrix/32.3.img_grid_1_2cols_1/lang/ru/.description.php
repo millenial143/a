@@ -1,6 +1,6 @@
 <?php
-$MESS['LANDING_BLOCK_32.1.IMG_GRID_1_NAME_NEW'] = 'Íàáîð èç 2 ïàíîðàìíûõ è 1 ïîðòðåòíîé ñëåâà êàðòèíîê ñ îòñòóïàìè';
-$MESS['LANDING_BLOCK_32.1.IMG_GRID_1_NODES_LANDINGBLOCKNODEIMG'] = 'Êàðòèíêà';
-$MESS['LANDING_BLOCK_32.1.IMG_GRID_1_NODES_LANDINGBLOCKNODEIMG1'] = 'Êàðòèíêà (áîëüøàÿ)';
-$MESS['LANDING_BLOCK_32.1.IMG_GRID_1_NODES_LANDINGBLOCKNODEIMG2'] = 'Êàðòèíêà (ìàëåíüêàÿ)';
-$MESS['LANDING_BLOCK_32.1.IMG_GRID_1_NODES_LANDINGBLOCKNODETXT'] = 'Íàçâàíèå';
+$MESS['LANDING_BLOCK_32.1.IMG_GRID_1_NAME_NEW'] = 'ÐÐ°Ð±Ð¾Ñ€ Ð¸Ð· 2 Ð¿Ð°Ð½Ð¾Ñ€Ð°Ð¼Ð½Ñ‹Ñ… Ð¸ 1 Ð¿Ð¾Ñ€Ñ‚Ñ€ÐµÑ‚Ð½Ð¾Ð¹ ÑÐ»ÐµÐ²Ð° ÐºÐ°Ñ€Ñ‚Ð¸Ð½Ð¾Ðº Ñ Ð¾Ñ‚ÑÑ‚ÑƒÐ¿Ð°Ð¼Ð¸';
+$MESS['LANDING_BLOCK_32.1.IMG_GRID_1_NODES_LANDINGBLOCKNODEIMG'] = 'ÐšÐ°Ñ€Ñ‚Ð¸Ð½ÐºÐ°';
+$MESS['LANDING_BLOCK_32.1.IMG_GRID_1_NODES_LANDINGBLOCKNODEIMG1'] = 'ÐšÐ°Ñ€Ñ‚Ð¸Ð½ÐºÐ° (Ð±Ð¾Ð»ÑŒÑˆÐ°Ñ)';
+$MESS['LANDING_BLOCK_32.1.IMG_GRID_1_NODES_LANDINGBLOCKNODEIMG2'] = 'ÐšÐ°Ñ€Ñ‚Ð¸Ð½ÐºÐ° (Ð¼Ð°Ð»ÐµÐ½ÑŒÐºÐ°Ñ)';
+$MESS['LANDING_BLOCK_32.1.IMG_GRID_1_NODES_LANDINGBLOCKNODETXT'] = 'ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ';

@@ -1,4 +1,4 @@
 <?
-$MESS ['EVENT_LIST_NAME'] = "Æóðíàë èçìåíåíèé";
-$MESS ['EVENT_LIST_DESCRIPTION'] = "Âûâîäèò æóðíàë èçìåíåíèé";
+$MESS ['EVENT_LIST_NAME'] = "Ð–ÑƒÑ€Ð½Ð°Ð» Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ð¹";
+$MESS ['EVENT_LIST_DESCRIPTION'] = "Ð’Ñ‹Ð²Ð¾Ð´Ð¸Ñ‚ Ð¶ÑƒÑ€Ð½Ð°Ð» Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ð¹";
 ?>

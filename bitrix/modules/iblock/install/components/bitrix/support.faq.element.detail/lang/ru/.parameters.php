@@ -1,18 +1,18 @@
 <?
-$MESS ['SUPPORT_FAQ_ED_GROUP_SETTINGS'] = "Íàñòðîéêè êîìïîíåíòà";
-$MESS ['SUPPORT_FAQ_ED_SETTING_IBTYPES'] = "Òèïû èíôîáëîêîâ";
-$MESS ['SUPPORT_FAQ_ED_SETTING_IBLIST'] = "Ñïèñîê èíôîáëîêîâ";
-$MESS ['SUPPORT_FAQ_ED_SETTING_SECTIONS_LIST'] = "ID Ñåêöèè";
-$MESS ['SUPPORT_FAQ_ED_SETTING_ELEMENTS_LIST'] = "ID Ýëåìåíòà";
-$MESS ['CP_BSFED_CACHE_GROUPS'] = "Ó÷èòûâàòü ïðàâà äîñòóïà";
-$MESS ['SUPPORT_RATING_SETTINGS'] = "Íàñòðîéêè ðåéòèíãîâ";
-$MESS ['SHOW_RATING'] = "Âêëþ÷èòü ðåéòèíã";
-$MESS ['SHOW_RATING_CONFIG'] = "ïî óìîë÷àíèþ";
-$MESS ['RATING_TYPE'] = "Âèä êíîïîê ðåéòèíãà";
-$MESS ['RATING_TYPE_CONFIG'] = "ïî óìîë÷àíèþ";
-$MESS ['RATING_TYPE_STANDART_TEXT'] = "Íðàâèòñÿ / Íå íðàâèòñÿ (òåêñòîâûé)";
-$MESS ['RATING_TYPE_STANDART_GRAPHIC'] = "Íðàâèòñÿ / Íå íðàâèòñÿ (ãðàôè÷åñêèé)";
-$MESS ['RATING_TYPE_LIKE_TEXT'] = "Ìíå íðàâèòñÿ (òåêñòîâûé)";
-$MESS ['RATING_TYPE_LIKE_GRAPHIC'] = "Ìíå íðàâèòñÿ (ãðàôè÷åñêèé)";
-$MESS	['PATH_TO_USER'] = "Øàáëîí ïóòè ê ñòðàíèöå ïîëüçîâàòåëÿ";
+$MESS ['SUPPORT_FAQ_ED_GROUP_SETTINGS'] = "ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸ ÐºÐ¾Ð¼Ð¿Ð¾Ð½ÐµÐ½Ñ‚Ð°";
+$MESS ['SUPPORT_FAQ_ED_SETTING_IBTYPES'] = "Ð¢Ð¸Ð¿Ñ‹ Ð¸Ð½Ñ„Ð¾Ð±Ð»Ð¾ÐºÐ¾Ð²";
+$MESS ['SUPPORT_FAQ_ED_SETTING_IBLIST'] = "Ð¡Ð¿Ð¸ÑÐ¾Ðº Ð¸Ð½Ñ„Ð¾Ð±Ð»Ð¾ÐºÐ¾Ð²";
+$MESS ['SUPPORT_FAQ_ED_SETTING_SECTIONS_LIST'] = "ID Ð¡ÐµÐºÑ†Ð¸Ð¸";
+$MESS ['SUPPORT_FAQ_ED_SETTING_ELEMENTS_LIST'] = "ID Ð­Ð»ÐµÐ¼ÐµÐ½Ñ‚Ð°";
+$MESS ['CP_BSFED_CACHE_GROUPS'] = "Ð£Ñ‡Ð¸Ñ‚Ñ‹Ð²Ð°Ñ‚ÑŒ Ð¿Ñ€Ð°Ð²Ð° Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð°";
+$MESS ['SUPPORT_RATING_SETTINGS'] = "ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸ Ñ€ÐµÐ¹Ñ‚Ð¸Ð½Ð³Ð¾Ð²";
+$MESS ['SHOW_RATING'] = "Ð’ÐºÐ»ÑŽÑ‡Ð¸Ñ‚ÑŒ Ñ€ÐµÐ¹Ñ‚Ð¸Ð½Ð³";
+$MESS ['SHOW_RATING_CONFIG'] = "Ð¿Ð¾ ÑƒÐ¼Ð¾Ð»Ñ‡Ð°Ð½Ð¸ÑŽ";
+$MESS ['RATING_TYPE'] = "Ð’Ð¸Ð´ ÐºÐ½Ð¾Ð¿Ð¾Ðº Ñ€ÐµÐ¹Ñ‚Ð¸Ð½Ð³Ð°";
+$MESS ['RATING_TYPE_CONFIG'] = "Ð¿Ð¾ ÑƒÐ¼Ð¾Ð»Ñ‡Ð°Ð½Ð¸ÑŽ";
+$MESS ['RATING_TYPE_STANDART_TEXT'] = "ÐÑ€Ð°Ð²Ð¸Ñ‚ÑÑ / ÐÐµ Ð½Ñ€Ð°Ð²Ð¸Ñ‚ÑÑ (Ñ‚ÐµÐºÑÑ‚Ð¾Ð²Ñ‹Ð¹)";
+$MESS ['RATING_TYPE_STANDART_GRAPHIC'] = "ÐÑ€Ð°Ð²Ð¸Ñ‚ÑÑ / ÐÐµ Ð½Ñ€Ð°Ð²Ð¸Ñ‚ÑÑ (Ð³Ñ€Ð°Ñ„Ð¸Ñ‡ÐµÑÐºÐ¸Ð¹)";
+$MESS ['RATING_TYPE_LIKE_TEXT'] = "ÐœÐ½Ðµ Ð½Ñ€Ð°Ð²Ð¸Ñ‚ÑÑ (Ñ‚ÐµÐºÑÑ‚Ð¾Ð²Ñ‹Ð¹)";
+$MESS ['RATING_TYPE_LIKE_GRAPHIC'] = "ÐœÐ½Ðµ Ð½Ñ€Ð°Ð²Ð¸Ñ‚ÑÑ (Ð³Ñ€Ð°Ñ„Ð¸Ñ‡ÐµÑÐºÐ¸Ð¹)";
+$MESS	['PATH_TO_USER'] = "Ð¨Ð°Ð±Ð»Ð¾Ð½ Ð¿ÑƒÑ‚Ð¸ Ðº ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ðµ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ";
 ?>

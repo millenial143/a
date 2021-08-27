@@ -1,3 +1,3 @@
 <?php
-$MESS ['SALE_BSM_WIZARD_TEMPLATE_WANT_TO_CANCEL'] = "Âû äåéñòâèòåëüíî õîòèòå âûéòè èç ìàñòåðà?";
-$MESS ['SALE_BSM_WIZARD_TEMPLATE_WAIT_WINDOW_TEXT'] = "Óñòàíîâêà...";
+$MESS ['SALE_BSM_WIZARD_TEMPLATE_WANT_TO_CANCEL'] = "Ð’Ñ‹ Ð´ÐµÐ¹ÑÑ‚Ð²Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ð¾ Ñ…Ð¾Ñ‚Ð¸Ñ‚Ðµ Ð²Ñ‹Ð¹Ñ‚Ð¸ Ð¸Ð· Ð¼Ð°ÑÑ‚ÐµÑ€Ð°?";
+$MESS ['SALE_BSM_WIZARD_TEMPLATE_WAIT_WINDOW_TEXT'] = "Ð£ÑÑ‚Ð°Ð½Ð¾Ð²ÐºÐ°...";

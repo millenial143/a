@@ -1,10 +1,10 @@
 <?
-$MESS ['SAVE_ERROR'] = "Îøèáêà ñîõðàíåíèÿ";
-$MESS ['DELETE_ERROR'] = "Îøèáêà óäàëåíèÿ";
-$MESS ['VOTE_ACTIVE'] = "Àêò.";
-$MESS ['VOTE_DIAGRAM'] = "Äèàãð.";
-$MESS ['VOTE_QUESTION'] = "Âîïðîñ";
-$MESS ['VOTE_REQUIRED'] = "Îáÿçàòåëåí ê îòâåòó";
-$MESS ['VOTE_YES'] = "Äà";
-$MESS ['VOTE_NO'] = "Íåò";
-$MESS ['VOTE_TIMESTAMP_X'] = "Èçìåíåíî";
+$MESS ['SAVE_ERROR'] = "ÐžÑˆÐ¸Ð±ÐºÐ° ÑÐ¾Ñ…Ñ€Ð°Ð½ÐµÐ½Ð¸Ñ";
+$MESS ['DELETE_ERROR'] = "ÐžÑˆÐ¸Ð±ÐºÐ° ÑƒÐ´Ð°Ð»ÐµÐ½Ð¸Ñ";
+$MESS ['VOTE_ACTIVE'] = "ÐÐºÑ‚.";
+$MESS ['VOTE_DIAGRAM'] = "Ð”Ð¸Ð°Ð³Ñ€.";
+$MESS ['VOTE_QUESTION'] = "Ð’Ð¾Ð¿Ñ€Ð¾Ñ";
+$MESS ['VOTE_REQUIRED'] = "ÐžÐ±ÑÐ·Ð°Ñ‚ÐµÐ»ÐµÐ½ Ðº Ð¾Ñ‚Ð²ÐµÑ‚Ñƒ";
+$MESS ['VOTE_YES'] = "Ð”Ð°";
+$MESS ['VOTE_NO'] = "ÐÐµÑ‚";
+$MESS ['VOTE_TIMESTAMP_X'] = "Ð˜Ð·Ð¼ÐµÐ½ÐµÐ½Ð¾";

@@ -1,9 +1,9 @@
 <?php
-$MESS['LANDING_BLOCK_31_5-NAME'] = 'Ñïèñîê ñòðàíèö ñ êàðòèíêîé ñëåâà è ññûëêîé ñïðàâà';
-$MESS['LANDING_BLOCK_31_5-CARD'] = 'Êàðòî÷êà';
-$MESS['LANDING_BLOCK_31_5-COLUMN'] = 'Êîëîíêà';
-$MESS['LANDING_BLOCK_31_5-SUBTITLE'] = 'Ïîäçàãîëîâîê';
-$MESS['LANDING_BLOCK_31_5-TITLE'] = 'Çàãîëîâîê';
-$MESS['LANDING_BLOCK_31_5-TEXT'] = 'Òåêñò';
-$MESS['LANDING_BLOCK_31_5-IMAGE'] = 'Êàðòèíêà';
-$MESS['LANDING_BLOCK_31_5-LINK'] = 'Ññûëêà';
+$MESS['LANDING_BLOCK_31_5-NAME'] = 'Ð¡Ð¿Ð¸ÑÐ¾Ðº ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ† Ñ ÐºÐ°Ñ€Ñ‚Ð¸Ð½ÐºÐ¾Ð¹ ÑÐ»ÐµÐ²Ð° Ð¸ ÑÑÑ‹Ð»ÐºÐ¾Ð¹ ÑÐ¿Ñ€Ð°Ð²Ð°';
+$MESS['LANDING_BLOCK_31_5-CARD'] = 'ÐšÐ°Ñ€Ñ‚Ð¾Ñ‡ÐºÐ°';
+$MESS['LANDING_BLOCK_31_5-COLUMN'] = 'ÐšÐ¾Ð»Ð¾Ð½ÐºÐ°';
+$MESS['LANDING_BLOCK_31_5-SUBTITLE'] = 'ÐŸÐ¾Ð´Ð·Ð°Ð³Ð¾Ð»Ð¾Ð²Ð¾Ðº';
+$MESS['LANDING_BLOCK_31_5-TITLE'] = 'Ð—Ð°Ð³Ð¾Ð»Ð¾Ð²Ð¾Ðº';
+$MESS['LANDING_BLOCK_31_5-TEXT'] = 'Ð¢ÐµÐºÑÑ‚';
+$MESS['LANDING_BLOCK_31_5-IMAGE'] = 'ÐšÐ°Ñ€Ñ‚Ð¸Ð½ÐºÐ°';
+$MESS['LANDING_BLOCK_31_5-LINK'] = 'Ð¡ÑÑ‹Ð»ÐºÐ°';

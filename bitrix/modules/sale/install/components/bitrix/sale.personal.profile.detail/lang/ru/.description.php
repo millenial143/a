@@ -1,5 +1,5 @@
 <?
-$MESS ['SPPD_DEFAULT_TEMPLATE_NAME'] = "Ðåäàêòèðîâàíèå ïðîôèëÿ";
-$MESS ['SPPD_DEFAULT_TEMPLATE_DESCRIPTION'] = "Ïîçâîëÿåò ðåäàêòèðîâàòü ïðîôèëü ïîëüçîâàòåëÿ";
-$MESS ['SPPD_NAME'] = "Ïåðñîíàëüíûé ðàçäåë";
+$MESS ['SPPD_DEFAULT_TEMPLATE_NAME'] = "Ð ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ðµ Ð¿Ñ€Ð¾Ñ„Ð¸Ð»Ñ";
+$MESS ['SPPD_DEFAULT_TEMPLATE_DESCRIPTION'] = "ÐŸÐ¾Ð·Ð²Ð¾Ð»ÑÐµÑ‚ Ñ€ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ Ð¿Ñ€Ð¾Ñ„Ð¸Ð»ÑŒ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ";
+$MESS ['SPPD_NAME'] = "ÐŸÐµÑ€ÑÐ¾Ð½Ð°Ð»ÑŒÐ½Ñ‹Ð¹ Ñ€Ð°Ð·Ð´ÐµÐ»";
 ?>

@@ -1,6 +1,6 @@
 <?
-$MESS["SMODE_SALE_NOT_INSTALLED"] = "Íå óñòàíîâëåí ìîäóëü sale";
-$MESS["SMODE_MOBILEAPP_NOT_INSTALLED"] = "Íå óñòàíîâëåí ìîäóëü mobileapp";
-$MESS["SMODE_ACCESS_DENIED"] = "Äîñòóï çàïðåùåí";
-$MESS["SMODE_ERROR_DEDUCT_ORDER"] = "Îøèáêà îòãðóçêè çàêàçà";
+$MESS["SMODE_SALE_NOT_INSTALLED"] = "ÐÐµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½ Ð¼Ð¾Ð´ÑƒÐ»ÑŒ sale";
+$MESS["SMODE_MOBILEAPP_NOT_INSTALLED"] = "ÐÐµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½ Ð¼Ð¾Ð´ÑƒÐ»ÑŒ mobileapp";
+$MESS["SMODE_ACCESS_DENIED"] = "Ð”Ð¾ÑÑ‚ÑƒÐ¿ Ð·Ð°Ð¿Ñ€ÐµÑ‰ÐµÐ½";
+$MESS["SMODE_ERROR_DEDUCT_ORDER"] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð¾Ñ‚Ð³Ñ€ÑƒÐ·ÐºÐ¸ Ð·Ð°ÐºÐ°Ð·Ð°";
 ?>

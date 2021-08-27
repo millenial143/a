@@ -1,14 +1,14 @@
 <?
-$MESS["IBLOCK_ADD_ERROR_REQUIRED"] = "Ïîëå '#PROPERTY_NAME#' äîëæíî áûòü çàïîëíåíî!";
-$MESS["IBLOCK_ADD_ELEMENT_NOT_FOUND"] = "Ýëåìåíò íå íàéäåí";
-$MESS["IBLOCK_ADD_ACCESS_DENIED"] = "Íåò äîñòóïà";
-$MESS["IBLOCK_FORM_WRONG_CAPTCHA"] = "Íåâåðíî ââåäåíî ñëîâî ñ êàðòèíêè";
-$MESS["IBLOCK_ADD_MAX_ENTRIES_EXCEEDED"] = "Ïðåâûøåíî ìàêñèìàëüíîå êîëè÷åñòâî çàïèñåé";
-$MESS["IBLOCK_ADD_MAX_LEVELS_EXCEEDED"] = "Ïðåâûøåíî ìàêñèìàëüíîå êîëè÷åñòâî ðàçäåëîâ - #MAX_LEVELS#";
-$MESS["IBLOCK_ADD_LEVEL_LAST_ERROR"] = "Ðàçðåøåíî äîáàâëåíèå òîëüêî â ðàçäåëû ïîñëåäíåãî óðîâíÿ";
-$MESS["IBLOCK_USER_MESSAGE_ADD_DEFAULT"] = "Ýëåìåíò óñïåøíî äîáàâëåí";
-$MESS["IBLOCK_USER_MESSAGE_EDIT_DEFAULT"] = "Èçìåíåíèÿ óñïåøíî ñîõðàíåíû";
-$MESS["IBLOCK_ERROR_FILE_TOO_LARGE"] = "Ðàçìåð çàãðóæåííîãî ôàéëà ïðåâûøàåò äîïóñòèìîå çíà÷åíèå";
-$MESS["CC_BIEAF_ACCESS_DENIED_STATUS"] = "Ó âàñ íåò ïðàâ íà ðåäàêòèðîâàíèå äàííîé çàïèñè â åå òåêóùåì ñòàòóñå";
-$MESS["CC_BIEAF_IBLOCK_MODULE_NOT_INSTALLED"] = "Ìîäóëü Èíôîðìàöèîííûõ áëîêîâ íå óñòàíîâëåí";
+$MESS["IBLOCK_ADD_ERROR_REQUIRED"] = "ÐŸÐ¾Ð»Ðµ '#PROPERTY_NAME#' Ð´Ð¾Ð»Ð¶Ð½Ð¾ Ð±Ñ‹Ñ‚ÑŒ Ð·Ð°Ð¿Ð¾Ð»Ð½ÐµÐ½Ð¾!";
+$MESS["IBLOCK_ADD_ELEMENT_NOT_FOUND"] = "Ð­Ð»ÐµÐ¼ÐµÐ½Ñ‚ Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½";
+$MESS["IBLOCK_ADD_ACCESS_DENIED"] = "ÐÐµÑ‚ Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð°";
+$MESS["IBLOCK_FORM_WRONG_CAPTCHA"] = "ÐÐµÐ²ÐµÑ€Ð½Ð¾ Ð²Ð²ÐµÐ´ÐµÐ½Ð¾ ÑÐ»Ð¾Ð²Ð¾ Ñ ÐºÐ°Ñ€Ñ‚Ð¸Ð½ÐºÐ¸";
+$MESS["IBLOCK_ADD_MAX_ENTRIES_EXCEEDED"] = "ÐŸÑ€ÐµÐ²Ñ‹ÑˆÐµÐ½Ð¾ Ð¼Ð°ÐºÑÐ¸Ð¼Ð°Ð»ÑŒÐ½Ð¾Ðµ ÐºÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾ Ð·Ð°Ð¿Ð¸ÑÐµÐ¹";
+$MESS["IBLOCK_ADD_MAX_LEVELS_EXCEEDED"] = "ÐŸÑ€ÐµÐ²Ñ‹ÑˆÐµÐ½Ð¾ Ð¼Ð°ÐºÑÐ¸Ð¼Ð°Ð»ÑŒÐ½Ð¾Ðµ ÐºÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾ Ñ€Ð°Ð·Ð´ÐµÐ»Ð¾Ð² - #MAX_LEVELS#";
+$MESS["IBLOCK_ADD_LEVEL_LAST_ERROR"] = "Ð Ð°Ð·Ñ€ÐµÑˆÐµÐ½Ð¾ Ð´Ð¾Ð±Ð°Ð²Ð»ÐµÐ½Ð¸Ðµ Ñ‚Ð¾Ð»ÑŒÐºÐ¾ Ð² Ñ€Ð°Ð·Ð´ÐµÐ»Ñ‹ Ð¿Ð¾ÑÐ»ÐµÐ´Ð½ÐµÐ³Ð¾ ÑƒÑ€Ð¾Ð²Ð½Ñ";
+$MESS["IBLOCK_USER_MESSAGE_ADD_DEFAULT"] = "Ð­Ð»ÐµÐ¼ÐµÐ½Ñ‚ ÑƒÑÐ¿ÐµÑˆÐ½Ð¾ Ð´Ð¾Ð±Ð°Ð²Ð»ÐµÐ½";
+$MESS["IBLOCK_USER_MESSAGE_EDIT_DEFAULT"] = "Ð˜Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ñ ÑƒÑÐ¿ÐµÑˆÐ½Ð¾ ÑÐ¾Ñ…Ñ€Ð°Ð½ÐµÐ½Ñ‹";
+$MESS["IBLOCK_ERROR_FILE_TOO_LARGE"] = "Ð Ð°Ð·Ð¼ÐµÑ€ Ð·Ð°Ð³Ñ€ÑƒÐ¶ÐµÐ½Ð½Ð¾Ð³Ð¾ Ñ„Ð°Ð¹Ð»Ð° Ð¿Ñ€ÐµÐ²Ñ‹ÑˆÐ°ÐµÑ‚ Ð´Ð¾Ð¿ÑƒÑÑ‚Ð¸Ð¼Ð¾Ðµ Ð·Ð½Ð°Ñ‡ÐµÐ½Ð¸Ðµ";
+$MESS["CC_BIEAF_ACCESS_DENIED_STATUS"] = "Ð£ Ð²Ð°Ñ Ð½ÐµÑ‚ Ð¿Ñ€Ð°Ð² Ð½Ð° Ñ€ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ðµ Ð´Ð°Ð½Ð½Ð¾Ð¹ Ð·Ð°Ð¿Ð¸ÑÐ¸ Ð² ÐµÐµ Ñ‚ÐµÐºÑƒÑ‰ÐµÐ¼ ÑÑ‚Ð°Ñ‚ÑƒÑÐµ";
+$MESS["CC_BIEAF_IBLOCK_MODULE_NOT_INSTALLED"] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ Ð˜Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ð¾Ð½Ð½Ñ‹Ñ… Ð±Ð»Ð¾ÐºÐ¾Ð² Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½";
 ?>

@@ -1,2 +1,2 @@
 <?php
-$MESS['LANDING_DEMO_STORE_INSTAGRAM--CART--NAME'] = 'Êîðçèíà';
+$MESS['LANDING_DEMO_STORE_INSTAGRAM--CART--NAME'] = 'ÐšÐ¾Ñ€Ð·Ð¸Ð½Ð°';

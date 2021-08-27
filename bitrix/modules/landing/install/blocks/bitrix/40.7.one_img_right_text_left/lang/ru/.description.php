@@ -1,8 +1,8 @@
 <?php
-$MESS['LANDING_BLOCK_40_7_NAME'] = 'Òåêñò ñî ññûëêîé ñëåâà è êàðòèíêîé ïîä òåêñòîì ñïðàâà';
-$MESS['LANDING_BLOCK_40_7_TITLE'] = 'Çàãîëîâîê';
-$MESS['LANDING_BLOCK_40_7_TEXT'] = 'Òåêñò';
-$MESS['LANDING_BLOCK_40_7_IMG'] = 'Êàðòèíêà';
-$MESS['LANDING_BLOCK_40_7_CONTAINER'] = 'Íàáîð ýëåìåíòîâ';
-$MESS['LANDING_BLOCK_40_7_LINK'] = 'Ññûëêà';
-$MESS['LANDING_BLOCK_40_7_SEPARATOR'] = 'Ðàçäåëèòåëü';
+$MESS['LANDING_BLOCK_40_7_NAME'] = 'Ð¢ÐµÐºÑÑ‚ ÑÐ¾ ÑÑÑ‹Ð»ÐºÐ¾Ð¹ ÑÐ»ÐµÐ²Ð° Ð¸ ÐºÐ°Ñ€Ñ‚Ð¸Ð½ÐºÐ¾Ð¹ Ð¿Ð¾Ð´ Ñ‚ÐµÐºÑÑ‚Ð¾Ð¼ ÑÐ¿Ñ€Ð°Ð²Ð°';
+$MESS['LANDING_BLOCK_40_7_TITLE'] = 'Ð—Ð°Ð³Ð¾Ð»Ð¾Ð²Ð¾Ðº';
+$MESS['LANDING_BLOCK_40_7_TEXT'] = 'Ð¢ÐµÐºÑÑ‚';
+$MESS['LANDING_BLOCK_40_7_IMG'] = 'ÐšÐ°Ñ€Ñ‚Ð¸Ð½ÐºÐ°';
+$MESS['LANDING_BLOCK_40_7_CONTAINER'] = 'ÐÐ°Ð±Ð¾Ñ€ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð¾Ð²';
+$MESS['LANDING_BLOCK_40_7_LINK'] = 'Ð¡ÑÑ‹Ð»ÐºÐ°';
+$MESS['LANDING_BLOCK_40_7_SEPARATOR'] = 'Ð Ð°Ð·Ð´ÐµÐ»Ð¸Ñ‚ÐµÐ»ÑŒ';

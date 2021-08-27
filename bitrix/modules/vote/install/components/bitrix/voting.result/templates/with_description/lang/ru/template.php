@@ -1,8 +1,8 @@
 <?
-$MESS ['VOTE_IS_ACTIVE_SMALL'] = "àêòèâåí";
-$MESS ['VOTE_IS_NOT_ACTIVE_SMALL'] = "íåàêòèâåí";
-$MESS ['VOTE_IS_ACTIVE'] = "Îïðîñ àêòèâåí.";
-$MESS ['VOTE_IS_NOT_ACTIVE'] = "Îïðîñ íåàêòèâåí.";
-$MESS ['VOTE_VOTES'] = "Ãîëîñîâ";
-$MESS ['VOTE_GROUP_TOTAL'] = "âñåãî";
+$MESS ['VOTE_IS_ACTIVE_SMALL'] = "Ð°ÐºÑ‚Ð¸Ð²ÐµÐ½";
+$MESS ['VOTE_IS_NOT_ACTIVE_SMALL'] = "Ð½ÐµÐ°ÐºÑ‚Ð¸Ð²ÐµÐ½";
+$MESS ['VOTE_IS_ACTIVE'] = "ÐžÐ¿Ñ€Ð¾Ñ Ð°ÐºÑ‚Ð¸Ð²ÐµÐ½.";
+$MESS ['VOTE_IS_NOT_ACTIVE'] = "ÐžÐ¿Ñ€Ð¾Ñ Ð½ÐµÐ°ÐºÑ‚Ð¸Ð²ÐµÐ½.";
+$MESS ['VOTE_VOTES'] = "Ð“Ð¾Ð»Ð¾ÑÐ¾Ð²";
+$MESS ['VOTE_GROUP_TOTAL'] = "Ð²ÑÐµÐ³Ð¾";
 ?>

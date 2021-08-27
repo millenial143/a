@@ -1,2 +1,2 @@
 <?php
-$MESS['PDF_JS_DEFAULT_TITLE'] = 'Ïðîñìîòð pdf ôàéëà';
+$MESS['PDF_JS_DEFAULT_TITLE'] = 'ÐŸÑ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€ pdf Ñ„Ð°Ð¹Ð»Ð°';

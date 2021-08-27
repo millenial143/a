@@ -1,11 +1,11 @@
 <?
-$MESS ['SALE_MODULE_NOT_INSTALL'] = "Модуль Интернет-магазин не установлен.";
-$MESS ['CURRENCY_MODULE_NOT_INSTALLED'] = "Модуль Валют не установлен.";
-$MESS ['TSB1_BASKET_TEXT'] = "В вашей корзине <b>#NUM#</b> товар#END#"; // compatibility!
-$MESS ['TSB1_PRODUCT'] = "товар";
-$MESS ['TSB1_WORD_OBNOVL_END1'] = "ов";
-$MESS ['TSB1_WORD_OBNOVL_END2'] = "ов";
+$MESS ['SALE_MODULE_NOT_INSTALL'] = "РњРѕРґСѓР»СЊ РРЅС‚РµСЂРЅРµС‚-РјР°РіР°Р·РёРЅ РЅРµ СѓСЃС‚Р°РЅРѕРІР»РµРЅ.";
+$MESS ['CURRENCY_MODULE_NOT_INSTALLED'] = "РњРѕРґСѓР»СЊ Р’Р°Р»СЋС‚ РЅРµ СѓСЃС‚Р°РЅРѕРІР»РµРЅ.";
+$MESS ['TSB1_BASKET_TEXT'] = "Р’ РІР°С€РµР№ РєРѕСЂР·РёРЅРµ <b>#NUM#</b> С‚РѕРІР°СЂ#END#"; // compatibility!
+$MESS ['TSB1_PRODUCT'] = "С‚РѕРІР°СЂ";
+$MESS ['TSB1_WORD_OBNOVL_END1'] = "РѕРІ";
+$MESS ['TSB1_WORD_OBNOVL_END2'] = "РѕРІ";
 $MESS ['TSB1_WORD_OBNOVL_END3'] = "";
-$MESS ['TSB1_WORD_OBNOVL_END4'] = "а";
-$MESS ['TSB1_EMPTY'] = "Ваша корзина пуста"; // compatibility!
-$MESS ['TSB1_MEASURE_NAME'] = "шт";
+$MESS ['TSB1_WORD_OBNOVL_END4'] = "Р°";
+$MESS ['TSB1_EMPTY'] = "Р’Р°С€Р° РєРѕСЂР·РёРЅР° РїСѓСЃС‚Р°"; // compatibility!
+$MESS ['TSB1_MEASURE_NAME'] = "С€С‚";

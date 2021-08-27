@@ -1,3 +1,3 @@
 <?
-$MESS["SENDER_CONFIG_LIMITS_TITLE"] = "Îãðàíè÷åíèÿ";
+$MESS["SENDER_CONFIG_LIMITS_TITLE"] = "ÐžÐ³Ñ€Ð°Ð½Ð¸Ñ‡ÐµÐ½Ð¸Ñ";
 ?>

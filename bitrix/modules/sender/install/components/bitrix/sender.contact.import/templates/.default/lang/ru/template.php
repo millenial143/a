@@ -1,9 +1,9 @@
 <?
-$MESS["SENDER_CONTACT_IMPORT_LOADING"] = "Загрузка";
-$MESS["SENDER_CONTACT_IMPORT_BUTTON_LOAD"] = "Загрузить";
-$MESS["SENDER_CONTACT_IMPORT_RECIPIENTS"] = "Список получателей";
-$MESS["SENDER_CONTACT_IMPORT_FORMAT_DESC"] = "Укажите список email-адресов и/или телефонов, в столбик(каждая запись на новой строке).<br> Вы можете загружать также и имена. Для этого после адреса через точку с запятой укажите имя. <br>Пример:<br><br> vasily@example.com<br>peter@example.com;Пётр<br>+0112233445566<br>+71234567890;Анна";
-$MESS["SENDER_CONTACT_IMPORT_SET"] = "Загрузить в статический набор адресов";
-$MESS["SENDER_CONTACT_IMPORT_SET_ADD"] = "Новый";
-$MESS["SENDER_CONTACT_IMPORT_SET_NAME"] = "с названием";
+$MESS["SENDER_CONTACT_IMPORT_LOADING"] = "Р—Р°РіСЂСѓР·РєР°";
+$MESS["SENDER_CONTACT_IMPORT_BUTTON_LOAD"] = "Р—Р°РіСЂСѓР·РёС‚СЊ";
+$MESS["SENDER_CONTACT_IMPORT_RECIPIENTS"] = "РЎРїРёСЃРѕРє РїРѕР»СѓС‡Р°С‚РµР»РµР№";
+$MESS["SENDER_CONTACT_IMPORT_FORMAT_DESC"] = "РЈРєР°Р¶РёС‚Рµ СЃРїРёСЃРѕРє email-Р°РґСЂРµСЃРѕРІ Рё/РёР»Рё С‚РµР»РµС„РѕРЅРѕРІ, РІ СЃС‚РѕР»Р±РёРє(РєР°Р¶РґР°СЏ Р·Р°РїРёСЃСЊ РЅР° РЅРѕРІРѕР№ СЃС‚СЂРѕРєРµ).<br> Р’С‹ РјРѕР¶РµС‚Рµ Р·Р°РіСЂСѓР¶Р°С‚СЊ С‚Р°РєР¶Рµ Рё РёРјРµРЅР°. Р”Р»СЏ СЌС‚РѕРіРѕ РїРѕСЃР»Рµ Р°РґСЂРµСЃР° С‡РµСЂРµР· С‚РѕС‡РєСѓ СЃ Р·Р°РїСЏС‚РѕР№ СѓРєР°Р¶РёС‚Рµ РёРјСЏ. <br>РџСЂРёРјРµСЂ:<br><br> vasily@example.com<br>peter@example.com;РџС‘С‚СЂ<br>+0112233445566<br>+71234567890;РђРЅРЅР°";
+$MESS["SENDER_CONTACT_IMPORT_SET"] = "Р—Р°РіСЂСѓР·РёС‚СЊ РІ СЃС‚Р°С‚РёС‡РµСЃРєРёР№ РЅР°Р±РѕСЂ Р°РґСЂРµСЃРѕРІ";
+$MESS["SENDER_CONTACT_IMPORT_SET_ADD"] = "РќРѕРІС‹Р№";
+$MESS["SENDER_CONTACT_IMPORT_SET_NAME"] = "СЃ РЅР°Р·РІР°РЅРёРµРј";
 ?>

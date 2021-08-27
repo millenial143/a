@@ -1,8 +1,8 @@
 <?php
-$MESS['LANDING_TPL_NOTES_TITLE'] = 'Âûáåðèòå áàçó çíàíèé äëÿ ñîçäàíèÿ ñòàòüè';
-$MESS['LANDING_TPL_NOTES_LEFT_TITLE'] = 'Áàçà çíàíèé';
-$MESS['LANDING_TPL_NOTES_TITLE_COMMON'] = 'Îáùèé ñïèñîê';
-$MESS['LANDING_TPL_NOTES_TITLE_GROUP'] = 'Ðàáî÷èå ãðóïïû';
-$MESS['LANDING_TPL_NOTES_SELECT'] = 'Âûáðàòü';
-$MESS['LANDING_TPL_NOTES_EMPTY_ALERT_TMP_KNOWLEDGE'] = 'Íåò äîñòóïíûõ áàç çíàíèé äëÿ âûáîðà';
-$MESS['LANDING_TPL_NOTES_EMPTY_ALERT_TMP_GROUP'] = 'Íåò äîñòóïíûõ áàç çíàíèé äëÿ âûáîðà';
+$MESS['LANDING_TPL_NOTES_TITLE'] = 'Ð’Ñ‹Ð±ÐµÑ€Ð¸Ñ‚Ðµ Ð±Ð°Ð·Ñƒ Ð·Ð½Ð°Ð½Ð¸Ð¹ Ð´Ð»Ñ ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ñ ÑÑ‚Ð°Ñ‚ÑŒÐ¸';
+$MESS['LANDING_TPL_NOTES_LEFT_TITLE'] = 'Ð‘Ð°Ð·Ð° Ð·Ð½Ð°Ð½Ð¸Ð¹';
+$MESS['LANDING_TPL_NOTES_TITLE_COMMON'] = 'ÐžÐ±Ñ‰Ð¸Ð¹ ÑÐ¿Ð¸ÑÐ¾Ðº';
+$MESS['LANDING_TPL_NOTES_TITLE_GROUP'] = 'Ð Ð°Ð±Ð¾Ñ‡Ð¸Ðµ Ð³Ñ€ÑƒÐ¿Ð¿Ñ‹';
+$MESS['LANDING_TPL_NOTES_SELECT'] = 'Ð’Ñ‹Ð±Ñ€Ð°Ñ‚ÑŒ';
+$MESS['LANDING_TPL_NOTES_EMPTY_ALERT_TMP_KNOWLEDGE'] = 'ÐÐµÑ‚ Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð½Ñ‹Ñ… Ð±Ð°Ð· Ð·Ð½Ð°Ð½Ð¸Ð¹ Ð´Ð»Ñ Ð²Ñ‹Ð±Ð¾Ñ€Ð°';
+$MESS['LANDING_TPL_NOTES_EMPTY_ALERT_TMP_GROUP'] = 'ÐÐµÑ‚ Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð½Ñ‹Ñ… Ð±Ð°Ð· Ð·Ð½Ð°Ð½Ð¸Ð¹ Ð´Ð»Ñ Ð²Ñ‹Ð±Ð¾Ñ€Ð°';

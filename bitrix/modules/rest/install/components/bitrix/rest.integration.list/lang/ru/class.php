@@ -1,3 +1,3 @@
 <?php
-$MESS['REST_INTEGRATION_INDEX_TITLE'] = 'Èíòåãðàöèè';
-$MESS['REST_INTEGRATION_LIST_ERROR_ACCESS_DENIED'] = 'Íåò äîñòóïà';
+$MESS['REST_INTEGRATION_INDEX_TITLE'] = 'Ð˜Ð½Ñ‚ÐµÐ³Ñ€Ð°Ñ†Ð¸Ð¸';
+$MESS['REST_INTEGRATION_LIST_ERROR_ACCESS_DENIED'] = 'ÐÐµÑ‚ Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð°';

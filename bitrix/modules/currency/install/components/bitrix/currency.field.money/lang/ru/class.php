@@ -1,3 +1,3 @@
 <?php
-$MESS["USER_TYPE_MONEY_NO_VALUE"] = "Ñóììà íå çàäàíà";
-$MESS["USER_TYPE_MONEY_NO_CURRENCY"] = "Âàëþòà íå çàäàíà";
+$MESS["USER_TYPE_MONEY_NO_VALUE"] = "Ð¡ÑƒÐ¼Ð¼Ð° Ð½Ðµ Ð·Ð°Ð´Ð°Ð½Ð°";
+$MESS["USER_TYPE_MONEY_NO_CURRENCY"] = "Ð’Ð°Ð»ÑŽÑ‚Ð° Ð½Ðµ Ð·Ð°Ð´Ð°Ð½Ð°";

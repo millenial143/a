@@ -1,14 +1,14 @@
 <?php
-$MESS["SENDER_CONFIG_ROLE_LIST_ROLE"]="Ðîëü";
-$MESS["SENDER_CONFIG_ROLE_LIST_AVAILABLE_DEAL_CATEGORY"]="Íàïðàâëåíèå";
-$MESS["SENDER_CONFIG_ROLE_LIST_ADD_ACCESS_CODE"]="Äîáàâèòü ïðàâî äîñòóïà";
-$MESS["SENDER_CONFIG_ROLE_LIST_ROLE_LIST"]="Ñïèñîê ðîëåé";
-$MESS["SENDER_CONFIG_ROLE_LIST_DELETE"]="Óäàëèòü";
-$MESS["SENDER_CONFIG_ROLE_LIST_EDIT"]="Ðåäàêòèðîâàòü";
-$MESS["SENDER_CONFIG_ROLE_LIST_ADD"]="Äîáàâèòü";
-$MESS["SENDER_CONFIG_ROLE_LIST_ERROR"]="Îøèáêà";
-$MESS["SENDER_CONFIG_ROLE_LIST_ROLE_DELETE_ERROR"]="Îøèáêà óäàëåíèÿ ðîëè";
-$MESS["SENDER_CONFIG_ROLE_LIST_ROLE_DELETE"]="Óäàëåíèå ðîëè";
-$MESS["SENDER_CONFIG_ROLE_LIST_ROLE_DELETE_CONFIRM"]="Âû óâåðåíû, ÷òî õîòèòå óäàëèòü ðîëü?";
-$MESS["SENDER_CONFIG_ROLE_LIST_ROLE_OK"]="Îê";
-$MESS["SENDER_CONFIG_ROLE_LIST_ROLE_CANCEL"]="Îòìåíà";
+$MESS["SENDER_CONFIG_ROLE_LIST_ROLE"]="Ð Ð¾Ð»ÑŒ";
+$MESS["SENDER_CONFIG_ROLE_LIST_AVAILABLE_DEAL_CATEGORY"]="ÐÐ°Ð¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¸Ðµ";
+$MESS["SENDER_CONFIG_ROLE_LIST_ADD_ACCESS_CODE"]="Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ Ð¿Ñ€Ð°Ð²Ð¾ Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð°";
+$MESS["SENDER_CONFIG_ROLE_LIST_ROLE_LIST"]="Ð¡Ð¿Ð¸ÑÐ¾Ðº Ñ€Ð¾Ð»ÐµÐ¹";
+$MESS["SENDER_CONFIG_ROLE_LIST_DELETE"]="Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ";
+$MESS["SENDER_CONFIG_ROLE_LIST_EDIT"]="Ð ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ";
+$MESS["SENDER_CONFIG_ROLE_LIST_ADD"]="Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ";
+$MESS["SENDER_CONFIG_ROLE_LIST_ERROR"]="ÐžÑˆÐ¸Ð±ÐºÐ°";
+$MESS["SENDER_CONFIG_ROLE_LIST_ROLE_DELETE_ERROR"]="ÐžÑˆÐ¸Ð±ÐºÐ° ÑƒÐ´Ð°Ð»ÐµÐ½Ð¸Ñ Ñ€Ð¾Ð»Ð¸";
+$MESS["SENDER_CONFIG_ROLE_LIST_ROLE_DELETE"]="Ð£Ð´Ð°Ð»ÐµÐ½Ð¸Ðµ Ñ€Ð¾Ð»Ð¸";
+$MESS["SENDER_CONFIG_ROLE_LIST_ROLE_DELETE_CONFIRM"]="Ð’Ñ‹ ÑƒÐ²ÐµÑ€ÐµÐ½Ñ‹, Ñ‡Ñ‚Ð¾ Ñ…Ð¾Ñ‚Ð¸Ñ‚Ðµ ÑƒÐ´Ð°Ð»Ð¸Ñ‚ÑŒ Ñ€Ð¾Ð»ÑŒ?";
+$MESS["SENDER_CONFIG_ROLE_LIST_ROLE_OK"]="ÐžÐº";
+$MESS["SENDER_CONFIG_ROLE_LIST_ROLE_CANCEL"]="ÐžÑ‚Ð¼ÐµÐ½Ð°";

@@ -1,7 +1,7 @@
 <?php
-$MESS["REPORT_HELPER_NOT_DEFINED"] = "Íå çàäàí âñïîìîãàòåëüíûé êëàññ.";
-$MESS["REPORT_IMPORT_ERROR_FILE_EXT"] = "Íåâåðíûé ôîðìàò ôàéëà";
-$MESS["REPORT_IMPORT_ERROR_UPLOADED_FILE"] = "Íåîáõîäèìî çàãðóçèòü ôàéë";
-$MESS["REPORT_IMPORT_ERROR_READ_UPLOADED_FILE"] = "Íå óäàëîñü ïðî÷èòàòü çàãðóæåííûé ôàéë";
-$MESS["REPORT_ERROR_ACCESS_DENIED"] = "Íåò äîñòóïà";
+$MESS["REPORT_HELPER_NOT_DEFINED"] = "ÐÐµ Ð·Ð°Ð´Ð°Ð½ Ð²ÑÐ¿Ð¾Ð¼Ð¾Ð³Ð°Ñ‚ÐµÐ»ÑŒÐ½Ñ‹Ð¹ ÐºÐ»Ð°ÑÑ.";
+$MESS["REPORT_IMPORT_ERROR_FILE_EXT"] = "ÐÐµÐ²ÐµÑ€Ð½Ñ‹Ð¹ Ñ„Ð¾Ñ€Ð¼Ð°Ñ‚ Ñ„Ð°Ð¹Ð»Ð°";
+$MESS["REPORT_IMPORT_ERROR_UPLOADED_FILE"] = "ÐÐµÐ¾Ð±Ñ…Ð¾Ð´Ð¸Ð¼Ð¾ Ð·Ð°Ð³Ñ€ÑƒÐ·Ð¸Ñ‚ÑŒ Ñ„Ð°Ð¹Ð»";
+$MESS["REPORT_IMPORT_ERROR_READ_UPLOADED_FILE"] = "ÐÐµ ÑƒÐ´Ð°Ð»Ð¾ÑÑŒ Ð¿Ñ€Ð¾Ñ‡Ð¸Ñ‚Ð°Ñ‚ÑŒ Ð·Ð°Ð³Ñ€ÑƒÐ¶ÐµÐ½Ð½Ñ‹Ð¹ Ñ„Ð°Ð¹Ð»";
+$MESS["REPORT_ERROR_ACCESS_DENIED"] = "ÐÐµÑ‚ Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð°";
 ?>

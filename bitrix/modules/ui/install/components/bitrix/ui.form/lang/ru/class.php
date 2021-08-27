@@ -1,3 +1,3 @@
 <?
-$MESS["UI_FORM_REQUIRED_FIELD_SECTION"] = "Îáÿçàòåëüíûå ïîëÿ";
+$MESS["UI_FORM_REQUIRED_FIELD_SECTION"] = "ÐžÐ±ÑÐ·Ð°Ñ‚ÐµÐ»ÑŒÐ½Ñ‹Ðµ Ð¿Ð¾Ð»Ñ";
 ?>

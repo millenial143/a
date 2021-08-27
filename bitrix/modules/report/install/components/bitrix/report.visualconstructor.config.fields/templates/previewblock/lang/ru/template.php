@@ -1,5 +1,5 @@
 <?php
-$MESS['REPORT_CHANGE_VIEW_CHANGE_CONFIRM_BUTTON_TITLE'] = 'Èçìåíèòü';
-$MESS['REPORT_CHANGE_VIEW_CHANGE_CANCEL_BUTTON_TITLE'] = 'îòìåíèòü';
-$MESS['REPORT_CHANGE_VIEW_ATTENTION_TITLE'] = 'Ïîäòâåðäèòå äåéñòâèå';
-$MESS['REPORT_CHANGE_VIEW_ATTENTION_TEXT'] = 'Âûáðàííûé òèï ãðàôèêà íå ïîääåðæèâàåò íàñòðîåííûå ðàíåå çíà÷åíèÿ. Âû óâåðåíû, ÷òî õîòèòå èçìåíèòü ãðàôèê?';
+$MESS['REPORT_CHANGE_VIEW_CHANGE_CONFIRM_BUTTON_TITLE'] = 'Ð˜Ð·Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ';
+$MESS['REPORT_CHANGE_VIEW_CHANGE_CANCEL_BUTTON_TITLE'] = 'Ð¾Ñ‚Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ';
+$MESS['REPORT_CHANGE_VIEW_ATTENTION_TITLE'] = 'ÐŸÐ¾Ð´Ñ‚Ð²ÐµÑ€Ð´Ð¸Ñ‚Ðµ Ð´ÐµÐ¹ÑÑ‚Ð²Ð¸Ðµ';
+$MESS['REPORT_CHANGE_VIEW_ATTENTION_TEXT'] = 'Ð’Ñ‹Ð±Ñ€Ð°Ð½Ð½Ñ‹Ð¹ Ñ‚Ð¸Ð¿ Ð³Ñ€Ð°Ñ„Ð¸ÐºÐ° Ð½Ðµ Ð¿Ð¾Ð´Ð´ÐµÑ€Ð¶Ð¸Ð²Ð°ÐµÑ‚ Ð½Ð°ÑÑ‚Ñ€Ð¾ÐµÐ½Ð½Ñ‹Ðµ Ñ€Ð°Ð½ÐµÐµ Ð·Ð½Ð°Ñ‡ÐµÐ½Ð¸Ñ. Ð’Ñ‹ ÑƒÐ²ÐµÑ€ÐµÐ½Ñ‹, Ñ‡Ñ‚Ð¾ Ñ…Ð¾Ñ‚Ð¸Ñ‚Ðµ Ð¸Ð·Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ Ð³Ñ€Ð°Ñ„Ð¸Ðº?';

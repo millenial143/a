@@ -1,3 +1,3 @@
 <?php
-$MESS['LANDING_BLOCK_27_6_ONE_COL_FIX_TEXT_HEADINGS_NAME_NEW'] = 'Òåêñò ôèêñèðîâàííîé øèðèíû ìåæäó ðàçäåëèòåëÿìè';
-$MESS['LANDING_BLOCK_27_6_ONE_COL_FIX_TEXT_HEADINGS_NODES_LANDINGBLOCKNODE_TEXT'] = 'Òåêñò';
+$MESS['LANDING_BLOCK_27_6_ONE_COL_FIX_TEXT_HEADINGS_NAME_NEW'] = 'Ð¢ÐµÐºÑÑ‚ Ñ„Ð¸ÐºÑÐ¸Ñ€Ð¾Ð²Ð°Ð½Ð½Ð¾Ð¹ ÑˆÐ¸Ñ€Ð¸Ð½Ñ‹ Ð¼ÐµÐ¶Ð´Ñƒ Ñ€Ð°Ð·Ð´ÐµÐ»Ð¸Ñ‚ÐµÐ»ÑÐ¼Ð¸';
+$MESS['LANDING_BLOCK_27_6_ONE_COL_FIX_TEXT_HEADINGS_NODES_LANDINGBLOCKNODE_TEXT'] = 'Ð¢ÐµÐºÑÑ‚';

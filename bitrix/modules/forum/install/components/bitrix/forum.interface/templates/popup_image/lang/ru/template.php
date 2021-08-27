@@ -1,3 +1,3 @@
 <?
-$MESS["FRM_DOWNLOAD"] = "Ñêà÷àòü";
+$MESS["FRM_DOWNLOAD"] = "Ð¡ÐºÐ°Ñ‡Ð°Ñ‚ÑŒ";
 ?>

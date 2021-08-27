@@ -1,6 +1,6 @@
 <?
-$MESS ['FORUM_COMMENTS'] = "Êîììåíòàðèè";
-$MESS ['FORUM_COMMENTS_DESCRIPTION'] = "Ôîðìà äëÿ êîììåíòàðèåâ";
-$MESS ['FORUM'] = "Ôîðóì";
-$MESS ['FORUM_PUBLIC'] = "Âíåøíèå êîìïîíåíòû";
+$MESS ['FORUM_COMMENTS'] = "ÐšÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ð¸";
+$MESS ['FORUM_COMMENTS_DESCRIPTION'] = "Ð¤Ð¾Ñ€Ð¼Ð° Ð´Ð»Ñ ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸ÐµÐ²";
+$MESS ['FORUM'] = "Ð¤Ð¾Ñ€ÑƒÐ¼";
+$MESS ['FORUM_PUBLIC'] = "Ð’Ð½ÐµÑˆÐ½Ð¸Ðµ ÐºÐ¾Ð¼Ð¿Ð¾Ð½ÐµÐ½Ñ‚Ñ‹";
 ?>

@@ -1,5 +1,5 @@
 <?
-$MESS ['MAIN_INCLUDE_COMPONENT_NAME'] = "Âñòàâêà âêëþ÷àåìîé îáëàñòè";
-$MESS ['MAIN_INCLUDE_COMPONENT_DESCR'] = "Âñòàâêà âêëþ÷àåìîé îáëàñòè";
-$MESS ['MAIN_INCLUDE_GROUP_NAME'] = "Âêëþ÷àåìûå îáëàñòè";
+$MESS ['MAIN_INCLUDE_COMPONENT_NAME'] = "Ð’ÑÑ‚Ð°Ð²ÐºÐ° Ð²ÐºÐ»ÑŽÑ‡Ð°ÐµÐ¼Ð¾Ð¹ Ð¾Ð±Ð»Ð°ÑÑ‚Ð¸";
+$MESS ['MAIN_INCLUDE_COMPONENT_DESCR'] = "Ð’ÑÑ‚Ð°Ð²ÐºÐ° Ð²ÐºÐ»ÑŽÑ‡Ð°ÐµÐ¼Ð¾Ð¹ Ð¾Ð±Ð»Ð°ÑÑ‚Ð¸";
+$MESS ['MAIN_INCLUDE_GROUP_NAME'] = "Ð’ÐºÐ»ÑŽÑ‡Ð°ÐµÐ¼Ñ‹Ðµ Ð¾Ð±Ð»Ð°ÑÑ‚Ð¸";
 ?>

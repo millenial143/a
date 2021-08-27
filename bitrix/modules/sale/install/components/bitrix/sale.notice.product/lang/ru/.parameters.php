@@ -1,5 +1,5 @@
 <?
-$MESS['NOTIFY_ID'] = "ID ýëåìåíòà";
-$MESS["NOTIFY_URL"] = "Àäðåñ ïîäïèñêè";
-$MESS["NOTIFY_USE_CAPTHA"] = "Èñïîëüçîâàòü captcha";
+$MESS['NOTIFY_ID'] = "ID ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð°";
+$MESS["NOTIFY_URL"] = "ÐÐ´Ñ€ÐµÑ Ð¿Ð¾Ð´Ð¿Ð¸ÑÐºÐ¸";
+$MESS["NOTIFY_USE_CAPTHA"] = "Ð˜ÑÐ¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÑŒ captcha";
 ?>

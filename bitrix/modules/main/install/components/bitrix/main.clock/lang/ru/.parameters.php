@@ -1,7 +1,7 @@
 <?
-$MESS ['COMP_CLOCK_INPUT_ID'] = "ID ïîëÿ ââîäà";
-$MESS ['COMP_CLOCK_INPUT_NAME'] = "Èìÿ ïîëÿ ââîäà";
-$MESS ['COMP_CLOCK_INPUT_TITLE'] = "Âñïëûâàþùàÿ ïîäñêàçêà íà ïîëå ââîäà";
-$MESS ['COMP_CLOCK_INIT_TIME'] = "Ñòàðòîâîå âðåìÿ (HH:MM)";
-$MESS ['COMP_CLOCK_STEP'] = "Ìèíèìàëüíûé øàã äëÿ çàäàíèÿ âðåìåíè, â ìèíóòàõ";
+$MESS ['COMP_CLOCK_INPUT_ID'] = "ID Ð¿Ð¾Ð»Ñ Ð²Ð²Ð¾Ð´Ð°";
+$MESS ['COMP_CLOCK_INPUT_NAME'] = "Ð˜Ð¼Ñ Ð¿Ð¾Ð»Ñ Ð²Ð²Ð¾Ð´Ð°";
+$MESS ['COMP_CLOCK_INPUT_TITLE'] = "Ð’ÑÐ¿Ð»Ñ‹Ð²Ð°ÑŽÑ‰Ð°Ñ Ð¿Ð¾Ð´ÑÐºÐ°Ð·ÐºÐ° Ð½Ð° Ð¿Ð¾Ð»Ðµ Ð²Ð²Ð¾Ð´Ð°";
+$MESS ['COMP_CLOCK_INIT_TIME'] = "Ð¡Ñ‚Ð°Ñ€Ñ‚Ð¾Ð²Ð¾Ðµ Ð²Ñ€ÐµÐ¼Ñ (HH:MM)";
+$MESS ['COMP_CLOCK_STEP'] = "ÐœÐ¸Ð½Ð¸Ð¼Ð°Ð»ÑŒÐ½Ñ‹Ð¹ ÑˆÐ°Ð³ Ð´Ð»Ñ Ð·Ð°Ð´Ð°Ð½Ð¸Ñ Ð²Ñ€ÐµÐ¼ÐµÐ½Ð¸, Ð² Ð¼Ð¸Ð½ÑƒÑ‚Ð°Ñ…";
 ?>

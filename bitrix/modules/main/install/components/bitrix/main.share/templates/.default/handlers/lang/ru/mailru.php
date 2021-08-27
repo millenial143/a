@@ -1,3 +1,3 @@
 <?
-$MESS["BOOKMARK_HANDLER_MAILRU"] = "Ìîé ìèð@Mail.Ru";
+$MESS["BOOKMARK_HANDLER_MAILRU"] = "ÐœÐ¾Ð¹ Ð¼Ð¸Ñ€@Mail.Ru";
 ?>

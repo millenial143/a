@@ -1,7 +1,7 @@
 <?
-$MESS["MAIN_USER_CONSENT_SELECTOR_DEF_NOT_SELECTED"] = "(íå âûáðàíî)";
-$MESS["MAIN_USER_CONSENT_SELECTOR_BTN_EDIT"] = "Íàñòðîèòü";
-$MESS["MAIN_USER_CONSENT_SELECTOR_BTN_CREATE"] = "Ñîçäàòü ñîãëàøåíèå";
-$MESS["MAIN_USER_CONSENT_SELECTOR_BTN_CONSENT"] = "Ñïèñîê ïîëó÷åííûõ ñîãëàñèé";
-$MESS["MAIN_USER_CONSENT_SELECTOR_CHOOSE"] = "Âûáåðèòå ñîãëàøåíèå";
+$MESS["MAIN_USER_CONSENT_SELECTOR_DEF_NOT_SELECTED"] = "(Ð½Ðµ Ð²Ñ‹Ð±Ñ€Ð°Ð½Ð¾)";
+$MESS["MAIN_USER_CONSENT_SELECTOR_BTN_EDIT"] = "ÐÐ°ÑÑ‚Ñ€Ð¾Ð¸Ñ‚ÑŒ";
+$MESS["MAIN_USER_CONSENT_SELECTOR_BTN_CREATE"] = "Ð¡Ð¾Ð·Ð´Ð°Ñ‚ÑŒ ÑÐ¾Ð³Ð»Ð°ÑˆÐµÐ½Ð¸Ðµ";
+$MESS["MAIN_USER_CONSENT_SELECTOR_BTN_CONSENT"] = "Ð¡Ð¿Ð¸ÑÐ¾Ðº Ð¿Ð¾Ð»ÑƒÑ‡ÐµÐ½Ð½Ñ‹Ñ… ÑÐ¾Ð³Ð»Ð°ÑÐ¸Ð¹";
+$MESS["MAIN_USER_CONSENT_SELECTOR_CHOOSE"] = "Ð’Ñ‹Ð±ÐµÑ€Ð¸Ñ‚Ðµ ÑÐ¾Ð³Ð»Ð°ÑˆÐµÐ½Ð¸Ðµ";
 ?>

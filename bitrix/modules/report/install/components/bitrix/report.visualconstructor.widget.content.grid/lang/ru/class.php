@@ -1,2 +1,2 @@
 <?php
-$MESS['REPORT_GRID_VIEW_GROUPING_FIELD_TITLE'] = 'Ãðóïïèðîâêà';
+$MESS['REPORT_GRID_VIEW_GROUPING_FIELD_TITLE'] = 'Ð“Ñ€ÑƒÐ¿Ð¿Ð¸Ñ€Ð¾Ð²ÐºÐ°';

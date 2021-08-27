@@ -1,4 +1,4 @@
 <?
 $MESS["ESHOP_FACEBOOK_PLUGIN_SET"] = "ru_RU";
-$MESS["ESHOP_SOCNET_TITLE"] = "Ìû â ñîöñåòÿõ";
+$MESS["ESHOP_SOCNET_TITLE"] = "ÐœÑ‹ Ð² ÑÐ¾Ñ†ÑÐµÑ‚ÑÑ…";
 ?>

@@ -1,5 +1,5 @@
 <?
-$MESS["CP_CONTENT_SOCIAL_PARENT_TITLE"] = "Ñîöèàëüíûå ñåðâèñû";
-$MESS["IBLOCK_ELEMENT_TEMPLATE_NAME"] = "Êíîïêè ñîöèàëüíûõ ñåòåé";
-$MESS["IBLOCK_ELEMENT_TEMPLATE_DESCRIPTION"] = "Âûâîäèò êíîïêè ñîöèàëüíûõ ñåòåé";
+$MESS["CP_CONTENT_SOCIAL_PARENT_TITLE"] = "Ð¡Ð¾Ñ†Ð¸Ð°Ð»ÑŒÐ½Ñ‹Ðµ ÑÐµÑ€Ð²Ð¸ÑÑ‹";
+$MESS["IBLOCK_ELEMENT_TEMPLATE_NAME"] = "ÐšÐ½Ð¾Ð¿ÐºÐ¸ ÑÐ¾Ñ†Ð¸Ð°Ð»ÑŒÐ½Ñ‹Ñ… ÑÐµÑ‚ÐµÐ¹";
+$MESS["IBLOCK_ELEMENT_TEMPLATE_DESCRIPTION"] = "Ð’Ñ‹Ð²Ð¾Ð´Ð¸Ñ‚ ÐºÐ½Ð¾Ð¿ÐºÐ¸ ÑÐ¾Ñ†Ð¸Ð°Ð»ÑŒÐ½Ñ‹Ñ… ÑÐµÑ‚ÐµÐ¹";
 ?>

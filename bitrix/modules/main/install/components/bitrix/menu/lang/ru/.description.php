@@ -1,5 +1,5 @@
 <?
-$MESS ['MAIN_MENU_ITEMS_NAME'] = "Ìåíþ";
-$MESS ['MAIN_MENU_ITEMS_DESC'] = "Âûâîäèò ìåíþ óêàçàííîãî òèïà";
-$MESS ['MAIN_NAVIGATION_SERVICE'] = "Íàâèãàöèÿ";
+$MESS ['MAIN_MENU_ITEMS_NAME'] = "ÐœÐµÐ½ÑŽ";
+$MESS ['MAIN_MENU_ITEMS_DESC'] = "Ð’Ñ‹Ð²Ð¾Ð´Ð¸Ñ‚ Ð¼ÐµÐ½ÑŽ ÑƒÐºÐ°Ð·Ð°Ð½Ð½Ð¾Ð³Ð¾ Ñ‚Ð¸Ð¿Ð°";
+$MESS ['MAIN_NAVIGATION_SERVICE'] = "ÐÐ°Ð²Ð¸Ð³Ð°Ñ†Ð¸Ñ";
 ?>

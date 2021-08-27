@@ -1,14 +1,14 @@
 <?
-$MESS["BCLMMSL_MONITORING_HTTP_RESPONSE_TIME"] = "Ðàáîòîñïîñîáíîñòü ñàéòà";
-$MESS["BCLMMSL_MONITORING_FAILED_PERIOD"] = "Âðåìÿ ïðîñòîÿ";
-$MESS["BCLMMSL_MONITORING_MONITORING_PERIOD"] = "Ïåðèîä èçìåðåíèé";
-$MESS["BCLMMSL_MONITORING_DOMAIN_REGISTRATION"] = "Ðåãèñòðàöèÿ äîìåíà èñòåêàåò ÷åðåç";
-$MESS["BCLMMSL_MONITORING_LICENSE"] = "Ëèöåíçèÿ èñòåêàåò ÷åðåç";
-$MESS["BCLMMSL_MONITORING_MONITORING_SSL"] = "SSL ñåðòèôèêàò èñòåêàåò ÷åðåç";
-$MESS["BCLMMSL_MONITORING_TITLE"] = "Èíñïåêòîð ñàéòîâ";
-$MESS["BCLMMSL_MONITORING_NO_PROBS"] = "Íà âàøèõ ïðîåêòàõ ïðîáëåì íå îáíàðóæåíî";
-$MESS["BCLMMSL_MONITORING_BUT_DETAIL"] = "Ïîäðîáíåå";
-$MESS["BCLMMSL_MONITORING_MONTH_LOST"] = "Ïîòåðü çà ìåñÿö";
-$MESS["BCLMMSL_MONITORING_NO_DATA2"] = "Íåò äàííûõ";
-$MESS["BCLMMSL_TITLE"] = "Èíñïåêòîð ñàéòîâ";
+$MESS["BCLMMSL_MONITORING_HTTP_RESPONSE_TIME"] = "Ð Ð°Ð±Ð¾Ñ‚Ð¾ÑÐ¿Ð¾ÑÐ¾Ð±Ð½Ð¾ÑÑ‚ÑŒ ÑÐ°Ð¹Ñ‚Ð°";
+$MESS["BCLMMSL_MONITORING_FAILED_PERIOD"] = "Ð’Ñ€ÐµÐ¼Ñ Ð¿Ñ€Ð¾ÑÑ‚Ð¾Ñ";
+$MESS["BCLMMSL_MONITORING_MONITORING_PERIOD"] = "ÐŸÐµÑ€Ð¸Ð¾Ð´ Ð¸Ð·Ð¼ÐµÑ€ÐµÐ½Ð¸Ð¹";
+$MESS["BCLMMSL_MONITORING_DOMAIN_REGISTRATION"] = "Ð ÐµÐ³Ð¸ÑÑ‚Ñ€Ð°Ñ†Ð¸Ñ Ð´Ð¾Ð¼ÐµÐ½Ð° Ð¸ÑÑ‚ÐµÐºÐ°ÐµÑ‚ Ñ‡ÐµÑ€ÐµÐ·";
+$MESS["BCLMMSL_MONITORING_LICENSE"] = "Ð›Ð¸Ñ†ÐµÐ½Ð·Ð¸Ñ Ð¸ÑÑ‚ÐµÐºÐ°ÐµÑ‚ Ñ‡ÐµÑ€ÐµÐ·";
+$MESS["BCLMMSL_MONITORING_MONITORING_SSL"] = "SSL ÑÐµÑ€Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚ Ð¸ÑÑ‚ÐµÐºÐ°ÐµÑ‚ Ñ‡ÐµÑ€ÐµÐ·";
+$MESS["BCLMMSL_MONITORING_TITLE"] = "Ð˜Ð½ÑÐ¿ÐµÐºÑ‚Ð¾Ñ€ ÑÐ°Ð¹Ñ‚Ð¾Ð²";
+$MESS["BCLMMSL_MONITORING_NO_PROBS"] = "ÐÐ° Ð²Ð°ÑˆÐ¸Ñ… Ð¿Ñ€Ð¾ÐµÐºÑ‚Ð°Ñ… Ð¿Ñ€Ð¾Ð±Ð»ÐµÐ¼ Ð½Ðµ Ð¾Ð±Ð½Ð°Ñ€ÑƒÐ¶ÐµÐ½Ð¾";
+$MESS["BCLMMSL_MONITORING_BUT_DETAIL"] = "ÐŸÐ¾Ð´Ñ€Ð¾Ð±Ð½ÐµÐµ";
+$MESS["BCLMMSL_MONITORING_MONTH_LOST"] = "ÐŸÐ¾Ñ‚ÐµÑ€ÑŒ Ð·Ð° Ð¼ÐµÑÑÑ†";
+$MESS["BCLMMSL_MONITORING_NO_DATA2"] = "ÐÐµÑ‚ Ð´Ð°Ð½Ð½Ñ‹Ñ…";
+$MESS["BCLMMSL_TITLE"] = "Ð˜Ð½ÑÐ¿ÐµÐºÑ‚Ð¾Ñ€ ÑÐ°Ð¹Ñ‚Ð¾Ð²";
 ?>

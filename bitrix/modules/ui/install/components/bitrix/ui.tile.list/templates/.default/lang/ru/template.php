@@ -1,3 +1,3 @@
 <?
-$MESS["UI_TILE_LIST_ADD"] = "Äîáàâèòü";
-$MESS["UI_TILE_LIST_COMMING_SOON"] = "Ñêîðî ïîÿâèòñÿ";
+$MESS["UI_TILE_LIST_ADD"] = "Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ";
+$MESS["UI_TILE_LIST_COMMING_SOON"] = "Ð¡ÐºÐ¾Ñ€Ð¾ Ð¿Ð¾ÑÐ²Ð¸Ñ‚ÑÑ";

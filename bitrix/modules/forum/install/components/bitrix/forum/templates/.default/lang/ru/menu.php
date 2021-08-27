@@ -1,12 +1,12 @@
 <?
-$MESS ['F_SEARCH'] = "Ïîèñê";
-$MESS ['F_USERS'] = "Ïîëüçîâàòåëè";
-$MESS ['F_PROFILE'] = "Ïðîôèëü";
-$MESS ['F_NEW_TOPIC'] = "Îáíîâëåíèÿ";
-$MESS ['F_SUBSCRIBES'] = "Ïîäïèñêè";
-$MESS ['F_RULES'] = "Ïðàâèëà";
-$MESS ['F_MESSAGES'] = "Ñîîáùåíèÿ";
-$MESS ['F_NEW_TOPIC_TITLE'] = "Íàéòè òåìû ñ íîâûìè ñîîáùåíèÿìè";
-$MESS ["AUTH_LOGIN_BUTTON"] = "Âîéòè";
-$MESS ["AUTH_LOGOUT_BUTTON"] = "Âûéòè";
+$MESS ['F_SEARCH'] = "ÐŸÐ¾Ð¸ÑÐº";
+$MESS ['F_USERS'] = "ÐŸÐ¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ð¸";
+$MESS ['F_PROFILE'] = "ÐŸÑ€Ð¾Ñ„Ð¸Ð»ÑŒ";
+$MESS ['F_NEW_TOPIC'] = "ÐžÐ±Ð½Ð¾Ð²Ð»ÐµÐ½Ð¸Ñ";
+$MESS ['F_SUBSCRIBES'] = "ÐŸÐ¾Ð´Ð¿Ð¸ÑÐºÐ¸";
+$MESS ['F_RULES'] = "ÐŸÑ€Ð°Ð²Ð¸Ð»Ð°";
+$MESS ['F_MESSAGES'] = "Ð¡Ð¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ";
+$MESS ['F_NEW_TOPIC_TITLE'] = "ÐÐ°Ð¹Ñ‚Ð¸ Ñ‚ÐµÐ¼Ñ‹ Ñ Ð½Ð¾Ð²Ñ‹Ð¼Ð¸ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸ÑÐ¼Ð¸";
+$MESS ["AUTH_LOGIN_BUTTON"] = "Ð’Ð¾Ð¹Ñ‚Ð¸";
+$MESS ["AUTH_LOGOUT_BUTTON"] = "Ð’Ñ‹Ð¹Ñ‚Ð¸";
 ?>

@@ -1,4 +1,4 @@
 <?
-$MESS["SHARE_SWITCH"] = "Ïîêàçàòü/ñêðûòü ïàíåëü çàêëàäîê";
-$MESS["SHARE_ERROR_EMPTY_SERVER"] = "Íå çàäàí URL ñàéòà";
+$MESS["SHARE_SWITCH"] = "ÐŸÐ¾ÐºÐ°Ð·Ð°Ñ‚ÑŒ/ÑÐºÑ€Ñ‹Ñ‚ÑŒ Ð¿Ð°Ð½ÐµÐ»ÑŒ Ð·Ð°ÐºÐ»Ð°Ð´Ð¾Ðº";
+$MESS["SHARE_ERROR_EMPTY_SERVER"] = "ÐÐµ Ð·Ð°Ð´Ð°Ð½ URL ÑÐ°Ð¹Ñ‚Ð°";
 ?>

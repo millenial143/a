@@ -1,14 +1,14 @@
 <?
-$MESS["SALE_CSDRT_SHIPMENTS_AMOUNT"] = "Êîëè÷åñòâî îòãðóçîê";
-$MESS["SALE_CSDRT_WEIGHT"] = "Îáùèé âåñ îòãðóçîê";
-$MESS["SALE_CSDRT_CREATE_REQUEST"] = "Ñîçäàòü íîâóþ çàÿâêó";
-$MESS["SALE_CSDRT_ADD_SHIPMENT_TO_REQUEST"] = "Äîáàâèòü â ñóùåñòâóþùóþ çàÿâêó";
-$MESS["SALE_CSDRT_COMPATIBLE_DELIVERIES_NOT_FOUND"] = "Ñëóæáû äîñòàâîê âûáðàííûõ îòãðóçîê íå ïîääåðæèâàþò òðàíñïîðòíûå çàÿâêè";
-$MESS["SALE_CSDRTJ_ERROR"] = "Îøèáêà";
-$MESS["SALE_CSDRTJ_RESPONSE_ERROR"] = "Îøèáêà ïîëó÷åíèÿ èíôîðìàöèè îò ñåðâåðà";
-$MESS["SALE_CSDRTJ_RESPONSE_PROCESSING_ERROR"] = "Îøèáêà îáðàáîòêè îòâåòà îò ñåðâåðà";
-$MESS["SALE_CSDRTJ_DIALOG_CLOSE"] = "Çàêðûòü";
-$MESS["SALE_CSDRTJ_DIALOG_NEXT"] = "Äàëåå";
-$MESS["SALE_CSDRPJ_PIECE"] = "øò";
-$MESS["SALE_CSDRPJ_KILO"] = "êã";
+$MESS["SALE_CSDRT_SHIPMENTS_AMOUNT"] = "ÐšÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾ Ð¾Ñ‚Ð³Ñ€ÑƒÐ·Ð¾Ðº";
+$MESS["SALE_CSDRT_WEIGHT"] = "ÐžÐ±Ñ‰Ð¸Ð¹ Ð²ÐµÑ Ð¾Ñ‚Ð³Ñ€ÑƒÐ·Ð¾Ðº";
+$MESS["SALE_CSDRT_CREATE_REQUEST"] = "Ð¡Ð¾Ð·Ð´Ð°Ñ‚ÑŒ Ð½Ð¾Ð²ÑƒÑŽ Ð·Ð°ÑÐ²ÐºÑƒ";
+$MESS["SALE_CSDRT_ADD_SHIPMENT_TO_REQUEST"] = "Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ Ð² ÑÑƒÑ‰ÐµÑÑ‚Ð²ÑƒÑŽÑ‰ÑƒÑŽ Ð·Ð°ÑÐ²ÐºÑƒ";
+$MESS["SALE_CSDRT_COMPATIBLE_DELIVERIES_NOT_FOUND"] = "Ð¡Ð»ÑƒÐ¶Ð±Ñ‹ Ð´Ð¾ÑÑ‚Ð°Ð²Ð¾Ðº Ð²Ñ‹Ð±Ñ€Ð°Ð½Ð½Ñ‹Ñ… Ð¾Ñ‚Ð³Ñ€ÑƒÐ·Ð¾Ðº Ð½Ðµ Ð¿Ð¾Ð´Ð´ÐµÑ€Ð¶Ð¸Ð²Ð°ÑŽÑ‚ Ñ‚Ñ€Ð°Ð½ÑÐ¿Ð¾Ñ€Ñ‚Ð½Ñ‹Ðµ Ð·Ð°ÑÐ²ÐºÐ¸";
+$MESS["SALE_CSDRTJ_ERROR"] = "ÐžÑˆÐ¸Ð±ÐºÐ°";
+$MESS["SALE_CSDRTJ_RESPONSE_ERROR"] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð¿Ð¾Ð»ÑƒÑ‡ÐµÐ½Ð¸Ñ Ð¸Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ð¸ Ð¾Ñ‚ ÑÐµÑ€Ð²ÐµÑ€Ð°";
+$MESS["SALE_CSDRTJ_RESPONSE_PROCESSING_ERROR"] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð¾Ð±Ñ€Ð°Ð±Ð¾Ñ‚ÐºÐ¸ Ð¾Ñ‚Ð²ÐµÑ‚Ð° Ð¾Ñ‚ ÑÐµÑ€Ð²ÐµÑ€Ð°";
+$MESS["SALE_CSDRTJ_DIALOG_CLOSE"] = "Ð—Ð°ÐºÑ€Ñ‹Ñ‚ÑŒ";
+$MESS["SALE_CSDRTJ_DIALOG_NEXT"] = "Ð”Ð°Ð»ÐµÐµ";
+$MESS["SALE_CSDRPJ_PIECE"] = "ÑˆÑ‚";
+$MESS["SALE_CSDRPJ_KILO"] = "ÐºÐ³";
 ?>

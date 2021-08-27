@@ -1,11 +1,11 @@
 <?php
-$MESS['LANDING_BLOCK_FORM_33.1'] = 'Ôîðìà íà ò¸ìíîì ôîíå ñ òåêñòîì ñëåâà';
-$MESS['LANDING_BLOCK_FORM_33.1_NODE_CARD_CONTACT'] = 'Êîíòàêò';
-$MESS['LANDING_BLOCK_FORM_33.1_NODE_BGIMG'] = 'Ôîíîâàÿ êàðòèíêà';
-$MESS['LANDING_BLOCK_FORM_33.1_NODE_TEXT'] = 'Òåêñò';
-$MESS['LANDING_BLOCK_FORM_33.1_NODE_TITLE'] = 'Çàãîëîâîê';
-$MESS['LANDING_BLOCK_FORM_33.1_NODE_SUBTITLE'] = 'Ïîäçàãîëîâîê';
-$MESS['LANDING_BLOCK_FORM_33.1_NODE_CONTACT_ICON'] = 'Èêîíêà';
-$MESS['LANDING_BLOCK_FORM_33.1_NODE_CONTACT_TEXT'] = 'Òåêñò';
-$MESS['LANDING_BLOCK_FORM_33.1_NODE_CONTACT_LINK'] = 'Ññûëêà';
-$MESS['LANDING_BLOCK_FORM_33.1_NODE_FORM'] = 'Ôîðìà';
+$MESS['LANDING_BLOCK_FORM_33.1'] = 'Ð¤Ð¾Ñ€Ð¼Ð° Ð½Ð° Ñ‚Ñ‘Ð¼Ð½Ð¾Ð¼ Ñ„Ð¾Ð½Ðµ Ñ Ñ‚ÐµÐºÑÑ‚Ð¾Ð¼ ÑÐ»ÐµÐ²Ð°';
+$MESS['LANDING_BLOCK_FORM_33.1_NODE_CARD_CONTACT'] = 'ÐšÐ¾Ð½Ñ‚Ð°ÐºÑ‚';
+$MESS['LANDING_BLOCK_FORM_33.1_NODE_BGIMG'] = 'Ð¤Ð¾Ð½Ð¾Ð²Ð°Ñ ÐºÐ°Ñ€Ñ‚Ð¸Ð½ÐºÐ°';
+$MESS['LANDING_BLOCK_FORM_33.1_NODE_TEXT'] = 'Ð¢ÐµÐºÑÑ‚';
+$MESS['LANDING_BLOCK_FORM_33.1_NODE_TITLE'] = 'Ð—Ð°Ð³Ð¾Ð»Ð¾Ð²Ð¾Ðº';
+$MESS['LANDING_BLOCK_FORM_33.1_NODE_SUBTITLE'] = 'ÐŸÐ¾Ð´Ð·Ð°Ð³Ð¾Ð»Ð¾Ð²Ð¾Ðº';
+$MESS['LANDING_BLOCK_FORM_33.1_NODE_CONTACT_ICON'] = 'Ð˜ÐºÐ¾Ð½ÐºÐ°';
+$MESS['LANDING_BLOCK_FORM_33.1_NODE_CONTACT_TEXT'] = 'Ð¢ÐµÐºÑÑ‚';
+$MESS['LANDING_BLOCK_FORM_33.1_NODE_CONTACT_LINK'] = 'Ð¡ÑÑ‹Ð»ÐºÐ°';
+$MESS['LANDING_BLOCK_FORM_33.1_NODE_FORM'] = 'Ð¤Ð¾Ñ€Ð¼Ð°';

@@ -1,6 +1,6 @@
 <?php
-$MESS['LANDING_TPL_BINDING_TITLE_SITE'] = 'Âûáîð ñàéòà';
-$MESS['LANDING_TPL_BINDING_TITLE_SITE_KNOWLEDGE'] = 'Âûáîð áàçû çíàíèé';
-$MESS['LANDING_TPL_BINDING_TITLE_LANDING'] = 'Âûáîð ñòðàíèöû';
-$MESS['LANDING_TPL_BINDING_ACTION_BIND'] = 'Âûáðàòü';
-$MESS['LANDING_TPL_BINDING_ACTION_LANDING'] = 'Âûáðàòü ñòðàíèöó';
+$MESS['LANDING_TPL_BINDING_TITLE_SITE'] = 'Ð’Ñ‹Ð±Ð¾Ñ€ ÑÐ°Ð¹Ñ‚Ð°';
+$MESS['LANDING_TPL_BINDING_TITLE_SITE_KNOWLEDGE'] = 'Ð’Ñ‹Ð±Ð¾Ñ€ Ð±Ð°Ð·Ñ‹ Ð·Ð½Ð°Ð½Ð¸Ð¹';
+$MESS['LANDING_TPL_BINDING_TITLE_LANDING'] = 'Ð’Ñ‹Ð±Ð¾Ñ€ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñ‹';
+$MESS['LANDING_TPL_BINDING_ACTION_BIND'] = 'Ð’Ñ‹Ð±Ñ€Ð°Ñ‚ÑŒ';
+$MESS['LANDING_TPL_BINDING_ACTION_LANDING'] = 'Ð’Ñ‹Ð±Ñ€Ð°Ñ‚ÑŒ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñƒ';

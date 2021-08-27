@@ -1,5 +1,5 @@
 <?
-$MESS["ESHOP_FACEBOOK_LINK"] = "Ññûëêà íà ñòðàíèöó facebook";
-$MESS["ESHOP_PLUGIN_WIDTH"] = "Øèðèíà áëîêà ñ ïëàãèíîì";
-$MESS["ESHOP_PLUGIN_HEIGHT"] = "Âûñîòà áëîêà ñ ïëàãèíîì";
+$MESS["ESHOP_FACEBOOK_LINK"] = "Ð¡ÑÑ‹Ð»ÐºÐ° Ð½Ð° ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñƒ facebook";
+$MESS["ESHOP_PLUGIN_WIDTH"] = "Ð¨Ð¸Ñ€Ð¸Ð½Ð° Ð±Ð»Ð¾ÐºÐ° Ñ Ð¿Ð»Ð°Ð³Ð¸Ð½Ð¾Ð¼";
+$MESS["ESHOP_PLUGIN_HEIGHT"] = "Ð’Ñ‹ÑÐ¾Ñ‚Ð° Ð±Ð»Ð¾ÐºÐ° Ñ Ð¿Ð»Ð°Ð³Ð¸Ð½Ð¾Ð¼";
 ?>

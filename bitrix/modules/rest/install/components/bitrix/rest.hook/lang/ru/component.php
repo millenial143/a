@@ -1,2 +1,2 @@
 <?php
-$MESS['REST_HOOK_TITLE'] = 'Âåáõóêè';
+$MESS['REST_HOOK_TITLE'] = 'Ð’ÐµÐ±Ñ…ÑƒÐºÐ¸';

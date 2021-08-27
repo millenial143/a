@@ -1,13 +1,13 @@
 <?
-$MESS["MPF_SEND"] = "Îòïðàâèòü";
-$MESS["MPF_CANCEL"] = "Îòìåíèòü";
-$MESS["MPF_PHOTO_CAMERA"] = "Ñíÿòü ôîòî";
-$MESS["MPF_PHOTO_GALLERY"] = "Âûáðàòü èç ãàëåðåè";
-$MESS["MPF_PLACEHOLDER"] = "Íàïèñàòü êîììåíòàðèé...";
-$MESS["MPF_INCORRECT_RESPONSE"] = "Íåêîððåêòíûé îòâåò îò ñåðâåðà.";
-$MESS["MPF_FILE_WAS_NOT_UPLOADED"] = "Ôàéë íå áûë çàãðóæåí.";
-$MESS["MOBILE_LOG_POST_FORM_PHOTO_CAMERA"] = "Ñíÿòü ôîòî";
-$MESS["MOBILE_LOG_POST_FORM_PHOTO_GALLERY"] = "Âûáðàòü èç ãàëåðåè";
-$MESS["MOBILE_LOG_POST_FORM_DISK"] = "Áèòðèêñ24.Äèñê";
-$MESS["MOBILE_LOG_POST_FORM_DISK_TITLE"] = "Ôàéëû";
+$MESS["MPF_SEND"] = "ÐžÑ‚Ð¿Ñ€Ð°Ð²Ð¸Ñ‚ÑŒ";
+$MESS["MPF_CANCEL"] = "ÐžÑ‚Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ";
+$MESS["MPF_PHOTO_CAMERA"] = "Ð¡Ð½ÑÑ‚ÑŒ Ñ„Ð¾Ñ‚Ð¾";
+$MESS["MPF_PHOTO_GALLERY"] = "Ð’Ñ‹Ð±Ñ€Ð°Ñ‚ÑŒ Ð¸Ð· Ð³Ð°Ð»ÐµÑ€ÐµÐ¸";
+$MESS["MPF_PLACEHOLDER"] = "ÐÐ°Ð¿Ð¸ÑÐ°Ñ‚ÑŒ ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ð¹...";
+$MESS["MPF_INCORRECT_RESPONSE"] = "ÐÐµÐºÐ¾Ñ€Ñ€ÐµÐºÑ‚Ð½Ñ‹Ð¹ Ð¾Ñ‚Ð²ÐµÑ‚ Ð¾Ñ‚ ÑÐµÑ€Ð²ÐµÑ€Ð°.";
+$MESS["MPF_FILE_WAS_NOT_UPLOADED"] = "Ð¤Ð°Ð¹Ð» Ð½Ðµ Ð±Ñ‹Ð» Ð·Ð°Ð³Ñ€ÑƒÐ¶ÐµÐ½.";
+$MESS["MOBILE_LOG_POST_FORM_PHOTO_CAMERA"] = "Ð¡Ð½ÑÑ‚ÑŒ Ñ„Ð¾Ñ‚Ð¾";
+$MESS["MOBILE_LOG_POST_FORM_PHOTO_GALLERY"] = "Ð’Ñ‹Ð±Ñ€Ð°Ñ‚ÑŒ Ð¸Ð· Ð³Ð°Ð»ÐµÑ€ÐµÐ¸";
+$MESS["MOBILE_LOG_POST_FORM_DISK"] = "Ð‘Ð¸Ñ‚Ñ€Ð¸ÐºÑ24.Ð”Ð¸ÑÐº";
+$MESS["MOBILE_LOG_POST_FORM_DISK_TITLE"] = "Ð¤Ð°Ð¹Ð»Ñ‹";
 ?>

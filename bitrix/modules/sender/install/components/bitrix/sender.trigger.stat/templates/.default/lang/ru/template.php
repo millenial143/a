@@ -1,14 +1,14 @@
 <?
-$MESS["SENDER_LETTER_STAT_STATS_ANALYTICS"] = "Àíàëèòèêà";
-$MESS["SENDER_LETTER_STAT_STATS_CAMPAIGN"] = "Êàìïàíèÿ";
-$MESS["SENDER_LETTER_STAT_STATS_COUNTER_SEND_ALL"] = "Âñåãî îòïðàâëåíî ïèñåì";
-$MESS["SENDER_LETTER_STAT_STATS_COUNTER_READ"] = "Ïðî÷èòàííûõ";
-$MESS["SENDER_LETTER_STAT_STATS_COUNTER_CLICK"] = "Ïåðåõîäû";
-$MESS["SENDER_LETTER_STAT_STATS_COUNTER_UNSUB"] = "Îòïèñàëèñü";
-$MESS["SENDER_LETTER_STAT_STATS_COUNTER_SEND_ERROR"] = "Ñ îøèáêîé";
-$MESS["SENDER_LETTER_STAT_STATS_COUNTER_GOAL"] = "Äîñòèãëî öåëè";
-$MESS["SENDER_LETTER_STAT_STATS_GOAL_AFTER_LETTER"] = "Ïîñëå êàêîãî ïèñüìà äîñòèãíóòà öåëü";
-$MESS["SENDER_LETTER_STAT_STATS_NAME"] = "Íàçâàíèå";
-$MESS["SENDER_LETTER_STAT_STATS_GOAL_START"] = "Äëÿ ñêîëüêèõ ïîëüçîâàòåëåé çàïóùåíî";
-$MESS["SENDER_LETTER_STAT_STATS_GOAL_END"] = "Âûïîëíèëè öåëåâîå äåéñòâèå";
+$MESS["SENDER_LETTER_STAT_STATS_ANALYTICS"] = "ÐÐ½Ð°Ð»Ð¸Ñ‚Ð¸ÐºÐ°";
+$MESS["SENDER_LETTER_STAT_STATS_CAMPAIGN"] = "ÐšÐ°Ð¼Ð¿Ð°Ð½Ð¸Ñ";
+$MESS["SENDER_LETTER_STAT_STATS_COUNTER_SEND_ALL"] = "Ð’ÑÐµÐ³Ð¾ Ð¾Ñ‚Ð¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¾ Ð¿Ð¸ÑÐµÐ¼";
+$MESS["SENDER_LETTER_STAT_STATS_COUNTER_READ"] = "ÐŸÑ€Ð¾Ñ‡Ð¸Ñ‚Ð°Ð½Ð½Ñ‹Ñ…";
+$MESS["SENDER_LETTER_STAT_STATS_COUNTER_CLICK"] = "ÐŸÐµÑ€ÐµÑ…Ð¾Ð´Ñ‹";
+$MESS["SENDER_LETTER_STAT_STATS_COUNTER_UNSUB"] = "ÐžÑ‚Ð¿Ð¸ÑÐ°Ð»Ð¸ÑÑŒ";
+$MESS["SENDER_LETTER_STAT_STATS_COUNTER_SEND_ERROR"] = "Ð¡ Ð¾ÑˆÐ¸Ð±ÐºÐ¾Ð¹";
+$MESS["SENDER_LETTER_STAT_STATS_COUNTER_GOAL"] = "Ð”Ð¾ÑÑ‚Ð¸Ð³Ð»Ð¾ Ñ†ÐµÐ»Ð¸";
+$MESS["SENDER_LETTER_STAT_STATS_GOAL_AFTER_LETTER"] = "ÐŸÐ¾ÑÐ»Ðµ ÐºÐ°ÐºÐ¾Ð³Ð¾ Ð¿Ð¸ÑÑŒÐ¼Ð° Ð´Ð¾ÑÑ‚Ð¸Ð³Ð½ÑƒÑ‚Ð° Ñ†ÐµÐ»ÑŒ";
+$MESS["SENDER_LETTER_STAT_STATS_NAME"] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ";
+$MESS["SENDER_LETTER_STAT_STATS_GOAL_START"] = "Ð”Ð»Ñ ÑÐºÐ¾Ð»ÑŒÐºÐ¸Ñ… Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÐµÐ¹ Ð·Ð°Ð¿ÑƒÑ‰ÐµÐ½Ð¾";
+$MESS["SENDER_LETTER_STAT_STATS_GOAL_END"] = "Ð’Ñ‹Ð¿Ð¾Ð»Ð½Ð¸Ð»Ð¸ Ñ†ÐµÐ»ÐµÐ²Ð¾Ðµ Ð´ÐµÐ¹ÑÑ‚Ð²Ð¸Ðµ";
 ?>

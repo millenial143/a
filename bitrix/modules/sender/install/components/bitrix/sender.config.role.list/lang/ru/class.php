@@ -1,4 +1,4 @@
 <?
-$MESS["SENDER_CONFIG_ROLE_LIST_COMP_UNKNOWN_ACCESS_CODE"] = "(нераспознанный идентификатор доступа)";
-$MESS["SENDER_CONFIG_ROLE_LIST_COMP_TITLE"] = "Права доступа";
+$MESS["SENDER_CONFIG_ROLE_LIST_COMP_UNKNOWN_ACCESS_CODE"] = "(РЅРµСЂР°СЃРїРѕР·РЅР°РЅРЅС‹Р№ РёРґРµРЅС‚РёС„РёРєР°С‚РѕСЂ РґРѕСЃС‚СѓРїР°)";
+$MESS["SENDER_CONFIG_ROLE_LIST_COMP_TITLE"] = "РџСЂР°РІР° РґРѕСЃС‚СѓРїР°";
 ?>

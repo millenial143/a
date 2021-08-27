@@ -1,5 +1,5 @@
 <?php
-$MESS["SALE_BSM_WIZARD_AGENTSTEP_TITLE"] = "Проверка работы агентов";
-$MESS["SALE_BSM_WIZARD_AGENTSTEP_NEXT"] = "Продолжить";
-$MESS["SALE_BSM_WIZARD_AGENTSTEP_PREV"] = "Назад";
-$MESS["SALE_BSM_WIZARD_AGENTSTEP_CHECKER_LINK"] = "Подробнее <a href='/bitrix/admin/site_checker.php?lang=#LANG#' target='_blank'>тут</a>. Пожалуйста, исправьте ошибку в работе агентов. После этого нажмите кнопку \"Продолжить\" на этой странице";
+$MESS["SALE_BSM_WIZARD_AGENTSTEP_TITLE"] = "РџСЂРѕРІРµСЂРєР° СЂР°Р±РѕС‚С‹ Р°РіРµРЅС‚РѕРІ";
+$MESS["SALE_BSM_WIZARD_AGENTSTEP_NEXT"] = "РџСЂРѕРґРѕР»Р¶РёС‚СЊ";
+$MESS["SALE_BSM_WIZARD_AGENTSTEP_PREV"] = "РќР°Р·Р°Рґ";
+$MESS["SALE_BSM_WIZARD_AGENTSTEP_CHECKER_LINK"] = "РџРѕРґСЂРѕР±РЅРµРµ <a href='/bitrix/admin/site_checker.php?lang=#LANG#' target='_blank'>С‚СѓС‚</a>. РџРѕР¶Р°Р»СѓР№СЃС‚Р°, РёСЃРїСЂР°РІСЊС‚Рµ РѕС€РёР±РєСѓ РІ СЂР°Р±РѕС‚Рµ Р°РіРµРЅС‚РѕРІ. РџРѕСЃР»Рµ СЌС‚РѕРіРѕ РЅР°Р¶РјРёС‚Рµ РєРЅРѕРїРєСѓ \"РџСЂРѕРґРѕР»Р¶РёС‚СЊ\" РЅР° СЌС‚РѕР№ СЃС‚СЂР°РЅРёС†Рµ";

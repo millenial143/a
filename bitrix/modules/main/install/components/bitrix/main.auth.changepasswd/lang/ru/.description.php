@@ -1,4 +1,4 @@
 <?php
-$MESS['MAIN_AUTH_CHD_TITLE'] = 'Ñìåíà ïàðîëÿ';
-$MESS['MAIN_AUTH_CHD_DESCR'] = 'Îòäåëüíàÿ ôîðìà ñìåíû ïàðîëÿ ïîëüçîâàòåëåì';
-$MESS['MAIN_AUTH_CHD_GROUP_NAME'] = 'Ïîëüçîâàòåëü';
+$MESS['MAIN_AUTH_CHD_TITLE'] = 'Ð¡Ð¼ÐµÐ½Ð° Ð¿Ð°Ñ€Ð¾Ð»Ñ';
+$MESS['MAIN_AUTH_CHD_DESCR'] = 'ÐžÑ‚Ð´ÐµÐ»ÑŒÐ½Ð°Ñ Ñ„Ð¾Ñ€Ð¼Ð° ÑÐ¼ÐµÐ½Ñ‹ Ð¿Ð°Ñ€Ð¾Ð»Ñ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÐµÐ¼';
+$MESS['MAIN_AUTH_CHD_GROUP_NAME'] = 'ÐŸÐ¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒ';

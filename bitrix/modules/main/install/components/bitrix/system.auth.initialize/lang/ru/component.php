@@ -1,12 +1,12 @@
 <?
-$MESS ['CC_MAIN_REG_INIT_MESSAGE_NO_USER'] = "Ïîëüçîâàòåëü íå íàéäåí.";
-$MESS ['CC_MAIN_REG_INIT_MESSAGE_AUTH_SUCCESS'] = "Àêêàóíò óæå ïîäòâåðæäåí.";
-$MESS ['CC_MAIN_REG_INIT_MESSAGE_AUTHORIZED'] = "Âû óæå àâòîðèçîâàíû íà ñàéòå, ïîäòâåðæäåíèå ïðèãëàøåíèÿ íà ñàéò íåâîçìîæíî.";
-$MESS ['CC_MAIN_REG_INIT_MESSAGE_INACTIVE'] = "Ïîëüçîâàòåëü íåàêòèâåí.";
-$MESS ['CC_MAIN_REG_INIT_MESSAGE_CHECKWORD_EMPTY'] = "Íå óêàçàíî êîäîâîå ñëîâî.";
-$MESS ['CC_MAIN_REG_INIT_MESSAGE_CHECKWORD_WRONG'] = "Óêàçàíî íåâåðíîå êîäîâîå ñëîâî.";
-$MESS ['CC_MAIN_REG_INIT_MESSAGE_PASSWORD_EMPTY'] = "Íå óêàçàí ïàðîëü.";
-$MESS ['CC_MAIN_REG_INIT_MESSAGE_PASSWORD_NOT_CONFIRMED'] = "Íåêîððåêòíîå çíà÷åíèå â ïîëå ïîäòâåðæäåíèÿ ïàðîëÿ.";
-$MESS ['CC_MAIN_REG_INIT_MESSAGE_NAME_EMPTY'] = "Íå óêàçàíî èìÿ.";
-$MESS ['CC_MAIN_REG_INIT_MESSAGE_LAST_NAME_EMPTY'] = "Íå óêàçàíà ôàìèëèÿ.";
+$MESS ['CC_MAIN_REG_INIT_MESSAGE_NO_USER'] = "ÐŸÐ¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒ Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½.";
+$MESS ['CC_MAIN_REG_INIT_MESSAGE_AUTH_SUCCESS'] = "ÐÐºÐºÐ°ÑƒÐ½Ñ‚ ÑƒÐ¶Ðµ Ð¿Ð¾Ð´Ñ‚Ð²ÐµÑ€Ð¶Ð´ÐµÐ½.";
+$MESS ['CC_MAIN_REG_INIT_MESSAGE_AUTHORIZED'] = "Ð’Ñ‹ ÑƒÐ¶Ðµ Ð°Ð²Ñ‚Ð¾Ñ€Ð¸Ð·Ð¾Ð²Ð°Ð½Ñ‹ Ð½Ð° ÑÐ°Ð¹Ñ‚Ðµ, Ð¿Ð¾Ð´Ñ‚Ð²ÐµÑ€Ð¶Ð´ÐµÐ½Ð¸Ðµ Ð¿Ñ€Ð¸Ð³Ð»Ð°ÑˆÐµÐ½Ð¸Ñ Ð½Ð° ÑÐ°Ð¹Ñ‚ Ð½ÐµÐ²Ð¾Ð·Ð¼Ð¾Ð¶Ð½Ð¾.";
+$MESS ['CC_MAIN_REG_INIT_MESSAGE_INACTIVE'] = "ÐŸÐ¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒ Ð½ÐµÐ°ÐºÑ‚Ð¸Ð²ÐµÐ½.";
+$MESS ['CC_MAIN_REG_INIT_MESSAGE_CHECKWORD_EMPTY'] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½Ð¾ ÐºÐ¾Ð´Ð¾Ð²Ð¾Ðµ ÑÐ»Ð¾Ð²Ð¾.";
+$MESS ['CC_MAIN_REG_INIT_MESSAGE_CHECKWORD_WRONG'] = "Ð£ÐºÐ°Ð·Ð°Ð½Ð¾ Ð½ÐµÐ²ÐµÑ€Ð½Ð¾Ðµ ÐºÐ¾Ð´Ð¾Ð²Ð¾Ðµ ÑÐ»Ð¾Ð²Ð¾.";
+$MESS ['CC_MAIN_REG_INIT_MESSAGE_PASSWORD_EMPTY'] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½ Ð¿Ð°Ñ€Ð¾Ð»ÑŒ.";
+$MESS ['CC_MAIN_REG_INIT_MESSAGE_PASSWORD_NOT_CONFIRMED'] = "ÐÐµÐºÐ¾Ñ€Ñ€ÐµÐºÑ‚Ð½Ð¾Ðµ Ð·Ð½Ð°Ñ‡ÐµÐ½Ð¸Ðµ Ð² Ð¿Ð¾Ð»Ðµ Ð¿Ð¾Ð´Ñ‚Ð²ÐµÑ€Ð¶Ð´ÐµÐ½Ð¸Ñ Ð¿Ð°Ñ€Ð¾Ð»Ñ.";
+$MESS ['CC_MAIN_REG_INIT_MESSAGE_NAME_EMPTY'] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½Ð¾ Ð¸Ð¼Ñ.";
+$MESS ['CC_MAIN_REG_INIT_MESSAGE_LAST_NAME_EMPTY'] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½Ð° Ñ„Ð°Ð¼Ð¸Ð»Ð¸Ñ.";
 ?>

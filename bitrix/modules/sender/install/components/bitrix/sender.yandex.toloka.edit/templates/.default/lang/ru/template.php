@@ -1,33 +1,33 @@
 <?
-$MESS["SENDER_TOLOKA_TITLE"] = "Яндекс.Толока";
-$MESS["SENDER_TOLOKA_CONNECT_DESCRIPTION"] = "Для того чтобы подключиться к Яндекс.Толока, после регистрации вы должны получить токен авторизации и заполнить форму ниже";
-$MESS["SENDER_TOLOKA_CONNECT_INSTRUCTION"] = "Инструкция подключения Яндекс.Толока";
-$MESS["SENDER_TOLOKA_CONNECT_HELP"] = "Я хочу";
-$MESS["SENDER_TOLOKA_CONNECT_TITLE"] = "подключить Яндекс.Толока";
+$MESS["SENDER_TOLOKA_TITLE"] = "РЇРЅРґРµРєСЃ.РўРѕР»РѕРєР°";
+$MESS["SENDER_TOLOKA_CONNECT_DESCRIPTION"] = "Р”Р»СЏ С‚РѕРіРѕ С‡С‚РѕР±С‹ РїРѕРґРєР»СЋС‡РёС‚СЊСЃСЏ Рє РЇРЅРґРµРєСЃ.РўРѕР»РѕРєР°, РїРѕСЃР»Рµ СЂРµРіРёСЃС‚СЂР°С†РёРё РІС‹ РґРѕР»Р¶РЅС‹ РїРѕР»СѓС‡РёС‚СЊ С‚РѕРєРµРЅ Р°РІС‚РѕСЂРёР·Р°С†РёРё Рё Р·Р°РїРѕР»РЅРёС‚СЊ С„РѕСЂРјСѓ РЅРёР¶Рµ";
+$MESS["SENDER_TOLOKA_CONNECT_INSTRUCTION"] = "РРЅСЃС‚СЂСѓРєС†РёСЏ РїРѕРґРєР»СЋС‡РµРЅРёСЏ РЇРЅРґРµРєСЃ.РўРѕР»РѕРєР°";
+$MESS["SENDER_TOLOKA_CONNECT_HELP"] = "РЇ С…РѕС‡Сѓ";
+$MESS["SENDER_TOLOKA_CONNECT_TITLE"] = "РїРѕРґРєР»СЋС‡РёС‚СЊ РЇРЅРґРµРєСЃ.РўРѕР»РѕРєР°";
 
-$MESS["SENDER_COMP_TMPL_TOLOKA_PATTERN_TITLE"] = "%name% от %date%";
-$MESS["SENDER_TOLOKA_EDIT_FIELD_NAME"] = "Наименование проекта и пула";
+$MESS["SENDER_COMP_TMPL_TOLOKA_PATTERN_TITLE"] = "%name% РѕС‚ %date%";
+$MESS["SENDER_TOLOKA_EDIT_FIELD_NAME"] = "РќР°РёРјРµРЅРѕРІР°РЅРёРµ РїСЂРѕРµРєС‚Р° Рё РїСѓР»Р°";
 
-$MESS["SENDER_TOLOKA_EDIT_OUTSIDE_ADD_SUCCESS"] = "Задача успешно сохранена!<br>Найти ее можно в CRM-маркетинге, в разделе <a href=\"%path%\">Яндекс Толока</a>";
+$MESS["SENDER_TOLOKA_EDIT_OUTSIDE_ADD_SUCCESS"] = "Р—Р°РґР°С‡Р° СѓСЃРїРµС€РЅРѕ СЃРѕС…СЂР°РЅРµРЅР°!<br>РќР°Р№С‚Рё РµРµ РјРѕР¶РЅРѕ РІ CRM-РјР°СЂРєРµС‚РёРЅРіРµ, РІ СЂР°Р·РґРµР»Рµ <a href=\"%path%\">РЇРЅРґРµРєСЃ РўРѕР»РѕРєР°</a>";
 
-$MESS["SENDER_SEGMENT_SELECTOR_INCLUDE_EDIT_TITLE"] = "Какие сегменты необходимо обработать";
-$MESS["SENDER_TOLOKA_CONNECT"] = "Подключить";
-$MESS["SENDER_TOLOKA_OAUTH_TITLE"] = "Укажите oauth токен из личного кабинета Yandex.Toloka:";
-$MESS["SENDER_TOLOKA_ADD_PROJECT"] = "Добавить проект";
-$MESS["SENDER_TOLOKA_ADD_POOL"] = "Добавить пул";
-$MESS["SENDER_TOLOKA_EDIT"] = "Редактировать";
+$MESS["SENDER_SEGMENT_SELECTOR_INCLUDE_EDIT_TITLE"] = "РљР°РєРёРµ СЃРµРіРјРµРЅС‚С‹ РЅРµРѕР±С…РѕРґРёРјРѕ РѕР±СЂР°Р±РѕС‚Р°С‚СЊ";
+$MESS["SENDER_TOLOKA_CONNECT"] = "РџРѕРґРєР»СЋС‡РёС‚СЊ";
+$MESS["SENDER_TOLOKA_OAUTH_TITLE"] = "РЈРєР°Р¶РёС‚Рµ oauth С‚РѕРєРµРЅ РёР· Р»РёС‡РЅРѕРіРѕ РєР°Р±РёРЅРµС‚Р° Yandex.Toloka:";
+$MESS["SENDER_TOLOKA_ADD_PROJECT"] = "Р”РѕР±Р°РІРёС‚СЊ РїСЂРѕРµРєС‚";
+$MESS["SENDER_TOLOKA_ADD_POOL"] = "Р”РѕР±Р°РІРёС‚СЊ РїСѓР»";
+$MESS["SENDER_TOLOKA_EDIT"] = "Р РµРґР°РєС‚РёСЂРѕРІР°С‚СЊ";
 
-$MESS["SENDER_TOLOKA_ERROR_ACTION"] = "Ошибка";
-$MESS["SENDER_TOLOKA_CLOSE"] = "Закрыть";
-$MESS["SENDER_TOLOKA_CREATE"] = "Создать";
-$MESS["SENDER_TOLOKA_APPLY"] = "Применить";
-$MESS["SENDER_TOLOKA_CANCEL_ALT"] = "Отменить";
-$MESS["SENDER_TOLOKA_PRICE"] = "Стоимость за выполнение в долларах США(комиссия Яндекс 2%)";
-$MESS["SENDER_TOLOKA_ADULT_CONTENT"] = "Использовать контент для взрослых";
-$MESS["SENDER_TOLOKA_ADD_FILTER"] = "Фильтры";
-$MESS["SENDER_TOLOKA_MAX_POEOPLE_COUNT"] = "Максимальное колличество исполнителей";
-$MESS["SENDER_TOLOKA_TASK_MAX_TIME"] = "Максимальное время на исполнение задания";
-$MESS["SENDER_TOLOKA_TASKS"] = "Ссылки на задания через запятую";
-$MESS["SENDER_TOLOKA_EDIT_CHANGE_TEMPLATE"] = "Изменить шаблон";
-$MESS["SENDER_FIELD_REQUIRED"] = "Поле обязательно к заполнению";
+$MESS["SENDER_TOLOKA_ERROR_ACTION"] = "РћС€РёР±РєР°";
+$MESS["SENDER_TOLOKA_CLOSE"] = "Р—Р°РєСЂС‹С‚СЊ";
+$MESS["SENDER_TOLOKA_CREATE"] = "РЎРѕР·РґР°С‚СЊ";
+$MESS["SENDER_TOLOKA_APPLY"] = "РџСЂРёРјРµРЅРёС‚СЊ";
+$MESS["SENDER_TOLOKA_CANCEL_ALT"] = "РћС‚РјРµРЅРёС‚СЊ";
+$MESS["SENDER_TOLOKA_PRICE"] = "РЎС‚РѕРёРјРѕСЃС‚СЊ Р·Р° РІС‹РїРѕР»РЅРµРЅРёРµ РІ РґРѕР»Р»Р°СЂР°С… РЎРЁРђ(РєРѕРјРёСЃСЃРёСЏ РЇРЅРґРµРєСЃ 2%)";
+$MESS["SENDER_TOLOKA_ADULT_CONTENT"] = "РСЃРїРѕР»СЊР·РѕРІР°С‚СЊ РєРѕРЅС‚РµРЅС‚ РґР»СЏ РІР·СЂРѕСЃР»С‹С…";
+$MESS["SENDER_TOLOKA_ADD_FILTER"] = "Р¤РёР»СЊС‚СЂС‹";
+$MESS["SENDER_TOLOKA_MAX_POEOPLE_COUNT"] = "РњР°РєСЃРёРјР°Р»СЊРЅРѕРµ РєРѕР»Р»РёС‡РµСЃС‚РІРѕ РёСЃРїРѕР»РЅРёС‚РµР»РµР№";
+$MESS["SENDER_TOLOKA_TASK_MAX_TIME"] = "РњР°РєСЃРёРјР°Р»СЊРЅРѕРµ РІСЂРµРјСЏ РЅР° РёСЃРїРѕР»РЅРµРЅРёРµ Р·Р°РґР°РЅРёСЏ";
+$MESS["SENDER_TOLOKA_TASKS"] = "РЎСЃС‹Р»РєРё РЅР° Р·Р°РґР°РЅРёСЏ С‡РµСЂРµР· Р·Р°РїСЏС‚СѓСЋ";
+$MESS["SENDER_TOLOKA_EDIT_CHANGE_TEMPLATE"] = "РР·РјРµРЅРёС‚СЊ С€Р°Р±Р»РѕРЅ";
+$MESS["SENDER_FIELD_REQUIRED"] = "РџРѕР»Рµ РѕР±СЏР·Р°С‚РµР»СЊРЅРѕ Рє Р·Р°РїРѕР»РЅРµРЅРёСЋ";
 ?>

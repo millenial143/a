@@ -1,5 +1,5 @@
 <?
-$MESS["VOTE_GRID_ERROR_TITLE"] = "Òåêñò îøèáêè: ";
-$MESS["VOTE_GRID_ERROR_HEAD"] = "Îøèáêà ïðè ñîõðàíåíèè îòâåòà";
-$MESS["VOTE_GRID_ADD_ERROR"] = "Îøèáêà äîáàâëåíèÿ";
-$MESS["VOTE_GRID_EDIT_ERROR"] = "Îøèáêà ðåäàêòèðîâàíèÿ";
+$MESS["VOTE_GRID_ERROR_TITLE"] = "Ð¢ÐµÐºÑÑ‚ Ð¾ÑˆÐ¸Ð±ÐºÐ¸: ";
+$MESS["VOTE_GRID_ERROR_HEAD"] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð¿Ñ€Ð¸ ÑÐ¾Ñ…Ñ€Ð°Ð½ÐµÐ½Ð¸Ð¸ Ð¾Ñ‚Ð²ÐµÑ‚Ð°";
+$MESS["VOTE_GRID_ADD_ERROR"] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð´Ð¾Ð±Ð°Ð²Ð»ÐµÐ½Ð¸Ñ";
+$MESS["VOTE_GRID_EDIT_ERROR"] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ñ€ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ñ";

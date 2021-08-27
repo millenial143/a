@@ -1,7 +1,7 @@
 <?
-$MESS["SOCSERV_FACEBOOK"] = "Ññûëêó íà ñòðàíèöó â Facebook";
-$MESS["SOCSERV_VKONTAKTE"] = "Ññûëêó íà ñòðàíèöó â Vkontakte";
-$MESS["SOCSERV_TWITTER"] = "Ññûëêó íà ñòðàíèöó â Twitter";
-$MESS["SOCSERV_GOOGLE"] = "Ññûëêó íà ñòðàíèöó â Google";
-$MESS["SOCSERV_INSTAGRAM"] = "Ññûëêó íà ñòðàíèöó â Instagram";
+$MESS["SOCSERV_FACEBOOK"] = "Ð¡ÑÑ‹Ð»ÐºÑƒ Ð½Ð° ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñƒ Ð² Facebook";
+$MESS["SOCSERV_VKONTAKTE"] = "Ð¡ÑÑ‹Ð»ÐºÑƒ Ð½Ð° ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñƒ Ð² Vkontakte";
+$MESS["SOCSERV_TWITTER"] = "Ð¡ÑÑ‹Ð»ÐºÑƒ Ð½Ð° ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñƒ Ð² Twitter";
+$MESS["SOCSERV_GOOGLE"] = "Ð¡ÑÑ‹Ð»ÐºÑƒ Ð½Ð° ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñƒ Ð² Google";
+$MESS["SOCSERV_INSTAGRAM"] = "Ð¡ÑÑ‹Ð»ÐºÑƒ Ð½Ð° ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñƒ Ð² Instagram";
 ?>

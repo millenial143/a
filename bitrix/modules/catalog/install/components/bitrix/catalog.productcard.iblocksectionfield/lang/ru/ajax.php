@@ -1,2 +1,2 @@
 <?php
-$MESS["CPISF_ALL_SECTIONS_TITLE"] = "Âñå ðàçäåëû";
+$MESS["CPISF_ALL_SECTIONS_TITLE"] = "Ð’ÑÐµ Ñ€Ð°Ð·Ð´ÐµÐ»Ñ‹";

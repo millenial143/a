@@ -1,12 +1,12 @@
 <?
-$MESS["SALE_CSDRPT_SHIPMENTS_AMOUNT"] = "Êîëè÷åñòâî îòãðóçîê";
-$MESS["SALE_CSDRPT_WEIGHT"] = "Îáùèé âåñ îòãðóçîê";
-$MESS["SALE_CSDRPT_DELIVERY_REQUEST_CREATED"] = "Cîçäàíà òðàíñïîðòíàÿ çàÿâêà ¹ \"#REQUEST_ID#\"";
-$MESS["SALE_CSDRPT_DELIVERY_REQUEST_UPD"] = "Äîïîëíåíà òðàíñïîðòíàÿ çàÿâêà ¹ \"#REQUEST_ID#\"";
-$MESS["SALE_CSDRPT_DELIVERY_REQUEST_TITLE"] = "Ïåðåõîä â ôîðìó ïðîñìîòðà òðàíñïîðòíîé çàÿâêè ¹ \"#REQUEST_ID#\"";
-$MESS["SALE_CSDRPT_SHIPMENTS_SUCCESS_AMOUNT"] = "Êîëè÷åñòâî óñïåøíî äîáàâëåííûõ îòãðóçîê";
-$MESS["SALE_CSDRPT_SHIPMENTS_FAIL_AMOUNT"] = "Êîëè÷åñòâî îòãðóçîê, êîòîðûå íå óäàëîñü äîáàâèòü â òðàíñïîðòíûå çàÿâêè";
-$MESS["SALE_CSDRPT_SHIPMENTS_FAIL_AMOUNT_TITLE"] = "Ïåðåéòè â ñïèñîê îòãðóçîê ñ îøèáêàìè äëÿ äàííîé ñëóæáû äîñòàâêè";
-$MESS["SALE_CSDRPT_PIECE"] = "øò";
-$MESS["SALE_CSDRPT_KILO"] = "êã";
+$MESS["SALE_CSDRPT_SHIPMENTS_AMOUNT"] = "ÐšÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾ Ð¾Ñ‚Ð³Ñ€ÑƒÐ·Ð¾Ðº";
+$MESS["SALE_CSDRPT_WEIGHT"] = "ÐžÐ±Ñ‰Ð¸Ð¹ Ð²ÐµÑ Ð¾Ñ‚Ð³Ñ€ÑƒÐ·Ð¾Ðº";
+$MESS["SALE_CSDRPT_DELIVERY_REQUEST_CREATED"] = "CÐ¾Ð·Ð´Ð°Ð½Ð° Ñ‚Ñ€Ð°Ð½ÑÐ¿Ð¾Ñ€Ñ‚Ð½Ð°Ñ Ð·Ð°ÑÐ²ÐºÐ° â„– \"#REQUEST_ID#\"";
+$MESS["SALE_CSDRPT_DELIVERY_REQUEST_UPD"] = "Ð”Ð¾Ð¿Ð¾Ð»Ð½ÐµÐ½Ð° Ñ‚Ñ€Ð°Ð½ÑÐ¿Ð¾Ñ€Ñ‚Ð½Ð°Ñ Ð·Ð°ÑÐ²ÐºÐ° â„– \"#REQUEST_ID#\"";
+$MESS["SALE_CSDRPT_DELIVERY_REQUEST_TITLE"] = "ÐŸÐµÑ€ÐµÑ…Ð¾Ð´ Ð² Ñ„Ð¾Ñ€Ð¼Ñƒ Ð¿Ñ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€Ð° Ñ‚Ñ€Ð°Ð½ÑÐ¿Ð¾Ñ€Ñ‚Ð½Ð¾Ð¹ Ð·Ð°ÑÐ²ÐºÐ¸ â„– \"#REQUEST_ID#\"";
+$MESS["SALE_CSDRPT_SHIPMENTS_SUCCESS_AMOUNT"] = "ÐšÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾ ÑƒÑÐ¿ÐµÑˆÐ½Ð¾ Ð´Ð¾Ð±Ð°Ð²Ð»ÐµÐ½Ð½Ñ‹Ñ… Ð¾Ñ‚Ð³Ñ€ÑƒÐ·Ð¾Ðº";
+$MESS["SALE_CSDRPT_SHIPMENTS_FAIL_AMOUNT"] = "ÐšÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾ Ð¾Ñ‚Ð³Ñ€ÑƒÐ·Ð¾Ðº, ÐºÐ¾Ñ‚Ð¾Ñ€Ñ‹Ðµ Ð½Ðµ ÑƒÐ´Ð°Ð»Ð¾ÑÑŒ Ð´Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ Ð² Ñ‚Ñ€Ð°Ð½ÑÐ¿Ð¾Ñ€Ñ‚Ð½Ñ‹Ðµ Ð·Ð°ÑÐ²ÐºÐ¸";
+$MESS["SALE_CSDRPT_SHIPMENTS_FAIL_AMOUNT_TITLE"] = "ÐŸÐµÑ€ÐµÐ¹Ñ‚Ð¸ Ð² ÑÐ¿Ð¸ÑÐ¾Ðº Ð¾Ñ‚Ð³Ñ€ÑƒÐ·Ð¾Ðº Ñ Ð¾ÑˆÐ¸Ð±ÐºÐ°Ð¼Ð¸ Ð´Ð»Ñ Ð´Ð°Ð½Ð½Ð¾Ð¹ ÑÐ»ÑƒÐ¶Ð±Ñ‹ Ð´Ð¾ÑÑ‚Ð°Ð²ÐºÐ¸";
+$MESS["SALE_CSDRPT_PIECE"] = "ÑˆÑ‚";
+$MESS["SALE_CSDRPT_KILO"] = "ÐºÐ³";
 ?>

@@ -1,9 +1,9 @@
 <?
-$MESS["MARKETPLACE_LOCAL_NOT_FOUND"] = "Ïðèëîæåíèå íå íàéäåíî";
-$MESS["MARKETPLACE_LOCAL_ADD_TITLE"] = "Äîáàâëåíèå ïðèëîæåíèÿ";
-$MESS["MARKETPLACE_LOCAL_EDIT_TITLE"] = "Ðåäàêòèðîâàíèå ïðèëîæåíèÿ";
-$MESS["MP_APP_ADD_ZIP_ERROR"] = "Ôîðìàò çàãðóæàåìîãî ôàéëà äîëæåí áûòü .zip";
-$MESS["MP_ERROR_EMPTY_NAME"] = "Íå çàïîëíåíî íàçâàíèå ïðèëîæåíèÿ.";
-$MESS["MP_ERROR_EMPTY_SCOPE"] = "Íå óêàçàíû ïðàâà äîñòóïà ïðèëîæåíèÿ.";
-$MESS["MP_ERROR_INCORRECT_URL"] = "Íåêîððåêòíàÿ ññûëêà íà ïðèëîæåíèå.";
+$MESS["MARKETPLACE_LOCAL_NOT_FOUND"] = "ÐŸÑ€Ð¸Ð»Ð¾Ð¶ÐµÐ½Ð¸Ðµ Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½Ð¾";
+$MESS["MARKETPLACE_LOCAL_ADD_TITLE"] = "Ð”Ð¾Ð±Ð°Ð²Ð»ÐµÐ½Ð¸Ðµ Ð¿Ñ€Ð¸Ð»Ð¾Ð¶ÐµÐ½Ð¸Ñ";
+$MESS["MARKETPLACE_LOCAL_EDIT_TITLE"] = "Ð ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ðµ Ð¿Ñ€Ð¸Ð»Ð¾Ð¶ÐµÐ½Ð¸Ñ";
+$MESS["MP_APP_ADD_ZIP_ERROR"] = "Ð¤Ð¾Ñ€Ð¼Ð°Ñ‚ Ð·Ð°Ð³Ñ€ÑƒÐ¶Ð°ÐµÐ¼Ð¾Ð³Ð¾ Ñ„Ð°Ð¹Ð»Ð° Ð´Ð¾Ð»Ð¶ÐµÐ½ Ð±Ñ‹Ñ‚ÑŒ .zip";
+$MESS["MP_ERROR_EMPTY_NAME"] = "ÐÐµ Ð·Ð°Ð¿Ð¾Ð»Ð½ÐµÐ½Ð¾ Ð½Ð°Ð·Ð²Ð°Ð½Ð¸Ðµ Ð¿Ñ€Ð¸Ð»Ð¾Ð¶ÐµÐ½Ð¸Ñ.";
+$MESS["MP_ERROR_EMPTY_SCOPE"] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½Ñ‹ Ð¿Ñ€Ð°Ð²Ð° Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð° Ð¿Ñ€Ð¸Ð»Ð¾Ð¶ÐµÐ½Ð¸Ñ.";
+$MESS["MP_ERROR_INCORRECT_URL"] = "ÐÐµÐºÐ¾Ñ€Ñ€ÐµÐºÑ‚Ð½Ð°Ñ ÑÑÑ‹Ð»ÐºÐ° Ð½Ð° Ð¿Ñ€Ð¸Ð»Ð¾Ð¶ÐµÐ½Ð¸Ðµ.";
 ?>

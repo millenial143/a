@@ -1,6 +1,6 @@
 <?
-$MESS ['BLOG_MODULE_NOT_INSTALL'] = "Ìîäóëü áëîãîâ íå óñòàíîâëåí.";
-$MESS ['B_B_GR_NO_GROUP'] = "Ãðóïïà íå íàéäåíà";
-$MESS ['B_B_GR_TITLE'] = "Ñïèñîê áëîãîâ";
-$MESS ['B_B_GR_TITLE_NAME'] = "Áëîãè ãðóïïû \"#group#\"";
+$MESS ['BLOG_MODULE_NOT_INSTALL'] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ Ð±Ð»Ð¾Ð³Ð¾Ð² Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½.";
+$MESS ['B_B_GR_NO_GROUP'] = "Ð“Ñ€ÑƒÐ¿Ð¿Ð° Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½Ð°";
+$MESS ['B_B_GR_TITLE'] = "Ð¡Ð¿Ð¸ÑÐ¾Ðº Ð±Ð»Ð¾Ð³Ð¾Ð²";
+$MESS ['B_B_GR_TITLE_NAME'] = "Ð‘Ð»Ð¾Ð³Ð¸ Ð³Ñ€ÑƒÐ¿Ð¿Ñ‹ \"#group#\"";
 ?>

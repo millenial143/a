@@ -1,3 +1,3 @@
 <?php
-$MESS['LANDING_CMP_PAR_TYPE'] = 'Òèï ñàéòà';
-$MESS['LANDING_CMP_PAR_PAGE_URL_ROLE_EDIT'] = 'Ññûëêà íà ðåäàêòèðîâàíèå ðîëè';
+$MESS['LANDING_CMP_PAR_TYPE'] = 'Ð¢Ð¸Ð¿ ÑÐ°Ð¹Ñ‚Ð°';
+$MESS['LANDING_CMP_PAR_PAGE_URL_ROLE_EDIT'] = 'Ð¡ÑÑ‹Ð»ÐºÐ° Ð½Ð° Ñ€ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ðµ Ñ€Ð¾Ð»Ð¸';

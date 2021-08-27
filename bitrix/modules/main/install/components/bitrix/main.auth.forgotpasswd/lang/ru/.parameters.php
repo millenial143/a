@@ -1,3 +1,3 @@
 <?php
-$MESS['MAIN_AUTH_PWD_AUTH_AUTH_PASSWORD_URL'] = 'Ñòðàíèöà äëÿ àâòîðèçàöèè';
-$MESS['MAIN_AUTH_PWD_AUTH_REGISTER_URL'] = 'Ñòðàíèöà äëÿ ðåãèñòðàöèè';
+$MESS['MAIN_AUTH_PWD_AUTH_AUTH_PASSWORD_URL'] = 'Ð¡Ñ‚Ñ€Ð°Ð½Ð¸Ñ†Ð° Ð´Ð»Ñ Ð°Ð²Ñ‚Ð¾Ñ€Ð¸Ð·Ð°Ñ†Ð¸Ð¸';
+$MESS['MAIN_AUTH_PWD_AUTH_REGISTER_URL'] = 'Ð¡Ñ‚Ñ€Ð°Ð½Ð¸Ñ†Ð° Ð´Ð»Ñ Ñ€ÐµÐ³Ð¸ÑÑ‚Ñ€Ð°Ñ†Ð¸Ð¸';

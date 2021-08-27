@@ -1,5 +1,5 @@
 <?
-$MESS ['UI_TILE_SELECTOR_SELECT'] = "âûáðàòü";
-$MESS ['UI_TILE_SELECTOR_ADD'] = "ñîçäàòü";
-$MESS ['UI_TILE_SELECTOR_MORE'] = "åùå #NUM#";
+$MESS ['UI_TILE_SELECTOR_SELECT'] = "Ð²Ñ‹Ð±Ñ€Ð°Ñ‚ÑŒ";
+$MESS ['UI_TILE_SELECTOR_ADD'] = "ÑÐ¾Ð·Ð´Ð°Ñ‚ÑŒ";
+$MESS ['UI_TILE_SELECTOR_MORE'] = "ÐµÑ‰Ðµ #NUM#";
 ?>

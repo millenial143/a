@@ -1,6 +1,6 @@
 <?
-$MESS ['MYMV_COMP_NAME'] = "Google: íàñòðàèâàåìàÿ êàðòà";
-$MESS ['MYMV_COMP_DESCRIPTION'] = "Êàðòà Google Maps ñ âîçìîæíîñòüþ âûâîäà ïðîèçâîëüíûõ îáúåêòîâ";
+$MESS ['MYMV_COMP_NAME'] = "Google: Ð½Ð°ÑÑ‚Ñ€Ð°Ð¸Ð²Ð°ÐµÐ¼Ð°Ñ ÐºÐ°Ñ€Ñ‚Ð°";
+$MESS ['MYMV_COMP_DESCRIPTION'] = "ÐšÐ°Ñ€Ñ‚Ð° Google Maps Ñ Ð²Ð¾Ð·Ð¼Ð¾Ð¶Ð½Ð¾ÑÑ‚ÑŒÑŽ Ð²Ñ‹Ð²Ð¾Ð´Ð° Ð¿Ñ€Ð¾Ð¸Ð·Ð²Ð¾Ð»ÑŒÐ½Ñ‹Ñ… Ð¾Ð±ÑŠÐµÐºÑ‚Ð¾Ð²";
 $MESS ['MAIN_GOOGLE_MAP_SERVICE'] = "Google Maps";
-$MESS ['MAIN_G_CONTENT'] = "Êîíòåíò";
+$MESS ['MAIN_G_CONTENT'] = "ÐšÐ¾Ð½Ñ‚ÐµÐ½Ñ‚";
 ?>

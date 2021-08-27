@@ -1,24 +1,24 @@
 <?
-$MESS ['SENDER_SEGMENT_SELECTOR_BUTTON_SELECT'] = "выбрать сегмент";
-$MESS ['SENDER_SEGMENT_SELECTOR_SEARCHER_TITLE'] = "Сегменты";
-$MESS ['SENDER_SEGMENT_SELECTOR_INCLUDE_EDIT_TITLE'] = "Выбор сегментов получателей";
-$MESS ['SENDER_SEGMENT_SELECTOR_EXCLUDE_EDIT_TITLE'] = "Выбор сегментов исключений";
-$MESS ['SENDER_SEGMENT_SELECTOR_INCLUDE_VIEW_TITLE'] = "Выбранные сегменты получателей";
-$MESS ['SENDER_SEGMENT_SELECTOR_EXCLUDE_VIEW_TITLE'] = "Выбранные сегменты исключений";
-$MESS ['SENDER_SEGMENT_SELECTOR_RECIPIENT_COUNT'] = "Получателей на текущий момент";
-$MESS ['SENDER_SEGMENT_SELECTOR_RECIPIENT_COUNT_HINT'] = "Указано примерное количество получателей. 
-<br>Точное количество получателей будет указано после создания рассылки/рекламы. 
-<br>После создания/изменения рассылки удаляются:
-<br> - дубли; 
-<br> - отписавшиеся от рассылок; 
-<br> - получатели из черного списка;
-<br> - получатели из сегментов исключений.";
-$MESS ['SENDER_SEGMENT_SELECTOR_RECIPIENT_COUNT_EXACT_HINT1'] = "Указано точное количество получателей. 
-<br>В получателях нет:
-<br> - дублей; 
-<br> - отписавшихся от рассылок; 
-<br> - получателей из черного списка;
-<br> - получателей из сегментов исключений.";
-$MESS ['SENDER_SEGMENT_SELECTOR_EXCLUDES'] = "исключения";
-$MESS ['SENDER_SEGMENT_SELECTOR_SEND_TIME'] = "отправка";
+$MESS ['SENDER_SEGMENT_SELECTOR_BUTTON_SELECT'] = "РІС‹Р±СЂР°С‚СЊ СЃРµРіРјРµРЅС‚";
+$MESS ['SENDER_SEGMENT_SELECTOR_SEARCHER_TITLE'] = "РЎРµРіРјРµРЅС‚С‹";
+$MESS ['SENDER_SEGMENT_SELECTOR_INCLUDE_EDIT_TITLE'] = "Р’С‹Р±РѕСЂ СЃРµРіРјРµРЅС‚РѕРІ РїРѕР»СѓС‡Р°С‚РµР»РµР№";
+$MESS ['SENDER_SEGMENT_SELECTOR_EXCLUDE_EDIT_TITLE'] = "Р’С‹Р±РѕСЂ СЃРµРіРјРµРЅС‚РѕРІ РёСЃРєР»СЋС‡РµРЅРёР№";
+$MESS ['SENDER_SEGMENT_SELECTOR_INCLUDE_VIEW_TITLE'] = "Р’С‹Р±СЂР°РЅРЅС‹Рµ СЃРµРіРјРµРЅС‚С‹ РїРѕР»СѓС‡Р°С‚РµР»РµР№";
+$MESS ['SENDER_SEGMENT_SELECTOR_EXCLUDE_VIEW_TITLE'] = "Р’С‹Р±СЂР°РЅРЅС‹Рµ СЃРµРіРјРµРЅС‚С‹ РёСЃРєР»СЋС‡РµРЅРёР№";
+$MESS ['SENDER_SEGMENT_SELECTOR_RECIPIENT_COUNT'] = "РџРѕР»СѓС‡Р°С‚РµР»РµР№ РЅР° С‚РµРєСѓС‰РёР№ РјРѕРјРµРЅС‚";
+$MESS ['SENDER_SEGMENT_SELECTOR_RECIPIENT_COUNT_HINT'] = "РЈРєР°Р·Р°РЅРѕ РїСЂРёРјРµСЂРЅРѕРµ РєРѕР»РёС‡РµСЃС‚РІРѕ РїРѕР»СѓС‡Р°С‚РµР»РµР№. 
+<br>РўРѕС‡РЅРѕРµ РєРѕР»РёС‡РµСЃС‚РІРѕ РїРѕР»СѓС‡Р°С‚РµР»РµР№ Р±СѓРґРµС‚ СѓРєР°Р·Р°РЅРѕ РїРѕСЃР»Рµ СЃРѕР·РґР°РЅРёСЏ СЂР°СЃСЃС‹Р»РєРё/СЂРµРєР»Р°РјС‹. 
+<br>РџРѕСЃР»Рµ СЃРѕР·РґР°РЅРёСЏ/РёР·РјРµРЅРµРЅРёСЏ СЂР°СЃСЃС‹Р»РєРё СѓРґР°Р»СЏСЋС‚СЃСЏ:
+<br> - РґСѓР±Р»Рё; 
+<br> - РѕС‚РїРёСЃР°РІС€РёРµСЃСЏ РѕС‚ СЂР°СЃСЃС‹Р»РѕРє; 
+<br> - РїРѕР»СѓС‡Р°С‚РµР»Рё РёР· С‡РµСЂРЅРѕРіРѕ СЃРїРёСЃРєР°;
+<br> - РїРѕР»СѓС‡Р°С‚РµР»Рё РёР· СЃРµРіРјРµРЅС‚РѕРІ РёСЃРєР»СЋС‡РµРЅРёР№.";
+$MESS ['SENDER_SEGMENT_SELECTOR_RECIPIENT_COUNT_EXACT_HINT1'] = "РЈРєР°Р·Р°РЅРѕ С‚РѕС‡РЅРѕРµ РєРѕР»РёС‡РµСЃС‚РІРѕ РїРѕР»СѓС‡Р°С‚РµР»РµР№. 
+<br>Р’ РїРѕР»СѓС‡Р°С‚РµР»СЏС… РЅРµС‚:
+<br> - РґСѓР±Р»РµР№; 
+<br> - РѕС‚РїРёСЃР°РІС€РёС…СЃСЏ РѕС‚ СЂР°СЃСЃС‹Р»РѕРє; 
+<br> - РїРѕР»СѓС‡Р°С‚РµР»РµР№ РёР· С‡РµСЂРЅРѕРіРѕ СЃРїРёСЃРєР°;
+<br> - РїРѕР»СѓС‡Р°С‚РµР»РµР№ РёР· СЃРµРіРјРµРЅС‚РѕРІ РёСЃРєР»СЋС‡РµРЅРёР№.";
+$MESS ['SENDER_SEGMENT_SELECTOR_EXCLUDES'] = "РёСЃРєР»СЋС‡РµРЅРёСЏ";
+$MESS ['SENDER_SEGMENT_SELECTOR_SEND_TIME'] = "РѕС‚РїСЂР°РІРєР°";
 ?>

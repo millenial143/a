@@ -1,3 +1,3 @@
 <?php
-$MESS['LANDING_DEMO_EMPTY_TITLE_PAGE'] = 'Ïóñòàÿ ñòðàíèöà';
-$MESS['LANDING_DEMO_EMPTY_DESCRIPTION'] = 'Ñîçäàéòå ñîáñòâåííûé ñàéò ñ ÷èñòîãî ëèñòà è ïðèâëåêàéòå êëèåíòîâ!';
+$MESS['LANDING_DEMO_EMPTY_TITLE_PAGE'] = 'ÐŸÑƒÑÑ‚Ð°Ñ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ð°';
+$MESS['LANDING_DEMO_EMPTY_DESCRIPTION'] = 'Ð¡Ð¾Ð·Ð´Ð°Ð¹Ñ‚Ðµ ÑÐ¾Ð±ÑÑ‚Ð²ÐµÐ½Ð½Ñ‹Ð¹ ÑÐ°Ð¹Ñ‚ Ñ Ñ‡Ð¸ÑÑ‚Ð¾Ð³Ð¾ Ð»Ð¸ÑÑ‚Ð° Ð¸ Ð¿Ñ€Ð¸Ð²Ð»ÐµÐºÐ°Ð¹Ñ‚Ðµ ÐºÐ»Ð¸ÐµÐ½Ñ‚Ð¾Ð²!';

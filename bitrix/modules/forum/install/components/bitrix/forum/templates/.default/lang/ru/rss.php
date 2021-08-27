@@ -1,4 +1,4 @@
 <?
-$MESS ['F_TITLE_RSS'] = "Ïîäïèñêà RSS";
-$MESS ['F_CHECK_RSS_TYPE'] = "Âûáåðèòå ôîðìàò RSS";
+$MESS ['F_TITLE_RSS'] = "ÐŸÐ¾Ð´Ð¿Ð¸ÑÐºÐ° RSS";
+$MESS ['F_CHECK_RSS_TYPE'] = "Ð’Ñ‹Ð±ÐµÑ€Ð¸Ñ‚Ðµ Ñ„Ð¾Ñ€Ð¼Ð°Ñ‚ RSS";
 ?>

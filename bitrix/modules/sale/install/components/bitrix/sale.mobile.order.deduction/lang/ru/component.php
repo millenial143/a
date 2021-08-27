@@ -1,5 +1,5 @@
 <?
-$MESS["SMODE_SALE_NOT_INSTALLED"] = "Не установлен модуль sale";
-$MESS["SMODE_MOBILEAPP_NOT_INSTALLED"] = "Не установлен модуль mobileapp";
-$MESS["SMODE_MOBILEAPP_NOT_INSTALLED"] = "Не установлен модуль iblock";
+$MESS["SMODE_SALE_NOT_INSTALLED"] = "РќРµ СѓСЃС‚Р°РЅРѕРІР»РµРЅ РјРѕРґСѓР»СЊ sale";
+$MESS["SMODE_MOBILEAPP_NOT_INSTALLED"] = "РќРµ СѓСЃС‚Р°РЅРѕРІР»РµРЅ РјРѕРґСѓР»СЊ mobileapp";
+$MESS["SMODE_MOBILEAPP_NOT_INSTALLED"] = "РќРµ СѓСЃС‚Р°РЅРѕРІР»РµРЅ РјРѕРґСѓР»СЊ iblock";
 ?>

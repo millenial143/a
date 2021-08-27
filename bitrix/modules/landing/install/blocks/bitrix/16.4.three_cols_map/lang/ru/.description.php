@@ -1,13 +1,13 @@
 <?php
-$MESS['LANDING_BLOCK_16_4_THREE_COLS_MAP--NAME'] = '3 êîëîíêè: êàðòà Google, êîíòàêòíûå äàííûå è ôîðìà';
-$MESS['LANDING_BLOCK_16_4_THREE_COLS_MAP--COL'] = 'Êîëîíêà';
-$MESS['LANDING_BLOCK_16_4_THREE_COLS_MAP--SUBTITLE'] = 'Ïîäçàãîëîâîê';
-$MESS['LANDING_BLOCK_16_4_THREE_COLS_MAP--TITLE'] = 'Çàãîëîâîê';
-$MESS['LANDING_BLOCK_16_4_THREE_COLS_MAP--TEXT'] = 'Òåêñò';
-$MESS['LANDING_BLOCK_16_4_THREE_COLS_MAP--MAP'] = 'Êàðòà';
-$MESS['LANDING_BLOCK_16_4_THREE_COLS_MAP--LINK'] = 'Ññûëêà';
-$MESS['LANDING_BLOCK_16_4_THREE_COLS_MAP--CONTACT'] = 'Êîíòàêò';
-$MESS['LANDING_BLOCK_16_4_THREE_COLS_MAP--CONTACT_LINK'] = 'Ññûëêà';
-$MESS['LANDING_BLOCK_16_4_THREE_COLS_MAP--SOCIAL'] = 'Ñîöèàëüíàÿ ññûëêà';
-$MESS['LANDING_BLOCK_16_4_THREE_COLS_MAP--SOCIAL_ICON'] = 'Èêîíêà';
-$MESS['LANDING_BLOCK_16_4_THREE_COLS_MAP--SOCIAL_LINK'] = 'Ññûëêà';
+$MESS['LANDING_BLOCK_16_4_THREE_COLS_MAP--NAME'] = '3 ÐºÐ¾Ð»Ð¾Ð½ÐºÐ¸: ÐºÐ°Ñ€Ñ‚Ð° Google, ÐºÐ¾Ð½Ñ‚Ð°ÐºÑ‚Ð½Ñ‹Ðµ Ð´Ð°Ð½Ð½Ñ‹Ðµ Ð¸ Ñ„Ð¾Ñ€Ð¼Ð°';
+$MESS['LANDING_BLOCK_16_4_THREE_COLS_MAP--COL'] = 'ÐšÐ¾Ð»Ð¾Ð½ÐºÐ°';
+$MESS['LANDING_BLOCK_16_4_THREE_COLS_MAP--SUBTITLE'] = 'ÐŸÐ¾Ð´Ð·Ð°Ð³Ð¾Ð»Ð¾Ð²Ð¾Ðº';
+$MESS['LANDING_BLOCK_16_4_THREE_COLS_MAP--TITLE'] = 'Ð—Ð°Ð³Ð¾Ð»Ð¾Ð²Ð¾Ðº';
+$MESS['LANDING_BLOCK_16_4_THREE_COLS_MAP--TEXT'] = 'Ð¢ÐµÐºÑÑ‚';
+$MESS['LANDING_BLOCK_16_4_THREE_COLS_MAP--MAP'] = 'ÐšÐ°Ñ€Ñ‚Ð°';
+$MESS['LANDING_BLOCK_16_4_THREE_COLS_MAP--LINK'] = 'Ð¡ÑÑ‹Ð»ÐºÐ°';
+$MESS['LANDING_BLOCK_16_4_THREE_COLS_MAP--CONTACT'] = 'ÐšÐ¾Ð½Ñ‚Ð°ÐºÑ‚';
+$MESS['LANDING_BLOCK_16_4_THREE_COLS_MAP--CONTACT_LINK'] = 'Ð¡ÑÑ‹Ð»ÐºÐ°';
+$MESS['LANDING_BLOCK_16_4_THREE_COLS_MAP--SOCIAL'] = 'Ð¡Ð¾Ñ†Ð¸Ð°Ð»ÑŒÐ½Ð°Ñ ÑÑÑ‹Ð»ÐºÐ°';
+$MESS['LANDING_BLOCK_16_4_THREE_COLS_MAP--SOCIAL_ICON'] = 'Ð˜ÐºÐ¾Ð½ÐºÐ°';
+$MESS['LANDING_BLOCK_16_4_THREE_COLS_MAP--SOCIAL_LINK'] = 'Ð¡ÑÑ‹Ð»ÐºÐ°';

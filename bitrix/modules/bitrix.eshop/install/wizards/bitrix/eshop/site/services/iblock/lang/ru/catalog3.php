@@ -1,6 +1,6 @@
 <?
-$MESS["WIZ_PRICE_NAME"] = "Ðîçíè÷íàÿ öåíà";
-$MESS["WIZ_DISCOUNT"] = "Ñêèäêà íà íèæíåå áåëüå";
-$MESS["WIZ_PRECET"] = "Ñïåöèàëüíûå òîâàðû";
-$MESS["WIZ_DISCOUNT_BASKET_GIFTS"] = "Ïîäàðêè â êîðçèíå";
+$MESS["WIZ_PRICE_NAME"] = "Ð Ð¾Ð·Ð½Ð¸Ñ‡Ð½Ð°Ñ Ñ†ÐµÐ½Ð°";
+$MESS["WIZ_DISCOUNT"] = "Ð¡ÐºÐ¸Ð´ÐºÐ° Ð½Ð° Ð½Ð¸Ð¶Ð½ÐµÐµ Ð±ÐµÐ»ÑŒÐµ";
+$MESS["WIZ_PRECET"] = "Ð¡Ð¿ÐµÑ†Ð¸Ð°Ð»ÑŒÐ½Ñ‹Ðµ Ñ‚Ð¾Ð²Ð°Ñ€Ñ‹";
+$MESS["WIZ_DISCOUNT_BASKET_GIFTS"] = "ÐŸÐ¾Ð´Ð°Ñ€ÐºÐ¸ Ð² ÐºÐ¾Ñ€Ð·Ð¸Ð½Ðµ";
 ?>

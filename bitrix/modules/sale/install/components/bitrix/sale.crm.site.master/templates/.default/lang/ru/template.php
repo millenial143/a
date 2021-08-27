@@ -1,8 +1,8 @@
 <?php
-$MESS["SALE_CSM_TEMPLATE_COUPON_ERROR"] = "Êîä ââåäåí íåâåðíî";
-$MESS["SALE_CSM_TEMPLATE_ORDER_CONVERTER_ERROR_TITLE"] = "Îáðàáîòêà çàêàçîâ çàâåðøåíà";
-$MESS["SALE_CSM_TEMPLATE_ORDER_CONVERTER_ERROR_INFO"] = "Äëÿ ñïèñêà çàêàçîâ íà òåêóùåé ñòðàíèöå íå óäàëîñü àâòîìàòè÷åñêè ñîçäàòü êîíòàêò/êîìïàíèþ. Âàì íåîáõîäèìî âðó÷íóþ èñïðàâèòü îøèáêó íà ñòðàíèöå ðåäàêòèðîâàíèÿ çàêàçà è ïîñëå ýòîãî íàæàòü \"Îáðàáîòàòü çàêàçû\" íà òåêóùåé ñòðàíèöå";
-$MESS["SALE_CSM_TEMPLATE_ORDER_CONVERTER_ERROR_DESCR"] = "Âî âðåìÿ îáðàáîòêè çàêàçîâ âîçíèêëè ñëåäóþùèå îøèáêè";
-$MESS["SALE_CSM_TEMPLATE_GRID_COLUMN_ID"] = "Íîìåð çàêàçà";
-$MESS["SALE_CSM_TEMPLATE_GRID_COLUMN_ERROR"] = "Îøèáêà";
-$MESS["SALE_CSM_TEMPLATE_BUTTON_UPDATE_ORDER"] = "Îáðàáîòàòü çàêàçû";
+$MESS["SALE_CSM_TEMPLATE_COUPON_ERROR"] = "ÐšÐ¾Ð´ Ð²Ð²ÐµÐ´ÐµÐ½ Ð½ÐµÐ²ÐµÑ€Ð½Ð¾";
+$MESS["SALE_CSM_TEMPLATE_ORDER_CONVERTER_ERROR_TITLE"] = "ÐžÐ±Ñ€Ð°Ð±Ð¾Ñ‚ÐºÐ° Ð·Ð°ÐºÐ°Ð·Ð¾Ð² Ð·Ð°Ð²ÐµÑ€ÑˆÐµÐ½Ð°";
+$MESS["SALE_CSM_TEMPLATE_ORDER_CONVERTER_ERROR_INFO"] = "Ð”Ð»Ñ ÑÐ¿Ð¸ÑÐºÐ° Ð·Ð°ÐºÐ°Ð·Ð¾Ð² Ð½Ð° Ñ‚ÐµÐºÑƒÑ‰ÐµÐ¹ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ðµ Ð½Ðµ ÑƒÐ´Ð°Ð»Ð¾ÑÑŒ Ð°Ð²Ñ‚Ð¾Ð¼Ð°Ñ‚Ð¸Ñ‡ÐµÑÐºÐ¸ ÑÐ¾Ð·Ð´Ð°Ñ‚ÑŒ ÐºÐ¾Ð½Ñ‚Ð°ÐºÑ‚/ÐºÐ¾Ð¼Ð¿Ð°Ð½Ð¸ÑŽ. Ð’Ð°Ð¼ Ð½ÐµÐ¾Ð±Ñ…Ð¾Ð´Ð¸Ð¼Ð¾ Ð²Ñ€ÑƒÑ‡Ð½ÑƒÑŽ Ð¸ÑÐ¿Ñ€Ð°Ð²Ð¸Ñ‚ÑŒ Ð¾ÑˆÐ¸Ð±ÐºÑƒ Ð½Ð° ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ðµ Ñ€ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ñ Ð·Ð°ÐºÐ°Ð·Ð° Ð¸ Ð¿Ð¾ÑÐ»Ðµ ÑÑ‚Ð¾Ð³Ð¾ Ð½Ð°Ð¶Ð°Ñ‚ÑŒ \"ÐžÐ±Ñ€Ð°Ð±Ð¾Ñ‚Ð°Ñ‚ÑŒ Ð·Ð°ÐºÐ°Ð·Ñ‹\" Ð½Ð° Ñ‚ÐµÐºÑƒÑ‰ÐµÐ¹ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ðµ";
+$MESS["SALE_CSM_TEMPLATE_ORDER_CONVERTER_ERROR_DESCR"] = "Ð’Ð¾ Ð²Ñ€ÐµÐ¼Ñ Ð¾Ð±Ñ€Ð°Ð±Ð¾Ñ‚ÐºÐ¸ Ð·Ð°ÐºÐ°Ð·Ð¾Ð² Ð²Ð¾Ð·Ð½Ð¸ÐºÐ»Ð¸ ÑÐ»ÐµÐ´ÑƒÑŽÑ‰Ð¸Ðµ Ð¾ÑˆÐ¸Ð±ÐºÐ¸";
+$MESS["SALE_CSM_TEMPLATE_GRID_COLUMN_ID"] = "ÐÐ¾Ð¼ÐµÑ€ Ð·Ð°ÐºÐ°Ð·Ð°";
+$MESS["SALE_CSM_TEMPLATE_GRID_COLUMN_ERROR"] = "ÐžÑˆÐ¸Ð±ÐºÐ°";
+$MESS["SALE_CSM_TEMPLATE_BUTTON_UPDATE_ORDER"] = "ÐžÐ±Ñ€Ð°Ð±Ð¾Ñ‚Ð°Ñ‚ÑŒ Ð·Ð°ÐºÐ°Ð·Ñ‹";

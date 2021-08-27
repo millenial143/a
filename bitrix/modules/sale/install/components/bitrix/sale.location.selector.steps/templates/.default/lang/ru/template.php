@@ -1,8 +1,8 @@
 <?
-$MESS["SALE_SLS_EDIT"] = "Ðåäàêòèðîâàòü";
-$MESS["SALE_SLS_ERROR_OCCURED"] = "Ê ñîæàëåíèþ, ïðîèçîøëà âíóòðåííÿÿ îøèáêà";
-$MESS["SALE_SLS_NOTHING_FOUND"] = "Íå óäàëîñü îáíàðóæèòü ìåñòîïîëîæåíèå";
-$MESS["SALE_SLS_SELECTOR_PROMPT"] = "Âûáåðèòå ìåñòîïîëîæåíèå ...";
-$MESS["SALE_SLS_OPEN_CLOSE_POPUP"] = "Îòêðûòü / çàêðûòü";
-$MESS["SALE_SLS_OTHER_CANCEL_SELECTION"] = "Îòìåíèòü âûáîð";
+$MESS["SALE_SLS_EDIT"] = "Ð ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ";
+$MESS["SALE_SLS_ERROR_OCCURED"] = "Ðš ÑÐ¾Ð¶Ð°Ð»ÐµÐ½Ð¸ÑŽ, Ð¿Ñ€Ð¾Ð¸Ð·Ð¾ÑˆÐ»Ð° Ð²Ð½ÑƒÑ‚Ñ€ÐµÐ½Ð½ÑÑ Ð¾ÑˆÐ¸Ð±ÐºÐ°";
+$MESS["SALE_SLS_NOTHING_FOUND"] = "ÐÐµ ÑƒÐ´Ð°Ð»Ð¾ÑÑŒ Ð¾Ð±Ð½Ð°Ñ€ÑƒÐ¶Ð¸Ñ‚ÑŒ Ð¼ÐµÑÑ‚Ð¾Ð¿Ð¾Ð»Ð¾Ð¶ÐµÐ½Ð¸Ðµ";
+$MESS["SALE_SLS_SELECTOR_PROMPT"] = "Ð’Ñ‹Ð±ÐµÑ€Ð¸Ñ‚Ðµ Ð¼ÐµÑÑ‚Ð¾Ð¿Ð¾Ð»Ð¾Ð¶ÐµÐ½Ð¸Ðµ ...";
+$MESS["SALE_SLS_OPEN_CLOSE_POPUP"] = "ÐžÑ‚ÐºÑ€Ñ‹Ñ‚ÑŒ / Ð·Ð°ÐºÑ€Ñ‹Ñ‚ÑŒ";
+$MESS["SALE_SLS_OTHER_CANCEL_SELECTION"] = "ÐžÑ‚Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ Ð²Ñ‹Ð±Ð¾Ñ€";
 ?>

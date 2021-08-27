@@ -1,7 +1,7 @@
 <?php
 $MESS["SALE_CSM_WIZARD_PUSHANDPULLSTEP_TITLE"] = "Push and Pull";
-$MESS["SALE_CSM_WIZARD_PUSHANDPULLSTEP_NEXT"] = "Продолжить";
-$MESS["SALE_CSM_WIZARD_PUSHANDPULLSTEP_PREV"] = "Назад";
-$MESS["SALE_CSM_WIZARD_PUSHANDPULLSTEP_SETUP"] = "Для дальнейшей работы Вам необходимо настроить модуль <a href='/bitrix/admin/settings.php?mid=pull&mid_menu=1&lang=#LANGUAGE_ID#' target='_blank'>Push and Pull</a>. После этого нажмите кнопку \"Продолжить\" на этой странице.";
-$MESS["SALE_CSM_WIZARD_PUSHANDPULLSTEP_ERROR_DESC"] = "При попытке использования облачного сервера &quot;1С-Битрикс&quot; произошли следующие ошибки:";
-$MESS["SALE_CSM_WIZARD_PUSHANDPULLSTEP_INFO"] = "Работа модуля \"Push and Pull\" настроена с использованием облачного сервера &quot;1С-Битрикс&quot;. В случае необходимости, Вы можете изменить настройки <a href='/bitrix/admin/settings.php?mid=pull&mid_menu=1&lang=#LANGUAGE_ID#' target='_blank'>модуля</a>";
+$MESS["SALE_CSM_WIZARD_PUSHANDPULLSTEP_NEXT"] = "РџСЂРѕРґРѕР»Р¶РёС‚СЊ";
+$MESS["SALE_CSM_WIZARD_PUSHANDPULLSTEP_PREV"] = "РќР°Р·Р°Рґ";
+$MESS["SALE_CSM_WIZARD_PUSHANDPULLSTEP_SETUP"] = "Р”Р»СЏ РґР°Р»СЊРЅРµР№С€РµР№ СЂР°Р±РѕС‚С‹ Р’Р°Рј РЅРµРѕР±С…РѕРґРёРјРѕ РЅР°СЃС‚СЂРѕРёС‚СЊ РјРѕРґСѓР»СЊ <a href='/bitrix/admin/settings.php?mid=pull&mid_menu=1&lang=#LANGUAGE_ID#' target='_blank'>Push and Pull</a>. РџРѕСЃР»Рµ СЌС‚РѕРіРѕ РЅР°Р¶РјРёС‚Рµ РєРЅРѕРїРєСѓ \"РџСЂРѕРґРѕР»Р¶РёС‚СЊ\" РЅР° СЌС‚РѕР№ СЃС‚СЂР°РЅРёС†Рµ.";
+$MESS["SALE_CSM_WIZARD_PUSHANDPULLSTEP_ERROR_DESC"] = "РџСЂРё РїРѕРїС‹С‚РєРµ РёСЃРїРѕР»СЊР·РѕРІР°РЅРёСЏ РѕР±Р»Р°С‡РЅРѕРіРѕ СЃРµСЂРІРµСЂР° &quot;1РЎ-Р‘РёС‚СЂРёРєСЃ&quot; РїСЂРѕРёР·РѕС€Р»Рё СЃР»РµРґСѓСЋС‰РёРµ РѕС€РёР±РєРё:";
+$MESS["SALE_CSM_WIZARD_PUSHANDPULLSTEP_INFO"] = "Р Р°Р±РѕС‚Р° РјРѕРґСѓР»СЏ \"Push and Pull\" РЅР°СЃС‚СЂРѕРµРЅР° СЃ РёСЃРїРѕР»СЊР·РѕРІР°РЅРёРµРј РѕР±Р»Р°С‡РЅРѕРіРѕ СЃРµСЂРІРµСЂР° &quot;1РЎ-Р‘РёС‚СЂРёРєСЃ&quot;. Р’ СЃР»СѓС‡Р°Рµ РЅРµРѕР±С…РѕРґРёРјРѕСЃС‚Рё, Р’С‹ РјРѕР¶РµС‚Рµ РёР·РјРµРЅРёС‚СЊ РЅР°СЃС‚СЂРѕР№РєРё <a href='/bitrix/admin/settings.php?mid=pull&mid_menu=1&lang=#LANGUAGE_ID#' target='_blank'>РјРѕРґСѓР»СЏ</a>";

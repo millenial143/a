@@ -1,3 +1,3 @@
 <?php
-$MESS['LD_BLOCK_STORE_CATALOG_PM_NAME'] = 'Ïåðñîíàëüíîå ìåíþ';
-$MESS['LANDING_BLOCK_PERSONAL_MENU_ITEM'] = 'Ïóíêò ìåíþ';
+$MESS['LD_BLOCK_STORE_CATALOG_PM_NAME'] = 'ÐŸÐµÑ€ÑÐ¾Ð½Ð°Ð»ÑŒÐ½Ð¾Ðµ Ð¼ÐµÐ½ÑŽ';
+$MESS['LANDING_BLOCK_PERSONAL_MENU_ITEM'] = 'ÐŸÑƒÐ½ÐºÑ‚ Ð¼ÐµÐ½ÑŽ';

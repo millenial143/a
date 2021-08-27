@@ -1,19 +1,19 @@
 <?
-$MESS["MARKETPLACE_COLLECTION"] = "Ïîäáîðêà";
-$MESS["MARKETPLACE_SHOW_APP"] = "Ïîñìîòðåòü";
-$MESS["MARKETPLACE_PRICE_FREE"] = "Áåñïëàòíûå";
-$MESS["MARKETPLACE_PRICE_PAID"] = "Ïëàòíûå";
-$MESS["MARKETPLACE_PRICE_PAID"] = "Ïëàòíûå";
-$MESS["MARKETPLACE_APP_FREE"] = "Áåñïëàòíî";
-$MESS["MARKETPLACE_APP_PRICE"] = "#PRICE#/ìåñ.";
-$MESS["MARKETPLACE_EMPTY_CATEGORY"] = "Íå íàéäåíî íè îäíîãî ïðèëîæåíèÿ";
-$MESS["MARKETPLACE_INSTALLED"] = "óñòàíîâëåíî";
-$MESS["MARKETPLACE_MORE_APPS"] = "Ïîêàçàòü åùå ïðèëîæåíèÿ";
-$MESS["MARKETPLACE_TITLE_NEW"] = "Íîâèíêè";
-$MESS["MARKETPLACE_TITLE_BEST"] = "Ëó÷øåå";
-$MESS["MARKETPLACE_INSTALLED"] = "Óñòàíîâëåíî";
-$MESS["MARKETPLACE_SALE"] = "Ðàñïðîäàæà";
-$MESS["MENU_MARKETPLACE_ADD"] = "Äîáàâèòü ïðèëîæåíèå";
-$MESS["MENU_MARKETPLACE_ADD_WIDGET"] = "Äîáàâèòü âèäæåò";
-$MESS["MENU_MARKETPLACE_TITLE"] = "ãîòîâûõ ðåøåíèé äëÿ âàøåãî áèçíåñà";
+$MESS["MARKETPLACE_COLLECTION"] = "ÐŸÐ¾Ð´Ð±Ð¾Ñ€ÐºÐ°";
+$MESS["MARKETPLACE_SHOW_APP"] = "ÐŸÐ¾ÑÐ¼Ð¾Ñ‚Ñ€ÐµÑ‚ÑŒ";
+$MESS["MARKETPLACE_PRICE_FREE"] = "Ð‘ÐµÑÐ¿Ð»Ð°Ñ‚Ð½Ñ‹Ðµ";
+$MESS["MARKETPLACE_PRICE_PAID"] = "ÐŸÐ»Ð°Ñ‚Ð½Ñ‹Ðµ";
+$MESS["MARKETPLACE_PRICE_PAID"] = "ÐŸÐ»Ð°Ñ‚Ð½Ñ‹Ðµ";
+$MESS["MARKETPLACE_APP_FREE"] = "Ð‘ÐµÑÐ¿Ð»Ð°Ñ‚Ð½Ð¾";
+$MESS["MARKETPLACE_APP_PRICE"] = "#PRICE#/Ð¼ÐµÑ.";
+$MESS["MARKETPLACE_EMPTY_CATEGORY"] = "ÐÐµ Ð½Ð°Ð¹Ð´ÐµÐ½Ð¾ Ð½Ð¸ Ð¾Ð´Ð½Ð¾Ð³Ð¾ Ð¿Ñ€Ð¸Ð»Ð¾Ð¶ÐµÐ½Ð¸Ñ";
+$MESS["MARKETPLACE_INSTALLED"] = "ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½Ð¾";
+$MESS["MARKETPLACE_MORE_APPS"] = "ÐŸÐ¾ÐºÐ°Ð·Ð°Ñ‚ÑŒ ÐµÑ‰Ðµ Ð¿Ñ€Ð¸Ð»Ð¾Ð¶ÐµÐ½Ð¸Ñ";
+$MESS["MARKETPLACE_TITLE_NEW"] = "ÐÐ¾Ð²Ð¸Ð½ÐºÐ¸";
+$MESS["MARKETPLACE_TITLE_BEST"] = "Ð›ÑƒÑ‡ÑˆÐµÐµ";
+$MESS["MARKETPLACE_INSTALLED"] = "Ð£ÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½Ð¾";
+$MESS["MARKETPLACE_SALE"] = "Ð Ð°ÑÐ¿Ñ€Ð¾Ð´Ð°Ð¶Ð°";
+$MESS["MENU_MARKETPLACE_ADD"] = "Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ Ð¿Ñ€Ð¸Ð»Ð¾Ð¶ÐµÐ½Ð¸Ðµ";
+$MESS["MENU_MARKETPLACE_ADD_WIDGET"] = "Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ Ð²Ð¸Ð´Ð¶ÐµÑ‚";
+$MESS["MENU_MARKETPLACE_TITLE"] = "Ð³Ð¾Ñ‚Ð¾Ð²Ñ‹Ñ… Ñ€ÐµÑˆÐµÐ½Ð¸Ð¹ Ð´Ð»Ñ Ð²Ð°ÑˆÐµÐ³Ð¾ Ð±Ð¸Ð·Ð½ÐµÑÐ°";
 ?>

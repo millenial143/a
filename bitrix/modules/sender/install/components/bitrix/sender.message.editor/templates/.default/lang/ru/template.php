@@ -1,3 +1,3 @@
 <?
-$MESS["SENDER_MESSAGE_EDITOR_ADDITIONAL"] = "Дополнительно";
+$MESS["SENDER_MESSAGE_EDITOR_ADDITIONAL"] = "Р”РѕРїРѕР»РЅРёС‚РµР»СЊРЅРѕ";
 ?>

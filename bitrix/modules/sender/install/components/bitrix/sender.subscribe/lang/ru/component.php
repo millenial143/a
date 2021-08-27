@@ -1,9 +1,9 @@
 <?
-$MESS['SENDER_SUBSCR_MODULE_NOT_INSTALLED']='Ìîäóëü Email-ìàðêåòèíãà â íàñòîÿùåå âðåìÿ íåäîñòóïåí.';
-$MESS['SENDER_SUBSCR_MODULE_NOT_INSTALLED1']='Ìîäóëü Ìàðêåòèíã 24 â íàñòîÿùåå âðåìÿ íåäîñòóïåí.';
-$MESS['SENDER_SUBSCR_TITLE']='Ïîäïèñêà íà ðàññûëêè';
-$MESS['SENDER_SUBSCR_ERR_EMAIL']='Âû óêàçàëè íåâåðíûé email-àäðåñ';
-$MESS['SENDER_SUBSCR_NOTE_SUCCESS']='Âû ñòàëè ïîäïèñ÷èêîì';
-$MESS['SENDER_SUBSCR_NOTE_CONFIRM']='Âàì âûñëàíî ïèñüìî. Äëÿ ïîäòâåðæäåíèÿ ïåðåéäèòå ïî ññûëêå èç ïèñüìà';
-$MESS['SENDER_SUBSCR_ERR_SECURITY']='Ïðè ïîïûòêå ïîäòâåðäèòü ïîäïèñêó ïðîèçîøëà îøèáêà. Íåâåðíûé URL.';
+$MESS['SENDER_SUBSCR_MODULE_NOT_INSTALLED']='ÐœÐ¾Ð´ÑƒÐ»ÑŒ Email-Ð¼Ð°Ñ€ÐºÐµÑ‚Ð¸Ð½Ð³Ð° Ð² Ð½Ð°ÑÑ‚Ð¾ÑÑ‰ÐµÐµ Ð²Ñ€ÐµÐ¼Ñ Ð½ÐµÐ´Ð¾ÑÑ‚ÑƒÐ¿ÐµÐ½.';
+$MESS['SENDER_SUBSCR_MODULE_NOT_INSTALLED1']='ÐœÐ¾Ð´ÑƒÐ»ÑŒ ÐœÐ°Ñ€ÐºÐµÑ‚Ð¸Ð½Ð³ 24 Ð² Ð½Ð°ÑÑ‚Ð¾ÑÑ‰ÐµÐµ Ð²Ñ€ÐµÐ¼Ñ Ð½ÐµÐ´Ð¾ÑÑ‚ÑƒÐ¿ÐµÐ½.';
+$MESS['SENDER_SUBSCR_TITLE']='ÐŸÐ¾Ð´Ð¿Ð¸ÑÐºÐ° Ð½Ð° Ñ€Ð°ÑÑÑ‹Ð»ÐºÐ¸';
+$MESS['SENDER_SUBSCR_ERR_EMAIL']='Ð’Ñ‹ ÑƒÐºÐ°Ð·Ð°Ð»Ð¸ Ð½ÐµÐ²ÐµÑ€Ð½Ñ‹Ð¹ email-Ð°Ð´Ñ€ÐµÑ';
+$MESS['SENDER_SUBSCR_NOTE_SUCCESS']='Ð’Ñ‹ ÑÑ‚Ð°Ð»Ð¸ Ð¿Ð¾Ð´Ð¿Ð¸ÑÑ‡Ð¸ÐºÐ¾Ð¼';
+$MESS['SENDER_SUBSCR_NOTE_CONFIRM']='Ð’Ð°Ð¼ Ð²Ñ‹ÑÐ»Ð°Ð½Ð¾ Ð¿Ð¸ÑÑŒÐ¼Ð¾. Ð”Ð»Ñ Ð¿Ð¾Ð´Ñ‚Ð²ÐµÑ€Ð¶Ð´ÐµÐ½Ð¸Ñ Ð¿ÐµÑ€ÐµÐ¹Ð´Ð¸Ñ‚Ðµ Ð¿Ð¾ ÑÑÑ‹Ð»ÐºÐµ Ð¸Ð· Ð¿Ð¸ÑÑŒÐ¼Ð°';
+$MESS['SENDER_SUBSCR_ERR_SECURITY']='ÐŸÑ€Ð¸ Ð¿Ð¾Ð¿Ñ‹Ñ‚ÐºÐµ Ð¿Ð¾Ð´Ñ‚Ð²ÐµÑ€Ð´Ð¸Ñ‚ÑŒ Ð¿Ð¾Ð´Ð¿Ð¸ÑÐºÑƒ Ð¿Ñ€Ð¾Ð¸Ð·Ð¾ÑˆÐ»Ð° Ð¾ÑˆÐ¸Ð±ÐºÐ°. ÐÐµÐ²ÐµÑ€Ð½Ñ‹Ð¹ URL.';
 ?>

@@ -1,5 +1,5 @@
 <?
-$MESS["SENDER_YANDEX_TOLOKA_TASK_ADD"] = "Ñîçäàòü çàäà÷ó";
-$MESS["SENDER_YANDEX_TOLOKA_EDIT"] = "Ðåäàêòèðîâàòü";
-$MESS["SENDER_YANDEX_TOLOKA_REMOVE"] = "Óäàëèòü";
+$MESS["SENDER_YANDEX_TOLOKA_TASK_ADD"] = "Ð¡Ð¾Ð·Ð´Ð°Ñ‚ÑŒ Ð·Ð°Ð´Ð°Ñ‡Ñƒ";
+$MESS["SENDER_YANDEX_TOLOKA_EDIT"] = "Ð ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ";
+$MESS["SENDER_YANDEX_TOLOKA_REMOVE"] = "Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ";
 ?>

@@ -1,5 +1,5 @@
 <?php
-$MESS["REST_APP_LAYOUT_PAYMENT_ACCESS_TITLE_SUBSCRIBE"] = "Ïîäïèñêà íà Ìàðêåò çàêîí÷èëàñü";
-$MESS["REST_APP_LAYOUT_PAYMENT_ACCESS_TITLE_APP"] = "Îïëà÷åííûé ïåðèîä èñïîëüçîâàíèÿ \"#APP_NAME#\" çàêîí÷èëñÿ";
-$MESS["REST_APP_LAYOUT_PAYMENT_ACCESS_BTN_BUY_SUBSCRIBE"] = "Ïðîäëèòü ïîäïèñêó";
-$MESS["REST_APP_LAYOUT_PAYMENT_ACCESS_BTN_BUY_APP"] = "Ïðîäëèòü";
+$MESS["REST_APP_LAYOUT_PAYMENT_ACCESS_TITLE_SUBSCRIBE"] = "ÐŸÐ¾Ð´Ð¿Ð¸ÑÐºÐ° Ð½Ð° ÐœÐ°Ñ€ÐºÐµÑ‚ Ð·Ð°ÐºÐ¾Ð½Ñ‡Ð¸Ð»Ð°ÑÑŒ";
+$MESS["REST_APP_LAYOUT_PAYMENT_ACCESS_TITLE_APP"] = "ÐžÐ¿Ð»Ð°Ñ‡ÐµÐ½Ð½Ñ‹Ð¹ Ð¿ÐµÑ€Ð¸Ð¾Ð´ Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ð½Ð¸Ñ \"#APP_NAME#\" Ð·Ð°ÐºÐ¾Ð½Ñ‡Ð¸Ð»ÑÑ";
+$MESS["REST_APP_LAYOUT_PAYMENT_ACCESS_BTN_BUY_SUBSCRIBE"] = "ÐŸÑ€Ð¾Ð´Ð»Ð¸Ñ‚ÑŒ Ð¿Ð¾Ð´Ð¿Ð¸ÑÐºÑƒ";
+$MESS["REST_APP_LAYOUT_PAYMENT_ACCESS_BTN_BUY_APP"] = "ÐŸÑ€Ð¾Ð´Ð»Ð¸Ñ‚ÑŒ";

@@ -1,6 +1,6 @@
 <?
-$MESS["CATALOG_PRODUCT_SUBSCRIBE_NAME"] = "Ïîäïèñêà íà òîâàðû";
-$MESS["CATALOG_PRODUCT_SUBSCRIBE_DESCRIPTION"] = "Ôîðìà ïîäïèñêè äëÿ ïîëó÷åíèÿ èíôîðìàöèè î òîâàðå";
-$MESS["CP_CATALOG_SERVICES_MAIN_SECTION"] = "Ìàãàçèí";
-$MESS["CP_CATALOG_SERVICES_PARENT_SECTION"] = "Èíôîðìàöèÿ î òîâàðàõ";
+$MESS["CATALOG_PRODUCT_SUBSCRIBE_NAME"] = "ÐŸÐ¾Ð´Ð¿Ð¸ÑÐºÐ° Ð½Ð° Ñ‚Ð¾Ð²Ð°Ñ€Ñ‹";
+$MESS["CATALOG_PRODUCT_SUBSCRIBE_DESCRIPTION"] = "Ð¤Ð¾Ñ€Ð¼Ð° Ð¿Ð¾Ð´Ð¿Ð¸ÑÐºÐ¸ Ð´Ð»Ñ Ð¿Ð¾Ð»ÑƒÑ‡ÐµÐ½Ð¸Ñ Ð¸Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ð¸ Ð¾ Ñ‚Ð¾Ð²Ð°Ñ€Ðµ";
+$MESS["CP_CATALOG_SERVICES_MAIN_SECTION"] = "ÐœÐ°Ð³Ð°Ð·Ð¸Ð½";
+$MESS["CP_CATALOG_SERVICES_PARENT_SECTION"] = "Ð˜Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ñ Ð¾ Ñ‚Ð¾Ð²Ð°Ñ€Ð°Ñ…";
 ?>

@@ -1,5 +1,5 @@
 <?
-$MESS["SENDER_TRIGGER_STAT_COMP_TITLE"] = "Ñòàòèñòèêà òðèããåðíûõ ðàññûëîê";
-$MESS["SENDER_TRIGGER_STAT_COMP_NO_CAMPAIGN"] = "Òðèããåðíàÿ ðàññûëêà íå íàéäåíà.";
-$MESS["SENDER_TRIGGER_STAT_COMP_LETTER"] = "Ïèñüìî %number%";
+$MESS["SENDER_TRIGGER_STAT_COMP_TITLE"] = "Ð¡Ñ‚Ð°Ñ‚Ð¸ÑÑ‚Ð¸ÐºÐ° Ñ‚Ñ€Ð¸Ð³Ð³ÐµÑ€Ð½Ñ‹Ñ… Ñ€Ð°ÑÑÑ‹Ð»Ð¾Ðº";
+$MESS["SENDER_TRIGGER_STAT_COMP_NO_CAMPAIGN"] = "Ð¢Ñ€Ð¸Ð³Ð³ÐµÑ€Ð½Ð°Ñ Ñ€Ð°ÑÑÑ‹Ð»ÐºÐ° Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½Ð°.";
+$MESS["SENDER_TRIGGER_STAT_COMP_LETTER"] = "ÐŸÐ¸ÑÑŒÐ¼Ð¾ %number%";
 ?>

@@ -1,9 +1,9 @@
 <?php
-$MESS['REPORT_ADD_FORM_SHOW_ALL_BUTTON_TITLE'] = 'Ïîêàçàòü âñå';
-$MESS['REPORT_ADD_FORM_HIDDEN_BUTTON_TITLE'] = 'Ñêðûòü';
-$MESS['REPORT_ADD_FORM_MY_WIDGETS_CATEGORY_NAME'] = 'Ìîè îò÷åòû';
-$MESS['REPORT_ADD_FORM_NOT_EXIST_CATEGORY_NAME'] = 'Êàòåãîðèÿ íå îïðåäåëåíà';
-$MESS['REPORT_CREATE_BUTTON_TITLE'] = 'Ñîçäàòü îò÷åò';
-$MESS['REPORT_PATTERN_WIDGET_REMOVE_DIALOG_CONTENT'] = 'Âû óâåðåíû, ÷òî õîòèòå óäàëèòü ïðåäíàñòðîåííûé îò÷åò?';
-$MESS['REPORT_PATTERN_WIDGET_REMOVE_DIALOG_CONFIRM_TEXT'] = 'Óäàëèòü';
-$MESS['REPORT_PATTERN_WIDGET_REMOVE_DIALOG_CANCEL_TEXT'] = 'Îòìåíèòü';
+$MESS['REPORT_ADD_FORM_SHOW_ALL_BUTTON_TITLE'] = 'ÐŸÐ¾ÐºÐ°Ð·Ð°Ñ‚ÑŒ Ð²ÑÐµ';
+$MESS['REPORT_ADD_FORM_HIDDEN_BUTTON_TITLE'] = 'Ð¡ÐºÑ€Ñ‹Ñ‚ÑŒ';
+$MESS['REPORT_ADD_FORM_MY_WIDGETS_CATEGORY_NAME'] = 'ÐœÐ¾Ð¸ Ð¾Ñ‚Ñ‡ÐµÑ‚Ñ‹';
+$MESS['REPORT_ADD_FORM_NOT_EXIST_CATEGORY_NAME'] = 'ÐšÐ°Ñ‚ÐµÐ³Ð¾Ñ€Ð¸Ñ Ð½Ðµ Ð¾Ð¿Ñ€ÐµÐ´ÐµÐ»ÐµÐ½Ð°';
+$MESS['REPORT_CREATE_BUTTON_TITLE'] = 'Ð¡Ð¾Ð·Ð´Ð°Ñ‚ÑŒ Ð¾Ñ‚Ñ‡ÐµÑ‚';
+$MESS['REPORT_PATTERN_WIDGET_REMOVE_DIALOG_CONTENT'] = 'Ð’Ñ‹ ÑƒÐ²ÐµÑ€ÐµÐ½Ñ‹, Ñ‡Ñ‚Ð¾ Ñ…Ð¾Ñ‚Ð¸Ñ‚Ðµ ÑƒÐ´Ð°Ð»Ð¸Ñ‚ÑŒ Ð¿Ñ€ÐµÐ´Ð½Ð°ÑÑ‚Ñ€Ð¾ÐµÐ½Ð½Ñ‹Ð¹ Ð¾Ñ‚Ñ‡ÐµÑ‚?';
+$MESS['REPORT_PATTERN_WIDGET_REMOVE_DIALOG_CONFIRM_TEXT'] = 'Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ';
+$MESS['REPORT_PATTERN_WIDGET_REMOVE_DIALOG_CANCEL_TEXT'] = 'ÐžÑ‚Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ';

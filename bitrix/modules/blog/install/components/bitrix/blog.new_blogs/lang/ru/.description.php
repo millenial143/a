@@ -1,5 +1,5 @@
 <?
-$MESS["BMN_DEFAULT_TEMPLATE_NAME"]="Íîâûå áëîãè";
-$MESS["BMN_DEFAULT_TEMPLATE_DESCRIPTION"]="Âûâîäèò íîâûå áëîãè";
-$MESS["BMN_NAME"]="Áëîãè";
+$MESS["BMN_DEFAULT_TEMPLATE_NAME"]="ÐÐ¾Ð²Ñ‹Ðµ Ð±Ð»Ð¾Ð³Ð¸";
+$MESS["BMN_DEFAULT_TEMPLATE_DESCRIPTION"]="Ð’Ñ‹Ð²Ð¾Ð´Ð¸Ñ‚ Ð½Ð¾Ð²Ñ‹Ðµ Ð±Ð»Ð¾Ð³Ð¸";
+$MESS["BMN_NAME"]="Ð‘Ð»Ð¾Ð³Ð¸";
 ?>

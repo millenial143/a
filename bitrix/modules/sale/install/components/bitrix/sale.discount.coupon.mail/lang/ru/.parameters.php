@@ -1,29 +1,29 @@
 <?
-$MESS["SBP_NEED_REQUIRED_MODULES"] = "Äëÿ ðàáîòû êîìïîíåíòà íóæíû óñòàíîâëåííûå ìîäóëè ìàãàçèíà, èíôîáëîêîâ, è êàòàëîãà.";
-$MESS["SBP_GROUPS_DISCOUNT"] = "Ñêèäêà";
-$MESS["SBP_GROUPS_COUPON"] = "Êóïîí";
-$MESS["SBP_GROUPS_REPL_SETT"] = "Ïàðàìåòðû";
+$MESS["SBP_NEED_REQUIRED_MODULES"] = "Ð”Ð»Ñ Ñ€Ð°Ð±Ð¾Ñ‚Ñ‹ ÐºÐ¾Ð¼Ð¿Ð¾Ð½ÐµÐ½Ñ‚Ð° Ð½ÑƒÐ¶Ð½Ñ‹ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½Ð½Ñ‹Ðµ Ð¼Ð¾Ð´ÑƒÐ»Ð¸ Ð¼Ð°Ð³Ð°Ð·Ð¸Ð½Ð°, Ð¸Ð½Ñ„Ð¾Ð±Ð»Ð¾ÐºÐ¾Ð², Ð¸ ÐºÐ°Ñ‚Ð°Ð»Ð¾Ð³Ð°.";
+$MESS["SBP_GROUPS_DISCOUNT"] = "Ð¡ÐºÐ¸Ð´ÐºÐ°";
+$MESS["SBP_GROUPS_COUPON"] = "ÐšÑƒÐ¿Ð¾Ð½";
+$MESS["SBP_GROUPS_REPL_SETT"] = "ÐŸÐ°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ñ‹";
 
-$MESS["SBP_PARAMETERS_DISCOUNT_VALUE"] = "Çíà÷åíèå ñêèäêè";
-$MESS["SBP_PARAMETERS_DISCOUNT_UNIT"] = "Òèï ñêèäêè";
-$MESS["SBP_PARAMETERS_DISCOUNT_UNIT_EACH"] = "Íà êàæäûé òîâàð";
-$MESS["SBP_PARAMETERS_DISCOUNT_UNIT_ALL"] = "Íà ñóììó òîâàðîâ";
+$MESS["SBP_PARAMETERS_DISCOUNT_VALUE"] = "Ð—Ð½Ð°Ñ‡ÐµÐ½Ð¸Ðµ ÑÐºÐ¸Ð´ÐºÐ¸";
+$MESS["SBP_PARAMETERS_DISCOUNT_UNIT"] = "Ð¢Ð¸Ð¿ ÑÐºÐ¸Ð´ÐºÐ¸";
+$MESS["SBP_PARAMETERS_DISCOUNT_UNIT_EACH"] = "ÐÐ° ÐºÐ°Ð¶Ð´Ñ‹Ð¹ Ñ‚Ð¾Ð²Ð°Ñ€";
+$MESS["SBP_PARAMETERS_DISCOUNT_UNIT_ALL"] = "ÐÐ° ÑÑƒÐ¼Ð¼Ñƒ Ñ‚Ð¾Ð²Ð°Ñ€Ð¾Ð²";
 
-$MESS["SBP_PARAMETERS_USE_DISCOUNT_ID"] = "Èñïîëüçîâàòü ñóùåñòâóþùóþ ñêèäêó";
-$MESS["SBP_PARAMETERS_DISCOUNT_ID"] = "Ïðàâèëî ðàáîòû ñ êîðçèíîé";
+$MESS["SBP_PARAMETERS_USE_DISCOUNT_ID"] = "Ð˜ÑÐ¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÑŒ ÑÑƒÑ‰ÐµÑÑ‚Ð²ÑƒÑŽÑ‰ÑƒÑŽ ÑÐºÐ¸Ð´ÐºÑƒ";
+$MESS["SBP_PARAMETERS_DISCOUNT_ID"] = "ÐŸÑ€Ð°Ð²Ð¸Ð»Ð¾ Ñ€Ð°Ð±Ð¾Ñ‚Ñ‹ Ñ ÐºÐ¾Ñ€Ð·Ð¸Ð½Ð¾Ð¹";
 
-$MESS["SBP_PARAMETERS_COUPON_TYPE"] = "Òèï êóïîíà";
-$MESS["SBP_PARAMETERS_COUPON_TYPE_ORDER"] = "Íà îäèí çàêàç";
-$MESS["SBP_PARAMETERS_COUPON_TYPE_BASKET"] = "Íà îäíó ïîçèöèþ çàêàçà";
+$MESS["SBP_PARAMETERS_COUPON_TYPE"] = "Ð¢Ð¸Ð¿ ÐºÑƒÐ¿Ð¾Ð½Ð°";
+$MESS["SBP_PARAMETERS_COUPON_TYPE_ORDER"] = "ÐÐ° Ð¾Ð´Ð¸Ð½ Ð·Ð°ÐºÐ°Ð·";
+$MESS["SBP_PARAMETERS_COUPON_TYPE_BASKET"] = "ÐÐ° Ð¾Ð´Ð½Ñƒ Ð¿Ð¾Ð·Ð¸Ñ†Ð¸ÑŽ Ð·Ð°ÐºÐ°Ð·Ð°";
 
-$MESS["SBP_PARAMETERS_COUPON_IS_LIMITED"] = "Îãðàíè÷èòü ñðîê äåéñòâèÿ";
-$MESS["SBP_PARAMETERS_COUPON_LIMIT_VALUE"] = "Ñðîê äåéñòâèÿ (îòñ÷åò îò äàòû ñîçäàíèÿ êóïîíà)";
-$MESS["SBP_PARAMETERS_COUPON_LIMIT_TYPE"] = "Òèï ñðîêà";
-$MESS["SBP_PARAMETERS_COUPON_DAY_LIMIT_TYPE"] = "äåíü";
-$MESS["SBP_PARAMETERS_COUPON_WEEK_LIMIT_TYPE"] = "íåäåëÿ";
-$MESS["SBP_PARAMETERS_COUPON_MONTH_LIMIT_TYPE"] = "ìåñÿö";
+$MESS["SBP_PARAMETERS_COUPON_IS_LIMITED"] = "ÐžÐ³Ñ€Ð°Ð½Ð¸Ñ‡Ð¸Ñ‚ÑŒ ÑÑ€Ð¾Ðº Ð´ÐµÐ¹ÑÑ‚Ð²Ð¸Ñ";
+$MESS["SBP_PARAMETERS_COUPON_LIMIT_VALUE"] = "Ð¡Ñ€Ð¾Ðº Ð´ÐµÐ¹ÑÑ‚Ð²Ð¸Ñ (Ð¾Ñ‚ÑÑ‡ÐµÑ‚ Ð¾Ñ‚ Ð´Ð°Ñ‚Ñ‹ ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ñ ÐºÑƒÐ¿Ð¾Ð½Ð°)";
+$MESS["SBP_PARAMETERS_COUPON_LIMIT_TYPE"] = "Ð¢Ð¸Ð¿ ÑÑ€Ð¾ÐºÐ°";
+$MESS["SBP_PARAMETERS_COUPON_DAY_LIMIT_TYPE"] = "Ð´ÐµÐ½ÑŒ";
+$MESS["SBP_PARAMETERS_COUPON_WEEK_LIMIT_TYPE"] = "Ð½ÐµÐ´ÐµÐ»Ñ";
+$MESS["SBP_PARAMETERS_COUPON_MONTH_LIMIT_TYPE"] = "Ð¼ÐµÑÑÑ†";
 
-$MESS["SBP_PARAMETERS_REPL_SETT_DISCOUNT_XML_ID"] = "Ïîëå ïðàâèëà ñêèäêè \"XML_ID\"";
-$MESS["SBP_PARAMETERS_REPL_SETT_COUPON_DESCRIPTION"] = "Ïîëå êóïîíà \"Îïèñàíèå\"";
+$MESS["SBP_PARAMETERS_REPL_SETT_DISCOUNT_XML_ID"] = "ÐŸÐ¾Ð»Ðµ Ð¿Ñ€Ð°Ð²Ð¸Ð»Ð° ÑÐºÐ¸Ð´ÐºÐ¸ \"XML_ID\"";
+$MESS["SBP_PARAMETERS_REPL_SETT_COUPON_DESCRIPTION"] = "ÐŸÐ¾Ð»Ðµ ÐºÑƒÐ¿Ð¾Ð½Ð° \"ÐžÐ¿Ð¸ÑÐ°Ð½Ð¸Ðµ\"";
 
 ?>

@@ -1,46 +1,46 @@
 <?
-$MESS ['SPOD_DESC_YES'] = "Äà";
-$MESS ['SPOD_DESC_NO'] = "Íåò";
-$MESS ['SPOD_PATH_TO_LIST'] = "Ñòðàíèöà ñî ñïèñêîì çàêàçîâ";
-$MESS ['SPOD_PATH_TO_CANCEL'] = "Ñòðàíèöà îòìåíû çàêàçà";
-$MESS ['SPOD_PATH_TO_PAYMENT'] = "Ñòðàíèöà ïîäêëþ÷åíèÿ ïëàòåæíîé ñèñòåìû";
-$MESS ['SPOD_ID'] = "Èäåíòèôèêàòîð çàêàçà";
-$MESS ['SPOD_ACTIVE_DATE_FORMAT'] = "Ôîðìàò ïîêàçà äàòû";
+$MESS ['SPOD_DESC_YES'] = "Ð”Ð°";
+$MESS ['SPOD_DESC_NO'] = "ÐÐµÑ‚";
+$MESS ['SPOD_PATH_TO_LIST'] = "Ð¡Ñ‚Ñ€Ð°Ð½Ð¸Ñ†Ð° ÑÐ¾ ÑÐ¿Ð¸ÑÐºÐ¾Ð¼ Ð·Ð°ÐºÐ°Ð·Ð¾Ð²";
+$MESS ['SPOD_PATH_TO_CANCEL'] = "Ð¡Ñ‚Ñ€Ð°Ð½Ð¸Ñ†Ð° Ð¾Ñ‚Ð¼ÐµÐ½Ñ‹ Ð·Ð°ÐºÐ°Ð·Ð°";
+$MESS ['SPOD_PATH_TO_PAYMENT'] = "Ð¡Ñ‚Ñ€Ð°Ð½Ð¸Ñ†Ð° Ð¿Ð¾Ð´ÐºÐ»ÑŽÑ‡ÐµÐ½Ð¸Ñ Ð¿Ð»Ð°Ñ‚ÐµÐ¶Ð½Ð¾Ð¹ ÑÐ¸ÑÑ‚ÐµÐ¼Ñ‹";
+$MESS ['SPOD_ID'] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð·Ð°ÐºÐ°Ð·Ð°";
+$MESS ['SPOD_ACTIVE_DATE_FORMAT'] = "Ð¤Ð¾Ñ€Ð¼Ð°Ñ‚ Ð¿Ð¾ÐºÐ°Ð·Ð° Ð´Ð°Ñ‚Ñ‹";
 
-$MESS ['SPOD_PROPS_NOT_SHOW'] = "Íå ïîêàçûâàòü ñâîéñòâà äëÿ òèïà ïëàòåëüùèêà";
-$MESS ['SPOD_SHOW_ALL'] = "(ïîêàçûâàòü âñå)";
-$MESS ['SPOD_CACHE_GROUPS'] = "Ó÷èòûâàòü ïðàâà äîñòóïà";
+$MESS ['SPOD_PROPS_NOT_SHOW'] = "ÐÐµ Ð¿Ð¾ÐºÐ°Ð·Ñ‹Ð²Ð°Ñ‚ÑŒ ÑÐ²Ð¾Ð¹ÑÑ‚Ð²Ð° Ð´Ð»Ñ Ñ‚Ð¸Ð¿Ð° Ð¿Ð»Ð°Ñ‚ÐµÐ»ÑŒÑ‰Ð¸ÐºÐ°";
+$MESS ['SPOD_SHOW_ALL'] = "(Ð¿Ð¾ÐºÐ°Ð·Ñ‹Ð²Ð°Ñ‚ÑŒ Ð²ÑÐµ)";
+$MESS ['SPOD_CACHE_GROUPS'] = "Ð£Ñ‡Ð¸Ñ‚Ñ‹Ð²Ð°Ñ‚ÑŒ Ð¿Ñ€Ð°Ð²Ð° Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð°";
 
-$MESS ['SPOD_PARAM_PREVIEW_PICTURE_WIDTH'] = "Îãðàíè÷åíèå ïî øèðèíå äëÿ àíîíñíîãî èçîáðàæåíèÿ, px";
-$MESS ['SPOD_PARAM_PREVIEW_PICTURE_HEIGHT'] = "Îãðàíè÷åíèå ïî âûñîòå äëÿ àíîíñíîãî èçîáðàæåíèÿ, px";
-$MESS ['SPOD_PARAM_DETAIL_PICTURE_WIDTH'] = "Îãðàíè÷åíèå ïî øèðèíå äëÿ äåòàëüíîãî èçîáðàæåíèÿ, px";
-$MESS ['SPOD_PARAM_DETAIL_PICTURE_HEIGHT'] = "Îãðàíè÷åíèå ïî âûñîòå äëÿ äåòàëüíîãî èçîáðàæåíèÿ, px";
-$MESS ['SPOD_PARAM_CUSTOM_SELECT_PROPS'] = "Äîïîëíèòåëüíûå ñâîéñòâà èíôîáëîêà";
+$MESS ['SPOD_PARAM_PREVIEW_PICTURE_WIDTH'] = "ÐžÐ³Ñ€Ð°Ð½Ð¸Ñ‡ÐµÐ½Ð¸Ðµ Ð¿Ð¾ ÑˆÐ¸Ñ€Ð¸Ð½Ðµ Ð´Ð»Ñ Ð°Ð½Ð¾Ð½ÑÐ½Ð¾Ð³Ð¾ Ð¸Ð·Ð¾Ð±Ñ€Ð°Ð¶ÐµÐ½Ð¸Ñ, px";
+$MESS ['SPOD_PARAM_PREVIEW_PICTURE_HEIGHT'] = "ÐžÐ³Ñ€Ð°Ð½Ð¸Ñ‡ÐµÐ½Ð¸Ðµ Ð¿Ð¾ Ð²Ñ‹ÑÐ¾Ñ‚Ðµ Ð´Ð»Ñ Ð°Ð½Ð¾Ð½ÑÐ½Ð¾Ð³Ð¾ Ð¸Ð·Ð¾Ð±Ñ€Ð°Ð¶ÐµÐ½Ð¸Ñ, px";
+$MESS ['SPOD_PARAM_DETAIL_PICTURE_WIDTH'] = "ÐžÐ³Ñ€Ð°Ð½Ð¸Ñ‡ÐµÐ½Ð¸Ðµ Ð¿Ð¾ ÑˆÐ¸Ñ€Ð¸Ð½Ðµ Ð´Ð»Ñ Ð´ÐµÑ‚Ð°Ð»ÑŒÐ½Ð¾Ð³Ð¾ Ð¸Ð·Ð¾Ð±Ñ€Ð°Ð¶ÐµÐ½Ð¸Ñ, px";
+$MESS ['SPOD_PARAM_DETAIL_PICTURE_HEIGHT'] = "ÐžÐ³Ñ€Ð°Ð½Ð¸Ñ‡ÐµÐ½Ð¸Ðµ Ð¿Ð¾ Ð²Ñ‹ÑÐ¾Ñ‚Ðµ Ð´Ð»Ñ Ð´ÐµÑ‚Ð°Ð»ÑŒÐ½Ð¾Ð³Ð¾ Ð¸Ð·Ð¾Ð±Ñ€Ð°Ð¶ÐµÐ½Ð¸Ñ, px";
+$MESS ['SPOD_PARAM_CUSTOM_SELECT_PROPS'] = "Ð”Ð¾Ð¿Ð¾Ð»Ð½Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ñ‹Ðµ ÑÐ²Ð¾Ð¹ÑÑ‚Ð²Ð° Ð¸Ð½Ñ„Ð¾Ð±Ð»Ð¾ÐºÐ°";
 
-$MESS ['SPOD_PARAM_RESAMPLE_TYPE'] = "Òèï ìàñøòàáèðîâàíèÿ";
-$MESS ['SPOD_PARAM_RESAMPLE_TYPE_BX_RESIZE_IMAGE_EXACT'] = "Ñ îáðåçàíèåì";
-$MESS ['SPOD_PARAM_RESAMPLE_TYPE_BX_RESIZE_IMAGE_PROPORTIONAL'] = "Ñ ñîõðàíåíèåì ïðîïîðöèé";
-$MESS ['SPOD_PARAM_RESAMPLE_TYPE_BX_RESIZE_IMAGE_PROPORTIONAL_ALT'] = "Ñ ñîõðàíåíèåì ïðîïîðöèé, óëó÷øåííàÿ îáðàáîòêà";
+$MESS ['SPOD_PARAM_RESAMPLE_TYPE'] = "Ð¢Ð¸Ð¿ Ð¼Ð°ÑÑˆÑ‚Ð°Ð±Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ñ";
+$MESS ['SPOD_PARAM_RESAMPLE_TYPE_BX_RESIZE_IMAGE_EXACT'] = "Ð¡ Ð¾Ð±Ñ€ÐµÐ·Ð°Ð½Ð¸ÐµÐ¼";
+$MESS ['SPOD_PARAM_RESAMPLE_TYPE_BX_RESIZE_IMAGE_PROPORTIONAL'] = "Ð¡ ÑÐ¾Ñ…Ñ€Ð°Ð½ÐµÐ½Ð¸ÐµÐ¼ Ð¿Ñ€Ð¾Ð¿Ð¾Ñ€Ñ†Ð¸Ð¹";
+$MESS ['SPOD_PARAM_RESAMPLE_TYPE_BX_RESIZE_IMAGE_PROPORTIONAL_ALT'] = "Ð¡ ÑÐ¾Ñ…Ñ€Ð°Ð½ÐµÐ½Ð¸ÐµÐ¼ Ð¿Ñ€Ð¾Ð¿Ð¾Ñ€Ñ†Ð¸Ð¹, ÑƒÐ»ÑƒÑ‡ÑˆÐµÐ½Ð½Ð°Ñ Ð¾Ð±Ñ€Ð°Ð±Ð¾Ñ‚ÐºÐ°";
 
-$MESS ['SPOD_SHOW_ORDER_BASKET'] = "Ïîêàçûâàòü ñîñòàâ çàêàçà";
-$MESS ['SPOD_SHOW_ORDER_BASE'] = "Ïîêàçûâàòü îáùèå äàííûå çàêàçà";
-$MESS ['SPOD_SHOW_ORDER_USER'] = "Ïîêàçûâàòü äàííûå ó÷åòíîé çàïèñè";
-$MESS ['SPOD_SHOW_ORDER_PARAMS'] = "Ïîêàçûâàòü ïàðàìåòðû çàêàçà";
-$MESS ['SPOD_SHOW_ORDER_BUYER'] = "Ïîêàçûâàòü ëè÷íûå äàííûå";
-$MESS ['SPOD_SHOW_ORDER_DELIVERY'] = "Ïîêàçûâàòü äàííûå äëÿ äîñòàâêè";
-$MESS ['SPOD_SHOW_ORDER_PAYMENT'] = "Ïîêàçûâàòü ïàðàìåòðû äîñòàâêè è îïëàòû";
-$MESS ['SPOD_SHOW_ORDER_SUM'] = "Ïîêàçûâàòü èòîãîâóþ ñóììó";
+$MESS ['SPOD_SHOW_ORDER_BASKET'] = "ÐŸÐ¾ÐºÐ°Ð·Ñ‹Ð²Ð°Ñ‚ÑŒ ÑÐ¾ÑÑ‚Ð°Ð² Ð·Ð°ÐºÐ°Ð·Ð°";
+$MESS ['SPOD_SHOW_ORDER_BASE'] = "ÐŸÐ¾ÐºÐ°Ð·Ñ‹Ð²Ð°Ñ‚ÑŒ Ð¾Ð±Ñ‰Ð¸Ðµ Ð´Ð°Ð½Ð½Ñ‹Ðµ Ð·Ð°ÐºÐ°Ð·Ð°";
+$MESS ['SPOD_SHOW_ORDER_USER'] = "ÐŸÐ¾ÐºÐ°Ð·Ñ‹Ð²Ð°Ñ‚ÑŒ Ð´Ð°Ð½Ð½Ñ‹Ðµ ÑƒÑ‡ÐµÑ‚Ð½Ð¾Ð¹ Ð·Ð°Ð¿Ð¸ÑÐ¸";
+$MESS ['SPOD_SHOW_ORDER_PARAMS'] = "ÐŸÐ¾ÐºÐ°Ð·Ñ‹Ð²Ð°Ñ‚ÑŒ Ð¿Ð°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ñ‹ Ð·Ð°ÐºÐ°Ð·Ð°";
+$MESS ['SPOD_SHOW_ORDER_BUYER'] = "ÐŸÐ¾ÐºÐ°Ð·Ñ‹Ð²Ð°Ñ‚ÑŒ Ð»Ð¸Ñ‡Ð½Ñ‹Ðµ Ð´Ð°Ð½Ð½Ñ‹Ðµ";
+$MESS ['SPOD_SHOW_ORDER_DELIVERY'] = "ÐŸÐ¾ÐºÐ°Ð·Ñ‹Ð²Ð°Ñ‚ÑŒ Ð´Ð°Ð½Ð½Ñ‹Ðµ Ð´Ð»Ñ Ð´Ð¾ÑÑ‚Ð°Ð²ÐºÐ¸";
+$MESS ['SPOD_SHOW_ORDER_PAYMENT'] = "ÐŸÐ¾ÐºÐ°Ð·Ñ‹Ð²Ð°Ñ‚ÑŒ Ð¿Ð°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ñ‹ Ð´Ð¾ÑÑ‚Ð°Ð²ÐºÐ¸ Ð¸ Ð¾Ð¿Ð»Ð°Ñ‚Ñ‹";
+$MESS ['SPOD_SHOW_ORDER_SUM'] = "ÐŸÐ¾ÐºÐ°Ð·Ñ‹Ð²Ð°Ñ‚ÑŒ Ð¸Ñ‚Ð¾Ð³Ð¾Ð²ÑƒÑŽ ÑÑƒÐ¼Ð¼Ñƒ";
 
-$MESS["SPOD_COLUMNS_LIST"] = "Âûâîäèìûå êîëîíêè ñîñòàâà çàêàçà";
-$MESS["SPOD_BNAME"] = "Íàçâàíèå òîâàðà";
-$MESS["SPOD_BPROPS"] = "Ñâîéñòâà òîâàðà";
-$MESS["SPOD_BPRICE"] = "Öåíà";
-$MESS["SPOD_BSUM"] = "Ñóììà";
-$MESS["SPOD_BTYPE"] = "Òèï öåíû";
-$MESS["SPOD_BQUANTITY"] = "Êîëè÷åñòâî";
-$MESS["SPOD_BDELETE"] = "Óäàëèòü";
-$MESS["SPOD_BDELAY"] = "Îòëîæèòü";
-$MESS["SPOD_BWEIGHT"] = "Âåñ";
-$MESS["SPOD_BDISCOUNT"] = "Ñêèäêà";
-$MESS["SPOD_BPICTURE"] = "Êàðòèíêà";
+$MESS["SPOD_COLUMNS_LIST"] = "Ð’Ñ‹Ð²Ð¾Ð´Ð¸Ð¼Ñ‹Ðµ ÐºÐ¾Ð»Ð¾Ð½ÐºÐ¸ ÑÐ¾ÑÑ‚Ð°Ð²Ð° Ð·Ð°ÐºÐ°Ð·Ð°";
+$MESS["SPOD_BNAME"] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ Ñ‚Ð¾Ð²Ð°Ñ€Ð°";
+$MESS["SPOD_BPROPS"] = "Ð¡Ð²Ð¾Ð¹ÑÑ‚Ð²Ð° Ñ‚Ð¾Ð²Ð°Ñ€Ð°";
+$MESS["SPOD_BPRICE"] = "Ð¦ÐµÐ½Ð°";
+$MESS["SPOD_BSUM"] = "Ð¡ÑƒÐ¼Ð¼Ð°";
+$MESS["SPOD_BTYPE"] = "Ð¢Ð¸Ð¿ Ñ†ÐµÐ½Ñ‹";
+$MESS["SPOD_BQUANTITY"] = "ÐšÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾";
+$MESS["SPOD_BDELETE"] = "Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ";
+$MESS["SPOD_BDELAY"] = "ÐžÑ‚Ð»Ð¾Ð¶Ð¸Ñ‚ÑŒ";
+$MESS["SPOD_BWEIGHT"] = "Ð’ÐµÑ";
+$MESS["SPOD_BDISCOUNT"] = "Ð¡ÐºÐ¸Ð´ÐºÐ°";
+$MESS["SPOD_BPICTURE"] = "ÐšÐ°Ñ€Ñ‚Ð¸Ð½ÐºÐ°";
 ?>

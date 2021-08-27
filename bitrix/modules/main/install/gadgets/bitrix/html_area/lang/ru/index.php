@@ -1,6 +1,6 @@
 <?
-$MESS ['GD_HTML_AREA_NO_CONTENT'] = "Äëÿ ñîçäàíèÿ çàìåòîê íàæìèòå Èçìåíèòü";
-$MESS ['GD_HTML_AREA_CHANGE_LINK'] = "Èçìåíèòü";
-$MESS ['GD_HTML_AREA_SAVE_LINK'] = "Ñîõðàíèòü";
-$MESS ['GD_HTML_AREA_CANCEL_LINK'] = "Îòìåíèòü";
+$MESS ['GD_HTML_AREA_NO_CONTENT'] = "Ð”Ð»Ñ ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ñ Ð·Ð°Ð¼ÐµÑ‚Ð¾Ðº Ð½Ð°Ð¶Ð¼Ð¸Ñ‚Ðµ Ð˜Ð·Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ";
+$MESS ['GD_HTML_AREA_CHANGE_LINK'] = "Ð˜Ð·Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ";
+$MESS ['GD_HTML_AREA_SAVE_LINK'] = "Ð¡Ð¾Ñ…Ñ€Ð°Ð½Ð¸Ñ‚ÑŒ";
+$MESS ['GD_HTML_AREA_CANCEL_LINK'] = "ÐžÑ‚Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ";
 ?>

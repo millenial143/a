@@ -1,13 +1,13 @@
 <?php
-$MESS['LANDING_TPL_TITLE'] = 'Ðåäàêòèðîâàíèå òåêñòà Cookie-îïèñàíèé';
-$MESS['LANDING_TPL_TITLE_SYSTEM'] = 'Àíàëèòè÷åñêèå Cookie';
-$MESS['LANDING_TPL_TITLE_CUSTOM'] = 'Ïîëüçîâàòåëüñêèå Cookie';
-$MESS['LANDING_TPL_LABEL_DESC'] = 'Îïèñàíèå';
-$MESS['LANDING_TPL_HELP_LINK'] = 'Êàê ýòèì ïîëüçîâàòüñÿ?';
-$MESS['LANDING_TPL_HELP_LINK_HINT'] = 'Ïîäðîáíàÿ èíôîðìàöèÿ';
-$MESS['LANDING_TPL_BUTTON_SAVE'] = 'Ñîõðàíèòü';
-$MESS['LANDING_TPL_BUTTON_CANCEL'] = 'Îòìåíèòü';
-$MESS['LANDING_TPL_ALERT_REMOVE_TITLE'] = 'Âíèìàíèå';
-$MESS['LANDING_TPL_ALERT_REMOVE_TEXT'] = 'Äåéñòâèòåëüíî óäàëèòü ñîãëàøåíèå?';
-$MESS['LANDING_TPL_NEW_COOKIES'] = 'Íîâûé òèï cookie';
-$MESS['LANDING_TPL_HOOK_COOKIES_SCRIPT_WARN'] = 'Íà âàøåì ñàéòå èñïîëüçóåòñÿ ñòîðîííèé html-êîä. Óêàæèòå èíôîðìàöèþ î êîäå, êîòîðûé îòâå÷àåò çà ñáîð è îáðàáîòêó Cookie-ôàéëîâ.';
+$MESS['LANDING_TPL_TITLE'] = 'Ð ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ðµ Ñ‚ÐµÐºÑÑ‚Ð° Cookie-Ð¾Ð¿Ð¸ÑÐ°Ð½Ð¸Ð¹';
+$MESS['LANDING_TPL_TITLE_SYSTEM'] = 'ÐÐ½Ð°Ð»Ð¸Ñ‚Ð¸Ñ‡ÐµÑÐºÐ¸Ðµ Cookie';
+$MESS['LANDING_TPL_TITLE_CUSTOM'] = 'ÐŸÐ¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒÑÐºÐ¸Ðµ Cookie';
+$MESS['LANDING_TPL_LABEL_DESC'] = 'ÐžÐ¿Ð¸ÑÐ°Ð½Ð¸Ðµ';
+$MESS['LANDING_TPL_HELP_LINK'] = 'ÐšÐ°Ðº ÑÑ‚Ð¸Ð¼ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÑŒÑÑ?';
+$MESS['LANDING_TPL_HELP_LINK_HINT'] = 'ÐŸÐ¾Ð´Ñ€Ð¾Ð±Ð½Ð°Ñ Ð¸Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ñ';
+$MESS['LANDING_TPL_BUTTON_SAVE'] = 'Ð¡Ð¾Ñ…Ñ€Ð°Ð½Ð¸Ñ‚ÑŒ';
+$MESS['LANDING_TPL_BUTTON_CANCEL'] = 'ÐžÑ‚Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ';
+$MESS['LANDING_TPL_ALERT_REMOVE_TITLE'] = 'Ð’Ð½Ð¸Ð¼Ð°Ð½Ð¸Ðµ';
+$MESS['LANDING_TPL_ALERT_REMOVE_TEXT'] = 'Ð”ÐµÐ¹ÑÑ‚Ð²Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ð¾ ÑƒÐ´Ð°Ð»Ð¸Ñ‚ÑŒ ÑÐ¾Ð³Ð»Ð°ÑˆÐµÐ½Ð¸Ðµ?';
+$MESS['LANDING_TPL_NEW_COOKIES'] = 'ÐÐ¾Ð²Ñ‹Ð¹ Ñ‚Ð¸Ð¿ cookie';
+$MESS['LANDING_TPL_HOOK_COOKIES_SCRIPT_WARN'] = 'ÐÐ° Ð²Ð°ÑˆÐµÐ¼ ÑÐ°Ð¹Ñ‚Ðµ Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·ÑƒÐµÑ‚ÑÑ ÑÑ‚Ð¾Ñ€Ð¾Ð½Ð½Ð¸Ð¹ html-ÐºÐ¾Ð´. Ð£ÐºÐ°Ð¶Ð¸Ñ‚Ðµ Ð¸Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸ÑŽ Ð¾ ÐºÐ¾Ð´Ðµ, ÐºÐ¾Ñ‚Ð¾Ñ€Ñ‹Ð¹ Ð¾Ñ‚Ð²ÐµÑ‡Ð°ÐµÑ‚ Ð·Ð° ÑÐ±Ð¾Ñ€ Ð¸ Ð¾Ð±Ñ€Ð°Ð±Ð¾Ñ‚ÐºÑƒ Cookie-Ñ„Ð°Ð¹Ð»Ð¾Ð².';

@@ -1,4 +1,4 @@
 <?
-$MESS ['MAIN_CALENDAR_COMPONENT_NAME'] = "Ýëåìåíò óïðàâëåíèÿ \"Êàëåíäàðü\"";
-$MESS ['MAIN_CALENDAR_COMPONENT_DESCR'] = "Ââîä äàòû/âðåìåíè";
+$MESS ['MAIN_CALENDAR_COMPONENT_NAME'] = "Ð­Ð»ÐµÐ¼ÐµÐ½Ñ‚ ÑƒÐ¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¸Ñ \"ÐšÐ°Ð»ÐµÐ½Ð´Ð°Ñ€ÑŒ\"";
+$MESS ['MAIN_CALENDAR_COMPONENT_DESCR'] = "Ð’Ð²Ð¾Ð´ Ð´Ð°Ñ‚Ñ‹/Ð²Ñ€ÐµÐ¼ÐµÐ½Ð¸";
 ?>

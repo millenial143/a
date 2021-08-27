@@ -1,3 +1,3 @@
 <?
-$MESS['SENDER_COMP_TRIGGER_CHAIN_TITLE'] = 'Ïèñüìà òðèããåðíîé ðàññûëêè';
+$MESS['SENDER_COMP_TRIGGER_CHAIN_TITLE'] = 'ÐŸÐ¸ÑÑŒÐ¼Ð° Ñ‚Ñ€Ð¸Ð³Ð³ÐµÑ€Ð½Ð¾Ð¹ Ñ€Ð°ÑÑÑ‹Ð»ÐºÐ¸';
 ?>

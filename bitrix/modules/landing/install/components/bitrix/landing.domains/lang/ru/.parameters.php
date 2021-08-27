@@ -1,2 +1,2 @@
 <?php
-$MESS['LANDING_CMP_PAR_PAGE_URL_DOMAIN_EDIT'] = 'Ññûëêà íà ðåäàêòèðîâàíèå äîìåíà';
+$MESS['LANDING_CMP_PAR_PAGE_URL_DOMAIN_EDIT'] = 'Ð¡ÑÑ‹Ð»ÐºÐ° Ð½Ð° Ñ€ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ðµ Ð´Ð¾Ð¼ÐµÐ½Ð°';

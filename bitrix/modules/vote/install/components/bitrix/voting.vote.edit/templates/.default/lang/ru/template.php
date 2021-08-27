@@ -1,16 +1,16 @@
 <?
-$MESS["VVE_ALLOW_TO_CHANGE_MIND"] = "Ðàçðåøèòü ìåíÿòü ìíåíèå";
-$MESS["VVE_ALLOW_TO_VIEW_RESULTS"] = "Ðàçðåøèòü ïðîñìîòð ðåçóëüòàòîâ äî ãîëîñîâàíèÿ";
-$MESS["VVE_QUESTION"] = "Âîïðîñ ";
-$MESS["VVE_QUESTION_DEL"] = "Óäàëèòü âîïðîñ";
-$MESS["VVE_QUESTION_DELETE"] = "Óäàëèòü âîïðîñ?";
-$MESS["VVE_QUESTION_MULTIPLE"] = "Ðàçðåøèòü íåñêîëüêî îòâåòîâ";
-$MESS["VVE_ANS"] = "Îòâåò ";
-$MESS["VVE_ANS_DEL"] = "Óäàëèòü îòâåò";
-$MESS["VVE_ANS_SORT"] = "Ñîðòèðîâàòü îòâåò";
-$MESS["VVE_DATE"] = "Îïðîñ ïðîâîäèòñÿ äî:";
-$MESS["VVE_QUESTION_ADD"] = "Äîáàâèòü âîïðîñ";
-$MESS["VVE_ANS_DELETE"] = "Óäàëèòü îòâåò?";
-$MESS["VVE_QUESTION_SORT_DOWN"] = "Ïåðåäâèíóòü âíèç";
-$MESS["VVE_QUESTION_SORT_UP"] = "Ïåðåäâèíóòü ââåðõ";
+$MESS["VVE_ALLOW_TO_CHANGE_MIND"] = "Ð Ð°Ð·Ñ€ÐµÑˆÐ¸Ñ‚ÑŒ Ð¼ÐµÐ½ÑÑ‚ÑŒ Ð¼Ð½ÐµÐ½Ð¸Ðµ";
+$MESS["VVE_ALLOW_TO_VIEW_RESULTS"] = "Ð Ð°Ð·Ñ€ÐµÑˆÐ¸Ñ‚ÑŒ Ð¿Ñ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€ Ñ€ÐµÐ·ÑƒÐ»ÑŒÑ‚Ð°Ñ‚Ð¾Ð² Ð´Ð¾ Ð³Ð¾Ð»Ð¾ÑÐ¾Ð²Ð°Ð½Ð¸Ñ";
+$MESS["VVE_QUESTION"] = "Ð’Ð¾Ð¿Ñ€Ð¾Ñ ";
+$MESS["VVE_QUESTION_DEL"] = "Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ Ð²Ð¾Ð¿Ñ€Ð¾Ñ";
+$MESS["VVE_QUESTION_DELETE"] = "Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ Ð²Ð¾Ð¿Ñ€Ð¾Ñ?";
+$MESS["VVE_QUESTION_MULTIPLE"] = "Ð Ð°Ð·Ñ€ÐµÑˆÐ¸Ñ‚ÑŒ Ð½ÐµÑÐºÐ¾Ð»ÑŒÐºÐ¾ Ð¾Ñ‚Ð²ÐµÑ‚Ð¾Ð²";
+$MESS["VVE_ANS"] = "ÐžÑ‚Ð²ÐµÑ‚ ";
+$MESS["VVE_ANS_DEL"] = "Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ Ð¾Ñ‚Ð²ÐµÑ‚";
+$MESS["VVE_ANS_SORT"] = "Ð¡Ð¾Ñ€Ñ‚Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ Ð¾Ñ‚Ð²ÐµÑ‚";
+$MESS["VVE_DATE"] = "ÐžÐ¿Ñ€Ð¾Ñ Ð¿Ñ€Ð¾Ð²Ð¾Ð´Ð¸Ñ‚ÑÑ Ð´Ð¾:";
+$MESS["VVE_QUESTION_ADD"] = "Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ Ð²Ð¾Ð¿Ñ€Ð¾Ñ";
+$MESS["VVE_ANS_DELETE"] = "Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ Ð¾Ñ‚Ð²ÐµÑ‚?";
+$MESS["VVE_QUESTION_SORT_DOWN"] = "ÐŸÐµÑ€ÐµÐ´Ð²Ð¸Ð½ÑƒÑ‚ÑŒ Ð²Ð½Ð¸Ð·";
+$MESS["VVE_QUESTION_SORT_UP"] = "ÐŸÐµÑ€ÐµÐ´Ð²Ð¸Ð½ÑƒÑ‚ÑŒ Ð²Ð²ÐµÑ€Ñ…";
 ?>

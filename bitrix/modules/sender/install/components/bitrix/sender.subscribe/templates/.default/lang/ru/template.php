@@ -1,8 +1,8 @@
 <?
-$MESS ['subscr_form_title_desc'] = "Âûáåðèòå ðàññûëêó";
-$MESS ['subscr_form_email_title'] = "Ââåäèòå âàø e-mail";
-$MESS ['subscr_form_button'] = "Ïîäïèñàòüñÿ";
-$MESS ['subscr_form_response_ERROR'] = "×òî-òî ïîøëî íå òàê";
-$MESS ['subscr_form_response_NOTE'] = "Ïîçäðàâëÿåì!";
-$MESS ['subscr_form_button_sent'] = "ÃÎÒÎÂÎ";
+$MESS ['subscr_form_title_desc'] = "Ð’Ñ‹Ð±ÐµÑ€Ð¸Ñ‚Ðµ Ñ€Ð°ÑÑÑ‹Ð»ÐºÑƒ";
+$MESS ['subscr_form_email_title'] = "Ð’Ð²ÐµÐ´Ð¸Ñ‚Ðµ Ð²Ð°Ñˆ e-mail";
+$MESS ['subscr_form_button'] = "ÐŸÐ¾Ð´Ð¿Ð¸ÑÐ°Ñ‚ÑŒÑÑ";
+$MESS ['subscr_form_response_ERROR'] = "Ð§Ñ‚Ð¾-Ñ‚Ð¾ Ð¿Ð¾ÑˆÐ»Ð¾ Ð½Ðµ Ñ‚Ð°Ðº";
+$MESS ['subscr_form_response_NOTE'] = "ÐŸÐ¾Ð·Ð´Ñ€Ð°Ð²Ð»ÑÐµÐ¼!";
+$MESS ['subscr_form_button_sent'] = "Ð“ÐžÐ¢ÐžÐ’Ðž";
 ?>

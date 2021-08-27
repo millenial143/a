@@ -1,10 +1,10 @@
 <?php
-$MESS['LANDING_CMP_OL_NO_BUTTON_ID'] = 'Íå âûáðàí CRM-âèäæåò';
-$MESS['LANDING_CMP_OL_NO_BUTTON'] = 'Íà âàøåì ñàéòå íåò CRM-âèäæåòîâ.';
-$MESS['LANDING_CMP_OL_NO_BUTTON_CP'] = 'Ïðîâåðüòå èõ íàëè÷èå è àêòèâíîñòü íà ñòðàíèöå &laquo;#LINK1#CRM - CRM-ôîðìû#LINK2#&raquo;.';
-$MESS['LANDING_CMP_OL_NO_BUTTON_SM'] = 'Ïðîâåðüòå óñòàíîâêó ìîäóëÿ &laquo;Èíòåãðàöèÿ ñ Áèòðèêñ24 (b24connector)&raquo; â ðàçäåëå &laquo;#LINK1#Íàñòðîéêè &mdash; Íàñòðîéêè ïðîäóêòà &mdash; Ìîäóëè#LINK2#&raquo; è ïðèâÿçêó ïîðòàëà Áèòðèêñ24 â íàñòðîéêàõ &laquo;#LINK3#Êîììóíèêàöèé ñ êëèåíòîì#LINK4#&raquo;.';
-$MESS['LANDING_CMP_OL_BUTTON_NO_CHOOSE'] = 'Íå óêàçàí âèäæåò íà ñàéò';
-$MESS['LANDING_CMP_OL_BUTTON_NO_CHOOSE_TEXT'] = 'Âû íå óêàçàëè âèäæåò íà ñàéò, ÷òîáû âûâåñòè ñïèñîê ìåññåíäæåðîâ â ýòîì áëîêå. Âêëþ÷èòü âèäæåò ìîæíî â íàñòðîéêàõ ñàéòà';
-$MESS['LANDING_CMP_OL_BUTTON_NO_CHOOSE_BUTTON'] = 'Îòêðûòü íàñòðîéêè';
-$MESS['LANDING_CMP_OL_BUTTON_REST_ERROR'] = 'Áëîê âðåìåííî íåäîñòóïåí';
-$MESS['LANDING_CMP_OL_BUTTON_REST_ERROR_DESC'] = 'Äëÿ ðàáîòû òðåáóåòñÿ îáíîâëåíèå íà ïîðòàëå Áèòðèêñ24. Îæèäàéòå, ïîæàëóéñòà';
+$MESS['LANDING_CMP_OL_NO_BUTTON_ID'] = 'ÐÐµ Ð²Ñ‹Ð±Ñ€Ð°Ð½ CRM-Ð²Ð¸Ð´Ð¶ÐµÑ‚';
+$MESS['LANDING_CMP_OL_NO_BUTTON'] = 'ÐÐ° Ð²Ð°ÑˆÐµÐ¼ ÑÐ°Ð¹Ñ‚Ðµ Ð½ÐµÑ‚ CRM-Ð²Ð¸Ð´Ð¶ÐµÑ‚Ð¾Ð².';
+$MESS['LANDING_CMP_OL_NO_BUTTON_CP'] = 'ÐŸÑ€Ð¾Ð²ÐµÑ€ÑŒÑ‚Ðµ Ð¸Ñ… Ð½Ð°Ð»Ð¸Ñ‡Ð¸Ðµ Ð¸ Ð°ÐºÑ‚Ð¸Ð²Ð½Ð¾ÑÑ‚ÑŒ Ð½Ð° ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ðµ &laquo;#LINK1#CRM - CRM-Ñ„Ð¾Ñ€Ð¼Ñ‹#LINK2#&raquo;.';
+$MESS['LANDING_CMP_OL_NO_BUTTON_SM'] = 'ÐŸÑ€Ð¾Ð²ÐµÑ€ÑŒÑ‚Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²ÐºÑƒ Ð¼Ð¾Ð´ÑƒÐ»Ñ &laquo;Ð˜Ð½Ñ‚ÐµÐ³Ñ€Ð°Ñ†Ð¸Ñ Ñ Ð‘Ð¸Ñ‚Ñ€Ð¸ÐºÑ24 (b24connector)&raquo; Ð² Ñ€Ð°Ð·Ð´ÐµÐ»Ðµ &laquo;#LINK1#ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸ &mdash; ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸ Ð¿Ñ€Ð¾Ð´ÑƒÐºÑ‚Ð° &mdash; ÐœÐ¾Ð´ÑƒÐ»Ð¸#LINK2#&raquo; Ð¸ Ð¿Ñ€Ð¸Ð²ÑÐ·ÐºÑƒ Ð¿Ð¾Ñ€Ñ‚Ð°Ð»Ð° Ð‘Ð¸Ñ‚Ñ€Ð¸ÐºÑ24 Ð² Ð½Ð°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ°Ñ… &laquo;#LINK3#ÐšÐ¾Ð¼Ð¼ÑƒÐ½Ð¸ÐºÐ°Ñ†Ð¸Ð¹ Ñ ÐºÐ»Ð¸ÐµÐ½Ñ‚Ð¾Ð¼#LINK4#&raquo;.';
+$MESS['LANDING_CMP_OL_BUTTON_NO_CHOOSE'] = 'ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½ Ð²Ð¸Ð´Ð¶ÐµÑ‚ Ð½Ð° ÑÐ°Ð¹Ñ‚';
+$MESS['LANDING_CMP_OL_BUTTON_NO_CHOOSE_TEXT'] = 'Ð’Ñ‹ Ð½Ðµ ÑƒÐºÐ°Ð·Ð°Ð»Ð¸ Ð²Ð¸Ð´Ð¶ÐµÑ‚ Ð½Ð° ÑÐ°Ð¹Ñ‚, Ñ‡Ñ‚Ð¾Ð±Ñ‹ Ð²Ñ‹Ð²ÐµÑÑ‚Ð¸ ÑÐ¿Ð¸ÑÐ¾Ðº Ð¼ÐµÑÑÐµÐ½Ð´Ð¶ÐµÑ€Ð¾Ð² Ð² ÑÑ‚Ð¾Ð¼ Ð±Ð»Ð¾ÐºÐµ. Ð’ÐºÐ»ÑŽÑ‡Ð¸Ñ‚ÑŒ Ð²Ð¸Ð´Ð¶ÐµÑ‚ Ð¼Ð¾Ð¶Ð½Ð¾ Ð² Ð½Ð°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ°Ñ… ÑÐ°Ð¹Ñ‚Ð°';
+$MESS['LANDING_CMP_OL_BUTTON_NO_CHOOSE_BUTTON'] = 'ÐžÑ‚ÐºÑ€Ñ‹Ñ‚ÑŒ Ð½Ð°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸';
+$MESS['LANDING_CMP_OL_BUTTON_REST_ERROR'] = 'Ð‘Ð»Ð¾Ðº Ð²Ñ€ÐµÐ¼ÐµÐ½Ð½Ð¾ Ð½ÐµÐ´Ð¾ÑÑ‚ÑƒÐ¿ÐµÐ½';
+$MESS['LANDING_CMP_OL_BUTTON_REST_ERROR_DESC'] = 'Ð”Ð»Ñ Ñ€Ð°Ð±Ð¾Ñ‚Ñ‹ Ñ‚Ñ€ÐµÐ±ÑƒÐµÑ‚ÑÑ Ð¾Ð±Ð½Ð¾Ð²Ð»ÐµÐ½Ð¸Ðµ Ð½Ð° Ð¿Ð¾Ñ€Ñ‚Ð°Ð»Ðµ Ð‘Ð¸Ñ‚Ñ€Ð¸ÐºÑ24. ÐžÐ¶Ð¸Ð´Ð°Ð¹Ñ‚Ðµ, Ð¿Ð¾Ð¶Ð°Ð»ÑƒÐ¹ÑÑ‚Ð°';

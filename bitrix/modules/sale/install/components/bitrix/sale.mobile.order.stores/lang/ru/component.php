@@ -1,4 +1,4 @@
 <?
-$MESS["SMOS_SALE_NOT_INSTALLED"] = "Не установлен модуль sale";
-$MESS["SMOS_MOBILEAPP_NOT_INSTALLED"] = "Не установлен модуль mobileapp";
+$MESS["SMOS_SALE_NOT_INSTALLED"] = "РќРµ СѓСЃС‚Р°РЅРѕРІР»РµРЅ РјРѕРґСѓР»СЊ sale";
+$MESS["SMOS_MOBILEAPP_NOT_INSTALLED"] = "РќРµ СѓСЃС‚Р°РЅРѕРІР»РµРЅ РјРѕРґСѓР»СЊ mobileapp";
 ?>

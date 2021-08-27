@@ -1,8 +1,8 @@
 <?php
-$MESS['LNDNGHOOK_THEMEFONTS_USE'] = 'Ïåðåîïðåäåëèòü øðèôòû';
-$MESS['LNDNGHOOK_THEMEFONTS_FONT_BASE'] = 'Øðèôò òåêñòà';
-$MESS['LNDNGHOOK_THEMEFONTS_FONT_H'] = 'Øðèôò çàãîëîâêîâ';
-$MESS['LNDNGHOOK_THEMEFONTS_FONT_SIZE'] = 'Ðàçìåð òåêñòà';
-$MESS['LNDNGHOOK_THEMEFONTS_FONT_12'] = 'Ìåëêèé';
-$MESS['LNDNGHOOK_THEMEFONTS_FONT_14'] = 'Ñðåäíèé';
-$MESS['LNDNGHOOK_THEMEFONTS_FONT_16'] = 'Êðóïíûé';
+$MESS['LNDNGHOOK_THEMEFONTS_USE'] = 'ÐŸÐµÑ€ÐµÐ¾Ð¿Ñ€ÐµÐ´ÐµÐ»Ð¸Ñ‚ÑŒ ÑˆÑ€Ð¸Ñ„Ñ‚Ñ‹';
+$MESS['LNDNGHOOK_THEMEFONTS_FONT_BASE'] = 'Ð¨Ñ€Ð¸Ñ„Ñ‚ Ñ‚ÐµÐºÑÑ‚Ð°';
+$MESS['LNDNGHOOK_THEMEFONTS_FONT_H'] = 'Ð¨Ñ€Ð¸Ñ„Ñ‚ Ð·Ð°Ð³Ð¾Ð»Ð¾Ð²ÐºÐ¾Ð²';
+$MESS['LNDNGHOOK_THEMEFONTS_FONT_SIZE'] = 'Ð Ð°Ð·Ð¼ÐµÑ€ Ñ‚ÐµÐºÑÑ‚Ð°';
+$MESS['LNDNGHOOK_THEMEFONTS_FONT_12'] = 'ÐœÐµÐ»ÐºÐ¸Ð¹';
+$MESS['LNDNGHOOK_THEMEFONTS_FONT_14'] = 'Ð¡Ñ€ÐµÐ´Ð½Ð¸Ð¹';
+$MESS['LNDNGHOOK_THEMEFONTS_FONT_16'] = 'ÐšÑ€ÑƒÐ¿Ð½Ñ‹Ð¹';

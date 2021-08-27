@@ -1,4 +1,4 @@
 <?
-$MESS ['SENDER_CONTACT_SET_SELECTOR_BUTTON_SELECT'] = "âûáðàòü íàáîð";
-$MESS ['SENDER_CONTACT_SET_SELECTOR_SEARCHER_TITLE'] = "Íàáîðû àäðåñîâ";
-$MESS ['SENDER_CONTACT_SET_SELECTOR_TITLE'] = "Íàáîðû àäðåñîâ";
+$MESS ['SENDER_CONTACT_SET_SELECTOR_BUTTON_SELECT'] = "Ð²Ñ‹Ð±Ñ€Ð°Ñ‚ÑŒ Ð½Ð°Ð±Ð¾Ñ€";
+$MESS ['SENDER_CONTACT_SET_SELECTOR_SEARCHER_TITLE'] = "ÐÐ°Ð±Ð¾Ñ€Ñ‹ Ð°Ð´Ñ€ÐµÑÐ¾Ð²";
+$MESS ['SENDER_CONTACT_SET_SELECTOR_TITLE'] = "ÐÐ°Ð±Ð¾Ñ€Ñ‹ Ð°Ð´Ñ€ÐµÑÐ¾Ð²";

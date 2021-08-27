@@ -1,12 +1,12 @@
 <?
-$MESS["MOBILE_APP_OFFLINE_TITLE"] = "Äåéñòâèå íåâîçìîæíî";
-$MESS["MOBILE_APP_OFFLINE_MESSAGE"] = "Íåò ñâÿçè ñ ñåòüþ";
-$MESS["MOBILE_APP_FILTER_APPLY"] = "Ïðèìåíèòü ôèëüòð";
-$MESS["MOBILE_APP_FILTER_FIELDS_LIST"] = "Ñïèñîê ïîëåé";
-$MESS["MOBILE_APP_FILTER_FIELDS_RESET"] = "Î÷èñòèòü ïîëÿ";
-$MESS["MOBILE_APP_FILTER_TITLE"] = "Íàñòðîéêà ôèëüòðàöèè";
-$MESS["MOBILE_APP_FILTER_VISIBLE_FIELDS"] = "Ïîëÿ äëÿ ôèëüòðàöèè";
-$MESS["MOBILE_APP_FILTER_SAVE"] = "Ñîõðàíèòü";
-$MESS["MOBILE_APP_FILTER_BACK"] = "Íàçàä";
-$MESS["MOBILE_APP_FILTER_SAVING"] = "Ñîõðàíÿåì";
+$MESS["MOBILE_APP_OFFLINE_TITLE"] = "Ð”ÐµÐ¹ÑÑ‚Ð²Ð¸Ðµ Ð½ÐµÐ²Ð¾Ð·Ð¼Ð¾Ð¶Ð½Ð¾";
+$MESS["MOBILE_APP_OFFLINE_MESSAGE"] = "ÐÐµÑ‚ ÑÐ²ÑÐ·Ð¸ Ñ ÑÐµÑ‚ÑŒÑŽ";
+$MESS["MOBILE_APP_FILTER_APPLY"] = "ÐŸÑ€Ð¸Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ Ñ„Ð¸Ð»ÑŒÑ‚Ñ€";
+$MESS["MOBILE_APP_FILTER_FIELDS_LIST"] = "Ð¡Ð¿Ð¸ÑÐ¾Ðº Ð¿Ð¾Ð»ÐµÐ¹";
+$MESS["MOBILE_APP_FILTER_FIELDS_RESET"] = "ÐžÑ‡Ð¸ÑÑ‚Ð¸Ñ‚ÑŒ Ð¿Ð¾Ð»Ñ";
+$MESS["MOBILE_APP_FILTER_TITLE"] = "ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ° Ñ„Ð¸Ð»ÑŒÑ‚Ñ€Ð°Ñ†Ð¸Ð¸";
+$MESS["MOBILE_APP_FILTER_VISIBLE_FIELDS"] = "ÐŸÐ¾Ð»Ñ Ð´Ð»Ñ Ñ„Ð¸Ð»ÑŒÑ‚Ñ€Ð°Ñ†Ð¸Ð¸";
+$MESS["MOBILE_APP_FILTER_SAVE"] = "Ð¡Ð¾Ñ…Ñ€Ð°Ð½Ð¸Ñ‚ÑŒ";
+$MESS["MOBILE_APP_FILTER_BACK"] = "ÐÐ°Ð·Ð°Ð´";
+$MESS["MOBILE_APP_FILTER_SAVING"] = "Ð¡Ð¾Ñ…Ñ€Ð°Ð½ÑÐµÐ¼";
 ?>

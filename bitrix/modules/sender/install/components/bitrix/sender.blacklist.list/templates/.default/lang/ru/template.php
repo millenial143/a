@@ -1,5 +1,5 @@
 <?
-$MESS["SENDER_BLACKLIST_LIST_BTN_ADD"] = "Äîáàâèòü â ñïèñîê";
-$MESS["SENDER_BLACKLIST_LIST_BTN_REMOVE"] = "Óäàëèòü èç ÷åðíîãî ñïèñêà";
-$MESS["SENDER_BLACKLIST_LIST_BTN_REMOVE_TITLE"] = "Óäàëèòü èç ÷åðíîãî ñïèñêà";
+$MESS["SENDER_BLACKLIST_LIST_BTN_ADD"] = "Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ Ð² ÑÐ¿Ð¸ÑÐ¾Ðº";
+$MESS["SENDER_BLACKLIST_LIST_BTN_REMOVE"] = "Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ Ð¸Ð· Ñ‡ÐµÑ€Ð½Ð¾Ð³Ð¾ ÑÐ¿Ð¸ÑÐºÐ°";
+$MESS["SENDER_BLACKLIST_LIST_BTN_REMOVE_TITLE"] = "Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ Ð¸Ð· Ñ‡ÐµÑ€Ð½Ð¾Ð³Ð¾ ÑÐ¿Ð¸ÑÐºÐ°";
 ?>

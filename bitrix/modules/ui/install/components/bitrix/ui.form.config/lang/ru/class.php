@@ -1,5 +1,5 @@
 <?php
-$MESS["UI_FORM_CONFIG_DELETE"] = "Óäàëèòü";
-$MESS["UI_FORM_CONFIG_SCOPE"] = "Êàðòî÷êà";
-$MESS["UI_FORM_CONFIG_MEMBERS"] = "Îòíîñÿùèåñÿ ê ïðåäñòàâëåíèþ";
-$MESS["UI_FORM_CONFIG_APPLY"] = "Ïîäòâåðäèòü";
+$MESS["UI_FORM_CONFIG_DELETE"] = "Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ";
+$MESS["UI_FORM_CONFIG_SCOPE"] = "ÐšÐ°Ñ€Ñ‚Ð¾Ñ‡ÐºÐ°";
+$MESS["UI_FORM_CONFIG_MEMBERS"] = "ÐžÑ‚Ð½Ð¾ÑÑÑ‰Ð¸ÐµÑÑ Ðº Ð¿Ñ€ÐµÐ´ÑÑ‚Ð°Ð²Ð»ÐµÐ½Ð¸ÑŽ";
+$MESS["UI_FORM_CONFIG_APPLY"] = "ÐŸÐ¾Ð´Ñ‚Ð²ÐµÑ€Ð´Ð¸Ñ‚ÑŒ";

@@ -1,6 +1,6 @@
 <?
-$MESS ['REST_INTEGRATION_SELECTOR_SECTION_ALL'] = "Âñå";
-$MESS ['REST_INTEGRATION_SELECTOR_BOT_TYPE_BOT'] = "×àò-áîò, îòâåòû ïîñòóïàþò ñðàçó";
-$MESS ['REST_INTEGRATION_SELECTOR_BOT_TYPE_HUMAN'] = "×åëîâåê, îòâåòû ïîñòóïàþò ñ çàäåðæêîé îò 2-õ äî 10 ñåêóíä";
-$MESS ['REST_INTEGRATION_SELECTOR_BOT_TYPE_OPENLINE'] = "×àò-áîò äëÿ Îòêðûòûõ ëèíèé";
-$MESS ['REST_INTEGRATION_SELECTOR_BOT_TYPE_SUPERVISOR'] = "×àò-áîò ñ ïîâûøåííûìè ïðèâèëåãèÿìè (supervisor)";
+$MESS ['REST_INTEGRATION_SELECTOR_SECTION_ALL'] = "Ð’ÑÐµ";
+$MESS ['REST_INTEGRATION_SELECTOR_BOT_TYPE_BOT'] = "Ð§Ð°Ñ‚-Ð±Ð¾Ñ‚, Ð¾Ñ‚Ð²ÐµÑ‚Ñ‹ Ð¿Ð¾ÑÑ‚ÑƒÐ¿Ð°ÑŽÑ‚ ÑÑ€Ð°Ð·Ñƒ";
+$MESS ['REST_INTEGRATION_SELECTOR_BOT_TYPE_HUMAN'] = "Ð§ÐµÐ»Ð¾Ð²ÐµÐº, Ð¾Ñ‚Ð²ÐµÑ‚Ñ‹ Ð¿Ð¾ÑÑ‚ÑƒÐ¿Ð°ÑŽÑ‚ Ñ Ð·Ð°Ð´ÐµÑ€Ð¶ÐºÐ¾Ð¹ Ð¾Ñ‚ 2-Ñ… Ð´Ð¾ 10 ÑÐµÐºÑƒÐ½Ð´";
+$MESS ['REST_INTEGRATION_SELECTOR_BOT_TYPE_OPENLINE'] = "Ð§Ð°Ñ‚-Ð±Ð¾Ñ‚ Ð´Ð»Ñ ÐžÑ‚ÐºÑ€Ñ‹Ñ‚Ñ‹Ñ… Ð»Ð¸Ð½Ð¸Ð¹";
+$MESS ['REST_INTEGRATION_SELECTOR_BOT_TYPE_SUPERVISOR'] = "Ð§Ð°Ñ‚-Ð±Ð¾Ñ‚ Ñ Ð¿Ð¾Ð²Ñ‹ÑˆÐµÐ½Ð½Ñ‹Ð¼Ð¸ Ð¿Ñ€Ð¸Ð²Ð¸Ð»ÐµÐ³Ð¸ÑÐ¼Ð¸ (supervisor)";

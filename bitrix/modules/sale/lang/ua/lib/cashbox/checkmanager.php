@@ -1,12 +1,12 @@
 <?
-$MESS["SALE_CASHBOX_ERROR_EMPTY_CHECK_TYPE"] = "Íå çàçíà÷åíî òèï ÷åêó";
-$MESS["SALE_CASHBOX_ERROR_CHECK"] = "Íåêîðåêòíèé òèï ÷åêó";
-$MESS["SALE_CASHBOX_ERROR_CHECK_PRINT"] = "Ïîìèëêà ïðè äðóêó ÷åêà ##CHECK_ID#";
-$MESS["SALE_CASHBOX_ERROR_CHECK_ID"] = "Íåêîðåêòíèé ID ÷åêà";
-$MESS["SALE_CASHBOX_ERROR_CHECK_NOT_FOUND"] = "×åê ##CHECK_ID# íå çíàéäåíî";
-$MESS["SALE_CASHBOX_ERROR_CHECK_ORDER_LOAD"] = "Ïîìèëêà ïðè çàâàíòàæåíí³ çàìîâëåííÿ";
-$MESS["SALE_CASHBOX_ERROR_CHECK_PAYMENT_LOAD"] = "Ïîìèëêà ïðè çàâàíòàæåíí³ îïëàòè";
-$MESS["SALE_CASHBOX_ERROR_CHECK_SHIPMENT_LOAD"] = "Ïîìèëêà ïðè çàâàíòàæåíí³ â³äâàíòàæåííÿ";
-$MESS["SALE_CASHBOX_CHECK_ADVANCE"] = "Àâàíñ";
-$MESS["SALE_CASHBOX_CHECK_CREDIT"] = "Êðåäèò";
+$MESS["SALE_CASHBOX_ERROR_EMPTY_CHECK_TYPE"] = "ÐÐµ Ð·Ð°Ð·Ð½Ð°Ñ‡ÐµÐ½Ð¾ Ñ‚Ð¸Ð¿ Ñ‡ÐµÐºÑƒ";
+$MESS["SALE_CASHBOX_ERROR_CHECK"] = "ÐÐµÐºÐ¾Ñ€ÐµÐºÑ‚Ð½Ð¸Ð¹ Ñ‚Ð¸Ð¿ Ñ‡ÐµÐºÑƒ";
+$MESS["SALE_CASHBOX_ERROR_CHECK_PRINT"] = "ÐŸÐ¾Ð¼Ð¸Ð»ÐºÐ° Ð¿Ñ€Ð¸ Ð´Ñ€ÑƒÐºÑƒ Ñ‡ÐµÐºÐ° ##CHECK_ID#";
+$MESS["SALE_CASHBOX_ERROR_CHECK_ID"] = "ÐÐµÐºÐ¾Ñ€ÐµÐºÑ‚Ð½Ð¸Ð¹ ID Ñ‡ÐµÐºÐ°";
+$MESS["SALE_CASHBOX_ERROR_CHECK_NOT_FOUND"] = "Ð§ÐµÐº ##CHECK_ID# Ð½Ðµ Ð·Ð½Ð°Ð¹Ð´ÐµÐ½Ð¾";
+$MESS["SALE_CASHBOX_ERROR_CHECK_ORDER_LOAD"] = "ÐŸÐ¾Ð¼Ð¸Ð»ÐºÐ° Ð¿Ñ€Ð¸ Ð·Ð°Ð²Ð°Ð½Ñ‚Ð°Ð¶ÐµÐ½Ð½Ñ– Ð·Ð°Ð¼Ð¾Ð²Ð»ÐµÐ½Ð½Ñ";
+$MESS["SALE_CASHBOX_ERROR_CHECK_PAYMENT_LOAD"] = "ÐŸÐ¾Ð¼Ð¸Ð»ÐºÐ° Ð¿Ñ€Ð¸ Ð·Ð°Ð²Ð°Ð½Ñ‚Ð°Ð¶ÐµÐ½Ð½Ñ– Ð¾Ð¿Ð»Ð°Ñ‚Ð¸";
+$MESS["SALE_CASHBOX_ERROR_CHECK_SHIPMENT_LOAD"] = "ÐŸÐ¾Ð¼Ð¸Ð»ÐºÐ° Ð¿Ñ€Ð¸ Ð·Ð°Ð²Ð°Ð½Ñ‚Ð°Ð¶ÐµÐ½Ð½Ñ– Ð²Ñ–Ð´Ð²Ð°Ð½Ñ‚Ð°Ð¶ÐµÐ½Ð½Ñ";
+$MESS["SALE_CASHBOX_CHECK_ADVANCE"] = "ÐÐ²Ð°Ð½Ñ";
+$MESS["SALE_CASHBOX_CHECK_CREDIT"] = "ÐšÑ€ÐµÐ´Ð¸Ñ‚";
 ?>

@@ -1,12 +1,12 @@
 <?php
-$MESS['LANDING_DEMO_STORE_CHATS_LIGHT-CONTACTS-NAME'] = 'Êîíòàêòû';
-$MESS['LANDING_DEMO_STORE_CHATS_LIGHT-CONTACTS-DESC'] = 'Êîíòàêòíûå äàííûå êîìïàíèè.';
-$MESS['LANDING_DEMO_STORE_CHATS_LIGHT-CONTACTS-RICH_NAME'] = 'Êîíòàêòû';
-$MESS['LANDING_DEMO_STORE_CHATS_LIGHT-CONTACTS-RICH_DESC'] = 'Íàøè êîíòàêòû ïî âñåì äîñòóïíûì êàíàëàì. Ñâÿæèòåñü ñ íàìè óäîáíûì äëÿ âàñ ñïîñîáîì!';
-$MESS['LANDING_DEMO_STORE_CHATS_LIGHT-CONTACTS-TEXT1'] = 'Íàøè êîíòàêòû';
-$MESS['LANDING_DEMO_STORE_CHATS_LIGHT-CONTACTS-TEXT2'] = 'Ìû âñåãäà ðàäû âàøåìó çâîíêó, ïèñüìó èëè ñîîáùåíèþ â ñîöñåòè! Ñâÿæèòåñü ñ íàìè, åñëè ó âàñ åñòü âîïðîñû! ';
-$MESS['LANDING_DEMO_STORE_CHATS_LIGHT-CONTACTS-TEXT3'] = 'Ìû îíëàéí â ñîöñåòÿõ è ìåññåíäæåðàõ';
-$MESS['LANDING_DEMO_STORE_CHATS_LIGHT-CONTACTS-TEXT5'] = 'Ìû íàõîäèìñÿ çäåñü';
-$MESS['LANDING_DEMO_STORE_CHATS_LIGHT-CONTACTS-TEXT6'] = 'Êàëèíèíãðàä, Ãîñòèíàÿ, 3';
-$MESS['LANDING_DEMO_STORE_CHATS_LIGHT-CONTACTS-TEXT7'] = 'Ïîçâîíèòü';
-$MESS['LANDING_DEMO_STORE_CHATS_LIGHT-CONTACTS-TEXT8'] = 'Ñâÿçàòüñÿ ñ íàìè';
+$MESS['LANDING_DEMO_STORE_CHATS_LIGHT-CONTACTS-NAME'] = 'ÐšÐ¾Ð½Ñ‚Ð°ÐºÑ‚Ñ‹';
+$MESS['LANDING_DEMO_STORE_CHATS_LIGHT-CONTACTS-DESC'] = 'ÐšÐ¾Ð½Ñ‚Ð°ÐºÑ‚Ð½Ñ‹Ðµ Ð´Ð°Ð½Ð½Ñ‹Ðµ ÐºÐ¾Ð¼Ð¿Ð°Ð½Ð¸Ð¸.';
+$MESS['LANDING_DEMO_STORE_CHATS_LIGHT-CONTACTS-RICH_NAME'] = 'ÐšÐ¾Ð½Ñ‚Ð°ÐºÑ‚Ñ‹';
+$MESS['LANDING_DEMO_STORE_CHATS_LIGHT-CONTACTS-RICH_DESC'] = 'ÐÐ°ÑˆÐ¸ ÐºÐ¾Ð½Ñ‚Ð°ÐºÑ‚Ñ‹ Ð¿Ð¾ Ð²ÑÐµÐ¼ Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð½Ñ‹Ð¼ ÐºÐ°Ð½Ð°Ð»Ð°Ð¼. Ð¡Ð²ÑÐ¶Ð¸Ñ‚ÐµÑÑŒ Ñ Ð½Ð°Ð¼Ð¸ ÑƒÐ´Ð¾Ð±Ð½Ñ‹Ð¼ Ð´Ð»Ñ Ð²Ð°Ñ ÑÐ¿Ð¾ÑÐ¾Ð±Ð¾Ð¼!';
+$MESS['LANDING_DEMO_STORE_CHATS_LIGHT-CONTACTS-TEXT1'] = 'ÐÐ°ÑˆÐ¸ ÐºÐ¾Ð½Ñ‚Ð°ÐºÑ‚Ñ‹';
+$MESS['LANDING_DEMO_STORE_CHATS_LIGHT-CONTACTS-TEXT2'] = 'ÐœÑ‹ Ð²ÑÐµÐ³Ð´Ð° Ñ€Ð°Ð´Ñ‹ Ð²Ð°ÑˆÐµÐ¼Ñƒ Ð·Ð²Ð¾Ð½ÐºÑƒ, Ð¿Ð¸ÑÑŒÐ¼Ñƒ Ð¸Ð»Ð¸ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸ÑŽ Ð² ÑÐ¾Ñ†ÑÐµÑ‚Ð¸! Ð¡Ð²ÑÐ¶Ð¸Ñ‚ÐµÑÑŒ Ñ Ð½Ð°Ð¼Ð¸, ÐµÑÐ»Ð¸ Ñƒ Ð²Ð°Ñ ÐµÑÑ‚ÑŒ Ð²Ð¾Ð¿Ñ€Ð¾ÑÑ‹! ';
+$MESS['LANDING_DEMO_STORE_CHATS_LIGHT-CONTACTS-TEXT3'] = 'ÐœÑ‹ Ð¾Ð½Ð»Ð°Ð¹Ð½ Ð² ÑÐ¾Ñ†ÑÐµÑ‚ÑÑ… Ð¸ Ð¼ÐµÑÑÐµÐ½Ð´Ð¶ÐµÑ€Ð°Ñ…';
+$MESS['LANDING_DEMO_STORE_CHATS_LIGHT-CONTACTS-TEXT5'] = 'ÐœÑ‹ Ð½Ð°Ñ…Ð¾Ð´Ð¸Ð¼ÑÑ Ð·Ð´ÐµÑÑŒ';
+$MESS['LANDING_DEMO_STORE_CHATS_LIGHT-CONTACTS-TEXT6'] = 'ÐšÐ°Ð»Ð¸Ð½Ð¸Ð½Ð³Ñ€Ð°Ð´, Ð“Ð¾ÑÑ‚Ð¸Ð½Ð°Ñ, 3';
+$MESS['LANDING_DEMO_STORE_CHATS_LIGHT-CONTACTS-TEXT7'] = 'ÐŸÐ¾Ð·Ð²Ð¾Ð½Ð¸Ñ‚ÑŒ';
+$MESS['LANDING_DEMO_STORE_CHATS_LIGHT-CONTACTS-TEXT8'] = 'Ð¡Ð²ÑÐ·Ð°Ñ‚ÑŒÑÑ Ñ Ð½Ð°Ð¼Ð¸';

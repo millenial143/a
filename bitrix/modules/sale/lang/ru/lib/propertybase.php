@@ -1,4 +1,4 @@
 <?
-$MESS["SALE_PROPERTY_ERROR"] = "Ñâîéñòâî çàêàçà \"#PROPERTY_NAME#\" - #ERROR_MESSAGE#";
-$MESS["SOP_UNKNOWN_GROUP"] = "Äðóãèå";
+$MESS["SALE_PROPERTY_ERROR"] = "Ð¡Ð²Ð¾Ð¹ÑÑ‚Ð²Ð¾ Ð·Ð°ÐºÐ°Ð·Ð° \"#PROPERTY_NAME#\" - #ERROR_MESSAGE#";
+$MESS["SOP_UNKNOWN_GROUP"] = "Ð”Ñ€ÑƒÐ³Ð¸Ðµ";
 ?>

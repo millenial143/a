@@ -1,9 +1,9 @@
 <?
-$MESS ['SUPPORT_FAQ_SL_GROUP_SETTINGS'] = "Íàñòðîéêè êîìïîíåíòà";
-$MESS ['SUPPORT_FAQ_SL_SETTING_IBTYPES'] = "Òèïû èíôîáëîêîâ";
-$MESS ['SUPPORT_FAQ_SL_SETTING_IBLIST'] = "Ñïèñîê èíôîáëîêîâ";
-$MESS ['SUPPORT_FAQ_SL_SETTING_SECTIONS_LIST'] = "Ñïèñîê ñåêöèé (ïî óìîë÷àíèþ - èç êîðíåâîé ñåêöèè)";
-$MESS ['SUPPORT_FAQ_SL_SETTING_EXPAND_LIST'] = "Ïîêàçûâàòü âëîæåííûå ñåêöèè";
-$MESS ['SUPPORT_FAQ_SL_SETTING_LINK_SECTION_URL'] = "URL ñòðàíèöû ñåêöèè (ïî óìîë÷àíèþ - èç íàñòðîåê èíôîáëîêà)";
-$MESS ['CP_BSFSL_CACHE_GROUPS'] = "Ó÷èòûâàòü ïðàâà äîñòóïà";
+$MESS ['SUPPORT_FAQ_SL_GROUP_SETTINGS'] = "ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸ ÐºÐ¾Ð¼Ð¿Ð¾Ð½ÐµÐ½Ñ‚Ð°";
+$MESS ['SUPPORT_FAQ_SL_SETTING_IBTYPES'] = "Ð¢Ð¸Ð¿Ñ‹ Ð¸Ð½Ñ„Ð¾Ð±Ð»Ð¾ÐºÐ¾Ð²";
+$MESS ['SUPPORT_FAQ_SL_SETTING_IBLIST'] = "Ð¡Ð¿Ð¸ÑÐ¾Ðº Ð¸Ð½Ñ„Ð¾Ð±Ð»Ð¾ÐºÐ¾Ð²";
+$MESS ['SUPPORT_FAQ_SL_SETTING_SECTIONS_LIST'] = "Ð¡Ð¿Ð¸ÑÐ¾Ðº ÑÐµÐºÑ†Ð¸Ð¹ (Ð¿Ð¾ ÑƒÐ¼Ð¾Ð»Ñ‡Ð°Ð½Ð¸ÑŽ - Ð¸Ð· ÐºÐ¾Ñ€Ð½ÐµÐ²Ð¾Ð¹ ÑÐµÐºÑ†Ð¸Ð¸)";
+$MESS ['SUPPORT_FAQ_SL_SETTING_EXPAND_LIST'] = "ÐŸÐ¾ÐºÐ°Ð·Ñ‹Ð²Ð°Ñ‚ÑŒ Ð²Ð»Ð¾Ð¶ÐµÐ½Ð½Ñ‹Ðµ ÑÐµÐºÑ†Ð¸Ð¸";
+$MESS ['SUPPORT_FAQ_SL_SETTING_LINK_SECTION_URL'] = "URL ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñ‹ ÑÐµÐºÑ†Ð¸Ð¸ (Ð¿Ð¾ ÑƒÐ¼Ð¾Ð»Ñ‡Ð°Ð½Ð¸ÑŽ - Ð¸Ð· Ð½Ð°ÑÑ‚Ñ€Ð¾ÐµÐº Ð¸Ð½Ñ„Ð¾Ð±Ð»Ð¾ÐºÐ°)";
+$MESS ['CP_BSFSL_CACHE_GROUPS'] = "Ð£Ñ‡Ð¸Ñ‚Ñ‹Ð²Ð°Ñ‚ÑŒ Ð¿Ñ€Ð°Ð²Ð° Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð°";
 ?>

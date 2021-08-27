@@ -1,4 +1,4 @@
 <?php
-$MESS["MARKETPLACE_NEW"] = "Íîâèíêè";
-$MESS["MARKETPLACE_BEST"] = "Ëó÷øèå";
-$MESS["MARKETPLACE_DEV"] = "Â ðàçðàáîòêå";
+$MESS["MARKETPLACE_NEW"] = "ÐÐ¾Ð²Ð¸Ð½ÐºÐ¸";
+$MESS["MARKETPLACE_BEST"] = "Ð›ÑƒÑ‡ÑˆÐ¸Ðµ";
+$MESS["MARKETPLACE_DEV"] = "Ð’ Ñ€Ð°Ð·Ñ€Ð°Ð±Ð¾Ñ‚ÐºÐµ";

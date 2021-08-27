@@ -1,9 +1,9 @@
 <?
-$MESS['REST_CONFIGURATION_INSTALL_ACCESS_DENIED'] = 'Íåò äîñòóïà';
-$MESS["REST_CONFIGURATION_INSTALL_DISK_FOLDER_NOT_FOUND"] = "Ïàïêà äèñêà íå íàéäåíà";
-$MESS["REST_CONFIGURATION_INSTALL_FILE_CONTENT_ERROR_DECODE"] = "Äàííûå ôàéëà ¹#STEP# íå óäàëîñü äåêîäèðîâàòü èç json";
-$MESS["REST_CONFIGURATION_INSTALL_FILE_CONTENT_ERROR_SANITIZE"] = "Äàííûå ôàéëà ¹#STEP# ïðèçíàíû îïàñíûìè äëÿ ïðèìåíåíèÿ è ïðîïóùåíû";
-$MESS["REST_CONFIGURATION_INSTALL_FILE_CONTENT_ERROR_SANITIZE_SHORT"] = "Äàííûå ôàéëà ¹#STEP# ïðèçíàíû îïàñíûìè.";
-$MESS["REST_CONFIGURATION_INSTALL_CLEAR_PREFIX_NAME"] = "ñòàðîå";
-$MESS["REST_CONFIGURATION_INSTALL_ERROR_MANIFEST_OLD"] = "Â ôàéëàõ èìïîðòà ìîãóò áûòü äàííûå, êîòîðûå íå ïîëó÷èòñÿ çàãðóçèòü â âàø Áèòðèêñ24. Ðåêîìåíäóåì óñòàíîâèòü ïîñëåäíèå îáíîâëåíèÿ ñèñòåìû.";
-$MESS["REST_CONFIGURATION_INSTALL_ERROR_MANIFEST_NOT_FOUND"] = "Â ôàéëàõ èìïîðòà ìîãóò áûòü äàííûå, êîòîðûå íå ïîëó÷èòñÿ çàãðóçèòü â âàø Áèòðèêñ24. Ðåêîìåíäóåì óñòàíîâèòü ïîñëåäíèå îáíîâëåíèÿ ñèñòåìû.";
+$MESS['REST_CONFIGURATION_INSTALL_ACCESS_DENIED'] = 'ÐÐµÑ‚ Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð°';
+$MESS["REST_CONFIGURATION_INSTALL_DISK_FOLDER_NOT_FOUND"] = "ÐŸÐ°Ð¿ÐºÐ° Ð´Ð¸ÑÐºÐ° Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½Ð°";
+$MESS["REST_CONFIGURATION_INSTALL_FILE_CONTENT_ERROR_DECODE"] = "Ð”Ð°Ð½Ð½Ñ‹Ðµ Ñ„Ð°Ð¹Ð»Ð° â„–#STEP# Ð½Ðµ ÑƒÐ´Ð°Ð»Ð¾ÑÑŒ Ð´ÐµÐºÐ¾Ð´Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ Ð¸Ð· json";
+$MESS["REST_CONFIGURATION_INSTALL_FILE_CONTENT_ERROR_SANITIZE"] = "Ð”Ð°Ð½Ð½Ñ‹Ðµ Ñ„Ð°Ð¹Ð»Ð° â„–#STEP# Ð¿Ñ€Ð¸Ð·Ð½Ð°Ð½Ñ‹ Ð¾Ð¿Ð°ÑÐ½Ñ‹Ð¼Ð¸ Ð´Ð»Ñ Ð¿Ñ€Ð¸Ð¼ÐµÐ½ÐµÐ½Ð¸Ñ Ð¸ Ð¿Ñ€Ð¾Ð¿ÑƒÑ‰ÐµÐ½Ñ‹";
+$MESS["REST_CONFIGURATION_INSTALL_FILE_CONTENT_ERROR_SANITIZE_SHORT"] = "Ð”Ð°Ð½Ð½Ñ‹Ðµ Ñ„Ð°Ð¹Ð»Ð° â„–#STEP# Ð¿Ñ€Ð¸Ð·Ð½Ð°Ð½Ñ‹ Ð¾Ð¿Ð°ÑÐ½Ñ‹Ð¼Ð¸.";
+$MESS["REST_CONFIGURATION_INSTALL_CLEAR_PREFIX_NAME"] = "ÑÑ‚Ð°Ñ€Ð¾Ðµ";
+$MESS["REST_CONFIGURATION_INSTALL_ERROR_MANIFEST_OLD"] = "Ð’ Ñ„Ð°Ð¹Ð»Ð°Ñ… Ð¸Ð¼Ð¿Ð¾Ñ€Ñ‚Ð° Ð¼Ð¾Ð³ÑƒÑ‚ Ð±Ñ‹Ñ‚ÑŒ Ð´Ð°Ð½Ð½Ñ‹Ðµ, ÐºÐ¾Ñ‚Ð¾Ñ€Ñ‹Ðµ Ð½Ðµ Ð¿Ð¾Ð»ÑƒÑ‡Ð¸Ñ‚ÑÑ Ð·Ð°Ð³Ñ€ÑƒÐ·Ð¸Ñ‚ÑŒ Ð² Ð²Ð°Ñˆ Ð‘Ð¸Ñ‚Ñ€Ð¸ÐºÑ24. Ð ÐµÐºÐ¾Ð¼ÐµÐ½Ð´ÑƒÐµÐ¼ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð¸Ñ‚ÑŒ Ð¿Ð¾ÑÐ»ÐµÐ´Ð½Ð¸Ðµ Ð¾Ð±Ð½Ð¾Ð²Ð»ÐµÐ½Ð¸Ñ ÑÐ¸ÑÑ‚ÐµÐ¼Ñ‹.";
+$MESS["REST_CONFIGURATION_INSTALL_ERROR_MANIFEST_NOT_FOUND"] = "Ð’ Ñ„Ð°Ð¹Ð»Ð°Ñ… Ð¸Ð¼Ð¿Ð¾Ñ€Ñ‚Ð° Ð¼Ð¾Ð³ÑƒÑ‚ Ð±Ñ‹Ñ‚ÑŒ Ð´Ð°Ð½Ð½Ñ‹Ðµ, ÐºÐ¾Ñ‚Ð¾Ñ€Ñ‹Ðµ Ð½Ðµ Ð¿Ð¾Ð»ÑƒÑ‡Ð¸Ñ‚ÑÑ Ð·Ð°Ð³Ñ€ÑƒÐ·Ð¸Ñ‚ÑŒ Ð² Ð²Ð°Ñˆ Ð‘Ð¸Ñ‚Ñ€Ð¸ÐºÑ24. Ð ÐµÐºÐ¾Ð¼ÐµÐ½Ð´ÑƒÐµÐ¼ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð¸Ñ‚ÑŒ Ð¿Ð¾ÑÐ»ÐµÐ´Ð½Ð¸Ðµ Ð¾Ð±Ð½Ð¾Ð²Ð»ÐµÐ½Ð¸Ñ ÑÐ¸ÑÑ‚ÐµÐ¼Ñ‹.";

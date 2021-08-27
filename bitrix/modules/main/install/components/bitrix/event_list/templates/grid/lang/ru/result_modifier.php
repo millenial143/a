@@ -1,5 +1,5 @@
 <?
-$MESS["EVENT_LIST_USER_FIELD"] = "Ñîòðóäíèê";
-$MESS["EVENT_LIST_DATE_FIELD"] = "Äàòà";
+$MESS["EVENT_LIST_USER_FIELD"] = "Ð¡Ð¾Ñ‚Ñ€ÑƒÐ´Ð½Ð¸Ðº";
+$MESS["EVENT_LIST_DATE_FIELD"] = "Ð”Ð°Ñ‚Ð°";
 $MESS["EVENT_LIST_IP_FIELD"] = "IP";
 ?>

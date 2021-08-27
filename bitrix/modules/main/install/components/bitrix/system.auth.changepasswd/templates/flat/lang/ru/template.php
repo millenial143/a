@@ -1,14 +1,14 @@
 <?
-$MESS ['AUTH_CHANGE_PASSWORD'] = "Ñìåíà ïàðîëÿ";
-$MESS ['AUTH_LOGIN'] = "Ëîãèí";
-$MESS ['AUTH_CHECKWORD'] = "Êîíòðîëüíàÿ ñòðîêà";
-$MESS ['AUTH_NEW_PASSWORD_CONFIRM'] = "Ïîäòâåðæäåíèå ïàðîëÿ";
-$MESS ['AUTH_CHANGE'] = "Èçìåíèòü ïàðîëü";
-$MESS ['AUTH_AUTH'] = "Àâòîðèçàöèÿ";
-$MESS ['AUTH_NEW_PASSWORD_REQ'] = "Íîâûé ïàðîëü";
-$MESS["AUTH_SECURE_NOTE"]="Ïåðåä îòïðàâêîé ôîðìû ïàðîëü áóäåò çàøèôðîâàí â áðàóçåðå. Ýòî ïîçâîëèò èçáåæàòü ïåðåäà÷è ïàðîëÿ â îòêðûòîì âèäå.";
-$MESS["system_auth_captcha"] = "Ââåäèòå ñèìâîëû ñ êàðòèíêè";
-$MESS["change_pass_phone_number"] = "Íîìåð òåëåôîíà";
-$MESS["change_pass_code"] = "Ïðîâåðî÷íûé êîä";
-$MESS["system_change_pass_current_pass"] = "Òåêóùèé ïàðîëü";
+$MESS ['AUTH_CHANGE_PASSWORD'] = "Ð¡Ð¼ÐµÐ½Ð° Ð¿Ð°Ñ€Ð¾Ð»Ñ";
+$MESS ['AUTH_LOGIN'] = "Ð›Ð¾Ð³Ð¸Ð½";
+$MESS ['AUTH_CHECKWORD'] = "ÐšÐ¾Ð½Ñ‚Ñ€Ð¾Ð»ÑŒÐ½Ð°Ñ ÑÑ‚Ñ€Ð¾ÐºÐ°";
+$MESS ['AUTH_NEW_PASSWORD_CONFIRM'] = "ÐŸÐ¾Ð´Ñ‚Ð²ÐµÑ€Ð¶Ð´ÐµÐ½Ð¸Ðµ Ð¿Ð°Ñ€Ð¾Ð»Ñ";
+$MESS ['AUTH_CHANGE'] = "Ð˜Ð·Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ Ð¿Ð°Ñ€Ð¾Ð»ÑŒ";
+$MESS ['AUTH_AUTH'] = "ÐÐ²Ñ‚Ð¾Ñ€Ð¸Ð·Ð°Ñ†Ð¸Ñ";
+$MESS ['AUTH_NEW_PASSWORD_REQ'] = "ÐÐ¾Ð²Ñ‹Ð¹ Ð¿Ð°Ñ€Ð¾Ð»ÑŒ";
+$MESS["AUTH_SECURE_NOTE"]="ÐŸÐµÑ€ÐµÐ´ Ð¾Ñ‚Ð¿Ñ€Ð°Ð²ÐºÐ¾Ð¹ Ñ„Ð¾Ñ€Ð¼Ñ‹ Ð¿Ð°Ñ€Ð¾Ð»ÑŒ Ð±ÑƒÐ´ÐµÑ‚ Ð·Ð°ÑˆÐ¸Ñ„Ñ€Ð¾Ð²Ð°Ð½ Ð² Ð±Ñ€Ð°ÑƒÐ·ÐµÑ€Ðµ. Ð­Ñ‚Ð¾ Ð¿Ð¾Ð·Ð²Ð¾Ð»Ð¸Ñ‚ Ð¸Ð·Ð±ÐµÐ¶Ð°Ñ‚ÑŒ Ð¿ÐµÑ€ÐµÐ´Ð°Ñ‡Ð¸ Ð¿Ð°Ñ€Ð¾Ð»Ñ Ð² Ð¾Ñ‚ÐºÑ€Ñ‹Ñ‚Ð¾Ð¼ Ð²Ð¸Ð´Ðµ.";
+$MESS["system_auth_captcha"] = "Ð’Ð²ÐµÐ´Ð¸Ñ‚Ðµ ÑÐ¸Ð¼Ð²Ð¾Ð»Ñ‹ Ñ ÐºÐ°Ñ€Ñ‚Ð¸Ð½ÐºÐ¸";
+$MESS["change_pass_phone_number"] = "ÐÐ¾Ð¼ÐµÑ€ Ñ‚ÐµÐ»ÐµÑ„Ð¾Ð½Ð°";
+$MESS["change_pass_code"] = "ÐŸÑ€Ð¾Ð²ÐµÑ€Ð¾Ñ‡Ð½Ñ‹Ð¹ ÐºÐ¾Ð´";
+$MESS["system_change_pass_current_pass"] = "Ð¢ÐµÐºÑƒÑ‰Ð¸Ð¹ Ð¿Ð°Ñ€Ð¾Ð»ÑŒ";
 ?>

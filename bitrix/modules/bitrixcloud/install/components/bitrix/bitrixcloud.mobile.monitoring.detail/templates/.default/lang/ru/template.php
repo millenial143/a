@@ -1,15 +1,15 @@
 <?
-$MESS["BCLMMD_PARAM_HTTP_RESPONSE_TIME"] = "Ðàáîòîñïîñîáíîñòü ñàéòà";
-$MESS["BCLMMD_PARAM_FAILED_PERIOD"] = "Âðåìÿ ïðîñòîÿ";
-$MESS["BCLMMD_PARAM_MONITORING_PERIOD"] = "Ïåðèîä èçìåðåíèé";
-$MESS["BCLMMD_PARAM_DOMAIN_REGISTRATION"] = "Ðåãèñòðàöèÿ äîìåíà èñòåêàåò ÷åðåç";
-$MESS["BCLMMD_PARAM_LICENSE"] = "Ëèöåíçèÿ èñòåêàåò ÷åðåç";
-$MESS["BCLMMD_PARAM_MONITORING_SSL"] = "SSL ñåðòèôèêàò èñòåêàåò ÷åðåç";
-$MESS["BCLMMD_EDIT"] = "Ðåäàêòèðîâàòü ñàéò";
-$MESS["BCLMMD_DELETE"] = "Óäàëèòü ñàéò";
-$MESS["BCLMMD_DELETE_CONFIRM"] = "Âû óâåðåíû, ÷òî õîòèòå óäàëèòü ñàéò èç ñïèñêà?";
-$MESS["BCLMMD_BUTT_CANCEL"] = "Îòìåíà";
-$MESS["BCLMMD_BUTT_OK"] = "Óäàëèòü";
-$MESS["BCLMMD_TITLE"] = "Èíñïåêòîð ñàéòîâ";
-$MESS["BCLMMD_NO_DATA"] = "Íåò äàííûõ";
+$MESS["BCLMMD_PARAM_HTTP_RESPONSE_TIME"] = "Ð Ð°Ð±Ð¾Ñ‚Ð¾ÑÐ¿Ð¾ÑÐ¾Ð±Ð½Ð¾ÑÑ‚ÑŒ ÑÐ°Ð¹Ñ‚Ð°";
+$MESS["BCLMMD_PARAM_FAILED_PERIOD"] = "Ð’Ñ€ÐµÐ¼Ñ Ð¿Ñ€Ð¾ÑÑ‚Ð¾Ñ";
+$MESS["BCLMMD_PARAM_MONITORING_PERIOD"] = "ÐŸÐµÑ€Ð¸Ð¾Ð´ Ð¸Ð·Ð¼ÐµÑ€ÐµÐ½Ð¸Ð¹";
+$MESS["BCLMMD_PARAM_DOMAIN_REGISTRATION"] = "Ð ÐµÐ³Ð¸ÑÑ‚Ñ€Ð°Ñ†Ð¸Ñ Ð´Ð¾Ð¼ÐµÐ½Ð° Ð¸ÑÑ‚ÐµÐºÐ°ÐµÑ‚ Ñ‡ÐµÑ€ÐµÐ·";
+$MESS["BCLMMD_PARAM_LICENSE"] = "Ð›Ð¸Ñ†ÐµÐ½Ð·Ð¸Ñ Ð¸ÑÑ‚ÐµÐºÐ°ÐµÑ‚ Ñ‡ÐµÑ€ÐµÐ·";
+$MESS["BCLMMD_PARAM_MONITORING_SSL"] = "SSL ÑÐµÑ€Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚ Ð¸ÑÑ‚ÐµÐºÐ°ÐµÑ‚ Ñ‡ÐµÑ€ÐµÐ·";
+$MESS["BCLMMD_EDIT"] = "Ð ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ ÑÐ°Ð¹Ñ‚";
+$MESS["BCLMMD_DELETE"] = "Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ ÑÐ°Ð¹Ñ‚";
+$MESS["BCLMMD_DELETE_CONFIRM"] = "Ð’Ñ‹ ÑƒÐ²ÐµÑ€ÐµÐ½Ñ‹, Ñ‡Ñ‚Ð¾ Ñ…Ð¾Ñ‚Ð¸Ñ‚Ðµ ÑƒÐ´Ð°Ð»Ð¸Ñ‚ÑŒ ÑÐ°Ð¹Ñ‚ Ð¸Ð· ÑÐ¿Ð¸ÑÐºÐ°?";
+$MESS["BCLMMD_BUTT_CANCEL"] = "ÐžÑ‚Ð¼ÐµÐ½Ð°";
+$MESS["BCLMMD_BUTT_OK"] = "Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ";
+$MESS["BCLMMD_TITLE"] = "Ð˜Ð½ÑÐ¿ÐµÐºÑ‚Ð¾Ñ€ ÑÐ°Ð¹Ñ‚Ð¾Ð²";
+$MESS["BCLMMD_NO_DATA"] = "ÐÐµÑ‚ Ð´Ð°Ð½Ð½Ñ‹Ñ…";
 ?>

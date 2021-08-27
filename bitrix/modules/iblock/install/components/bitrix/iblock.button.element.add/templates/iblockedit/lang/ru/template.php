@@ -1,3 +1,3 @@
 <?
-$MESS['BT_COMP_MEA_TPL_MESS_ADD_ELEMENT'] = 'Äîáàâèòü ýëåìåíò';
+$MESS['BT_COMP_MEA_TPL_MESS_ADD_ELEMENT'] = 'Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚';
 ?>

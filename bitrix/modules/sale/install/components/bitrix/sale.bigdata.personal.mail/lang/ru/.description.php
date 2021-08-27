@@ -1,7 +1,7 @@
 <?
-$MESS["CP_CATALOG_SERVICES_MAIN_SECTION"] = "Ìàãàçèí";
-$MESS["CP_CATALOG_SERVICES_PARENT_SECTION"] = "Èíôîðìàöèÿ î òîâàðàõ";
-$MESS["SBP_PERSONAL_SECTION_TEMPLATE_NAME"] = "Ïåðñîíàëüíûå ðåêîìåíäàöèè";
-$MESS["SBP_PERSONAL_SECTION_TEMPLATE_NAME_MAIL"] = "Ïåðñîíàëüíûå ðåêîìåíäàöèè äëÿ ïî÷òû";
-$MESS["SBP_PERSONAL_SECTION_TEMPLATE_DESCRIPTION"] = "Âûâîäèò ðåêîìåíäîâàííûå òîâàðû ñ óêàçàííûì íàáîðîì ñâîéñòâ, öåí è ò.ä.";
+$MESS["CP_CATALOG_SERVICES_MAIN_SECTION"] = "ÐœÐ°Ð³Ð°Ð·Ð¸Ð½";
+$MESS["CP_CATALOG_SERVICES_PARENT_SECTION"] = "Ð˜Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ñ Ð¾ Ñ‚Ð¾Ð²Ð°Ñ€Ð°Ñ…";
+$MESS["SBP_PERSONAL_SECTION_TEMPLATE_NAME"] = "ÐŸÐµÑ€ÑÐ¾Ð½Ð°Ð»ÑŒÐ½Ñ‹Ðµ Ñ€ÐµÐºÐ¾Ð¼ÐµÐ½Ð´Ð°Ñ†Ð¸Ð¸";
+$MESS["SBP_PERSONAL_SECTION_TEMPLATE_NAME_MAIL"] = "ÐŸÐµÑ€ÑÐ¾Ð½Ð°Ð»ÑŒÐ½Ñ‹Ðµ Ñ€ÐµÐºÐ¾Ð¼ÐµÐ½Ð´Ð°Ñ†Ð¸Ð¸ Ð´Ð»Ñ Ð¿Ð¾Ñ‡Ñ‚Ñ‹";
+$MESS["SBP_PERSONAL_SECTION_TEMPLATE_DESCRIPTION"] = "Ð’Ñ‹Ð²Ð¾Ð´Ð¸Ñ‚ Ñ€ÐµÐºÐ¾Ð¼ÐµÐ½Ð´Ð¾Ð²Ð°Ð½Ð½Ñ‹Ðµ Ñ‚Ð¾Ð²Ð°Ñ€Ñ‹ Ñ ÑƒÐºÐ°Ð·Ð°Ð½Ð½Ñ‹Ð¼ Ð½Ð°Ð±Ð¾Ñ€Ð¾Ð¼ ÑÐ²Ð¾Ð¹ÑÑ‚Ð², Ñ†ÐµÐ½ Ð¸ Ñ‚.Ð´.";
 ?>

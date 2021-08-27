@@ -1,6 +1,6 @@
 <?php
-$MESS['LANDING_BLOCK_35_8_HEADER--NAME'] = 'Øàïêà ñ ëîãîòèïîì ñëåâà è ñëîãàíîì ñïðàâà';
-$MESS['LANDING_BLOCK_35_8_HEADER--LOGO'] = 'Ëîãîòèï';
-$MESS['LANDING_BLOCK_35_8_HEADER--SLOGAN'] = 'Ñëîãàí';
-$MESS['LANDING_BLOCK_35_8_HEADER--CONTAINER'] = 'Áëîê';
-$MESS['LANDING_BLOCK_35_8_HEADER--ELEMENTS'] = 'Ýëåìåíòû';
+$MESS['LANDING_BLOCK_35_8_HEADER--NAME'] = 'Ð¨Ð°Ð¿ÐºÐ° Ñ Ð»Ð¾Ð³Ð¾Ñ‚Ð¸Ð¿Ð¾Ð¼ ÑÐ»ÐµÐ²Ð° Ð¸ ÑÐ»Ð¾Ð³Ð°Ð½Ð¾Ð¼ ÑÐ¿Ñ€Ð°Ð²Ð°';
+$MESS['LANDING_BLOCK_35_8_HEADER--LOGO'] = 'Ð›Ð¾Ð³Ð¾Ñ‚Ð¸Ð¿';
+$MESS['LANDING_BLOCK_35_8_HEADER--SLOGAN'] = 'Ð¡Ð»Ð¾Ð³Ð°Ð½';
+$MESS['LANDING_BLOCK_35_8_HEADER--CONTAINER'] = 'Ð‘Ð»Ð¾Ðº';
+$MESS['LANDING_BLOCK_35_8_HEADER--ELEMENTS'] = 'Ð­Ð»ÐµÐ¼ÐµÐ½Ñ‚Ñ‹';

@@ -1,5 +1,5 @@
 <?php
-$MESS['LANDING_BLOCK_32_12-NAME'] = '2 панорамные картинки';
-$MESS['LANDING_BLOCK_32_12-IMG'] = 'Картинка';
-$MESS['LANDING_BLOCK_32_12-TITLE'] = 'Название';
-$MESS['LANDING_BLOCK_32_12-ROW'] = 'Строка';
+$MESS['LANDING_BLOCK_32_12-NAME'] = '2 РїР°РЅРѕСЂР°РјРЅС‹Рµ РєР°СЂС‚РёРЅРєРё';
+$MESS['LANDING_BLOCK_32_12-IMG'] = 'РљР°СЂС‚РёРЅРєР°';
+$MESS['LANDING_BLOCK_32_12-TITLE'] = 'РќР°Р·РІР°РЅРёРµ';
+$MESS['LANDING_BLOCK_32_12-ROW'] = 'РЎС‚СЂРѕРєР°';

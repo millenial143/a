@@ -1,2 +1,2 @@
 <?php
-$MESS['CATALOG_PRODUCTCARD_FEEDBACK_MODULE_ERROR'] = 'Модуль "Торговый каталог" не установлен';
+$MESS['CATALOG_PRODUCTCARD_FEEDBACK_MODULE_ERROR'] = 'РњРѕРґСѓР»СЊ "РўРѕСЂРіРѕРІС‹Р№ РєР°С‚Р°Р»РѕРі" РЅРµ СѓСЃС‚Р°РЅРѕРІР»РµРЅ';

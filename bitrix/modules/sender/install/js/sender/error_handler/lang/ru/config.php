@@ -1,5 +1,5 @@
 <?
-$MESS["SENDER_ERROR_HANDLER_WRONG_FROM_EMAIL_TITLE"] = "Email îòïðàâèòåëÿ íå ïîäòâåðæäåí.";
-$MESS["SENDER_ERROR_HANDLER_WRONG_FROM_EMAIL_MESSAGE"] = "Íåîáõîäèìî îòðåäàêòèðîâàòü ðàññûëêó è âûáðàòü îäíîãî èç ïîäòâåðæäåííûõ îòïðàâèòåëåé.";
-$MESS["SENDER_ERROR_HANDLER_WRONG_FROM_EMAIL_EDIT_EMAIL"] = "Ðåäàêòèðîâàòü ðàññûëêó";
-$MESS["SENDER_ERROR_HANDLER_WRONG_FROM_EMAIL_CANCEL"] = "Îòìåíà";
+$MESS["SENDER_ERROR_HANDLER_WRONG_FROM_EMAIL_TITLE"] = "Email Ð¾Ñ‚Ð¿Ñ€Ð°Ð²Ð¸Ñ‚ÐµÐ»Ñ Ð½Ðµ Ð¿Ð¾Ð´Ñ‚Ð²ÐµÑ€Ð¶Ð´ÐµÐ½.";
+$MESS["SENDER_ERROR_HANDLER_WRONG_FROM_EMAIL_MESSAGE"] = "ÐÐµÐ¾Ð±Ñ…Ð¾Ð´Ð¸Ð¼Ð¾ Ð¾Ñ‚Ñ€ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ Ñ€Ð°ÑÑÑ‹Ð»ÐºÑƒ Ð¸ Ð²Ñ‹Ð±Ñ€Ð°Ñ‚ÑŒ Ð¾Ð´Ð½Ð¾Ð³Ð¾ Ð¸Ð· Ð¿Ð¾Ð´Ñ‚Ð²ÐµÑ€Ð¶Ð´ÐµÐ½Ð½Ñ‹Ñ… Ð¾Ñ‚Ð¿Ñ€Ð°Ð²Ð¸Ñ‚ÐµÐ»ÐµÐ¹.";
+$MESS["SENDER_ERROR_HANDLER_WRONG_FROM_EMAIL_EDIT_EMAIL"] = "Ð ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ Ñ€Ð°ÑÑÑ‹Ð»ÐºÑƒ";
+$MESS["SENDER_ERROR_HANDLER_WRONG_FROM_EMAIL_CANCEL"] = "ÐžÑ‚Ð¼ÐµÐ½Ð°";

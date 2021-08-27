@@ -1,7 +1,7 @@
 <?
-$MESS["main_app_passwords_ajax_error"] = "Ïðîèçîøëà îøèáêà ïðè îáðàáîòêå çàïðîñà.";
-$MESS["main_app_passwords_ajax_error_auth"] = "Âû äîëæíû áûòü àâòîðèçîâàíû.";
-$MESS["main_app_passwords_ajax_error_sess"] = "Âàøà ñåññèÿ èñòåêëà.";
-$MESS["main_app_passwords_ajax_deleted"] = "Ïàðîëü óñïåøíî óäàëåí.";
-$MESS["main_app_passwords_ajax_no_app"] = "Íå óêàçàíî ïðèëîæåíèå.";
+$MESS["main_app_passwords_ajax_error"] = "ÐŸÑ€Ð¾Ð¸Ð·Ð¾ÑˆÐ»Ð° Ð¾ÑˆÐ¸Ð±ÐºÐ° Ð¿Ñ€Ð¸ Ð¾Ð±Ñ€Ð°Ð±Ð¾Ñ‚ÐºÐµ Ð·Ð°Ð¿Ñ€Ð¾ÑÐ°.";
+$MESS["main_app_passwords_ajax_error_auth"] = "Ð’Ñ‹ Ð´Ð¾Ð»Ð¶Ð½Ñ‹ Ð±Ñ‹Ñ‚ÑŒ Ð°Ð²Ñ‚Ð¾Ñ€Ð¸Ð·Ð¾Ð²Ð°Ð½Ñ‹.";
+$MESS["main_app_passwords_ajax_error_sess"] = "Ð’Ð°ÑˆÐ° ÑÐµÑÑÐ¸Ñ Ð¸ÑÑ‚ÐµÐºÐ»Ð°.";
+$MESS["main_app_passwords_ajax_deleted"] = "ÐŸÐ°Ñ€Ð¾Ð»ÑŒ ÑƒÑÐ¿ÐµÑˆÐ½Ð¾ ÑƒÐ´Ð°Ð»ÐµÐ½.";
+$MESS["main_app_passwords_ajax_no_app"] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½Ð¾ Ð¿Ñ€Ð¸Ð»Ð¾Ð¶ÐµÐ½Ð¸Ðµ.";
 ?>

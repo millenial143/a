@@ -1,4 +1,4 @@
 <?
-$MESS["STORE_ID"] = "ID ñêëàäà";
-$MESS["MAP_TYPE"] = "Òèï êàðòû";
+$MESS["STORE_ID"] = "ID ÑÐºÐ»Ð°Ð´Ð°";
+$MESS["MAP_TYPE"] = "Ð¢Ð¸Ð¿ ÐºÐ°Ñ€Ñ‚Ñ‹";
 ?>

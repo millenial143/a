@@ -1,11 +1,11 @@
 <?
-$MESS["BCLMMSL_BC_NOT_INSTALLED"] = "Íå óñòàíîâëåí ìîäóëü \"Îáëàêî 1Ñ-Áèòðèêñ\"";
-$MESS["BCLMMSL_MA_NOT_INSTALLED"] = "Íå óñòàíîâëåí ìîäóëü \"Ìîáèëüíàÿ ïëàòôîðìà\"";
-$MESS["BCLMMSL_MONITORING_NO_DATA_AVAILABLE"] = "íåâîçìîæíî îïðåäåëèòü";
-$MESS["BCLMMSL_MONITORING_MESS_ALERT1_WEEK"] = "Ïîòåðü çà íåäåëþ";
-$MESS["BCLMMSL_MONITORING_MESS_ALERT1_MONTH"] = "Ïîòåðü çà ìåñÿö";
-$MESS["BCLMMSL_MONITORING_MESS_ALERT1_QUARTER"] = "Ïîòåðü çà êâàðòàë";
-$MESS["BCLMMSL_MONITORING_MESS_ALERT1_YEAR"] = "Ïîòåðü çà ãîä";
-$MESS["BCLMMSL_MONITORING_NO_DATA"] = "ïîêà íåò äàííûõ";
-$MESS["BCLMMSL_ACCESS_DENIED"] = "Äîñòóï çàïðåùåí";
+$MESS["BCLMMSL_BC_NOT_INSTALLED"] = "ÐÐµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½ Ð¼Ð¾Ð´ÑƒÐ»ÑŒ \"ÐžÐ±Ð»Ð°ÐºÐ¾ 1Ð¡-Ð‘Ð¸Ñ‚Ñ€Ð¸ÐºÑ\"";
+$MESS["BCLMMSL_MA_NOT_INSTALLED"] = "ÐÐµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½ Ð¼Ð¾Ð´ÑƒÐ»ÑŒ \"ÐœÐ¾Ð±Ð¸Ð»ÑŒÐ½Ð°Ñ Ð¿Ð»Ð°Ñ‚Ñ„Ð¾Ñ€Ð¼Ð°\"";
+$MESS["BCLMMSL_MONITORING_NO_DATA_AVAILABLE"] = "Ð½ÐµÐ²Ð¾Ð·Ð¼Ð¾Ð¶Ð½Ð¾ Ð¾Ð¿Ñ€ÐµÐ´ÐµÐ»Ð¸Ñ‚ÑŒ";
+$MESS["BCLMMSL_MONITORING_MESS_ALERT1_WEEK"] = "ÐŸÐ¾Ñ‚ÐµÑ€ÑŒ Ð·Ð° Ð½ÐµÐ´ÐµÐ»ÑŽ";
+$MESS["BCLMMSL_MONITORING_MESS_ALERT1_MONTH"] = "ÐŸÐ¾Ñ‚ÐµÑ€ÑŒ Ð·Ð° Ð¼ÐµÑÑÑ†";
+$MESS["BCLMMSL_MONITORING_MESS_ALERT1_QUARTER"] = "ÐŸÐ¾Ñ‚ÐµÑ€ÑŒ Ð·Ð° ÐºÐ²Ð°Ñ€Ñ‚Ð°Ð»";
+$MESS["BCLMMSL_MONITORING_MESS_ALERT1_YEAR"] = "ÐŸÐ¾Ñ‚ÐµÑ€ÑŒ Ð·Ð° Ð³Ð¾Ð´";
+$MESS["BCLMMSL_MONITORING_NO_DATA"] = "Ð¿Ð¾ÐºÐ° Ð½ÐµÑ‚ Ð´Ð°Ð½Ð½Ñ‹Ñ…";
+$MESS["BCLMMSL_ACCESS_DENIED"] = "Ð”Ð¾ÑÑ‚ÑƒÐ¿ Ð·Ð°Ð¿Ñ€ÐµÑ‰ÐµÐ½";
 ?>

@@ -1,4 +1,4 @@
 <?
-$MESS["VIEWED_IMG_HEIGHT"] = "Âûñîòà èçîáðàæåíèÿ";
-$MESS["VIEWED_IMG_WIDTH"] = "Øèðèíà èçîáðàæåíèÿ";
+$MESS["VIEWED_IMG_HEIGHT"] = "Ð’Ñ‹ÑÐ¾Ñ‚Ð° Ð¸Ð·Ð¾Ð±Ñ€Ð°Ð¶ÐµÐ½Ð¸Ñ";
+$MESS["VIEWED_IMG_WIDTH"] = "Ð¨Ð¸Ñ€Ð¸Ð½Ð° Ð¸Ð·Ð¾Ð±Ñ€Ð°Ð¶ÐµÐ½Ð¸Ñ";
 ?>

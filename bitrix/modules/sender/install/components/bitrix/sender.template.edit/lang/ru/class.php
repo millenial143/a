@@ -1,4 +1,4 @@
 <?
-$MESS['SENDER_COMP_TEMPLATE_EDIT_TITLE_ADD'] = 'Создание почтового шаблона';
-$MESS['SENDER_COMP_TEMPLATE_EDIT_TITLE_EDIT'] = 'Редактирование почтового шаблона';
+$MESS['SENDER_COMP_TEMPLATE_EDIT_TITLE_ADD'] = 'РЎРѕР·РґР°РЅРёРµ РїРѕС‡С‚РѕРІРѕРіРѕ С€Р°Р±Р»РѕРЅР°';
+$MESS['SENDER_COMP_TEMPLATE_EDIT_TITLE_EDIT'] = 'Р РµРґР°РєС‚РёСЂРѕРІР°РЅРёРµ РїРѕС‡С‚РѕРІРѕРіРѕ С€Р°Р±Р»РѕРЅР°';
 ?>

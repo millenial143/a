@@ -1,5 +1,5 @@
 <?
-$MESS["BLOG_COMPONENT"] = "Áëîãè";
-$MESS["BLOG_COMPONENT_DESCRIPTION"] = "Êîìïëåêñíûé êîìïîíåíò áëîãîâ";
-$MESS ['BLOG'] = "Áëîãè";
+$MESS["BLOG_COMPONENT"] = "Ð‘Ð»Ð¾Ð³Ð¸";
+$MESS["BLOG_COMPONENT_DESCRIPTION"] = "ÐšÐ¾Ð¼Ð¿Ð»ÐµÐºÑÐ½Ñ‹Ð¹ ÐºÐ¾Ð¼Ð¿Ð¾Ð½ÐµÐ½Ñ‚ Ð±Ð»Ð¾Ð³Ð¾Ð²";
+$MESS ['BLOG'] = "Ð‘Ð»Ð¾Ð³Ð¸";
 ?>

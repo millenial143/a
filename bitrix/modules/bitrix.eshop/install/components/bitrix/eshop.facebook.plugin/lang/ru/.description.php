@@ -1,6 +1,6 @@
 <?
-$MESS["T_ESHOP"] = "Ðåøåíèå \"Èíòåðíåò-ìàãàçèí\"";
-$MESS ['SBB_DEFAULT_TEMPLATE_NAME'] = "Ïëàãèí facebook";
-$MESS ['SBB_DEFAULT_TEMPLATE_DESCRIPTION'] = "Ïîäêëþ÷àåò ïëàãèí facebook";
-$MESS ['SBB_NAME'] = "Ïëàãèí facebook";
+$MESS["T_ESHOP"] = "Ð ÐµÑˆÐµÐ½Ð¸Ðµ \"Ð˜Ð½Ñ‚ÐµÑ€Ð½ÐµÑ‚-Ð¼Ð°Ð³Ð°Ð·Ð¸Ð½\"";
+$MESS ['SBB_DEFAULT_TEMPLATE_NAME'] = "ÐŸÐ»Ð°Ð³Ð¸Ð½ facebook";
+$MESS ['SBB_DEFAULT_TEMPLATE_DESCRIPTION'] = "ÐŸÐ¾Ð´ÐºÐ»ÑŽÑ‡Ð°ÐµÑ‚ Ð¿Ð»Ð°Ð³Ð¸Ð½ facebook";
+$MESS ['SBB_NAME'] = "ÐŸÐ»Ð°Ð³Ð¸Ð½ facebook";
 ?>

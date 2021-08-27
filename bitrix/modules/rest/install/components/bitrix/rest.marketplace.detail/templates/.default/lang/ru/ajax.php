@@ -1,5 +1,5 @@
 <?
-$MESS["REST_APP_INSTALL_REQUEST_TEXT"] = "Ïîëüçîâàòåëü #USER_NAME# çàïðîñèë óñòàíîâêó ïðèëîæåíèÿ \"#APP_NAME#\". Óñòàíîâèòü?";
-$MESS["REST_APP_INSTALL_REQUEST_ACCEPT"] = "Äà";
-$MESS["REST_APP_INSTALL_REQUEST_CANCEL"] = "Íåò";
+$MESS["REST_APP_INSTALL_REQUEST_TEXT"] = "ÐŸÐ¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒ #USER_NAME# Ð·Ð°Ð¿Ñ€Ð¾ÑÐ¸Ð» ÑƒÑÑ‚Ð°Ð½Ð¾Ð²ÐºÑƒ Ð¿Ñ€Ð¸Ð»Ð¾Ð¶ÐµÐ½Ð¸Ñ \"#APP_NAME#\". Ð£ÑÑ‚Ð°Ð½Ð¾Ð²Ð¸Ñ‚ÑŒ?";
+$MESS["REST_APP_INSTALL_REQUEST_ACCEPT"] = "Ð”Ð°";
+$MESS["REST_APP_INSTALL_REQUEST_CANCEL"] = "ÐÐµÑ‚";
 ?>

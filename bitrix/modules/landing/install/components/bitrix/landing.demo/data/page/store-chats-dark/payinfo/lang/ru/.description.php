@@ -1,7 +1,7 @@
 <?php
-$MESS['LANDING_DEMO_STORE_CHATS_DARK-PAYINFO-NAME'] = 'Èíôîðìàöèÿ îá îïëàòå';
-$MESS['LANDING_DEMO_STORE_CHATS_DARK-PAYINFO-DESC'] = 'Èíôîðìàöèÿ î ñïîñîáàõ îïëàòû íà ñàéòå';
-$MESS['LANDING_DEMO_STORE_CHATS_DARK-PAYINFO-RICH_NAME'] = 'Êàê îïëàòèòü çàêàç?';
-$MESS['LANDING_DEMO_STORE_CHATS_DARK-PAYINFO-RICH_DESC'] = 'Äîñòóïíû áûñòðûå ìîáèëüíûå ïëàòåæè. Âûáèðàéòå óäîáíûé äëÿ âàñ ñïîñîá!';
-$MESS['LANDING_DEMO_STORE_CHATS_DARK-PAYINFO-TEXT1'] = 'Èíôîðìàöèÿ îá îïëàòå';
-$MESS['LANDING_DEMO_STORE_CHATS_DARK-PAYINFO-TEXT2'] = 'Îïëàòèòü çàêàç ìîæíî ïðÿìî â ÷àòå, âûáðàâ ïîäõîäÿùóþ âàì ñèñòåìó îíëàéí-ïëàòåæåé.';
+$MESS['LANDING_DEMO_STORE_CHATS_DARK-PAYINFO-NAME'] = 'Ð˜Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ñ Ð¾Ð± Ð¾Ð¿Ð»Ð°Ñ‚Ðµ';
+$MESS['LANDING_DEMO_STORE_CHATS_DARK-PAYINFO-DESC'] = 'Ð˜Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ñ Ð¾ ÑÐ¿Ð¾ÑÐ¾Ð±Ð°Ñ… Ð¾Ð¿Ð»Ð°Ñ‚Ñ‹ Ð½Ð° ÑÐ°Ð¹Ñ‚Ðµ';
+$MESS['LANDING_DEMO_STORE_CHATS_DARK-PAYINFO-RICH_NAME'] = 'ÐšÐ°Ðº Ð¾Ð¿Ð»Ð°Ñ‚Ð¸Ñ‚ÑŒ Ð·Ð°ÐºÐ°Ð·?';
+$MESS['LANDING_DEMO_STORE_CHATS_DARK-PAYINFO-RICH_DESC'] = 'Ð”Ð¾ÑÑ‚ÑƒÐ¿Ð½Ñ‹ Ð±Ñ‹ÑÑ‚Ñ€Ñ‹Ðµ Ð¼Ð¾Ð±Ð¸Ð»ÑŒÐ½Ñ‹Ðµ Ð¿Ð»Ð°Ñ‚ÐµÐ¶Ð¸. Ð’Ñ‹Ð±Ð¸Ñ€Ð°Ð¹Ñ‚Ðµ ÑƒÐ´Ð¾Ð±Ð½Ñ‹Ð¹ Ð´Ð»Ñ Ð²Ð°Ñ ÑÐ¿Ð¾ÑÐ¾Ð±!';
+$MESS['LANDING_DEMO_STORE_CHATS_DARK-PAYINFO-TEXT1'] = 'Ð˜Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ñ Ð¾Ð± Ð¾Ð¿Ð»Ð°Ñ‚Ðµ';
+$MESS['LANDING_DEMO_STORE_CHATS_DARK-PAYINFO-TEXT2'] = 'ÐžÐ¿Ð»Ð°Ñ‚Ð¸Ñ‚ÑŒ Ð·Ð°ÐºÐ°Ð· Ð¼Ð¾Ð¶Ð½Ð¾ Ð¿Ñ€ÑÐ¼Ð¾ Ð² Ñ‡Ð°Ñ‚Ðµ, Ð²Ñ‹Ð±Ñ€Ð°Ð² Ð¿Ð¾Ð´Ñ…Ð¾Ð´ÑÑ‰ÑƒÑŽ Ð²Ð°Ð¼ ÑÐ¸ÑÑ‚ÐµÐ¼Ñƒ Ð¾Ð½Ð»Ð°Ð¹Ð½-Ð¿Ð»Ð°Ñ‚ÐµÐ¶ÐµÐ¹.';

@@ -1,11 +1,11 @@
 <?php
-$MESS['LANDING_DEMO_STORE_CHATS_DARK-MAIN-NAME'] = 'Ïðîäàæè â ÷àòàõ';
-$MESS['LANDING_DEMO_STORE_CHATS_DARK-MAIN-DESC_NEW'] = 'Ìàãàçèí äëÿ ïðîäàæ â ñîöñåòÿõ è ìåññåíäæåðàõ. Îòïðàâëÿéòå êëèåíòàì ñòðàíèöû ñ òîâàðàìè è óñëóãàìè. Íå òåðÿéòå êëèåíòîâ, ïðèíèìàÿ îïëàòó ïðÿìî â ÷àòå.';
-$MESS['LANDING_DEMO_STORE_CHATS_DARK-MAIN-RICH_NAME'] = 'Ïîëåçíûå ññûëêè';
-$MESS['LANDING_DEMO_STORE_CHATS_DARK-MAIN-RICH_DESC'] = 'Âñÿ èíôîðìàöèÿ î íàøåé êîìïàíèè è óñëóãàõ. Îñòàíóòñÿ âîïðîñû - ïèøèòå íàì â ÷àò!';
-$MESS["LANDING_DEMO_STORE_CHATS_DARK-MAIN-TEXT1"] = "Î íàñ";
-$MESS["LANDING_DEMO_STORE_CHATS_DARK-MAIN-TEXT2"] = "Êîíòàêòû";
-$MESS["LANDING_DEMO_STORE_CHATS_DARK-MAIN-TEXT3"] = "Èíôîðìàöèÿ îá îïëàòå";
-$MESS["LANDING_DEMO_STORE_CHATS_DARK-MAIN-TEXT4"] = "Ôîðìà äëÿ ñâÿçè";
-$MESS["LANDING_DEMO_STORE_CHATS_DARK-MAIN-TEXT5"] = "Ìû äóìàåì î êàæäîì êëèåíòå!";
-$MESS["LANDING_DEMO_STORE_CHATS_DARK-MAIN-TEXT6"] = "Âèçèòêà";
+$MESS['LANDING_DEMO_STORE_CHATS_DARK-MAIN-NAME'] = 'ÐŸÑ€Ð¾Ð´Ð°Ð¶Ð¸ Ð² Ñ‡Ð°Ñ‚Ð°Ñ…';
+$MESS['LANDING_DEMO_STORE_CHATS_DARK-MAIN-DESC_NEW'] = 'ÐœÐ°Ð³Ð°Ð·Ð¸Ð½ Ð´Ð»Ñ Ð¿Ñ€Ð¾Ð´Ð°Ð¶ Ð² ÑÐ¾Ñ†ÑÐµÑ‚ÑÑ… Ð¸ Ð¼ÐµÑÑÐµÐ½Ð´Ð¶ÐµÑ€Ð°Ñ…. ÐžÑ‚Ð¿Ñ€Ð°Ð²Ð»ÑÐ¹Ñ‚Ðµ ÐºÐ»Ð¸ÐµÐ½Ñ‚Ð°Ð¼ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñ‹ Ñ Ñ‚Ð¾Ð²Ð°Ñ€Ð°Ð¼Ð¸ Ð¸ ÑƒÑÐ»ÑƒÐ³Ð°Ð¼Ð¸. ÐÐµ Ñ‚ÐµÑ€ÑÐ¹Ñ‚Ðµ ÐºÐ»Ð¸ÐµÐ½Ñ‚Ð¾Ð², Ð¿Ñ€Ð¸Ð½Ð¸Ð¼Ð°Ñ Ð¾Ð¿Ð»Ð°Ñ‚Ñƒ Ð¿Ñ€ÑÐ¼Ð¾ Ð² Ñ‡Ð°Ñ‚Ðµ.';
+$MESS['LANDING_DEMO_STORE_CHATS_DARK-MAIN-RICH_NAME'] = 'ÐŸÐ¾Ð»ÐµÐ·Ð½Ñ‹Ðµ ÑÑÑ‹Ð»ÐºÐ¸';
+$MESS['LANDING_DEMO_STORE_CHATS_DARK-MAIN-RICH_DESC'] = 'Ð’ÑÑ Ð¸Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ñ Ð¾ Ð½Ð°ÑˆÐµÐ¹ ÐºÐ¾Ð¼Ð¿Ð°Ð½Ð¸Ð¸ Ð¸ ÑƒÑÐ»ÑƒÐ³Ð°Ñ…. ÐžÑÑ‚Ð°Ð½ÑƒÑ‚ÑÑ Ð²Ð¾Ð¿Ñ€Ð¾ÑÑ‹ - Ð¿Ð¸ÑˆÐ¸Ñ‚Ðµ Ð½Ð°Ð¼ Ð² Ñ‡Ð°Ñ‚!';
+$MESS["LANDING_DEMO_STORE_CHATS_DARK-MAIN-TEXT1"] = "Ðž Ð½Ð°Ñ";
+$MESS["LANDING_DEMO_STORE_CHATS_DARK-MAIN-TEXT2"] = "ÐšÐ¾Ð½Ñ‚Ð°ÐºÑ‚Ñ‹";
+$MESS["LANDING_DEMO_STORE_CHATS_DARK-MAIN-TEXT3"] = "Ð˜Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ñ Ð¾Ð± Ð¾Ð¿Ð»Ð°Ñ‚Ðµ";
+$MESS["LANDING_DEMO_STORE_CHATS_DARK-MAIN-TEXT4"] = "Ð¤Ð¾Ñ€Ð¼Ð° Ð´Ð»Ñ ÑÐ²ÑÐ·Ð¸";
+$MESS["LANDING_DEMO_STORE_CHATS_DARK-MAIN-TEXT5"] = "ÐœÑ‹ Ð´ÑƒÐ¼Ð°ÐµÐ¼ Ð¾ ÐºÐ°Ð¶Ð´Ð¾Ð¼ ÐºÐ»Ð¸ÐµÐ½Ñ‚Ðµ!";
+$MESS["LANDING_DEMO_STORE_CHATS_DARK-MAIN-TEXT6"] = "Ð’Ð¸Ð·Ð¸Ñ‚ÐºÐ°";

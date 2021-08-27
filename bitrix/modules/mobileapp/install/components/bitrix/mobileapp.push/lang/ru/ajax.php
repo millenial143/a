@@ -1,5 +1,5 @@
 <?
-$MESS["MOBILE_APP_PUSH_MOBILEAPP_NOT_INSTALLED"] = "Не установлен модуль mobileapp";
-$MESS["MOBILE_APP_PUSH_ACCESS_DENIED"] = "Доступ запрещен";
-$MESS["MOBILE_APP_PUSH_SAVE_OPTS_ERROR"] = "Данные сохранить не удалось";
+$MESS["MOBILE_APP_PUSH_MOBILEAPP_NOT_INSTALLED"] = "РќРµ СѓСЃС‚Р°РЅРѕРІР»РµРЅ РјРѕРґСѓР»СЊ mobileapp";
+$MESS["MOBILE_APP_PUSH_ACCESS_DENIED"] = "Р”РѕСЃС‚СѓРї Р·Р°РїСЂРµС‰РµРЅ";
+$MESS["MOBILE_APP_PUSH_SAVE_OPTS_ERROR"] = "Р”Р°РЅРЅС‹Рµ СЃРѕС…СЂР°РЅРёС‚СЊ РЅРµ СѓРґР°Р»РѕСЃСЊ";
 ?>

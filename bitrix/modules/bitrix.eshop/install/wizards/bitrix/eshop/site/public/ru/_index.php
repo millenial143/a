@@ -1,6 +1,6 @@
 <?
 require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
-$APPLICATION->SetTitle("Интернет-магазин \"Одежда\"");
+$APPLICATION->SetTitle("РРЅС‚РµСЂРЅРµС‚-РјР°РіР°Р·РёРЅ \"РћРґРµР¶РґР°\"");
 ?>
 <?if (IsModuleInstalled("advertising")):?>
 	<div class="mb-5">
@@ -33,7 +33,7 @@ $APPLICATION->SetTitle("Интернет-магазин \"Одежда\"");
 global $trendFilter;
 $trendFilter = array('PROPERTY_TREND' => '#TREND_PROPERTY_VALUE_ID#');
 ?>
-<h2>Тренды сезона</h2>
+<h2>РўСЂРµРЅРґС‹ СЃРµР·РѕРЅР°</h2>
 <?$APPLICATION->IncludeComponent(
 	"bitrix:catalog.section",
 	"bootstrap_v4",
@@ -93,11 +93,11 @@ $trendFilter = array('PROPERTY_TREND' => '#TREND_PROPERTY_VALUE_ID#');
 		"SHOW_DISCOUNT_PERCENT" => "N",
 		"SHOW_OLD_PRICE" => "Y",
 		"SHOW_CLOSE_POPUP" => "N",
-		"MESS_BTN_BUY" => "Купить",
-		"MESS_BTN_ADD_TO_BASKET" => "В корзину",
-		"MESS_BTN_SUBSCRIBE" => "Подписаться",
-		"MESS_BTN_DETAIL" => "Подробнее",
-		"MESS_NOT_AVAILABLE" => "Нет в наличии",
+		"MESS_BTN_BUY" => "РљСѓРїРёС‚СЊ",
+		"MESS_BTN_ADD_TO_BASKET" => "Р’ РєРѕСЂР·РёРЅСѓ",
+		"MESS_BTN_SUBSCRIBE" => "РџРѕРґРїРёСЃР°С‚СЊСЃСЏ",
+		"MESS_BTN_DETAIL" => "РџРѕРґСЂРѕР±РЅРµРµ",
+		"MESS_NOT_AVAILABLE" => "РќРµС‚ РІ РЅР°Р»РёС‡РёРё",
 		"SECTION_URL" => "",
 		"DETAIL_URL" => "",
 		"SECTION_ID_VARIABLE" => "SECTION_ID",
@@ -146,7 +146,7 @@ $trendFilter = array('PROPERTY_TREND' => '#TREND_PROPERTY_VALUE_ID#');
 		"PAGER_TEMPLATE" => "round",
 		"DISPLAY_TOP_PAGER" => "N",
 		"DISPLAY_BOTTOM_PAGER" => "Y",
-		"PAGER_TITLE" => "Товары",
+		"PAGER_TITLE" => "РўРѕРІР°СЂС‹",
 		"PAGER_SHOW_ALWAYS" => "N",
 		"PAGER_DESC_NUMBERING" => "N",
 		"PAGER_DESC_NUMBERING_CACHE_TIME" => "36000",

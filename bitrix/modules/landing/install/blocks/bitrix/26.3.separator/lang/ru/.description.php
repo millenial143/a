@@ -1,2 +1,2 @@
 <?php
-$MESS['LANDING_BLOCK_26_3_SEPARATOR_NAME'] = 'Ïåðåõîä öâåòîì ïî íàïðàâëåíèþ âíèç';
+$MESS['LANDING_BLOCK_26_3_SEPARATOR_NAME'] = 'ÐŸÐµÑ€ÐµÑ…Ð¾Ð´ Ñ†Ð²ÐµÑ‚Ð¾Ð¼ Ð¿Ð¾ Ð½Ð°Ð¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¸ÑŽ Ð²Ð½Ð¸Ð·';

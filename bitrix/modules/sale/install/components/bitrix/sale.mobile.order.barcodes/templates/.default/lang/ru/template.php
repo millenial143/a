@@ -1,11 +1,11 @@
 <?
-$MESS["SMOB_PRODUCT_NAME"] = "Íàèìåíîâàíèå òîâàðà";
-$MESS["SMOB_BUTTON_CHECK"] = "Ïðîâåðèòü";
-$MESS["SMOB_BUTTON_SAVE"] = "Ñîõðàíèòü";
-$MESS["SMOB_BUTTON_BACK"] = "Íàçàä";
-$MESS["SMOB_BARCODE_ENTER"] = "Ââåäèòå øòðèõêîä";
-$MESS["SMOB_BARCODE_SCAN"] = "Ïðîñêàíèðîâàòü";
-$MESS["SMOB_CHECK_ERROR"] = "Îøèáêà ïðîâåðêè øòðèõ-êîäà";
-$MESS["SMOB_SCAN_ERROR"] = "Îøèáêà ñêàíèðîâàíèÿ øòðèõ-êîäà";
-$MESS["SMOB_STORE_NAME_TMPL"] = "Ñêëàä: \"##STORE_NAME##\" (##STORE_ID##)";
+$MESS["SMOB_PRODUCT_NAME"] = "ÐÐ°Ð¸Ð¼ÐµÐ½Ð¾Ð²Ð°Ð½Ð¸Ðµ Ñ‚Ð¾Ð²Ð°Ñ€Ð°";
+$MESS["SMOB_BUTTON_CHECK"] = "ÐŸÑ€Ð¾Ð²ÐµÑ€Ð¸Ñ‚ÑŒ";
+$MESS["SMOB_BUTTON_SAVE"] = "Ð¡Ð¾Ñ…Ñ€Ð°Ð½Ð¸Ñ‚ÑŒ";
+$MESS["SMOB_BUTTON_BACK"] = "ÐÐ°Ð·Ð°Ð´";
+$MESS["SMOB_BARCODE_ENTER"] = "Ð’Ð²ÐµÐ´Ð¸Ñ‚Ðµ ÑˆÑ‚Ñ€Ð¸Ñ…ÐºÐ¾Ð´";
+$MESS["SMOB_BARCODE_SCAN"] = "ÐŸÑ€Ð¾ÑÐºÐ°Ð½Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ";
+$MESS["SMOB_CHECK_ERROR"] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð¿Ñ€Ð¾Ð²ÐµÑ€ÐºÐ¸ ÑˆÑ‚Ñ€Ð¸Ñ…-ÐºÐ¾Ð´Ð°";
+$MESS["SMOB_SCAN_ERROR"] = "ÐžÑˆÐ¸Ð±ÐºÐ° ÑÐºÐ°Ð½Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ñ ÑˆÑ‚Ñ€Ð¸Ñ…-ÐºÐ¾Ð´Ð°";
+$MESS["SMOB_STORE_NAME_TMPL"] = "Ð¡ÐºÐ»Ð°Ð´: \"##STORE_NAME##\" (##STORE_ID##)";
 ?>

@@ -1,9 +1,9 @@
 <?php
-$MESS['LANDING_DEMO_STORE_CHATS_LIGHT-ORDER-NAME'] = 'Îôîðìëåíèå çàêàçà';
-$MESS['LANDING_DEMO_STORE_CHATS_LIGHT-ORDER-DESC'] = 'Ñòðàíèöà ñ ïîëíûì îôîðìëåíèåì çàêàçà.';
-$MESS['LANDING_DEMO_STORE_CHATS_LIGHT-ORDER-RICH_NAME'] = 'Âàø çàêàç';
-$MESS['LANDING_DEMO_STORE_CHATS_LIGHT-ORDER-RICH_DESC'] = 'Èíôîðìàöèÿ î âàøåì çàêàçå. Ñïàñèáî, ÷òî âûáèðàåòå íàñ!';
-$MESS['LANDING_DEMO_STORE_CHATS_LIGHT-ORDER-TEXT1'] = 'Ìû íàõîäèìñÿ çäåñü';
-$MESS['LANDING_DEMO_STORE_CHATS_LIGHT-ORDER-TEXT2'] = 'Êàëèíèíãðàä, Ãîñòèíàÿ, 3';
-$MESS['LANDING_DEMO_STORE_CHATS_LIGHT-ORDER-TEXT3'] = 'Ïîçâîíèòü';
-$MESS['LANDING_DEMO_STORE_CHATS_LIGHT-ORDER-TEXT5'] = 'Ñâÿçàòüñÿ ñ íàìè';
+$MESS['LANDING_DEMO_STORE_CHATS_LIGHT-ORDER-NAME'] = 'ÐžÑ„Ð¾Ñ€Ð¼Ð»ÐµÐ½Ð¸Ðµ Ð·Ð°ÐºÐ°Ð·Ð°';
+$MESS['LANDING_DEMO_STORE_CHATS_LIGHT-ORDER-DESC'] = 'Ð¡Ñ‚Ñ€Ð°Ð½Ð¸Ñ†Ð° Ñ Ð¿Ð¾Ð»Ð½Ñ‹Ð¼ Ð¾Ñ„Ð¾Ñ€Ð¼Ð»ÐµÐ½Ð¸ÐµÐ¼ Ð·Ð°ÐºÐ°Ð·Ð°.';
+$MESS['LANDING_DEMO_STORE_CHATS_LIGHT-ORDER-RICH_NAME'] = 'Ð’Ð°Ñˆ Ð·Ð°ÐºÐ°Ð·';
+$MESS['LANDING_DEMO_STORE_CHATS_LIGHT-ORDER-RICH_DESC'] = 'Ð˜Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ñ Ð¾ Ð²Ð°ÑˆÐµÐ¼ Ð·Ð°ÐºÐ°Ð·Ðµ. Ð¡Ð¿Ð°ÑÐ¸Ð±Ð¾, Ñ‡Ñ‚Ð¾ Ð²Ñ‹Ð±Ð¸Ñ€Ð°ÐµÑ‚Ðµ Ð½Ð°Ñ!';
+$MESS['LANDING_DEMO_STORE_CHATS_LIGHT-ORDER-TEXT1'] = 'ÐœÑ‹ Ð½Ð°Ñ…Ð¾Ð´Ð¸Ð¼ÑÑ Ð·Ð´ÐµÑÑŒ';
+$MESS['LANDING_DEMO_STORE_CHATS_LIGHT-ORDER-TEXT2'] = 'ÐšÐ°Ð»Ð¸Ð½Ð¸Ð½Ð³Ñ€Ð°Ð´, Ð“Ð¾ÑÑ‚Ð¸Ð½Ð°Ñ, 3';
+$MESS['LANDING_DEMO_STORE_CHATS_LIGHT-ORDER-TEXT3'] = 'ÐŸÐ¾Ð·Ð²Ð¾Ð½Ð¸Ñ‚ÑŒ';
+$MESS['LANDING_DEMO_STORE_CHATS_LIGHT-ORDER-TEXT5'] = 'Ð¡Ð²ÑÐ·Ð°Ñ‚ÑŒÑÑ Ñ Ð½Ð°Ð¼Ð¸';

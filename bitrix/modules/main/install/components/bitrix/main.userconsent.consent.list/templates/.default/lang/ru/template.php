@@ -1,9 +1,9 @@
 <?
-$MESS["MAIN_USER_CONSENT_EDIT_TMPL_NAME"] = "Íàçâàíèå";
-$MESS["MAIN_USER_CONSENT_EDIT_TMPL_TYPE"] = "Òèï - ñîáñòâåííîå/ñòàíäàðòíîå";
-$MESS["MAIN_USER_CONSENT_EDIT_TMPL_DATA_PROVIDER"] = "Èñòî÷íèê äàííûõ";
-$MESS["MAIN_USER_CONSENT_EDIT_TMPL_DATA_PROVIDER_DEF"] = "(óêàçûâàåòñÿ âðó÷íóþ)";
-$MESS["MAIN_USER_CONSENT_EDIT_TMPL_BTN_SAVE"] = "Ñîõðàíèòü";
-$MESS["MAIN_USER_CONSENT_EDIT_TMPL_BTN_APPLY"] = "Ïðèìåíèòü";
-$MESS["MAIN_USER_CONSENT_EDIT_TMPL_BTN_BACK_TO_LIST"] = "Íàçàä ê ñïèñêó";
+$MESS["MAIN_USER_CONSENT_EDIT_TMPL_NAME"] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ";
+$MESS["MAIN_USER_CONSENT_EDIT_TMPL_TYPE"] = "Ð¢Ð¸Ð¿ - ÑÐ¾Ð±ÑÑ‚Ð²ÐµÐ½Ð½Ð¾Ðµ/ÑÑ‚Ð°Ð½Ð´Ð°Ñ€Ñ‚Ð½Ð¾Ðµ";
+$MESS["MAIN_USER_CONSENT_EDIT_TMPL_DATA_PROVIDER"] = "Ð˜ÑÑ‚Ð¾Ñ‡Ð½Ð¸Ðº Ð´Ð°Ð½Ð½Ñ‹Ñ…";
+$MESS["MAIN_USER_CONSENT_EDIT_TMPL_DATA_PROVIDER_DEF"] = "(ÑƒÐºÐ°Ð·Ñ‹Ð²Ð°ÐµÑ‚ÑÑ Ð²Ñ€ÑƒÑ‡Ð½ÑƒÑŽ)";
+$MESS["MAIN_USER_CONSENT_EDIT_TMPL_BTN_SAVE"] = "Ð¡Ð¾Ñ…Ñ€Ð°Ð½Ð¸Ñ‚ÑŒ";
+$MESS["MAIN_USER_CONSENT_EDIT_TMPL_BTN_APPLY"] = "ÐŸÑ€Ð¸Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ";
+$MESS["MAIN_USER_CONSENT_EDIT_TMPL_BTN_BACK_TO_LIST"] = "ÐÐ°Ð·Ð°Ð´ Ðº ÑÐ¿Ð¸ÑÐºÑƒ";
 ?>

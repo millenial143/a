@@ -1,8 +1,8 @@
 <?
-$MESS['NUMERATOR_EDIT_SEQUENCE_COLUMN_HEADER_NEXT_NUMBER'] = 'Ñëåäóþùèé íîìåð áóäåò ðàâåí';
-$MESS['NUMERATOR_EDIT_SEQUENCE_COLUMN_HEADER_TEXT_KEY'] = 'Êëþ÷ íóìåðàòîðà';
-$MESS['MAIN_NUMERATOR_EDIT_SEQUENCE_PAGE_TITLE'] = 'Òåêóùèå íîìåðà';
-$MESS['MAIN_NUMERATOR_EDIT_SEQUENCE_ERROR_NUMBER_LESS'] = 'Íîìåð äîëæåí áûòü áîëüøå òåêóùåãî';
-$MESS['MAIN_NUMERATOR_EDIT_SEQUENCE_ERROR_NUMERATOR_NOT_FOUND'] = 'Íóìåðàòîð íå íàéäåí';
-$MESS['MAIN_NUMERATOR_EDIT_SEQUENCE_ERROR_TITLE'] = 'Âíóòðåííÿÿ îøèáêà';
-$MESS['MAIN_NUMERATOR_EDIT_SEQUENCE_ERROR_NUMBER_NOT_NUMERIC'] = 'Íîìåð äîëæåí áûòü ÷èñëîì';
+$MESS['NUMERATOR_EDIT_SEQUENCE_COLUMN_HEADER_NEXT_NUMBER'] = 'Ð¡Ð»ÐµÐ´ÑƒÑŽÑ‰Ð¸Ð¹ Ð½Ð¾Ð¼ÐµÑ€ Ð±ÑƒÐ´ÐµÑ‚ Ñ€Ð°Ð²ÐµÐ½';
+$MESS['NUMERATOR_EDIT_SEQUENCE_COLUMN_HEADER_TEXT_KEY'] = 'ÐšÐ»ÑŽÑ‡ Ð½ÑƒÐ¼ÐµÑ€Ð°Ñ‚Ð¾Ñ€Ð°';
+$MESS['MAIN_NUMERATOR_EDIT_SEQUENCE_PAGE_TITLE'] = 'Ð¢ÐµÐºÑƒÑ‰Ð¸Ðµ Ð½Ð¾Ð¼ÐµÑ€Ð°';
+$MESS['MAIN_NUMERATOR_EDIT_SEQUENCE_ERROR_NUMBER_LESS'] = 'ÐÐ¾Ð¼ÐµÑ€ Ð´Ð¾Ð»Ð¶ÐµÐ½ Ð±Ñ‹Ñ‚ÑŒ Ð±Ð¾Ð»ÑŒÑˆÐµ Ñ‚ÐµÐºÑƒÑ‰ÐµÐ³Ð¾';
+$MESS['MAIN_NUMERATOR_EDIT_SEQUENCE_ERROR_NUMERATOR_NOT_FOUND'] = 'ÐÑƒÐ¼ÐµÑ€Ð°Ñ‚Ð¾Ñ€ Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½';
+$MESS['MAIN_NUMERATOR_EDIT_SEQUENCE_ERROR_TITLE'] = 'Ð’Ð½ÑƒÑ‚Ñ€ÐµÐ½Ð½ÑÑ Ð¾ÑˆÐ¸Ð±ÐºÐ°';
+$MESS['MAIN_NUMERATOR_EDIT_SEQUENCE_ERROR_NUMBER_NOT_NUMERIC'] = 'ÐÐ¾Ð¼ÐµÑ€ Ð´Ð¾Ð»Ð¶ÐµÐ½ Ð±Ñ‹Ñ‚ÑŒ Ñ‡Ð¸ÑÐ»Ð¾Ð¼';

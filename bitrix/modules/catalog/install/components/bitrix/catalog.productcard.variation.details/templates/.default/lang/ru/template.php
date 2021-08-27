@@ -1,3 +1,3 @@
 <?php
-$MESS["CPVD_TAB_GENERAL_TITLE"] = "Îáùåå";
-$MESS["CPVD_FEEDBACK_BUTTON"] = "Îáðàòíàÿ ñâÿçü";
+$MESS["CPVD_TAB_GENERAL_TITLE"] = "ÐžÐ±Ñ‰ÐµÐµ";
+$MESS["CPVD_FEEDBACK_BUTTON"] = "ÐžÐ±Ñ€Ð°Ñ‚Ð½Ð°Ñ ÑÐ²ÑÐ·ÑŒ";

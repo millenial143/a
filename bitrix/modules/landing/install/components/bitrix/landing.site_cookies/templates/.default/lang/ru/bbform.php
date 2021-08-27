@@ -1,4 +1,4 @@
 <?php
-$MESS['LANDING_TPL_LABEL_DESC'] = 'ŒÔËÒ‡ÌËÂ';
-$MESS['LANDING_TPL_NEW_COOKIES'] = 'ÕÓ‚˚È ÚËÔ cookies';
-$MESS['LANDING_TPL_TITLE_SHOW_COOKIES'] = 'œÓÍ‡Á‡Ú¸ ËÌÙÓÏ‡ˆË˛ Ó <span>#BLOCK_NAME#</span>';
+$MESS['LANDING_TPL_LABEL_DESC'] = '–û–ø–∏—Å–∞–Ω–∏–µ';
+$MESS['LANDING_TPL_NEW_COOKIES'] = '–ù–æ–≤—ã–π —Ç–∏–ø cookies';
+$MESS['LANDING_TPL_TITLE_SHOW_COOKIES'] = '–ü–æ–∫–∞–∑–∞—Ç—å –∏–Ω—Ñ–æ—Ä–º–∞—Ü–∏—é –æ <span>#BLOCK_NAME#</span>';

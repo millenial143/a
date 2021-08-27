@@ -1,11 +1,11 @@
 <?
-$MESS["GD_PRD_TAB_1"] = "Ñàìûå ïðîäàâàåìûå";
-$MESS["GD_PRD_TAB_2"] = "Ñàìûå ïðîñìàòðèâàåìûå";
-$MESS["GD_PRD_NAME"] = "Òîâàð";
-$MESS["GD_PRD_QUANTITY"] = "Êîëè÷åñòâî";
-$MESS["GD_PRD_AV_PRICE"] = "Ñðåäíÿÿ öåíà";
-$MESS["GD_PRD_SUM"] = "Ñóììà";
-$MESS["GD_PRD_VIEWED"] = "Ïðîñìîòðîâ";
-$MESS["GD_PRD_PRICE"] = "Öåíà";
-$MESS["GD_PRD_NO_DATA"] = "Íåò äàííûõ.";
+$MESS["GD_PRD_TAB_1"] = "Ð¡Ð°Ð¼Ñ‹Ðµ Ð¿Ñ€Ð¾Ð´Ð°Ð²Ð°ÐµÐ¼Ñ‹Ðµ";
+$MESS["GD_PRD_TAB_2"] = "Ð¡Ð°Ð¼Ñ‹Ðµ Ð¿Ñ€Ð¾ÑÐ¼Ð°Ñ‚Ñ€Ð¸Ð²Ð°ÐµÐ¼Ñ‹Ðµ";
+$MESS["GD_PRD_NAME"] = "Ð¢Ð¾Ð²Ð°Ñ€";
+$MESS["GD_PRD_QUANTITY"] = "ÐšÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾";
+$MESS["GD_PRD_AV_PRICE"] = "Ð¡Ñ€ÐµÐ´Ð½ÑÑ Ñ†ÐµÐ½Ð°";
+$MESS["GD_PRD_SUM"] = "Ð¡ÑƒÐ¼Ð¼Ð°";
+$MESS["GD_PRD_VIEWED"] = "ÐŸÑ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€Ð¾Ð²";
+$MESS["GD_PRD_PRICE"] = "Ð¦ÐµÐ½Ð°";
+$MESS["GD_PRD_NO_DATA"] = "ÐÐµÑ‚ Ð´Ð°Ð½Ð½Ñ‹Ñ….";
 ?>

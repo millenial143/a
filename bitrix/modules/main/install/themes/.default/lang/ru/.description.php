@@ -1,5 +1,5 @@
 <?
-$MESS ['theme_name'] = "Ïî óìîë÷àíèþ";
-$MESS ['theme_desc'] = "Âèçóàëüíàÿ òåìà ïî óìîë÷àíèþ";
+$MESS ['theme_name'] = "ÐŸÐ¾ ÑƒÐ¼Ð¾Ð»Ñ‡Ð°Ð½Ð¸ÑŽ";
+$MESS ['theme_desc'] = "Ð’Ð¸Ð·ÑƒÐ°Ð»ÑŒÐ½Ð°Ñ Ñ‚ÐµÐ¼Ð° Ð¿Ð¾ ÑƒÐ¼Ð¾Ð»Ñ‡Ð°Ð½Ð¸ÑŽ";
 $MESS ['theme_preview'] = "preview_ru.png";
 ?>

@@ -1,7 +1,7 @@
 <?
-$MESS['REST_CONFIGURATION_IMPORT_ACCESS_DENIED'] = 'Íåò äîñòóïà';
-$MESS['REST_CONFIGURATION_IMPORT_MANIFEST_NOT_FOUND'] = 'Ìàíèôåñò íå íàéäåí';
-$MESS['REST_CONFIGURATION_IMPORT_MANIFEST_NOT_CURRENT'] = 'Çàãðóæåí íåâåðíûé ôàéë';
-$MESS['REST_CONFIGURATION_IMPORT_TITLE'] = 'Èìïîðò îòðàñëåâûõ íàñòðîåê';
-$MESS['REST_CONFIGURATION_IMPORT_ROLLBACK_TITLE'] = 'Âîññòàíîâëåíèå îòðàñëåâûõ íàñòðîåê';
-$MESS["REST_CONFIGURATION_ROLLBACK_DEFAULT_TITLE"] = "íàñòðîéêè äî óñòàíîâêè îòðàñëåâûõ íàñòðîåê èç ïðèëîæåíèÿ (#CREATE_TIME#)";
+$MESS['REST_CONFIGURATION_IMPORT_ACCESS_DENIED'] = 'ÐÐµÑ‚ Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð°';
+$MESS['REST_CONFIGURATION_IMPORT_MANIFEST_NOT_FOUND'] = 'ÐœÐ°Ð½Ð¸Ñ„ÐµÑÑ‚ Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½';
+$MESS['REST_CONFIGURATION_IMPORT_MANIFEST_NOT_CURRENT'] = 'Ð—Ð°Ð³Ñ€ÑƒÐ¶ÐµÐ½ Ð½ÐµÐ²ÐµÑ€Ð½Ñ‹Ð¹ Ñ„Ð°Ð¹Ð»';
+$MESS['REST_CONFIGURATION_IMPORT_TITLE'] = 'Ð˜Ð¼Ð¿Ð¾Ñ€Ñ‚ Ð¾Ñ‚Ñ€Ð°ÑÐ»ÐµÐ²Ñ‹Ñ… Ð½Ð°ÑÑ‚Ñ€Ð¾ÐµÐº';
+$MESS['REST_CONFIGURATION_IMPORT_ROLLBACK_TITLE'] = 'Ð’Ð¾ÑÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½Ð¸Ðµ Ð¾Ñ‚Ñ€Ð°ÑÐ»ÐµÐ²Ñ‹Ñ… Ð½Ð°ÑÑ‚Ñ€Ð¾ÐµÐº';
+$MESS["REST_CONFIGURATION_ROLLBACK_DEFAULT_TITLE"] = "Ð½Ð°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸ Ð´Ð¾ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²ÐºÐ¸ Ð¾Ñ‚Ñ€Ð°ÑÐ»ÐµÐ²Ñ‹Ñ… Ð½Ð°ÑÑ‚Ñ€Ð¾ÐµÐº Ð¸Ð· Ð¿Ñ€Ð¸Ð»Ð¾Ð¶ÐµÐ½Ð¸Ñ (#CREATE_TIME#)";

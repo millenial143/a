@@ -1,13 +1,13 @@
 <?php
-$MESS["MAIN_FIELD_CONFIG_ALL_LANGUAGES"] = "Çàäàòü íàçâàíèÿ äëÿ âñåõ ÿçûêîâ";
-$MESS["MAIN_FIELD_CONFIG_DELETE_CONFIRM"] = "Âû óâåðåíû, ÷òî õîòèòå óäàëèòü ýòî ïîëå? Âñå äàííûå áóäóò óòåðÿíû";
-$MESS["MAIN_FIELD_CONFIG_DELETE_SUCCESS"] = "Ïîëå óñïåøíî óäàëåíî";
-$MESS["MAIN_FIELD_CONFIG_MENU_COMMON"] = "Îáùåå";
-$MESS["MAIN_FIELD_CONFIG_MENU_LABELS"] = "Âñå ÿçûêè";
-$MESS["MAIN_FIELD_CONFIG_MENU_ADDITIONAL"] = "Äîïîëíèòåëüíî";
-$MESS["MAIN_FIELD_CONFIG_MENU_LIST"] = "Çíà÷åíèÿ ñïèñêà";
-$MESS["MAIN_FIELD_CONFIG_LIST_ITEMS_TITLE"] = "Ýëåìåíòû ñïèñêà";
-$MESS["MAIN_FIELD_CONFIG_LIST_ITEMS_DEFAULT"] = "Çíà÷åíèå ïî óìîë÷àíèþ";
-$MESS["MAIN_FIELD_CONFIG_LIST_ITEMS_DEFAULT_EMPTY"] = "çíà÷åíèå íå çàäàíî";
-$MESS["MAIN_FIELD_CONFIG_LIST_ITEMS_ADD"] = "Äîáàâèòü";
-$MESS["MAIN_FIELD_CONFIG_SETTINGS"] = "Íàñòðîéêè";
+$MESS["MAIN_FIELD_CONFIG_ALL_LANGUAGES"] = "Ð—Ð°Ð´Ð°Ñ‚ÑŒ Ð½Ð°Ð·Ð²Ð°Ð½Ð¸Ñ Ð´Ð»Ñ Ð²ÑÐµÑ… ÑÐ·Ñ‹ÐºÐ¾Ð²";
+$MESS["MAIN_FIELD_CONFIG_DELETE_CONFIRM"] = "Ð’Ñ‹ ÑƒÐ²ÐµÑ€ÐµÐ½Ñ‹, Ñ‡Ñ‚Ð¾ Ñ…Ð¾Ñ‚Ð¸Ñ‚Ðµ ÑƒÐ´Ð°Ð»Ð¸Ñ‚ÑŒ ÑÑ‚Ð¾ Ð¿Ð¾Ð»Ðµ? Ð’ÑÐµ Ð´Ð°Ð½Ð½Ñ‹Ðµ Ð±ÑƒÐ´ÑƒÑ‚ ÑƒÑ‚ÐµÑ€ÑÐ½Ñ‹";
+$MESS["MAIN_FIELD_CONFIG_DELETE_SUCCESS"] = "ÐŸÐ¾Ð»Ðµ ÑƒÑÐ¿ÐµÑˆÐ½Ð¾ ÑƒÐ´Ð°Ð»ÐµÐ½Ð¾";
+$MESS["MAIN_FIELD_CONFIG_MENU_COMMON"] = "ÐžÐ±Ñ‰ÐµÐµ";
+$MESS["MAIN_FIELD_CONFIG_MENU_LABELS"] = "Ð’ÑÐµ ÑÐ·Ñ‹ÐºÐ¸";
+$MESS["MAIN_FIELD_CONFIG_MENU_ADDITIONAL"] = "Ð”Ð¾Ð¿Ð¾Ð»Ð½Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ð¾";
+$MESS["MAIN_FIELD_CONFIG_MENU_LIST"] = "Ð—Ð½Ð°Ñ‡ÐµÐ½Ð¸Ñ ÑÐ¿Ð¸ÑÐºÐ°";
+$MESS["MAIN_FIELD_CONFIG_LIST_ITEMS_TITLE"] = "Ð­Ð»ÐµÐ¼ÐµÐ½Ñ‚Ñ‹ ÑÐ¿Ð¸ÑÐºÐ°";
+$MESS["MAIN_FIELD_CONFIG_LIST_ITEMS_DEFAULT"] = "Ð—Ð½Ð°Ñ‡ÐµÐ½Ð¸Ðµ Ð¿Ð¾ ÑƒÐ¼Ð¾Ð»Ñ‡Ð°Ð½Ð¸ÑŽ";
+$MESS["MAIN_FIELD_CONFIG_LIST_ITEMS_DEFAULT_EMPTY"] = "Ð·Ð½Ð°Ñ‡ÐµÐ½Ð¸Ðµ Ð½Ðµ Ð·Ð°Ð´Ð°Ð½Ð¾";
+$MESS["MAIN_FIELD_CONFIG_LIST_ITEMS_ADD"] = "Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ";
+$MESS["MAIN_FIELD_CONFIG_SETTINGS"] = "ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸";

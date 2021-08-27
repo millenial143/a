@@ -1,8 +1,8 @@
 <?php
-$MESS['LANDING_BLOCK_46.9_NAME'] = 'Îáëîæêà ñ âåðòèêàëüíûì ïåðåëèñòûâàíèåì íà çàòåìíåííûõ ôîíîâûõ êàðòèíêàõ';
-$MESS['LANDING_BLOCK_46.9_NODES_LANDINGBLOCKNODECARD'] = 'Ñëàéä';
-$MESS['LANDING_BLOCK_46.9_NODES_LANDINGBLOCKNODECARD_IMG'] = 'Ôîíîâàÿ êàðòèíêà';
-$MESS['LANDING_BLOCK_46.9_NODES_LANDINGBLOCKNODECARD_TEXT_CONTAINER'] = 'Íàáîð ýëåìåíòîâ';
-$MESS['LANDING_BLOCK_46.9_NODES_LANDINGBLOCKNODECARDSUBTITLE'] = 'Ïîäçàãîëîâîê';
-$MESS['LANDING_BLOCK_46.9_NODES_LANDINGBLOCKNODECARDTITLE'] = 'Çàãîëîâîê';
-$MESS['LANDING_BLOCK_46.9_NODES_LANDINGBLOCKNODECARDBUTTON'] = 'Êíîïêà';
+$MESS['LANDING_BLOCK_46.9_NAME'] = 'ÐžÐ±Ð»Ð¾Ð¶ÐºÐ° Ñ Ð²ÐµÑ€Ñ‚Ð¸ÐºÐ°Ð»ÑŒÐ½Ñ‹Ð¼ Ð¿ÐµÑ€ÐµÐ»Ð¸ÑÑ‚Ñ‹Ð²Ð°Ð½Ð¸ÐµÐ¼ Ð½Ð° Ð·Ð°Ñ‚ÐµÐ¼Ð½ÐµÐ½Ð½Ñ‹Ñ… Ñ„Ð¾Ð½Ð¾Ð²Ñ‹Ñ… ÐºÐ°Ñ€Ñ‚Ð¸Ð½ÐºÐ°Ñ…';
+$MESS['LANDING_BLOCK_46.9_NODES_LANDINGBLOCKNODECARD'] = 'Ð¡Ð»Ð°Ð¹Ð´';
+$MESS['LANDING_BLOCK_46.9_NODES_LANDINGBLOCKNODECARD_IMG'] = 'Ð¤Ð¾Ð½Ð¾Ð²Ð°Ñ ÐºÐ°Ñ€Ñ‚Ð¸Ð½ÐºÐ°';
+$MESS['LANDING_BLOCK_46.9_NODES_LANDINGBLOCKNODECARD_TEXT_CONTAINER'] = 'ÐÐ°Ð±Ð¾Ñ€ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð¾Ð²';
+$MESS['LANDING_BLOCK_46.9_NODES_LANDINGBLOCKNODECARDSUBTITLE'] = 'ÐŸÐ¾Ð´Ð·Ð°Ð³Ð¾Ð»Ð¾Ð²Ð¾Ðº';
+$MESS['LANDING_BLOCK_46.9_NODES_LANDINGBLOCKNODECARDTITLE'] = 'Ð—Ð°Ð³Ð¾Ð»Ð¾Ð²Ð¾Ðº';
+$MESS['LANDING_BLOCK_46.9_NODES_LANDINGBLOCKNODECARDBUTTON'] = 'ÐšÐ½Ð¾Ð¿ÐºÐ°';

@@ -1,2 +1,2 @@
 <?php
-$MESS["CATALOG_PRODUCTCARD_FEEDBACK_TITLE"] = "Îáðàòíàÿ ñâÿçü";
+$MESS["CATALOG_PRODUCTCARD_FEEDBACK_TITLE"] = "ÐžÐ±Ñ€Ð°Ñ‚Ð½Ð°Ñ ÑÐ²ÑÐ·ÑŒ";

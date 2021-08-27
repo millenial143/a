@@ -1,17 +1,17 @@
 <?
-$MESS["USER_PROPERTY_NAME"] = "Íàçâàíèå çàêëàäêè ñ äîï. ñâîéñòâàìè";
-$MESS["ONE_BLOG_BLOG_URL"] = "Ñèìâîëè÷åñêîå èìÿ áëîãà";
-$MESS["BC_NAME_TEMPLATE"] = "Îòîáðàæåíèå èìåíè";
+$MESS["USER_PROPERTY_NAME"] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ Ð·Ð°ÐºÐ»Ð°Ð´ÐºÐ¸ Ñ Ð´Ð¾Ð¿. ÑÐ²Ð¾Ð¹ÑÑ‚Ð²Ð°Ð¼Ð¸";
+$MESS["ONE_BLOG_BLOG_URL"] = "Ð¡Ð¸Ð¼Ð²Ð¾Ð»Ð¸Ñ‡ÐµÑÐºÐ¾Ðµ Ð¸Ð¼Ñ Ð±Ð»Ð¾Ð³Ð°";
+$MESS["BC_NAME_TEMPLATE"] = "ÐžÑ‚Ð¾Ð±Ñ€Ð°Ð¶ÐµÐ½Ð¸Ðµ Ð¸Ð¼ÐµÐ½Ð¸";
 $MESS["BC_NAME_TEMPLATE_DEFAULT"] = "#NOBR##LAST_NAME# #NAME##/NOBR#";
-$MESS["BC_SHOW_LOGIN"] = "Ïîêàçûâàòü ëîãèí, åñëè íå çàäàíî èìÿ";
-$MESS["BC_PATH_TO_CONPANY_DEPARTMENT"] = "Øàáëîí ïóòè ê ñòðàíèöå ïîäðàçäåëåíèÿ";
-$MESS["BC_PATH_TO_VIDEO_CALL"] = "Ñòðàíèöà âèäåîçâîíêà";
-$MESS["BC_PATH_TO_SONET_USER_PROFILE"] = "Øàáëîí ïóòè ê ñòðàíèöå ïîëüçîâàòåëÿ ñîöñåòè";
-$MESS["BC_PATH_TO_MESSAGES_CHAT"] = "Øàáëîí ïóòè ê ÷àòó ñ ïîëüçîâàòåëåì";
-$MESS["BC_USE_SHARE"] = "Îòîáðàæàòü ïàíåëü ñîö. çàêëàäîê";
-$MESS["BC_SHARE_HIDE"] = "Íå ðàñêðûâàòü ïàíåëü ñîö. çàêëàäîê ïî óìîë÷àíèþ";
-$MESS["BC_SHARE_TEMPLATE"] = "Øàáëîí êîìïîíåíòà ïàíåëè ñîö. çàêëàäîê";
-$MESS["BC_SHARE_SYSTEM"] = "Èñïîëüçóåìûå ñîö. çàêëàäêè è ñåòè";
-$MESS["BC_SHARE_SHORTEN_URL_LOGIN"] = "Ëîãèí äëÿ bit.ly";
-$MESS["BC_SHARE_SHORTEN_URL_KEY"] = "Êëþ÷ äëÿ äëÿ bit.ly";
+$MESS["BC_SHOW_LOGIN"] = "ÐŸÐ¾ÐºÐ°Ð·Ñ‹Ð²Ð°Ñ‚ÑŒ Ð»Ð¾Ð³Ð¸Ð½, ÐµÑÐ»Ð¸ Ð½Ðµ Ð·Ð°Ð´Ð°Ð½Ð¾ Ð¸Ð¼Ñ";
+$MESS["BC_PATH_TO_CONPANY_DEPARTMENT"] = "Ð¨Ð°Ð±Ð»Ð¾Ð½ Ð¿ÑƒÑ‚Ð¸ Ðº ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ðµ Ð¿Ð¾Ð´Ñ€Ð°Ð·Ð´ÐµÐ»ÐµÐ½Ð¸Ñ";
+$MESS["BC_PATH_TO_VIDEO_CALL"] = "Ð¡Ñ‚Ñ€Ð°Ð½Ð¸Ñ†Ð° Ð²Ð¸Ð´ÐµÐ¾Ð·Ð²Ð¾Ð½ÐºÐ°";
+$MESS["BC_PATH_TO_SONET_USER_PROFILE"] = "Ð¨Ð°Ð±Ð»Ð¾Ð½ Ð¿ÑƒÑ‚Ð¸ Ðº ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ðµ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ ÑÐ¾Ñ†ÑÐµÑ‚Ð¸";
+$MESS["BC_PATH_TO_MESSAGES_CHAT"] = "Ð¨Ð°Ð±Ð»Ð¾Ð½ Ð¿ÑƒÑ‚Ð¸ Ðº Ñ‡Ð°Ñ‚Ñƒ Ñ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÐµÐ¼";
+$MESS["BC_USE_SHARE"] = "ÐžÑ‚Ð¾Ð±Ñ€Ð°Ð¶Ð°Ñ‚ÑŒ Ð¿Ð°Ð½ÐµÐ»ÑŒ ÑÐ¾Ñ†. Ð·Ð°ÐºÐ»Ð°Ð´Ð¾Ðº";
+$MESS["BC_SHARE_HIDE"] = "ÐÐµ Ñ€Ð°ÑÐºÑ€Ñ‹Ð²Ð°Ñ‚ÑŒ Ð¿Ð°Ð½ÐµÐ»ÑŒ ÑÐ¾Ñ†. Ð·Ð°ÐºÐ»Ð°Ð´Ð¾Ðº Ð¿Ð¾ ÑƒÐ¼Ð¾Ð»Ñ‡Ð°Ð½Ð¸ÑŽ";
+$MESS["BC_SHARE_TEMPLATE"] = "Ð¨Ð°Ð±Ð»Ð¾Ð½ ÐºÐ¾Ð¼Ð¿Ð¾Ð½ÐµÐ½Ñ‚Ð° Ð¿Ð°Ð½ÐµÐ»Ð¸ ÑÐ¾Ñ†. Ð·Ð°ÐºÐ»Ð°Ð´Ð¾Ðº";
+$MESS["BC_SHARE_SYSTEM"] = "Ð˜ÑÐ¿Ð¾Ð»ÑŒÐ·ÑƒÐµÐ¼Ñ‹Ðµ ÑÐ¾Ñ†. Ð·Ð°ÐºÐ»Ð°Ð´ÐºÐ¸ Ð¸ ÑÐµÑ‚Ð¸";
+$MESS["BC_SHARE_SHORTEN_URL_LOGIN"] = "Ð›Ð¾Ð³Ð¸Ð½ Ð´Ð»Ñ bit.ly";
+$MESS["BC_SHARE_SHORTEN_URL_KEY"] = "ÐšÐ»ÑŽÑ‡ Ð´Ð»Ñ Ð´Ð»Ñ bit.ly";
 ?>

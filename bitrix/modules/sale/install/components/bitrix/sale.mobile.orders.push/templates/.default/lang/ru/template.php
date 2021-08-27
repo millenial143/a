@@ -1,12 +1,12 @@
 <?
-$MESS["SMOP_TITLE"] = "Èíòåðíåò-ìàãàçèí";
-$MESS["SMOP_HEAD"] = "Ïîäïèñêà íà PUSH óâåäîìëåíèÿ";
-$MESS["SMOP_BACK"] = "Íàçàä";
-$MESS["SMOP_SAVE"] = "Ñîõðàíèòü";
-$MESS["SMOP_JS_SAVING"] = "Ñîõðàíÿåì";
-$MESS["SMOP_JS_SAVE_ERROR"] = "Îøèáêà ñîõðàíåíèÿ";
-$MESS["SMOP_ALL_SUBSCRIBES"] = "Ïîäïèñêà íà âñå ñîáûòèÿ";
-$MESS["SMOP_ALL_Y"] = "Äà";
-$MESS["SMOP_ALL_N"] = "Íåò";
-$MESS["SMOP_SUBSCRIBES"] = "Ïîäïèñêè";
+$MESS["SMOP_TITLE"] = "Ð˜Ð½Ñ‚ÐµÑ€Ð½ÐµÑ‚-Ð¼Ð°Ð³Ð°Ð·Ð¸Ð½";
+$MESS["SMOP_HEAD"] = "ÐŸÐ¾Ð´Ð¿Ð¸ÑÐºÐ° Ð½Ð° PUSH ÑƒÐ²ÐµÐ´Ð¾Ð¼Ð»ÐµÐ½Ð¸Ñ";
+$MESS["SMOP_BACK"] = "ÐÐ°Ð·Ð°Ð´";
+$MESS["SMOP_SAVE"] = "Ð¡Ð¾Ñ…Ñ€Ð°Ð½Ð¸Ñ‚ÑŒ";
+$MESS["SMOP_JS_SAVING"] = "Ð¡Ð¾Ñ…Ñ€Ð°Ð½ÑÐµÐ¼";
+$MESS["SMOP_JS_SAVE_ERROR"] = "ÐžÑˆÐ¸Ð±ÐºÐ° ÑÐ¾Ñ…Ñ€Ð°Ð½ÐµÐ½Ð¸Ñ";
+$MESS["SMOP_ALL_SUBSCRIBES"] = "ÐŸÐ¾Ð´Ð¿Ð¸ÑÐºÐ° Ð½Ð° Ð²ÑÐµ ÑÐ¾Ð±Ñ‹Ñ‚Ð¸Ñ";
+$MESS["SMOP_ALL_Y"] = "Ð”Ð°";
+$MESS["SMOP_ALL_N"] = "ÐÐµÑ‚";
+$MESS["SMOP_SUBSCRIBES"] = "ÐŸÐ¾Ð´Ð¿Ð¸ÑÐºÐ¸";
 ?>

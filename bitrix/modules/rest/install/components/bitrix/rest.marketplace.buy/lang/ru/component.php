@@ -1,6 +1,6 @@
 <?
-$MESS["MARKETPLACE_BUYS"] = "Ïîêóïêè";
-$MESS["RMP_APP_TIME_LIMIT_3"] = "3 ìåñÿöà";
-$MESS["RMP_APP_TIME_LIMIT_6"] = "6 ìåñÿöåâ";
-$MESS["RMP_APP_TIME_LIMIT_12"] = "12 ìåñÿöåâ";
+$MESS["MARKETPLACE_BUYS"] = "ÐŸÐ¾ÐºÑƒÐ¿ÐºÐ¸";
+$MESS["RMP_APP_TIME_LIMIT_3"] = "3 Ð¼ÐµÑÑÑ†Ð°";
+$MESS["RMP_APP_TIME_LIMIT_6"] = "6 Ð¼ÐµÑÑÑ†ÐµÐ²";
+$MESS["RMP_APP_TIME_LIMIT_12"] = "12 Ð¼ÐµÑÑÑ†ÐµÐ²";
 ?>

@@ -1,4 +1,4 @@
 <?
-$MESS ['CURRENCY_CBRF'] = "Êóðñ ÖÁ ÐÔ";
-$MESS ['CURRENCY_SITE'] = "Êóðñ íà ñàéòå";
+$MESS ['CURRENCY_CBRF'] = "ÐšÑƒÑ€Ñ Ð¦Ð‘ Ð Ð¤";
+$MESS ['CURRENCY_SITE'] = "ÐšÑƒÑ€Ñ Ð½Ð° ÑÐ°Ð¹Ñ‚Ðµ";
 ?>

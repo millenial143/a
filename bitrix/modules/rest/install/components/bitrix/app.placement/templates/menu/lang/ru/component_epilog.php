@@ -1,4 +1,4 @@
 <?php
-$MESS['REST_AP_MENU_ITEM_TEXT'] = 'Приложения';
-$MESS['REST_AP_MENU_ITEM_TEXT_MORE'] = 'Установить еще...';
-$MESS['REST_AP_MENU_ITEM_TITLE'] = 'Возможности, предоставляемые сторонними приложениями';
+$MESS['REST_AP_MENU_ITEM_TEXT'] = 'РџСЂРёР»РѕР¶РµРЅРёСЏ';
+$MESS['REST_AP_MENU_ITEM_TEXT_MORE'] = 'РЈСЃС‚Р°РЅРѕРІРёС‚СЊ РµС‰Рµ...';
+$MESS['REST_AP_MENU_ITEM_TITLE'] = 'Р’РѕР·РјРѕР¶РЅРѕСЃС‚Рё, РїСЂРµРґРѕСЃС‚Р°РІР»СЏРµРјС‹Рµ СЃС‚РѕСЂРѕРЅРЅРёРјРё РїСЂРёР»РѕР¶РµРЅРёСЏРјРё';

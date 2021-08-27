@@ -1,13 +1,13 @@
 <?
-$MESS["SMOT_ORDER_N"] = "Çàêàç ¹";
-$MESS["SMOT_ORDER_FROM"] = "îò";
-$MESS["SMOT_ORDER"] = "Çàêàç";
-$MESS["SMOT_HISTORY"] = "Èñòîðèÿ";
-$MESS["SMOT_TRANSACT"] = "Òðàíçàêöèè";
-$MESS["SMOT_DATE"] = "Äàòà";
-$MESS["SMOT_USER"] = "Ïîëüçîâàòåëü";
-$MESS["SMOT_SUMM"] = "Ñóììà";
-$MESS["SMOT_DESCRIPTION"] = "Îïèñàíèå";
-$MESS["SMOT_COMMENTS"] = "Êîììåíòàðèè";
-$MESS["SMOT_TRANS_EMPTY"] = "Òðàíçàêöèè îòñóòñòâóþò";
+$MESS["SMOT_ORDER_N"] = "Ð—Ð°ÐºÐ°Ð· â„–";
+$MESS["SMOT_ORDER_FROM"] = "Ð¾Ñ‚";
+$MESS["SMOT_ORDER"] = "Ð—Ð°ÐºÐ°Ð·";
+$MESS["SMOT_HISTORY"] = "Ð˜ÑÑ‚Ð¾Ñ€Ð¸Ñ";
+$MESS["SMOT_TRANSACT"] = "Ð¢Ñ€Ð°Ð½Ð·Ð°ÐºÑ†Ð¸Ð¸";
+$MESS["SMOT_DATE"] = "Ð”Ð°Ñ‚Ð°";
+$MESS["SMOT_USER"] = "ÐŸÐ¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒ";
+$MESS["SMOT_SUMM"] = "Ð¡ÑƒÐ¼Ð¼Ð°";
+$MESS["SMOT_DESCRIPTION"] = "ÐžÐ¿Ð¸ÑÐ°Ð½Ð¸Ðµ";
+$MESS["SMOT_COMMENTS"] = "ÐšÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ð¸";
+$MESS["SMOT_TRANS_EMPTY"] = "Ð¢Ñ€Ð°Ð½Ð·Ð°ÐºÑ†Ð¸Ð¸ Ð¾Ñ‚ÑÑƒÑ‚ÑÑ‚Ð²ÑƒÑŽÑ‚";
 ?>

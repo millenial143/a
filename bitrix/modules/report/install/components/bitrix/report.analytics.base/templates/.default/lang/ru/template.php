@@ -1,2 +1,2 @@
 <?php
-$MESS['REPORT_ANALYTICS_TITLE_TEXT'] = 'Àíàëèòèêà';
+$MESS['REPORT_ANALYTICS_TITLE_TEXT'] = 'ÐÐ½Ð°Ð»Ð¸Ñ‚Ð¸ÐºÐ°';

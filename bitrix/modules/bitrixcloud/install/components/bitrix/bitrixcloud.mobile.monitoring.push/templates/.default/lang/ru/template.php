@@ -1,13 +1,13 @@
 <?
-$MESS["BCMMP_TITLE"] = "Èíñïåêòîð ñàéòîâ";
-$MESS["BCMMP_TITLE2"] = "Íàñòðîéêà PUSH óâåäîìëåíèé";
-$MESS["BCMMP_DOMAINS_TITLE"] = "Äîìåíû";
-$MESS["BCMMP_BACK"] = "Íàçàä";
-$MESS["BCMMP_SAVE"] = "Ñîõðàíèòü";
-$MESS["BCMMP_PUSH_RECIEVE"] = "Ïîëó÷àòü óâåäîìëåíèÿ";
-$MESS["BCMMP_JS_SAVING"] = "Ñîõðàíÿåì";
-$MESS["BCMMP_JS_SAVE_ERROR"] = "Îøèáêà ñîõðàíåíèÿ";
-$MESS["BCMMP_ON"] = "Âêëþ÷èòü";
-$MESS["BCMMP_OFF"] = "Âûêëþ÷èòü";
-$MESS["BCMMP_NO_DOMAINS"] = "Íåò íàñòðîåííûõ äîìåíîâ";
+$MESS["BCMMP_TITLE"] = "Ð˜Ð½ÑÐ¿ÐµÐºÑ‚Ð¾Ñ€ ÑÐ°Ð¹Ñ‚Ð¾Ð²";
+$MESS["BCMMP_TITLE2"] = "ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ° PUSH ÑƒÐ²ÐµÐ´Ð¾Ð¼Ð»ÐµÐ½Ð¸Ð¹";
+$MESS["BCMMP_DOMAINS_TITLE"] = "Ð”Ð¾Ð¼ÐµÐ½Ñ‹";
+$MESS["BCMMP_BACK"] = "ÐÐ°Ð·Ð°Ð´";
+$MESS["BCMMP_SAVE"] = "Ð¡Ð¾Ñ…Ñ€Ð°Ð½Ð¸Ñ‚ÑŒ";
+$MESS["BCMMP_PUSH_RECIEVE"] = "ÐŸÐ¾Ð»ÑƒÑ‡Ð°Ñ‚ÑŒ ÑƒÐ²ÐµÐ´Ð¾Ð¼Ð»ÐµÐ½Ð¸Ñ";
+$MESS["BCMMP_JS_SAVING"] = "Ð¡Ð¾Ñ…Ñ€Ð°Ð½ÑÐµÐ¼";
+$MESS["BCMMP_JS_SAVE_ERROR"] = "ÐžÑˆÐ¸Ð±ÐºÐ° ÑÐ¾Ñ…Ñ€Ð°Ð½ÐµÐ½Ð¸Ñ";
+$MESS["BCMMP_ON"] = "Ð’ÐºÐ»ÑŽÑ‡Ð¸Ñ‚ÑŒ";
+$MESS["BCMMP_OFF"] = "Ð’Ñ‹ÐºÐ»ÑŽÑ‡Ð¸Ñ‚ÑŒ";
+$MESS["BCMMP_NO_DOMAINS"] = "ÐÐµÑ‚ Ð½Ð°ÑÑ‚Ñ€Ð¾ÐµÐ½Ð½Ñ‹Ñ… Ð´Ð¾Ð¼ÐµÐ½Ð¾Ð²";
 ?>

@@ -1,3 +1,3 @@
 <?php
-$MESS['LANDING_BLOCK_46.6.COVER_WITH_SLIDER_BGIMG--IMAGE'] = 'Ôîíîâàÿ êàðòèíêà';
-$MESS['LANDING_BLOCK_46.6.COVER_WITH_SLIDER_BGIMG--VIDEO'] = 'Ôîíîâîå âèäåî';
+$MESS['LANDING_BLOCK_46.6.COVER_WITH_SLIDER_BGIMG--IMAGE'] = 'Ð¤Ð¾Ð½Ð¾Ð²Ð°Ñ ÐºÐ°Ñ€Ñ‚Ð¸Ð½ÐºÐ°';
+$MESS['LANDING_BLOCK_46.6.COVER_WITH_SLIDER_BGIMG--VIDEO'] = 'Ð¤Ð¾Ð½Ð¾Ð²Ð¾Ðµ Ð²Ð¸Ð´ÐµÐ¾';

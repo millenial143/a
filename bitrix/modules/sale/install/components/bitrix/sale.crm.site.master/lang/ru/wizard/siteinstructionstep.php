@@ -1,8 +1,8 @@
 <?php
-$MESS["SALE_CSM_WIZARD_SITEINSTRUCTIONSTEP_TITLE"] = "Важная информация";
-$MESS["SALE_CSM_WIZARD_SITEINSTRUCTIONSTEP_DESCR_TEXT"] = "Сайт с Битрикс24 должен быть установлен на отдельном домене. Для работы многосайтовости на разных доменах Вам потребуется произвести настройку программного продукта.";
-$MESS["SALE_CSM_WIZARD_SITEINSTRUCTIONSTEP_DESCR_LINK"] = "Подробные инструкции о настройке многосайтовости на разных доменах Вы можете получить в <a href=\"#LINK_INSTRUCTION#\" target=\"_blank\">документации</a>";
-$MESS["SALE_CSM_WIZARD_SITEINSTRUCTIONSTEP_DESCR_VM_LINK"] = "Если Ваш сайт работает на BitrixVM, Вам необходимо создать дополнительный сайт в настройках виртуальной машины. Подробную инструкцию Вы можете получить в <a href=\"#LINK_VM_INSTRUCTION#\" target=\"_blank\">документации</a>";
-$MESS["SALE_CSM_WIZARD_SITEINSTRUCTIONSTEP_DESCR_NEXT"] = "После завершения настройки нажмите на кнопку \"Продолжить\"";
-$MESS["SALE_CSM_WIZARD_SITEINSTRUCTIONSTEP_NEXT"] = "Продолжить";
-$MESS["SALE_CSM_WIZARD_SITEINSTRUCTIONSTEP_ALL_DONE"] = "Я всё выполнил";
+$MESS["SALE_CSM_WIZARD_SITEINSTRUCTIONSTEP_TITLE"] = "Р’Р°Р¶РЅР°СЏ РёРЅС„РѕСЂРјР°С†РёСЏ";
+$MESS["SALE_CSM_WIZARD_SITEINSTRUCTIONSTEP_DESCR_TEXT"] = "РЎР°Р№С‚ СЃ Р‘РёС‚СЂРёРєСЃ24 РґРѕР»Р¶РµРЅ Р±С‹С‚СЊ СѓСЃС‚Р°РЅРѕРІР»РµРЅ РЅР° РѕС‚РґРµР»СЊРЅРѕРј РґРѕРјРµРЅРµ. Р”Р»СЏ СЂР°Р±РѕС‚С‹ РјРЅРѕРіРѕСЃР°Р№С‚РѕРІРѕСЃС‚Рё РЅР° СЂР°Р·РЅС‹С… РґРѕРјРµРЅР°С… Р’Р°Рј РїРѕС‚СЂРµР±СѓРµС‚СЃСЏ РїСЂРѕРёР·РІРµСЃС‚Рё РЅР°СЃС‚СЂРѕР№РєСѓ РїСЂРѕРіСЂР°РјРјРЅРѕРіРѕ РїСЂРѕРґСѓРєС‚Р°.";
+$MESS["SALE_CSM_WIZARD_SITEINSTRUCTIONSTEP_DESCR_LINK"] = "РџРѕРґСЂРѕР±РЅС‹Рµ РёРЅСЃС‚СЂСѓРєС†РёРё Рѕ РЅР°СЃС‚СЂРѕР№РєРµ РјРЅРѕРіРѕСЃР°Р№С‚РѕРІРѕСЃС‚Рё РЅР° СЂР°Р·РЅС‹С… РґРѕРјРµРЅР°С… Р’С‹ РјРѕР¶РµС‚Рµ РїРѕР»СѓС‡РёС‚СЊ РІ <a href=\"#LINK_INSTRUCTION#\" target=\"_blank\">РґРѕРєСѓРјРµРЅС‚Р°С†РёРё</a>";
+$MESS["SALE_CSM_WIZARD_SITEINSTRUCTIONSTEP_DESCR_VM_LINK"] = "Р•СЃР»Рё Р’Р°С€ СЃР°Р№С‚ СЂР°Р±РѕС‚Р°РµС‚ РЅР° BitrixVM, Р’Р°Рј РЅРµРѕР±С…РѕРґРёРјРѕ СЃРѕР·РґР°С‚СЊ РґРѕРїРѕР»РЅРёС‚РµР»СЊРЅС‹Р№ СЃР°Р№С‚ РІ РЅР°СЃС‚СЂРѕР№РєР°С… РІРёСЂС‚СѓР°Р»СЊРЅРѕР№ РјР°С€РёРЅС‹. РџРѕРґСЂРѕР±РЅСѓСЋ РёРЅСЃС‚СЂСѓРєС†РёСЋ Р’С‹ РјРѕР¶РµС‚Рµ РїРѕР»СѓС‡РёС‚СЊ РІ <a href=\"#LINK_VM_INSTRUCTION#\" target=\"_blank\">РґРѕРєСѓРјРµРЅС‚Р°С†РёРё</a>";
+$MESS["SALE_CSM_WIZARD_SITEINSTRUCTIONSTEP_DESCR_NEXT"] = "РџРѕСЃР»Рµ Р·Р°РІРµСЂС€РµРЅРёСЏ РЅР°СЃС‚СЂРѕР№РєРё РЅР°Р¶РјРёС‚Рµ РЅР° РєРЅРѕРїРєСѓ \"РџСЂРѕРґРѕР»Р¶РёС‚СЊ\"";
+$MESS["SALE_CSM_WIZARD_SITEINSTRUCTIONSTEP_NEXT"] = "РџСЂРѕРґРѕР»Р¶РёС‚СЊ";
+$MESS["SALE_CSM_WIZARD_SITEINSTRUCTIONSTEP_ALL_DONE"] = "РЇ РІСЃС‘ РІС‹РїРѕР»РЅРёР»";

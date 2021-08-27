@@ -1,2 +1,2 @@
 <?php
-$MESS['LANDING_CMP_PAR_LANDING_ID'] = 'Èäåíòèôèêàòîð ñòðàíèöû';
+$MESS['LANDING_CMP_PAR_LANDING_ID'] = 'Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñ‹';

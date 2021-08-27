@@ -1,10 +1,10 @@
 <?php
-$MESS['LANDING_TPL_TITLE'] = 'Ïðåäïðîñìîòð øàáëîíà';
-$MESS['LANDING_TPL_BUTTON_CREATE'] = 'Ñîçäàòü';
-$MESS['LANDING_TPL_BUTTON_CANCEL'] = 'Îòìåíèòü';
-$MESS['LANDING_TPL_HEADER_COLOR'] = 'Öâåòîâàÿ ïàëèòðà';
-$MESS['LANDING_TPL_COLOR_USE_SITE'] = 'Èñïîëüçîâàòü ïàëèòðó ñàéòà';
-$MESS['LANDING_TPL_HEADER_SITE_GROUP'] = 'Âàðèàíò îôîðìëåíèÿ';
-$MESS['LANDING_404_ERROR'] = 'Øàáëîí íå íàéäåí';
-$MESS['LANDING_LOADER_WAIT'] = 'Ïîäîæäèòå, ïîæàëóéñòà, èäåò èìïîðò ìàãàçèíà...';
-$MESS['LANDING_PREVIEW_NOTICE'] = 'Òåêñò áóäåò âûâåäåí íà ïðåâüþ ñòðàíèöû â ñîöñåòÿõ';
+$MESS['LANDING_TPL_TITLE'] = 'ÐŸÑ€ÐµÐ´Ð¿Ñ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€ ÑˆÐ°Ð±Ð»Ð¾Ð½Ð°';
+$MESS['LANDING_TPL_BUTTON_CREATE'] = 'Ð¡Ð¾Ð·Ð´Ð°Ñ‚ÑŒ';
+$MESS['LANDING_TPL_BUTTON_CANCEL'] = 'ÐžÑ‚Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ';
+$MESS['LANDING_TPL_HEADER_COLOR'] = 'Ð¦Ð²ÐµÑ‚Ð¾Ð²Ð°Ñ Ð¿Ð°Ð»Ð¸Ñ‚Ñ€Ð°';
+$MESS['LANDING_TPL_COLOR_USE_SITE'] = 'Ð˜ÑÐ¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÑŒ Ð¿Ð°Ð»Ð¸Ñ‚Ñ€Ñƒ ÑÐ°Ð¹Ñ‚Ð°';
+$MESS['LANDING_TPL_HEADER_SITE_GROUP'] = 'Ð’Ð°Ñ€Ð¸Ð°Ð½Ñ‚ Ð¾Ñ„Ð¾Ñ€Ð¼Ð»ÐµÐ½Ð¸Ñ';
+$MESS['LANDING_404_ERROR'] = 'Ð¨Ð°Ð±Ð»Ð¾Ð½ Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½';
+$MESS['LANDING_LOADER_WAIT'] = 'ÐŸÐ¾Ð´Ð¾Ð¶Ð´Ð¸Ñ‚Ðµ, Ð¿Ð¾Ð¶Ð°Ð»ÑƒÐ¹ÑÑ‚Ð°, Ð¸Ð´ÐµÑ‚ Ð¸Ð¼Ð¿Ð¾Ñ€Ñ‚ Ð¼Ð°Ð³Ð°Ð·Ð¸Ð½Ð°...';
+$MESS['LANDING_PREVIEW_NOTICE'] = 'Ð¢ÐµÐºÑÑ‚ Ð±ÑƒÐ´ÐµÑ‚ Ð²Ñ‹Ð²ÐµÐ´ÐµÐ½ Ð½Ð° Ð¿Ñ€ÐµÐ²ÑŒÑŽ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñ‹ Ð² ÑÐ¾Ñ†ÑÐµÑ‚ÑÑ…';

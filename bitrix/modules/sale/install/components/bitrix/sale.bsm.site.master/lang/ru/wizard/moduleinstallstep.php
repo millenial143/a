@@ -1,13 +1,13 @@
 <?php
-$MESS["SALE_BSM_WIZARD_MODULEINSTALLSTEP_TITLE"] = "Установка модулей";
-$MESS["SALE_BSM_WIZARD_MODULEINSTALLSTEP_NEXT"] = "Продолжить";
-$MESS["SALE_BSM_WIZARD_MODULEINSTALLSTEP_INSTALL_FINISH"] = "Завершена успешно";
-$MESS["SALE_BSM_WIZARD_MODULEINSTALLSTEP_ERROR_OCCURED"] = "При установке модуля \"#MODULE_NAME#\" произошла ошибка";
-$MESS["SALE_BSM_WIZARD_MODULEINSTALLSTEP_ERROR_MARKETPLACE"] = "Попробуйте повторить текущий шаг ещё раз. В случае повторения ошибки, установите, пожалуйста, этот модуль из раздела <a href=\"#UPDATE_SYSTEM_PARTNER_LINK#\">\"Обновление решений\"</a>";
-$MESS["SALE_BSM_WIZARD_MODULEINSTALLSTEP_ERROR_UPDATESYSTEM"] = "Попробуйте повторить текущий шаг ещё раз. В случае повторения ошибки, установите, пожалуйста, этот модуль из раздела <a href=\"#MODULES_LINK#\">\"Модули\"</a>";
-$MESS["SALE_BSM_WIZARD_MODULEINSTALLSTEP_RETRY_BUTTON"] = "Повторить шаг";
-$MESS["SALE_BSM_WIZARD_MODULEINSTALLSTEP_SKIP_BUTTON"] = "Пропустить шаг";
-$MESS["SALE_BSM_WIZARD_MODULEINSTALLSTEP_INSTALL_WAIT1"] = "Пожалуйста, подождите...";
-$MESS["SALE_BSM_WIZARD_MODULEINSTALLSTEP_INSTALL_WAIT2"] = "Операция может занять продолжительное время";
-$MESS["SALE_BSM_WIZARD_MODULEINSTALLSTEP_INSTALL_WAIT3"] = "Автоматическое перенаправление через #COUNT_TIME# сек...";
-$MESS["SALE_BSM_WIZARD_MODULEINSTALLSTEP_INSTALL_ERROR"] = "Ошибка при установке модуля #MODULE_NAME#";
+$MESS["SALE_BSM_WIZARD_MODULEINSTALLSTEP_TITLE"] = "РЈСЃС‚Р°РЅРѕРІРєР° РјРѕРґСѓР»РµР№";
+$MESS["SALE_BSM_WIZARD_MODULEINSTALLSTEP_NEXT"] = "РџСЂРѕРґРѕР»Р¶РёС‚СЊ";
+$MESS["SALE_BSM_WIZARD_MODULEINSTALLSTEP_INSTALL_FINISH"] = "Р—Р°РІРµСЂС€РµРЅР° СѓСЃРїРµС€РЅРѕ";
+$MESS["SALE_BSM_WIZARD_MODULEINSTALLSTEP_ERROR_OCCURED"] = "РџСЂРё СѓСЃС‚Р°РЅРѕРІРєРµ РјРѕРґСѓР»СЏ \"#MODULE_NAME#\" РїСЂРѕРёР·РѕС€Р»Р° РѕС€РёР±РєР°";
+$MESS["SALE_BSM_WIZARD_MODULEINSTALLSTEP_ERROR_MARKETPLACE"] = "РџРѕРїСЂРѕР±СѓР№С‚Рµ РїРѕРІС‚РѕСЂРёС‚СЊ С‚РµРєСѓС‰РёР№ С€Р°Рі РµС‰С‘ СЂР°Р·. Р’ СЃР»СѓС‡Р°Рµ РїРѕРІС‚РѕСЂРµРЅРёСЏ РѕС€РёР±РєРё, СѓСЃС‚Р°РЅРѕРІРёС‚Рµ, РїРѕР¶Р°Р»СѓР№СЃС‚Р°, СЌС‚РѕС‚ РјРѕРґСѓР»СЊ РёР· СЂР°Р·РґРµР»Р° <a href=\"#UPDATE_SYSTEM_PARTNER_LINK#\">\"РћР±РЅРѕРІР»РµРЅРёРµ СЂРµС€РµРЅРёР№\"</a>";
+$MESS["SALE_BSM_WIZARD_MODULEINSTALLSTEP_ERROR_UPDATESYSTEM"] = "РџРѕРїСЂРѕР±СѓР№С‚Рµ РїРѕРІС‚РѕСЂРёС‚СЊ С‚РµРєСѓС‰РёР№ С€Р°Рі РµС‰С‘ СЂР°Р·. Р’ СЃР»СѓС‡Р°Рµ РїРѕРІС‚РѕСЂРµРЅРёСЏ РѕС€РёР±РєРё, СѓСЃС‚Р°РЅРѕРІРёС‚Рµ, РїРѕР¶Р°Р»СѓР№СЃС‚Р°, СЌС‚РѕС‚ РјРѕРґСѓР»СЊ РёР· СЂР°Р·РґРµР»Р° <a href=\"#MODULES_LINK#\">\"РњРѕРґСѓР»Рё\"</a>";
+$MESS["SALE_BSM_WIZARD_MODULEINSTALLSTEP_RETRY_BUTTON"] = "РџРѕРІС‚РѕСЂРёС‚СЊ С€Р°Рі";
+$MESS["SALE_BSM_WIZARD_MODULEINSTALLSTEP_SKIP_BUTTON"] = "РџСЂРѕРїСѓСЃС‚РёС‚СЊ С€Р°Рі";
+$MESS["SALE_BSM_WIZARD_MODULEINSTALLSTEP_INSTALL_WAIT1"] = "РџРѕР¶Р°Р»СѓР№СЃС‚Р°, РїРѕРґРѕР¶РґРёС‚Рµ...";
+$MESS["SALE_BSM_WIZARD_MODULEINSTALLSTEP_INSTALL_WAIT2"] = "РћРїРµСЂР°С†РёСЏ РјРѕР¶РµС‚ Р·Р°РЅСЏС‚СЊ РїСЂРѕРґРѕР»Р¶РёС‚РµР»СЊРЅРѕРµ РІСЂРµРјСЏ";
+$MESS["SALE_BSM_WIZARD_MODULEINSTALLSTEP_INSTALL_WAIT3"] = "РђРІС‚РѕРјР°С‚РёС‡РµСЃРєРѕРµ РїРµСЂРµРЅР°РїСЂР°РІР»РµРЅРёРµ С‡РµСЂРµР· #COUNT_TIME# СЃРµРє...";
+$MESS["SALE_BSM_WIZARD_MODULEINSTALLSTEP_INSTALL_ERROR"] = "РћС€РёР±РєР° РїСЂРё СѓСЃС‚Р°РЅРѕРІРєРµ РјРѕРґСѓР»СЏ #MODULE_NAME#";

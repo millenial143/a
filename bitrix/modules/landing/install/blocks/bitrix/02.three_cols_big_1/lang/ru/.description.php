@@ -1,21 +1,21 @@
 <?php
-$MESS['LANDING_BLOCK_1_THREE_COLS_1_NAME'] = '3 êîëîíêè: êîëîíêà-êàðòèíêà, êîëîíêà-òåêñò è ïåðåëèñòûâàåìûå êàðòèíêè ñ òåêñòîì íà öâåòíîì ôîíå';
-$MESS['LANDING_BLOCK_1_THREE_COLS_1_DESCRIPTION'] = 'Ñëåâà - êàðòèíêà
-Ïî öåíòðó - òåêñò ñ çàãîëîâêîì
-Ñïðàâà - êàðóñåëü ñ êàðòèíêàìè è òåêñòîì';
-$MESS['LANDING_BLOCK_1_THREE_COLS_1_CARDS_LANDINGBLOCKCARDRIGHT'] = 'Ïðàâàÿ êîëîíêà - ñòðàíèöà';
-$MESS['LANDING_BLOCK_1_THREE_COLS_1_NODES_LANDINGBLOCKNODELEFTIMG'] = 'Ëåâàÿ êîëîíêà - êàðòèíêà';
-$MESS['LANDING_BLOCK_1_THREE_COLS_1_NODES_LANDINGBLOCKNODECENTERSUBTITLE'] = 'Êîëîíêà â öåíòðå - ïîäçàãîëîâîê';
-$MESS['LANDING_BLOCK_1_THREE_COLS_1_NODES_LANDINGBLOCKNODECENTERTITLE'] = 'Êîëîíêà â öåíòðå - çàãîëîâîê';
-$MESS['LANDING_BLOCK_1_THREE_COLS_1_NODES_LANDINGBLOCKNODECENTERTEXT'] = 'Êîëîíêà â öåíòðå - òåêñò';
-$MESS['LANDING_BLOCK_1_THREE_COLS_1_NODES_LANDINGBLOCKNODERIGHTIMG'] = 'Êàðòèíêà';
-$MESS['LANDING_BLOCK_1_THREE_COLS_1_NODES_LANDINGBLOCKNODERIGHTTITLE'] = 'Çàãîëîâîê';
-$MESS['LANDING_BLOCK_1_THREE_COLS_1_NODES_LANDINGBLOCKNODERIGHTTEXT'] = 'Òåêñò';
-$MESS['LANDING_BLOCK_1_THREE_COLS_1_STYLE_LANDINGBLOCKNODECENTERSUBTITLE'] = 'Êîëîíêà â öåíòðå - ïîäçàãîëîâîê';
-$MESS['LANDING_BLOCK_1_THREE_COLS_1_STYLE_LANDINGBLOCKNODECENTER'] = 'Êîëîíêà â öåíòðå';
-$MESS['LANDING_BLOCK_1_THREE_COLS_1_STYLE_LANDINGBLOCKNODECENTERTITLE'] = 'Êîëîíêà â öåíòðå - çàãîëîâîê';
-$MESS['LANDING_BLOCK_1_THREE_COLS_1_STYLE_LANDINGBLOCKNODECENTERTEXT'] = 'Êîëîíêà â öåíòðå - òåêñò';
-$MESS['LANDING_BLOCK_1_THREE_COLS_1_STYLE_LANDINGBLOCKNODERIGHTTITLE'] = 'Çàãîëîâîê';
-$MESS['LANDING_BLOCK_1_THREE_COLS_1_STYLE_LANDINGBLOCKNODERIGHT'] = 'Ïðàâàÿ êîëîíêà';
-$MESS['LANDING_BLOCK_1_THREE_COLS_1_STYLE_LANDINGBLOCKNODERIGHTTEXT'] = 'Òåêñò';
-$MESS['LANDING_BLOCK_1_THREE_COLS_1_STYLE_LANDINGBLOCKNODEHEADER'] = 'Ýëåìåíò';
+$MESS['LANDING_BLOCK_1_THREE_COLS_1_NAME'] = '3 ÐºÐ¾Ð»Ð¾Ð½ÐºÐ¸: ÐºÐ¾Ð»Ð¾Ð½ÐºÐ°-ÐºÐ°Ñ€Ñ‚Ð¸Ð½ÐºÐ°, ÐºÐ¾Ð»Ð¾Ð½ÐºÐ°-Ñ‚ÐµÐºÑÑ‚ Ð¸ Ð¿ÐµÑ€ÐµÐ»Ð¸ÑÑ‚Ñ‹Ð²Ð°ÐµÐ¼Ñ‹Ðµ ÐºÐ°Ñ€Ñ‚Ð¸Ð½ÐºÐ¸ Ñ Ñ‚ÐµÐºÑÑ‚Ð¾Ð¼ Ð½Ð° Ñ†Ð²ÐµÑ‚Ð½Ð¾Ð¼ Ñ„Ð¾Ð½Ðµ';
+$MESS['LANDING_BLOCK_1_THREE_COLS_1_DESCRIPTION'] = 'Ð¡Ð»ÐµÐ²Ð° - ÐºÐ°Ñ€Ñ‚Ð¸Ð½ÐºÐ°
+ÐŸÐ¾ Ñ†ÐµÐ½Ñ‚Ñ€Ñƒ - Ñ‚ÐµÐºÑÑ‚ Ñ Ð·Ð°Ð³Ð¾Ð»Ð¾Ð²ÐºÐ¾Ð¼
+Ð¡Ð¿Ñ€Ð°Ð²Ð° - ÐºÐ°Ñ€ÑƒÑÐµÐ»ÑŒ Ñ ÐºÐ°Ñ€Ñ‚Ð¸Ð½ÐºÐ°Ð¼Ð¸ Ð¸ Ñ‚ÐµÐºÑÑ‚Ð¾Ð¼';
+$MESS['LANDING_BLOCK_1_THREE_COLS_1_CARDS_LANDINGBLOCKCARDRIGHT'] = 'ÐŸÑ€Ð°Ð²Ð°Ñ ÐºÐ¾Ð»Ð¾Ð½ÐºÐ° - ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ð°';
+$MESS['LANDING_BLOCK_1_THREE_COLS_1_NODES_LANDINGBLOCKNODELEFTIMG'] = 'Ð›ÐµÐ²Ð°Ñ ÐºÐ¾Ð»Ð¾Ð½ÐºÐ° - ÐºÐ°Ñ€Ñ‚Ð¸Ð½ÐºÐ°';
+$MESS['LANDING_BLOCK_1_THREE_COLS_1_NODES_LANDINGBLOCKNODECENTERSUBTITLE'] = 'ÐšÐ¾Ð»Ð¾Ð½ÐºÐ° Ð² Ñ†ÐµÐ½Ñ‚Ñ€Ðµ - Ð¿Ð¾Ð´Ð·Ð°Ð³Ð¾Ð»Ð¾Ð²Ð¾Ðº';
+$MESS['LANDING_BLOCK_1_THREE_COLS_1_NODES_LANDINGBLOCKNODECENTERTITLE'] = 'ÐšÐ¾Ð»Ð¾Ð½ÐºÐ° Ð² Ñ†ÐµÐ½Ñ‚Ñ€Ðµ - Ð·Ð°Ð³Ð¾Ð»Ð¾Ð²Ð¾Ðº';
+$MESS['LANDING_BLOCK_1_THREE_COLS_1_NODES_LANDINGBLOCKNODECENTERTEXT'] = 'ÐšÐ¾Ð»Ð¾Ð½ÐºÐ° Ð² Ñ†ÐµÐ½Ñ‚Ñ€Ðµ - Ñ‚ÐµÐºÑÑ‚';
+$MESS['LANDING_BLOCK_1_THREE_COLS_1_NODES_LANDINGBLOCKNODERIGHTIMG'] = 'ÐšÐ°Ñ€Ñ‚Ð¸Ð½ÐºÐ°';
+$MESS['LANDING_BLOCK_1_THREE_COLS_1_NODES_LANDINGBLOCKNODERIGHTTITLE'] = 'Ð—Ð°Ð³Ð¾Ð»Ð¾Ð²Ð¾Ðº';
+$MESS['LANDING_BLOCK_1_THREE_COLS_1_NODES_LANDINGBLOCKNODERIGHTTEXT'] = 'Ð¢ÐµÐºÑÑ‚';
+$MESS['LANDING_BLOCK_1_THREE_COLS_1_STYLE_LANDINGBLOCKNODECENTERSUBTITLE'] = 'ÐšÐ¾Ð»Ð¾Ð½ÐºÐ° Ð² Ñ†ÐµÐ½Ñ‚Ñ€Ðµ - Ð¿Ð¾Ð´Ð·Ð°Ð³Ð¾Ð»Ð¾Ð²Ð¾Ðº';
+$MESS['LANDING_BLOCK_1_THREE_COLS_1_STYLE_LANDINGBLOCKNODECENTER'] = 'ÐšÐ¾Ð»Ð¾Ð½ÐºÐ° Ð² Ñ†ÐµÐ½Ñ‚Ñ€Ðµ';
+$MESS['LANDING_BLOCK_1_THREE_COLS_1_STYLE_LANDINGBLOCKNODECENTERTITLE'] = 'ÐšÐ¾Ð»Ð¾Ð½ÐºÐ° Ð² Ñ†ÐµÐ½Ñ‚Ñ€Ðµ - Ð·Ð°Ð³Ð¾Ð»Ð¾Ð²Ð¾Ðº';
+$MESS['LANDING_BLOCK_1_THREE_COLS_1_STYLE_LANDINGBLOCKNODECENTERTEXT'] = 'ÐšÐ¾Ð»Ð¾Ð½ÐºÐ° Ð² Ñ†ÐµÐ½Ñ‚Ñ€Ðµ - Ñ‚ÐµÐºÑÑ‚';
+$MESS['LANDING_BLOCK_1_THREE_COLS_1_STYLE_LANDINGBLOCKNODERIGHTTITLE'] = 'Ð—Ð°Ð³Ð¾Ð»Ð¾Ð²Ð¾Ðº';
+$MESS['LANDING_BLOCK_1_THREE_COLS_1_STYLE_LANDINGBLOCKNODERIGHT'] = 'ÐŸÑ€Ð°Ð²Ð°Ñ ÐºÐ¾Ð»Ð¾Ð½ÐºÐ°';
+$MESS['LANDING_BLOCK_1_THREE_COLS_1_STYLE_LANDINGBLOCKNODERIGHTTEXT'] = 'Ð¢ÐµÐºÑÑ‚';
+$MESS['LANDING_BLOCK_1_THREE_COLS_1_STYLE_LANDINGBLOCKNODEHEADER'] = 'Ð­Ð»ÐµÐ¼ÐµÐ½Ñ‚';

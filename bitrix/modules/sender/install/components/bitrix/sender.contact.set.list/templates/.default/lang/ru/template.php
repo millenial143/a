@@ -1,5 +1,5 @@
 <?
-$MESS["SENDER_CONTACT_SET_LIST_BTN_REMOVE"] = "Óäàëèòü";
-$MESS["SENDER_CONTACT_SET_LIST_BTN_REMOVE_TITLE"] = "Óäàëèòü ñòàòè÷åñêèé íàáîð àäðåñîâ";
-$MESS["SENDER_CONTACT_SET_LIST_BTN_EDIT"] = "Èçìåíèòü";
-$MESS["SENDER_CONTACT_SET_LIST_BTN_EDIT_TITLE"] = "Èçìåíèòü ñòàòè÷åñêèé íàáîð àäðåñîâ";
+$MESS["SENDER_CONTACT_SET_LIST_BTN_REMOVE"] = "Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ";
+$MESS["SENDER_CONTACT_SET_LIST_BTN_REMOVE_TITLE"] = "Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ ÑÑ‚Ð°Ñ‚Ð¸Ñ‡ÐµÑÐºÐ¸Ð¹ Ð½Ð°Ð±Ð¾Ñ€ Ð°Ð´Ñ€ÐµÑÐ¾Ð²";
+$MESS["SENDER_CONTACT_SET_LIST_BTN_EDIT"] = "Ð˜Ð·Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ";
+$MESS["SENDER_CONTACT_SET_LIST_BTN_EDIT_TITLE"] = "Ð˜Ð·Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ ÑÑ‚Ð°Ñ‚Ð¸Ñ‡ÐµÑÐºÐ¸Ð¹ Ð½Ð°Ð±Ð¾Ñ€ Ð°Ð´Ñ€ÐµÑÐ¾Ð²";

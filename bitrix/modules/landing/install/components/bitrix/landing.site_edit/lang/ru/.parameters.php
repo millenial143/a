@@ -1,8 +1,8 @@
 <?php
-$MESS['LANDING_CMP_PAR_SITE_ID'] = 'ID ñàéòà';
-$MESS['LANDING_CMP_PAR_TEMPLATE'] = 'Øàáëîí ïðåäñòàâëåíèÿ';
-$MESS['LANDING_CMP_PAR_PAGE_URL_SITES'] = 'Ññûëêà íà ñòðàíèöó ñî ñïèñêîì ñàéòîâ';
-$MESS['LANDING_CMP_PAR_PAGE_URL_LANDING_VIEW'] = 'Ññûëêà íà ñòðàíèöó ïðîñìîòðà / íàïîëíåíèÿ ëåíäèíãà';
-$MESS['LANDING_CMP_PAR_PAGE_URL_SITE_DOMAIN'] = 'Ññûëêà íà ñòðàíèöó ðåäàêòèðîâàíèÿ äîìåíà';
-$MESS['LANDING_CMP_PAR_PAGE_URL_SITE_COOKIES'] = 'Ññûëêà íà ñòðàíèöó ðåäàêòèðîâàíèÿ cookies';
-$MESS['LANDING_CMP_PAR_LANDING_TYPE'] = 'Òèï ñàéòîâ';
+$MESS['LANDING_CMP_PAR_SITE_ID'] = 'ID ÑÐ°Ð¹Ñ‚Ð°';
+$MESS['LANDING_CMP_PAR_TEMPLATE'] = 'Ð¨Ð°Ð±Ð»Ð¾Ð½ Ð¿Ñ€ÐµÐ´ÑÑ‚Ð°Ð²Ð»ÐµÐ½Ð¸Ñ';
+$MESS['LANDING_CMP_PAR_PAGE_URL_SITES'] = 'Ð¡ÑÑ‹Ð»ÐºÐ° Ð½Ð° ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñƒ ÑÐ¾ ÑÐ¿Ð¸ÑÐºÐ¾Ð¼ ÑÐ°Ð¹Ñ‚Ð¾Ð²';
+$MESS['LANDING_CMP_PAR_PAGE_URL_LANDING_VIEW'] = 'Ð¡ÑÑ‹Ð»ÐºÐ° Ð½Ð° ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñƒ Ð¿Ñ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€Ð° / Ð½Ð°Ð¿Ð¾Ð»Ð½ÐµÐ½Ð¸Ñ Ð»ÐµÐ½Ð´Ð¸Ð½Ð³Ð°';
+$MESS['LANDING_CMP_PAR_PAGE_URL_SITE_DOMAIN'] = 'Ð¡ÑÑ‹Ð»ÐºÐ° Ð½Ð° ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñƒ Ñ€ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ñ Ð´Ð¾Ð¼ÐµÐ½Ð°';
+$MESS['LANDING_CMP_PAR_PAGE_URL_SITE_COOKIES'] = 'Ð¡ÑÑ‹Ð»ÐºÐ° Ð½Ð° ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñƒ Ñ€ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ñ cookies';
+$MESS['LANDING_CMP_PAR_LANDING_TYPE'] = 'Ð¢Ð¸Ð¿ ÑÐ°Ð¹Ñ‚Ð¾Ð²';

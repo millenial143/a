@@ -1,9 +1,9 @@
 <?php
-$MESS['LNDNG_BLPHB_TEMPLATE_MODE_NAME'] = 'Ðåæèì îòîáðàæåíèÿ';
-$MESS['LNDNG_BLPHB_TEMPLATE_MODE_LIGHT'] = 'Ñâåòëûé';
-$MESS['LNDNG_BLPHB_TEMPLATE_MODE_DARK'] = 'Ò¸ìíûé';
-$MESS['LNDNG_BLPHB_TEMPLATE_TITLE_NAME'] = 'Çàãîëîâîê';
-$MESS['LNDNG_BLPHB_TEMPLATE_TITLE_BUTTON_NAME'] = 'Íàçâàíèå êíîïêè';
-$MESS['LNDNG_BLPHB_BUTTON_POSITION'] = 'Ïîçèöèÿ êíîïêè';
-$MESS['LNDNG_BLPHB_BUTTON_POSITION_LEFT'] = 'Ñëåâà';
-$MESS['LNDNG_BLPHB_BUTTON_POSITION_RIGHT'] = 'Ñïðàâà';
+$MESS['LNDNG_BLPHB_TEMPLATE_MODE_NAME'] = 'Ð ÐµÐ¶Ð¸Ð¼ Ð¾Ñ‚Ð¾Ð±Ñ€Ð°Ð¶ÐµÐ½Ð¸Ñ';
+$MESS['LNDNG_BLPHB_TEMPLATE_MODE_LIGHT'] = 'Ð¡Ð²ÐµÑ‚Ð»Ñ‹Ð¹';
+$MESS['LNDNG_BLPHB_TEMPLATE_MODE_DARK'] = 'Ð¢Ñ‘Ð¼Ð½Ñ‹Ð¹';
+$MESS['LNDNG_BLPHB_TEMPLATE_TITLE_NAME'] = 'Ð—Ð°Ð³Ð¾Ð»Ð¾Ð²Ð¾Ðº';
+$MESS['LNDNG_BLPHB_TEMPLATE_TITLE_BUTTON_NAME'] = 'ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ ÐºÐ½Ð¾Ð¿ÐºÐ¸';
+$MESS['LNDNG_BLPHB_BUTTON_POSITION'] = 'ÐŸÐ¾Ð·Ð¸Ñ†Ð¸Ñ ÐºÐ½Ð¾Ð¿ÐºÐ¸';
+$MESS['LNDNG_BLPHB_BUTTON_POSITION_LEFT'] = 'Ð¡Ð»ÐµÐ²Ð°';
+$MESS['LNDNG_BLPHB_BUTTON_POSITION_RIGHT'] = 'Ð¡Ð¿Ñ€Ð°Ð²Ð°';

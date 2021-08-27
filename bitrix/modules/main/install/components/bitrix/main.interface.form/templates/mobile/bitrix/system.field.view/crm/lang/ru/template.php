@@ -1,6 +1,6 @@
 <?
-$MESS["CRM_ENTITY_TYPE_LEAD"] = "Ëèä";
-$MESS["CRM_ENTITY_TYPE_CONTACT"] = "Êîíòàêò";
-$MESS["CRM_ENTITY_TYPE_COMPANY"] = "Êîìïàíèÿ";
-$MESS["CRM_ENTITY_TYPE_DEAL"] = "Ñäåëêà";
+$MESS["CRM_ENTITY_TYPE_LEAD"] = "Ð›Ð¸Ð´";
+$MESS["CRM_ENTITY_TYPE_CONTACT"] = "ÐšÐ¾Ð½Ñ‚Ð°ÐºÑ‚";
+$MESS["CRM_ENTITY_TYPE_COMPANY"] = "ÐšÐ¾Ð¼Ð¿Ð°Ð½Ð¸Ñ";
+$MESS["CRM_ENTITY_TYPE_DEAL"] = "Ð¡Ð´ÐµÐ»ÐºÐ°";
 ?>

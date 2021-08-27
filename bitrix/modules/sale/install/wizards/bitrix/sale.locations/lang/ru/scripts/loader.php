@@ -1,8 +1,8 @@
 <?
-$MESS['WSL_LOADER_ERROR_FILES'] = 'Îøèáêà! Íåâåðíûå èìåíà ôàéëîâ.';
-$MESS['WSL_LOADER_ERROR_ACCESS_DENIED'] = 'Îøèáêà! Íåò äîñòóïà.';
-$MESS['WSL_LOADER_LOADING'] = 'Çàãðóæàåì ôàéëû...';
-$MESS['WSL_LOADER_FILE_LOADED'] = 'Çàãðóæåí ôàéë';
-$MESS['WSL_LOADER_ALL_LOADED'] = 'Âñå ôàéëû çàãðóæåíû.';
-$MESS['WSL_LOADER_FILE_ERROR'] = 'Íå óäàëîñü çàãðóçèòü ôàéë';
+$MESS['WSL_LOADER_ERROR_FILES'] = 'ÐžÑˆÐ¸Ð±ÐºÐ°! ÐÐµÐ²ÐµÑ€Ð½Ñ‹Ðµ Ð¸Ð¼ÐµÐ½Ð° Ñ„Ð°Ð¹Ð»Ð¾Ð².';
+$MESS['WSL_LOADER_ERROR_ACCESS_DENIED'] = 'ÐžÑˆÐ¸Ð±ÐºÐ°! ÐÐµÑ‚ Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð°.';
+$MESS['WSL_LOADER_LOADING'] = 'Ð—Ð°Ð³Ñ€ÑƒÐ¶Ð°ÐµÐ¼ Ñ„Ð°Ð¹Ð»Ñ‹...';
+$MESS['WSL_LOADER_FILE_LOADED'] = 'Ð—Ð°Ð³Ñ€ÑƒÐ¶ÐµÐ½ Ñ„Ð°Ð¹Ð»';
+$MESS['WSL_LOADER_ALL_LOADED'] = 'Ð’ÑÐµ Ñ„Ð°Ð¹Ð»Ñ‹ Ð·Ð°Ð³Ñ€ÑƒÐ¶ÐµÐ½Ñ‹.';
+$MESS['WSL_LOADER_FILE_ERROR'] = 'ÐÐµ ÑƒÐ´Ð°Ð»Ð¾ÑÑŒ Ð·Ð°Ð³Ñ€ÑƒÐ·Ð¸Ñ‚ÑŒ Ñ„Ð°Ð¹Ð»';
 ?>

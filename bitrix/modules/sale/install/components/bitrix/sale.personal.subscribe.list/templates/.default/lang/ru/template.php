@@ -1,14 +1,14 @@
 <?
-$MESS["STPSL_PRODUCT"]="Товар";
-$MESS["STPSL_PERIOD_TYPE"]="Тип <br />периода <br />оплаты";
-$MESS["STPSL_PERIOD_BETW"]="Периодов <br />между <br />оплатами";
-$MESS["STPSL_CANCELED"]="Отменен";
-$MESS["STPSL_DATE_LAST"]="Дата <br />последнего <br />платежа";
-$MESS["STPSL_DATE_NEXT"]="Дата <br />очередного <br />платежа";
-$MESS["STPSL_LAST_SUCCESS"]="Последний <br />платеж <br />успешен";
-$MESS["STPSL_ACTIONS"]="Действия";
-$MESS["STPSL_YES"]="Да";
-$MESS["STPSL_NO"]="Нет";
-$MESS["STPSL_CANCEL"]="Отменить подписку";
-$MESS["STPSL_CANCEL1"]="Отменить";
+$MESS["STPSL_PRODUCT"]="РўРѕРІР°СЂ";
+$MESS["STPSL_PERIOD_TYPE"]="РўРёРї <br />РїРµСЂРёРѕРґР° <br />РѕРїР»Р°С‚С‹";
+$MESS["STPSL_PERIOD_BETW"]="РџРµСЂРёРѕРґРѕРІ <br />РјРµР¶РґСѓ <br />РѕРїР»Р°С‚Р°РјРё";
+$MESS["STPSL_CANCELED"]="РћС‚РјРµРЅРµРЅ";
+$MESS["STPSL_DATE_LAST"]="Р”Р°С‚Р° <br />РїРѕСЃР»РµРґРЅРµРіРѕ <br />РїР»Р°С‚РµР¶Р°";
+$MESS["STPSL_DATE_NEXT"]="Р”Р°С‚Р° <br />РѕС‡РµСЂРµРґРЅРѕРіРѕ <br />РїР»Р°С‚РµР¶Р°";
+$MESS["STPSL_LAST_SUCCESS"]="РџРѕСЃР»РµРґРЅРёР№ <br />РїР»Р°С‚РµР¶ <br />СѓСЃРїРµС€РµРЅ";
+$MESS["STPSL_ACTIONS"]="Р”РµР№СЃС‚РІРёСЏ";
+$MESS["STPSL_YES"]="Р”Р°";
+$MESS["STPSL_NO"]="РќРµС‚";
+$MESS["STPSL_CANCEL"]="РћС‚РјРµРЅРёС‚СЊ РїРѕРґРїРёСЃРєСѓ";
+$MESS["STPSL_CANCEL1"]="РћС‚РјРµРЅРёС‚СЊ";
 ?>

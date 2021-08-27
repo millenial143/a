@@ -1,6 +1,6 @@
 <?
-$MESS["CP_CATALOG_SERVICES_MAIN_SECTION"] = "Магазин";
-$MESS["CP_CATALOG_SERVICES_PARENT_SECTION"] = "Информация о товарах";
-$MESS["CVP_SECTION_TEMPLATE_NAME"] = "Выбор товара для получения подарка";
-$MESS["CVP_SECTION_TEMPLATE_DESCRIPTION"] = "Выводит товары, которые нужно купить для получения предложенного подарка";
+$MESS["CP_CATALOG_SERVICES_MAIN_SECTION"] = "РњР°РіР°Р·РёРЅ";
+$MESS["CP_CATALOG_SERVICES_PARENT_SECTION"] = "РРЅС„РѕСЂРјР°С†РёСЏ Рѕ С‚РѕРІР°СЂР°С…";
+$MESS["CVP_SECTION_TEMPLATE_NAME"] = "Р’С‹Р±РѕСЂ С‚РѕРІР°СЂР° РґР»СЏ РїРѕР»СѓС‡РµРЅРёСЏ РїРѕРґР°СЂРєР°";
+$MESS["CVP_SECTION_TEMPLATE_DESCRIPTION"] = "Р’С‹РІРѕРґРёС‚ С‚РѕРІР°СЂС‹, РєРѕС‚РѕСЂС‹Рµ РЅСѓР¶РЅРѕ РєСѓРїРёС‚СЊ РґР»СЏ РїРѕР»СѓС‡РµРЅРёСЏ РїСЂРµРґР»РѕР¶РµРЅРЅРѕРіРѕ РїРѕРґР°СЂРєР°";
 ?>

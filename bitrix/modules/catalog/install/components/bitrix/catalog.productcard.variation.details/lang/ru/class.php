@@ -1,2 +1,2 @@
 <?php
-$MESS["CPVD_NEW_VARIATION_TITLE"] = "Íîâàÿ âàðèàöèÿ";
+$MESS["CPVD_NEW_VARIATION_TITLE"] = "ÐÐ¾Ð²Ð°Ñ Ð²Ð°Ñ€Ð¸Ð°Ñ†Ð¸Ñ";

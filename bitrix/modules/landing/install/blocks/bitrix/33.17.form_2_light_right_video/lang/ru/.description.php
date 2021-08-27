@@ -1,3 +1,3 @@
 <?php
-$MESS['LANDING_BLOCK_FORM_33.16--NAME'] = 'Ôîðìà ñ âèäåî ñïðàâà';
-$MESS['LANDING_BLOCK_FORM_33.16_NODE--VIDEO'] = 'Âèäåî';
+$MESS['LANDING_BLOCK_FORM_33.16--NAME'] = 'Ð¤Ð¾Ñ€Ð¼Ð° Ñ Ð²Ð¸Ð´ÐµÐ¾ ÑÐ¿Ñ€Ð°Ð²Ð°';
+$MESS['LANDING_BLOCK_FORM_33.16_NODE--VIDEO'] = 'Ð’Ð¸Ð´ÐµÐ¾';

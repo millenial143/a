@@ -1,5 +1,5 @@
 <?
-$MESS ['IBLOCK_CATALOG_NAME'] = "Êàòàëîã";
-$MESS ['IBLOCK_CATALOG_DESCRIPTION'] = "Ïîëíûé êàòàëîã";
-$MESS ['T_IBLOCK_DESC_CATALOG'] = "Êàòàëîã";
+$MESS ['IBLOCK_CATALOG_NAME'] = "ÐšÐ°Ñ‚Ð°Ð»Ð¾Ð³";
+$MESS ['IBLOCK_CATALOG_DESCRIPTION'] = "ÐŸÐ¾Ð»Ð½Ñ‹Ð¹ ÐºÐ°Ñ‚Ð°Ð»Ð¾Ð³";
+$MESS ['T_IBLOCK_DESC_CATALOG'] = "ÐšÐ°Ñ‚Ð°Ð»Ð¾Ð³";
 ?>

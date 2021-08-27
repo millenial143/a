@@ -1,5 +1,5 @@
 <?
-$MESS["CP_CATALOG_1C_PARENT_SECTION"] = "Îáìåí ñ 1Ñ";
-$MESS["CD_BCI1_NAME"] = "Èìïîðò êàòàëîãà èç 1ñ";
-$MESS["CD_BCI1_DESCRIPTION"] = "Èìïîðò äàííûõ èç 1ñ â ôîðìàòå CommerceML v2";
+$MESS["CP_CATALOG_1C_PARENT_SECTION"] = "ÐžÐ±Ð¼ÐµÐ½ Ñ 1Ð¡";
+$MESS["CD_BCI1_NAME"] = "Ð˜Ð¼Ð¿Ð¾Ñ€Ñ‚ ÐºÐ°Ñ‚Ð°Ð»Ð¾Ð³Ð° Ð¸Ð· 1Ñ";
+$MESS["CD_BCI1_DESCRIPTION"] = "Ð˜Ð¼Ð¿Ð¾Ñ€Ñ‚ Ð´Ð°Ð½Ð½Ñ‹Ñ… Ð¸Ð· 1Ñ Ð² Ñ„Ð¾Ñ€Ð¼Ð°Ñ‚Ðµ CommerceML v2";
 ?>

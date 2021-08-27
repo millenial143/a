@@ -1,3 +1,3 @@
 <?
-$MESS["inerface_grid_days"] = "дн.";
+$MESS["inerface_grid_days"] = "РґРЅ.";
 ?>

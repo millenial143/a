@@ -1,4 +1,4 @@
 <?
-$MESS ['MAIN_UL_TPL_INFO_CLOSE'] = "Çàêðûòü";
-$MESS ['MAIN_UL_TPL_INFO_LOADING'] = "Çàãðóçêà...";
+$MESS ['MAIN_UL_TPL_INFO_CLOSE'] = "Ð—Ð°ÐºÑ€Ñ‹Ñ‚ÑŒ";
+$MESS ['MAIN_UL_TPL_INFO_LOADING'] = "Ð—Ð°Ð³Ñ€ÑƒÐ·ÐºÐ°...";
 ?>

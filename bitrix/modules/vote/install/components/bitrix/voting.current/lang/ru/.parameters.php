@@ -1,16 +1,16 @@
 <?
-$MESS["VOTE_CHANNEL_SID"] = "Группа опросов";
-$MESS["VOTE_VOTE_ID"] = "ID опроса";
-$MESS["VOTE_SELECT_DEFAULT"] = "выберите группу опросов";
-$MESS["VOTE_ALL_RESULTS"] = "Показывать варианты ответов для полей типа Text и Textarea";
-$MESS["F_VOTE_UNIQUE_SESSION"] = "в одной сессии";
-$MESS["F_VOTE_UNIQUE_COOKIE_ONLY"] = "с одним cookie";
-$MESS["F_VOTE_UNIQUE_IP_ONLY"] = "с одного IP";
-$MESS["F_VOTE_UNIQUE_USER_ID_ONLY"] = "с одним ID пользователя";
-$MESS["F_VOTE_UNIQUE_IP_DELAY"] = "Не голосовать дважды с одного IP в течение";
-$MESS["F_VOTE_UNIQUE"] = "Не голосовать дважды";
-$MESS["F_VOTE_SECONDS"] = "секунд";
-$MESS["F_VOTE_MINUTES"] = "минут";
-$MESS["F_VOTE_HOURS"] = "часов";
-$MESS["F_VOTE_DAYS"] = "дней";
+$MESS["VOTE_CHANNEL_SID"] = "Р“СЂСѓРїРїР° РѕРїСЂРѕСЃРѕРІ";
+$MESS["VOTE_VOTE_ID"] = "ID РѕРїСЂРѕСЃР°";
+$MESS["VOTE_SELECT_DEFAULT"] = "РІС‹Р±РµСЂРёС‚Рµ РіСЂСѓРїРїСѓ РѕРїСЂРѕСЃРѕРІ";
+$MESS["VOTE_ALL_RESULTS"] = "РџРѕРєР°Р·С‹РІР°С‚СЊ РІР°СЂРёР°РЅС‚С‹ РѕС‚РІРµС‚РѕРІ РґР»СЏ РїРѕР»РµР№ С‚РёРїР° Text Рё Textarea";
+$MESS["F_VOTE_UNIQUE_SESSION"] = "РІ РѕРґРЅРѕР№ СЃРµСЃСЃРёРё";
+$MESS["F_VOTE_UNIQUE_COOKIE_ONLY"] = "СЃ РѕРґРЅРёРј cookie";
+$MESS["F_VOTE_UNIQUE_IP_ONLY"] = "СЃ РѕРґРЅРѕРіРѕ IP";
+$MESS["F_VOTE_UNIQUE_USER_ID_ONLY"] = "СЃ РѕРґРЅРёРј ID РїРѕР»СЊР·РѕРІР°С‚РµР»СЏ";
+$MESS["F_VOTE_UNIQUE_IP_DELAY"] = "РќРµ РіРѕР»РѕСЃРѕРІР°С‚СЊ РґРІР°Р¶РґС‹ СЃ РѕРґРЅРѕРіРѕ IP РІ С‚РµС‡РµРЅРёРµ";
+$MESS["F_VOTE_UNIQUE"] = "РќРµ РіРѕР»РѕСЃРѕРІР°С‚СЊ РґРІР°Р¶РґС‹";
+$MESS["F_VOTE_SECONDS"] = "СЃРµРєСѓРЅРґ";
+$MESS["F_VOTE_MINUTES"] = "РјРёРЅСѓС‚";
+$MESS["F_VOTE_HOURS"] = "С‡Р°СЃРѕРІ";
+$MESS["F_VOTE_DAYS"] = "РґРЅРµР№";
 ?>

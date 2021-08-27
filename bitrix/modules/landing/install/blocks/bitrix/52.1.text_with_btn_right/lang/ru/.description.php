@@ -1,4 +1,4 @@
 <?php
-$MESS['LANDING_BLOCK_52_TEXT_WITH_BTN_RIGHT-NAME'] = 'Òåêñò ñ êíîïêîé ñïðàâà';
-$MESS['LANDING_BLOCK_52_TEXT_WITH_BTN_RIGHT-TEXT'] = 'Òåêñò';
-$MESS['LANDING_BLOCK_52_TEXT_WITH_BTN_RIGHT-BTN'] = 'Êíîïêà';
+$MESS['LANDING_BLOCK_52_TEXT_WITH_BTN_RIGHT-NAME'] = 'Ð¢ÐµÐºÑÑ‚ Ñ ÐºÐ½Ð¾Ð¿ÐºÐ¾Ð¹ ÑÐ¿Ñ€Ð°Ð²Ð°';
+$MESS['LANDING_BLOCK_52_TEXT_WITH_BTN_RIGHT-TEXT'] = 'Ð¢ÐµÐºÑÑ‚';
+$MESS['LANDING_BLOCK_52_TEXT_WITH_BTN_RIGHT-BTN'] = 'ÐšÐ½Ð¾Ð¿ÐºÐ°';

@@ -1,7 +1,7 @@
 <?php
-$MESS["CPD_NEW_VARIATION_ADDED"] = "Âàðèàöèÿ óñïåøíî äîáàâëåíà";
-$MESS["CPD_NEW_PROPERTY_ADDED"] = "Ñâîéñòâî óñïåøíî äîáàâëåíî";
-$MESS["CPD_SETTING_ENABLED"] = "Íàñòðîéêà \"#NAME#\" âêëþ÷åíà";
-$MESS["CPD_SETTING_DISABLED"] = "Íàñòðîéêà \"#NAME#\" âûêëþ÷åíà";
-$MESS["CPD_TAB_GENERAL_TITLE"] = "Îáùåå";
-$MESS["CPD_FEEDBACK_BUTTON"] = "Îáðàòíàÿ ñâÿçü";
+$MESS["CPD_NEW_VARIATION_ADDED"] = "Ð’Ð°Ñ€Ð¸Ð°Ñ†Ð¸Ñ ÑƒÑÐ¿ÐµÑˆÐ½Ð¾ Ð´Ð¾Ð±Ð°Ð²Ð»ÐµÐ½Ð°";
+$MESS["CPD_NEW_PROPERTY_ADDED"] = "Ð¡Ð²Ð¾Ð¹ÑÑ‚Ð²Ð¾ ÑƒÑÐ¿ÐµÑˆÐ½Ð¾ Ð´Ð¾Ð±Ð°Ð²Ð»ÐµÐ½Ð¾";
+$MESS["CPD_SETTING_ENABLED"] = "ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ° \"#NAME#\" Ð²ÐºÐ»ÑŽÑ‡ÐµÐ½Ð°";
+$MESS["CPD_SETTING_DISABLED"] = "ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ° \"#NAME#\" Ð²Ñ‹ÐºÐ»ÑŽÑ‡ÐµÐ½Ð°";
+$MESS["CPD_TAB_GENERAL_TITLE"] = "ÐžÐ±Ñ‰ÐµÐµ";
+$MESS["CPD_FEEDBACK_BUTTON"] = "ÐžÐ±Ñ€Ð°Ñ‚Ð½Ð°Ñ ÑÐ²ÑÐ·ÑŒ";

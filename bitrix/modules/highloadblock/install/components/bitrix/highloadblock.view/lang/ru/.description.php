@@ -1,7 +1,7 @@
 <?php
 
-$MESS["HLVIEW_COMPONENT_NAME"] = "Çàïèñü äåòàëüíî";
-$MESS["HLVIEW_COMPONENT_DESCRIPTION"] = "Âûâîäèò äåòàëüíóþ èíôîðìàöèþ îá îäíîé çàïèñè çàäàííîãî HL èíôîáëîêà";
-$MESS["HLVIEW_COMPONENT_CATEGORY_TITLE"] = "Highload èíôîáëîêè";
+$MESS["HLVIEW_COMPONENT_NAME"] = "Ð—Ð°Ð¿Ð¸ÑÑŒ Ð´ÐµÑ‚Ð°Ð»ÑŒÐ½Ð¾";
+$MESS["HLVIEW_COMPONENT_DESCRIPTION"] = "Ð’Ñ‹Ð²Ð¾Ð´Ð¸Ñ‚ Ð´ÐµÑ‚Ð°Ð»ÑŒÐ½ÑƒÑŽ Ð¸Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸ÑŽ Ð¾Ð± Ð¾Ð´Ð½Ð¾Ð¹ Ð·Ð°Ð¿Ð¸ÑÐ¸ Ð·Ð°Ð´Ð°Ð½Ð½Ð¾Ð³Ð¾ HL Ð¸Ð½Ñ„Ð¾Ð±Ð»Ð¾ÐºÐ°";
+$MESS["HLVIEW_COMPONENT_CATEGORY_TITLE"] = "Highload Ð¸Ð½Ñ„Ð¾Ð±Ð»Ð¾ÐºÐ¸";
 
 ?>

@@ -1,4 +1,4 @@
 <?
-$MESS["IBLOCK_SELECTOR_SECTION_ERR_IBLOCK_MODULE_NOT_INSTALLED"] = "Ìîäóëü \"Èíôîðìàöèîííûå áëîêè\" íå óñòàíîâëåí";
-$MESS["IBLOCK_SELECTOR_SECTION_GRID_PAGENAVIGATION_TITLE"] = "Ðàçäåëû";
+$MESS["IBLOCK_SELECTOR_SECTION_ERR_IBLOCK_MODULE_NOT_INSTALLED"] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ \"Ð˜Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ð¾Ð½Ð½Ñ‹Ðµ Ð±Ð»Ð¾ÐºÐ¸\" Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½";
+$MESS["IBLOCK_SELECTOR_SECTION_GRID_PAGENAVIGATION_TITLE"] = "Ð Ð°Ð·Ð´ÐµÐ»Ñ‹";
 ?>

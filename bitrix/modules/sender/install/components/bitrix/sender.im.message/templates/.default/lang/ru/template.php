@@ -1,4 +1,4 @@
 <?
-$MESS ['SENDER_IM_MESSAGE_TEXT_TITLE'] = "Текст сообщения";
-$MESS ['SENDER_IM_MESSAGE_TEXT_COUNT'] = "знаков";
+$MESS ['SENDER_IM_MESSAGE_TEXT_TITLE'] = "РўРµРєСЃС‚ СЃРѕРѕР±С‰РµРЅРёСЏ";
+$MESS ['SENDER_IM_MESSAGE_TEXT_COUNT'] = "Р·РЅР°РєРѕРІ";
 ?>

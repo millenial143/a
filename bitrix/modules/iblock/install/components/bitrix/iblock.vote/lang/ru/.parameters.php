@@ -1,8 +1,8 @@
 <?
-$MESS["IBLOCK_TYPE"] = "Òèï èíôîáëîêà";
-$MESS["IBLOCK_IBLOCK"] = "Èíôîáëîê";
-$MESS["IBLOCK_ELEMENT_ID"] = "ID ýëåìåíòà";
-$MESS["IBLOCK_ELEMENT_CODE"] = "Êîä ýëåìåíòà";
-$MESS["IBLOCK_MAX_VOTE"] = "Ìàêñèìàëüíûé áàëë";
-$MESS["IBLOCK_VOTE_NAMES"] = "Ïîäïèñè ê áàëëàì";
+$MESS["IBLOCK_TYPE"] = "Ð¢Ð¸Ð¿ Ð¸Ð½Ñ„Ð¾Ð±Ð»Ð¾ÐºÐ°";
+$MESS["IBLOCK_IBLOCK"] = "Ð˜Ð½Ñ„Ð¾Ð±Ð»Ð¾Ðº";
+$MESS["IBLOCK_ELEMENT_ID"] = "ID ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð°";
+$MESS["IBLOCK_ELEMENT_CODE"] = "ÐšÐ¾Ð´ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð°";
+$MESS["IBLOCK_MAX_VOTE"] = "ÐœÐ°ÐºÑÐ¸Ð¼Ð°Ð»ÑŒÐ½Ñ‹Ð¹ Ð±Ð°Ð»Ð»";
+$MESS["IBLOCK_VOTE_NAMES"] = "ÐŸÐ¾Ð´Ð¿Ð¸ÑÐ¸ Ðº Ð±Ð°Ð»Ð»Ð°Ð¼";
 ?>

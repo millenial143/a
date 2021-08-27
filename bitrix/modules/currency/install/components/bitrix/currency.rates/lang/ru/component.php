@@ -1,3 +1,3 @@
 <?
-$MESS["CURRENCY_MODULE_NOT_INSTALLED"] = "Íå óñòàíîâëåí ìîäóëü âàëþò";
+$MESS["CURRENCY_MODULE_NOT_INSTALLED"] = "ÐÐµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½ Ð¼Ð¾Ð´ÑƒÐ»ÑŒ Ð²Ð°Ð»ÑŽÑ‚";
 ?>

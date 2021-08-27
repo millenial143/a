@@ -1,12 +1,12 @@
 <?
-$MESS["MARKETPLACE_UPDATES"] = "Îáíîâëåíèÿ";
-$MESS["MARKETPLACE_UPDATE_BUTTON"] = "Îáíîâèòü";
-$MESS["MARKETPLACE_UPDATE_APP_FREE"] = "áåñïëàòíî";
-$MESS["MARKETPLACE_UPDATES_EMPTY"] = "Íåò äîñòóïíûõ îáíîâëåíèé";
-$MESS["MARKETPLACE_UPDATE_INSTALLED"] = "Óñòàíîâëåíî";
-$MESS["MARKETPLACE_APP_INSTALL"] = "Óñòàíîâèòü";
-$MESS["MARKETPLACE_APP_INSTALL_CANCEL"] = "Îòìåíà";
-$MESS["MARKETPLACE_APP_POPUP_LOAD"] = "Çàãðóçêà";
-$MESS["MARKETPLACE_APP_VERSION"] = "Âåðñèÿ";
-$MESS["MARKETPLACE_APP_PORTAL_ADMIN"] = "Äëÿ óñòàíîâêè îáíîâëåíèÿ îáðàòèòåñü ê àäìèíèñòðàòîðó ïîðòàëà";
+$MESS["MARKETPLACE_UPDATES"] = "ÐžÐ±Ð½Ð¾Ð²Ð»ÐµÐ½Ð¸Ñ";
+$MESS["MARKETPLACE_UPDATE_BUTTON"] = "ÐžÐ±Ð½Ð¾Ð²Ð¸Ñ‚ÑŒ";
+$MESS["MARKETPLACE_UPDATE_APP_FREE"] = "Ð±ÐµÑÐ¿Ð»Ð°Ñ‚Ð½Ð¾";
+$MESS["MARKETPLACE_UPDATES_EMPTY"] = "ÐÐµÑ‚ Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð½Ñ‹Ñ… Ð¾Ð±Ð½Ð¾Ð²Ð»ÐµÐ½Ð¸Ð¹";
+$MESS["MARKETPLACE_UPDATE_INSTALLED"] = "Ð£ÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½Ð¾";
+$MESS["MARKETPLACE_APP_INSTALL"] = "Ð£ÑÑ‚Ð°Ð½Ð¾Ð²Ð¸Ñ‚ÑŒ";
+$MESS["MARKETPLACE_APP_INSTALL_CANCEL"] = "ÐžÑ‚Ð¼ÐµÐ½Ð°";
+$MESS["MARKETPLACE_APP_POPUP_LOAD"] = "Ð—Ð°Ð³Ñ€ÑƒÐ·ÐºÐ°";
+$MESS["MARKETPLACE_APP_VERSION"] = "Ð’ÐµÑ€ÑÐ¸Ñ";
+$MESS["MARKETPLACE_APP_PORTAL_ADMIN"] = "Ð”Ð»Ñ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²ÐºÐ¸ Ð¾Ð±Ð½Ð¾Ð²Ð»ÐµÐ½Ð¸Ñ Ð¾Ð±Ñ€Ð°Ñ‚Ð¸Ñ‚ÐµÑÑŒ Ðº Ð°Ð´Ð¼Ð¸Ð½Ð¸ÑÑ‚Ñ€Ð°Ñ‚Ð¾Ñ€Ñƒ Ð¿Ð¾Ñ€Ñ‚Ð°Ð»Ð°";
 ?>

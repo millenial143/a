@@ -1,5 +1,5 @@
 <?
-$MESS["MOBILEAPP_NOT_INSTALLED"] = "Не установлен модуль mobileapp";
-$MESS["MOBILEAPP_PULL_NOT_INSTALLED"] = "Не установлен модуль push&pull";
-$MESS["MOBILEAPP_ACCESS_DENIED"] = "Доступ запрещен";
+$MESS["MOBILEAPP_NOT_INSTALLED"] = "РќРµ СѓСЃС‚Р°РЅРѕРІР»РµРЅ РјРѕРґСѓР»СЊ mobileapp";
+$MESS["MOBILEAPP_PULL_NOT_INSTALLED"] = "РќРµ СѓСЃС‚Р°РЅРѕРІР»РµРЅ РјРѕРґСѓР»СЊ push&pull";
+$MESS["MOBILEAPP_ACCESS_DENIED"] = "Р”РѕСЃС‚СѓРї Р·Р°РїСЂРµС‰РµРЅ";
 ?>

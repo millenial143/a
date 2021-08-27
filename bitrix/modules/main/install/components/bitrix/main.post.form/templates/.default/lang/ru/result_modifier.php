@@ -1,4 +1,4 @@
 <?
-$MESS["MPF_EDITOR"] = "Âèçóàëüíûé ðåäàêòîð";
-$MESS["MPF_EXTRANET_ROOT"] = "Ýêñòðàíåò";
+$MESS["MPF_EDITOR"] = "Ð’Ð¸Ð·ÑƒÐ°Ð»ÑŒÐ½Ñ‹Ð¹ Ñ€ÐµÐ´Ð°ÐºÑ‚Ð¾Ñ€";
+$MESS["MPF_EXTRANET_ROOT"] = "Ð­ÐºÑÑ‚Ñ€Ð°Ð½ÐµÑ‚";
 ?>

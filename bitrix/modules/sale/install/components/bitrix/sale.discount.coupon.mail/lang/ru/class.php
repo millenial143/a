@@ -1,6 +1,6 @@
 <?
-$MESS["CVP_CATALOG_MODULE_NOT_INSTALLED"] = "Ìîäóëü Êàòàëîãîâ íå óñòàíîâëåí";
-$MESS["CVP_SALE_MODULE_NOT_INSTALLED"] = "Ìîäóëü ìàãàçèíà íå óñòàíîâëåí";
-$MESS["CVP_DISCOUNT_NAME"] = "Ñãåíåðèðîâàí ïðè îòïðàâêå ïèñüìà";
-$MESS['CVP_NO_MODULES'] = "Îòñóòñòâóþò íåîáõîäèìûå ìîäóëè";
+$MESS["CVP_CATALOG_MODULE_NOT_INSTALLED"] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ ÐšÐ°Ñ‚Ð°Ð»Ð¾Ð³Ð¾Ð² Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½";
+$MESS["CVP_SALE_MODULE_NOT_INSTALLED"] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ Ð¼Ð°Ð³Ð°Ð·Ð¸Ð½Ð° Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½";
+$MESS["CVP_DISCOUNT_NAME"] = "Ð¡Ð³ÐµÐ½ÐµÑ€Ð¸Ñ€Ð¾Ð²Ð°Ð½ Ð¿Ñ€Ð¸ Ð¾Ñ‚Ð¿Ñ€Ð°Ð²ÐºÐµ Ð¿Ð¸ÑÑŒÐ¼Ð°";
+$MESS['CVP_NO_MODULES'] = "ÐžÑ‚ÑÑƒÑ‚ÑÑ‚Ð²ÑƒÑŽÑ‚ Ð½ÐµÐ¾Ð±Ñ…Ð¾Ð´Ð¸Ð¼Ñ‹Ðµ Ð¼Ð¾Ð´ÑƒÐ»Ð¸";
 ?>

@@ -1,7 +1,7 @@
 <?
-$MESS["T_IBLOCK_DESC_PHOTO"] = "Ôîòîãàëåðåÿ 2.0";
-$MESS["IBLOCK_ELEMENT_TEMPLATE_NAME"] = "Flash-ñëàéäøîó";
-$MESS["IBLOCK_ELEMENT_TEMPLATE_DESCRIPTION"] = "Öèêëè÷åñêè ïðîèãðûâàåò ôîòîãðàôèè èç ôîòîãàëåðåè.";
-$MESS["IMAGEROTATOR_DEPRECATED"] = "(íå ðåêîìåíäóåòñÿ èñïîëüçîâàòü)";
-$MESS["IMAGEROTATOR_DEPRECATED_2"] = "Êîìïîíåíò óñòàðåë è ðàáîòàåò íåêîððåêòíî â ñîâðåìåííûõ áðàóçåðàõ.";
+$MESS["T_IBLOCK_DESC_PHOTO"] = "Ð¤Ð¾Ñ‚Ð¾Ð³Ð°Ð»ÐµÑ€ÐµÑ 2.0";
+$MESS["IBLOCK_ELEMENT_TEMPLATE_NAME"] = "Flash-ÑÐ»Ð°Ð¹Ð´ÑˆÐ¾Ñƒ";
+$MESS["IBLOCK_ELEMENT_TEMPLATE_DESCRIPTION"] = "Ð¦Ð¸ÐºÐ»Ð¸Ñ‡ÐµÑÐºÐ¸ Ð¿Ñ€Ð¾Ð¸Ð³Ñ€Ñ‹Ð²Ð°ÐµÑ‚ Ñ„Ð¾Ñ‚Ð¾Ð³Ñ€Ð°Ñ„Ð¸Ð¸ Ð¸Ð· Ñ„Ð¾Ñ‚Ð¾Ð³Ð°Ð»ÐµÑ€ÐµÐ¸.";
+$MESS["IMAGEROTATOR_DEPRECATED"] = "(Ð½Ðµ Ñ€ÐµÐºÐ¾Ð¼ÐµÐ½Ð´ÑƒÐµÑ‚ÑÑ Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÑŒ)";
+$MESS["IMAGEROTATOR_DEPRECATED_2"] = "ÐšÐ¾Ð¼Ð¿Ð¾Ð½ÐµÐ½Ñ‚ ÑƒÑÑ‚Ð°Ñ€ÐµÐ» Ð¸ Ñ€Ð°Ð±Ð¾Ñ‚Ð°ÐµÑ‚ Ð½ÐµÐºÐ¾Ñ€Ñ€ÐµÐºÑ‚Ð½Ð¾ Ð² ÑÐ¾Ð²Ñ€ÐµÐ¼ÐµÐ½Ð½Ñ‹Ñ… Ð±Ñ€Ð°ÑƒÐ·ÐµÑ€Ð°Ñ….";
 ?>

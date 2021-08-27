@@ -1,2 +1,2 @@
 <?php
-$MESS["LANDING_DEMO_STORE_INSTAGRAM--CHECKOUT--NAME"] = "Îôîðìëåíèå çàêàçà";
+$MESS["LANDING_DEMO_STORE_INSTAGRAM--CHECKOUT--NAME"] = "ÐžÑ„Ð¾Ñ€Ð¼Ð»ÐµÐ½Ð¸Ðµ Ð·Ð°ÐºÐ°Ð·Ð°";

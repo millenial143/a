@@ -1,5 +1,5 @@
 <?php
-$MESS['LANDING_BLOCK_MENU_24-NAME'] = 'Âåðòèêàëüíîå ìåíþ ñ óêàçàòåëåì íà ïóíêòàõ';
-$MESS['LANDING_BLOCK_MENU_24-NAVBAR'] = 'Ìåíþ';
-$MESS['LANDING_BLOCK_MENU_24-LINK'] = 'Ññûëêà';
-$MESS['LANDING_BLOCK_MENU_24-TEXT'] = 'Òåêñò ññûëêè';
+$MESS['LANDING_BLOCK_MENU_24-NAME'] = 'Ð’ÐµÑ€Ñ‚Ð¸ÐºÐ°Ð»ÑŒÐ½Ð¾Ðµ Ð¼ÐµÐ½ÑŽ Ñ ÑƒÐºÐ°Ð·Ð°Ñ‚ÐµÐ»ÐµÐ¼ Ð½Ð° Ð¿ÑƒÐ½ÐºÑ‚Ð°Ñ…';
+$MESS['LANDING_BLOCK_MENU_24-NAVBAR'] = 'ÐœÐµÐ½ÑŽ';
+$MESS['LANDING_BLOCK_MENU_24-LINK'] = 'Ð¡ÑÑ‹Ð»ÐºÐ°';
+$MESS['LANDING_BLOCK_MENU_24-TEXT'] = 'Ð¢ÐµÐºÑÑ‚ ÑÑÑ‹Ð»ÐºÐ¸';

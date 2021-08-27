@@ -1,12 +1,12 @@
 <?
-$MESS ['LU_TITLE_POSTS'] = "Ñîîáùåíèÿ ïîëüçîâàòåëÿ";
-$MESS ['LU_TITLE_LTA'] = "àâòîð òåì";
-$MESS ['LU_TITLE_LT'] = "ó÷àñòíèê òåì";
-$MESS ['LU_TITLE_ALL'] = "âñå ñîîáùåíèÿ";
-$MESS ['F_NO_MODULE'] = "Ìîäóëü ôîðóìà íå óñòàíîâëåí.";
-$MESS ['LU_INCORRECT_LAST_MESSAGE_DATE'] = "Íåâåðíàÿ äàòà ñîçäàíèÿ cooáùåíèÿ â ôèëüòðå";
-$MESS ['LU_INCORRECT_FORUM_ID'] = "Óêàçàí íåäîñòóïíûé ôîðóì.";
-$MESS ['F_ERROR_USER_IS_EMPTY'] = "Íå óêàçàí ïîëüçîâàòåëü.";
-$MESS ['F_ERROR_USER_IS_LOST'] = "Ïîëüçîâàòåëü íå íàéäåí.";
-$MESS ['F_ERROR_FORUMS_IS_LOST'] = "Ôîðóìû íå íàéäåíû.";
+$MESS ['LU_TITLE_POSTS'] = "Ð¡Ð¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ";
+$MESS ['LU_TITLE_LTA'] = "Ð°Ð²Ñ‚Ð¾Ñ€ Ñ‚ÐµÐ¼";
+$MESS ['LU_TITLE_LT'] = "ÑƒÑ‡Ð°ÑÑ‚Ð½Ð¸Ðº Ñ‚ÐµÐ¼";
+$MESS ['LU_TITLE_ALL'] = "Ð²ÑÐµ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ";
+$MESS ['F_NO_MODULE'] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ Ñ„Ð¾Ñ€ÑƒÐ¼Ð° Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½.";
+$MESS ['LU_INCORRECT_LAST_MESSAGE_DATE'] = "ÐÐµÐ²ÐµÑ€Ð½Ð°Ñ Ð´Ð°Ñ‚Ð° ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ñ cooÐ±Ñ‰ÐµÐ½Ð¸Ñ Ð² Ñ„Ð¸Ð»ÑŒÑ‚Ñ€Ðµ";
+$MESS ['LU_INCORRECT_FORUM_ID'] = "Ð£ÐºÐ°Ð·Ð°Ð½ Ð½ÐµÐ´Ð¾ÑÑ‚ÑƒÐ¿Ð½Ñ‹Ð¹ Ñ„Ð¾Ñ€ÑƒÐ¼.";
+$MESS ['F_ERROR_USER_IS_EMPTY'] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒ.";
+$MESS ['F_ERROR_USER_IS_LOST'] = "ÐŸÐ¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒ Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½.";
+$MESS ['F_ERROR_FORUMS_IS_LOST'] = "Ð¤Ð¾Ñ€ÑƒÐ¼Ñ‹ Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½Ñ‹.";
 ?>

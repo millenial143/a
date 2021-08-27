@@ -1,3 +1,3 @@
 <?php
-$MESS['LANDING_BLOCK_9_SEPARATOR_NAME'] = 'Ðàçäåëèòåëü';
-$MESS['LANDING_BLOCK_9_SEPARATOR_LINE'] = 'Ðàçäåëèòåëü';
+$MESS['LANDING_BLOCK_9_SEPARATOR_NAME'] = 'Ð Ð°Ð·Ð´ÐµÐ»Ð¸Ñ‚ÐµÐ»ÑŒ';
+$MESS['LANDING_BLOCK_9_SEPARATOR_LINE'] = 'Ð Ð°Ð·Ð´ÐµÐ»Ð¸Ñ‚ÐµÐ»ÑŒ';

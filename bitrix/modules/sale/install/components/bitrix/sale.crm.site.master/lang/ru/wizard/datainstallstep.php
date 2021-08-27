@@ -1,7 +1,7 @@
 <?php
-$MESS["SALE_CSM_WIZARD_DATAINSTALLSTEP_TITLE"] = "Îñòàëîñü ñîâñåì ÷óòü-÷óòü";
-$MESS["SALE_CSM_WIZARD_DATAINSTALLSTEP_DESCR"] = "Ìû ïðîèçâîäèì íåêîòîðûå äîïîëíèòåëüíûå íàñòðîéêè...";
-$MESS["SALE_CSM_WIZARD_DATAINSTALLSTEP_RETRY_BUTTON"] = "Ïîâòîðèòü øàã";
-$MESS["SALE_CSM_WIZARD_DATAINSTALLSTEP_SKIP_BUTTON"] = "Ïðîïóñòèòü øàã";
-$MESS["SALE_CSM_WIZARD_DATAINSTALLSTEP_DEPARTMENT_NAME"] = "Ìîÿ êîìïàíèÿ";
-$MESS["SALE_CSM_WIZARD_DATAINSTALLSTEP_CLOSE_CONFIRMATION"] = "Ðàáîòà ìàñòåðà åù¸ íå çàâåðøåíà. Âû äåéñòâèòåëüíî õîòèòå ïîêèíóòü ñòðàíèöó?";
+$MESS["SALE_CSM_WIZARD_DATAINSTALLSTEP_TITLE"] = "ÐžÑÑ‚Ð°Ð»Ð¾ÑÑŒ ÑÐ¾Ð²ÑÐµÐ¼ Ñ‡ÑƒÑ‚ÑŒ-Ñ‡ÑƒÑ‚ÑŒ";
+$MESS["SALE_CSM_WIZARD_DATAINSTALLSTEP_DESCR"] = "ÐœÑ‹ Ð¿Ñ€Ð¾Ð¸Ð·Ð²Ð¾Ð´Ð¸Ð¼ Ð½ÐµÐºÐ¾Ñ‚Ð¾Ñ€Ñ‹Ðµ Ð´Ð¾Ð¿Ð¾Ð»Ð½Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ñ‹Ðµ Ð½Ð°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸...";
+$MESS["SALE_CSM_WIZARD_DATAINSTALLSTEP_RETRY_BUTTON"] = "ÐŸÐ¾Ð²Ñ‚Ð¾Ñ€Ð¸Ñ‚ÑŒ ÑˆÐ°Ð³";
+$MESS["SALE_CSM_WIZARD_DATAINSTALLSTEP_SKIP_BUTTON"] = "ÐŸÑ€Ð¾Ð¿ÑƒÑÑ‚Ð¸Ñ‚ÑŒ ÑˆÐ°Ð³";
+$MESS["SALE_CSM_WIZARD_DATAINSTALLSTEP_DEPARTMENT_NAME"] = "ÐœÐ¾Ñ ÐºÐ¾Ð¼Ð¿Ð°Ð½Ð¸Ñ";
+$MESS["SALE_CSM_WIZARD_DATAINSTALLSTEP_CLOSE_CONFIRMATION"] = "Ð Ð°Ð±Ð¾Ñ‚Ð° Ð¼Ð°ÑÑ‚ÐµÑ€Ð° ÐµÑ‰Ñ‘ Ð½Ðµ Ð·Ð°Ð²ÐµÑ€ÑˆÐµÐ½Ð°. Ð’Ñ‹ Ð´ÐµÐ¹ÑÑ‚Ð²Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ð¾ Ñ…Ð¾Ñ‚Ð¸Ñ‚Ðµ Ð¿Ð¾ÐºÐ¸Ð½ÑƒÑ‚ÑŒ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñƒ?";

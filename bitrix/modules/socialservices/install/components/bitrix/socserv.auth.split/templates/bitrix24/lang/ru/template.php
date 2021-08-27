@@ -1,7 +1,7 @@
 <?php
-$MESS['SS_PROFILE_DELETE_CONFIRM'] = 'Âû óâåðåíû, ÷òî õîòèòå îòêëþ÷èòü ïðîôèëü Zoom?';
-$MESS['SS_PROFILE_ZOOM_CONNECT_TITLE'] = 'Ïîäêëþ÷èòå Zoom, ÷òîáû ïëàíèðîâàòü âèäåîêîíôåðåíöèè èç Áèòðèêñ24';
-$MESS['SS_PROFILE_ZOOM_CONFERENCE_TITLE'] = 'Âèäåîêîíôåðåíöèè äîñòóïíû è íå òðåáóþò íàñòðîéêè';
-$MESS['SS_PROFILE_ZOOM_CONNECTED'] = 'ïîäêëþ÷åí';
-$MESS['SS_PROFILE_ZOOM_DISCONNECT'] = 'Îòêëþ÷èòü';
-$MESS['SS_PROFILE_ZOOM_CONNECT'] = 'Ïîäêëþ÷èòü';
+$MESS['SS_PROFILE_DELETE_CONFIRM'] = 'Ð’Ñ‹ ÑƒÐ²ÐµÑ€ÐµÐ½Ñ‹, Ñ‡Ñ‚Ð¾ Ñ…Ð¾Ñ‚Ð¸Ñ‚Ðµ Ð¾Ñ‚ÐºÐ»ÑŽÑ‡Ð¸Ñ‚ÑŒ Ð¿Ñ€Ð¾Ñ„Ð¸Ð»ÑŒ Zoom?';
+$MESS['SS_PROFILE_ZOOM_CONNECT_TITLE'] = 'ÐŸÐ¾Ð´ÐºÐ»ÑŽÑ‡Ð¸Ñ‚Ðµ Zoom, Ñ‡Ñ‚Ð¾Ð±Ñ‹ Ð¿Ð»Ð°Ð½Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ Ð²Ð¸Ð´ÐµÐ¾ÐºÐ¾Ð½Ñ„ÐµÑ€ÐµÐ½Ñ†Ð¸Ð¸ Ð¸Ð· Ð‘Ð¸Ñ‚Ñ€Ð¸ÐºÑ24';
+$MESS['SS_PROFILE_ZOOM_CONFERENCE_TITLE'] = 'Ð’Ð¸Ð´ÐµÐ¾ÐºÐ¾Ð½Ñ„ÐµÑ€ÐµÐ½Ñ†Ð¸Ð¸ Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð½Ñ‹ Ð¸ Ð½Ðµ Ñ‚Ñ€ÐµÐ±ÑƒÑŽÑ‚ Ð½Ð°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸';
+$MESS['SS_PROFILE_ZOOM_CONNECTED'] = 'Ð¿Ð¾Ð´ÐºÐ»ÑŽÑ‡ÐµÐ½';
+$MESS['SS_PROFILE_ZOOM_DISCONNECT'] = 'ÐžÑ‚ÐºÐ»ÑŽÑ‡Ð¸Ñ‚ÑŒ';
+$MESS['SS_PROFILE_ZOOM_CONNECT'] = 'ÐŸÐ¾Ð´ÐºÐ»ÑŽÑ‡Ð¸Ñ‚ÑŒ';

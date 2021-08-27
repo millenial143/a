@@ -1,4 +1,4 @@
 <?
-$MESS["CATALOG_MODULE_NOT_INSTALL"] = "Ìîäóëü Òîðãîâûé Êàòàëîã íå óñòàíîâëåí.";
-$MESS["SCS_DEFAULT_TITLE"] = "Ñêëàäû";
+$MESS["CATALOG_MODULE_NOT_INSTALL"] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ Ð¢Ð¾Ñ€Ð³Ð¾Ð²Ñ‹Ð¹ ÐšÐ°Ñ‚Ð°Ð»Ð¾Ð³ Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½.";
+$MESS["SCS_DEFAULT_TITLE"] = "Ð¡ÐºÐ»Ð°Ð´Ñ‹";
 ?>

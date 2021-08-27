@@ -1,18 +1,18 @@
 <?
-$MESS["SALE_SLS_ID_PARAMETER"] = "ID ìåñòîïîëîæåíèÿ";
-$MESS["SALE_SLS_CODE_PARAMETER"] = "Ñèìâîëüíûé êîä ìåñòîïîëîæåíèÿ";
-$MESS["SALE_SLS_INPUT_NAME_PARAMETER"] = "Èìÿ ïîëÿ ââîäà";
-$MESS["SALE_SLS_JSCONTROL_GLOBAL_ID_PARAMETER"] = "Èäåíòèôèêàòîð javascript-êîíòðîëà";
-$MESS["SALE_SLS_EXCLUDE_SUBTREE_PARAMETER"] = "Èñêëþ÷èòü ïîääåðåâî ýëåìåíòà";
-$MESS["SALE_SLS_FILTER_BY_SITE_PARAMETER"] = "Ôèëüòðîâàòü ïî ñàéòó";
-$MESS["SALE_SLS_FILTER_SITE_ID_PARAMETER"] = "Càéò";
-$MESS["SALE_SLS_FILTER_SITE_ID_CURRENT"] = "òåêóùèé";
-$MESS["SALE_SLS_JS_CALLBACK"] = "Javascript-ôóíêöèÿ îáðàòíîãî âûçîâà";
-$MESS["SALE_SLS_SHOW_DEFAULT_LOCATIONS_PARAMETER"] = "Îòîáðàæàòü ìåñòîïîëîæåíèÿ ïî-óìîë÷àíèþ";
-$MESS["SALE_SLS_SEARCH_BY_PRIMARY_PARAMETER"] = "Èñêàòü ïî èäåíòèôèêàòîðó è êîäó";
-$MESS["SALE_SLS_PROVIDE_LINK_BY_PARAMETER"] = "Ñîõðàíÿòü ñâÿçü ÷åðåç";
-$MESS["SALE_SLS_PROVIDE_LINK_BY_PARAMETER_ID"] = "èäåíòèôèêàòîð (id)";
-$MESS["SALE_SLS_PROVIDE_LINK_BY_PARAMETER_CODE"] = "ñèìâîëüíûé êîä (code)";
-$MESS["SALE_SLS_PRESELECT_TREE_TRUNK_PARAMETER"] = "Îòîáðàæàòü ñòàòè÷íûé ñòâîë äåðåâà";
-$MESS["SALE_SLS_PRECACHE_LAST_LEVEL_PARAMETER"] = "Ïðåäâàðèòåëüíî çàãðóæàòü ïîñëåäíèé âûáðàííûé óðîâåíü";
+$MESS["SALE_SLS_ID_PARAMETER"] = "ID Ð¼ÐµÑÑ‚Ð¾Ð¿Ð¾Ð»Ð¾Ð¶ÐµÐ½Ð¸Ñ";
+$MESS["SALE_SLS_CODE_PARAMETER"] = "Ð¡Ð¸Ð¼Ð²Ð¾Ð»ÑŒÐ½Ñ‹Ð¹ ÐºÐ¾Ð´ Ð¼ÐµÑÑ‚Ð¾Ð¿Ð¾Ð»Ð¾Ð¶ÐµÐ½Ð¸Ñ";
+$MESS["SALE_SLS_INPUT_NAME_PARAMETER"] = "Ð˜Ð¼Ñ Ð¿Ð¾Ð»Ñ Ð²Ð²Ð¾Ð´Ð°";
+$MESS["SALE_SLS_JSCONTROL_GLOBAL_ID_PARAMETER"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ javascript-ÐºÐ¾Ð½Ñ‚Ñ€Ð¾Ð»Ð°";
+$MESS["SALE_SLS_EXCLUDE_SUBTREE_PARAMETER"] = "Ð˜ÑÐºÐ»ÑŽÑ‡Ð¸Ñ‚ÑŒ Ð¿Ð¾Ð´Ð´ÐµÑ€ÐµÐ²Ð¾ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð°";
+$MESS["SALE_SLS_FILTER_BY_SITE_PARAMETER"] = "Ð¤Ð¸Ð»ÑŒÑ‚Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ Ð¿Ð¾ ÑÐ°Ð¹Ñ‚Ñƒ";
+$MESS["SALE_SLS_FILTER_SITE_ID_PARAMETER"] = "CÐ°Ð¹Ñ‚";
+$MESS["SALE_SLS_FILTER_SITE_ID_CURRENT"] = "Ñ‚ÐµÐºÑƒÑ‰Ð¸Ð¹";
+$MESS["SALE_SLS_JS_CALLBACK"] = "Javascript-Ñ„ÑƒÐ½ÐºÑ†Ð¸Ñ Ð¾Ð±Ñ€Ð°Ñ‚Ð½Ð¾Ð³Ð¾ Ð²Ñ‹Ð·Ð¾Ð²Ð°";
+$MESS["SALE_SLS_SHOW_DEFAULT_LOCATIONS_PARAMETER"] = "ÐžÑ‚Ð¾Ð±Ñ€Ð°Ð¶Ð°Ñ‚ÑŒ Ð¼ÐµÑÑ‚Ð¾Ð¿Ð¾Ð»Ð¾Ð¶ÐµÐ½Ð¸Ñ Ð¿Ð¾-ÑƒÐ¼Ð¾Ð»Ñ‡Ð°Ð½Ð¸ÑŽ";
+$MESS["SALE_SLS_SEARCH_BY_PRIMARY_PARAMETER"] = "Ð˜ÑÐºÐ°Ñ‚ÑŒ Ð¿Ð¾ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€Ñƒ Ð¸ ÐºÐ¾Ð´Ñƒ";
+$MESS["SALE_SLS_PROVIDE_LINK_BY_PARAMETER"] = "Ð¡Ð¾Ñ…Ñ€Ð°Ð½ÑÑ‚ÑŒ ÑÐ²ÑÐ·ÑŒ Ñ‡ÐµÑ€ÐµÐ·";
+$MESS["SALE_SLS_PROVIDE_LINK_BY_PARAMETER_ID"] = "Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ (id)";
+$MESS["SALE_SLS_PROVIDE_LINK_BY_PARAMETER_CODE"] = "ÑÐ¸Ð¼Ð²Ð¾Ð»ÑŒÐ½Ñ‹Ð¹ ÐºÐ¾Ð´ (code)";
+$MESS["SALE_SLS_PRESELECT_TREE_TRUNK_PARAMETER"] = "ÐžÑ‚Ð¾Ð±Ñ€Ð°Ð¶Ð°Ñ‚ÑŒ ÑÑ‚Ð°Ñ‚Ð¸Ñ‡Ð½Ñ‹Ð¹ ÑÑ‚Ð²Ð¾Ð» Ð´ÐµÑ€ÐµÐ²Ð°";
+$MESS["SALE_SLS_PRECACHE_LAST_LEVEL_PARAMETER"] = "ÐŸÑ€ÐµÐ´Ð²Ð°Ñ€Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ð¾ Ð·Ð°Ð³Ñ€ÑƒÐ¶Ð°Ñ‚ÑŒ Ð¿Ð¾ÑÐ»ÐµÐ´Ð½Ð¸Ð¹ Ð²Ñ‹Ð±Ñ€Ð°Ð½Ð½Ñ‹Ð¹ ÑƒÑ€Ð¾Ð²ÐµÐ½ÑŒ";
 ?>

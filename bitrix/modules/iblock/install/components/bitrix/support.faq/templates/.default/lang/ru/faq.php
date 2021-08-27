@@ -1,3 +1,3 @@
 <?
-$MESS ['SUPPORT_FAQ_SEARCH_RESULTS'] = "Ðåçóëüòàòû ïîèñêà";
+$MESS ['SUPPORT_FAQ_SEARCH_RESULTS'] = "Ð ÐµÐ·ÑƒÐ»ÑŒÑ‚Ð°Ñ‚Ñ‹ Ð¿Ð¾Ð¸ÑÐºÐ°";
 ?>

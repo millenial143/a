@@ -1,8 +1,8 @@
 <?
-$MESS ['SENDER_CAMPAIGN_SELECTOR_BUTTON_SELECT'] = "âûáðàòü êàìïàíèþ";
-$MESS ['SENDER_CAMPAIGN_SELECTOR_SEARCHER_TITLE'] = "Êàìïàíèè";
-$MESS ['SENDER_CAMPAIGN_SELECTOR_TITLE'] = "Êàìïàíèÿ";
-$MESS ['SENDER_CAMPAIGN_SELECTOR_SUBSCRIBER_COUNT'] = "Ïîäïèñ÷èêîâ";
-$MESS ['SENDER_CAMPAIGN_SELECTOR_SUBSCRIBER_COUNT_HINT'] = "Êîëè÷åñòâî ïîäïèñ÷èêîâ, êîòîðûå ñàìîñòîÿòåëüíî ïîäïèñàëèñü íà ðàññûëêè ýòîé êàìïàíèè ÷åðåç ôîðìó ïîäïèñêè.";
-$MESS ['SENDER_CAMPAIGN_SELECTOR_SITE'] = "Ñàéò";
+$MESS ['SENDER_CAMPAIGN_SELECTOR_BUTTON_SELECT'] = "Ð²Ñ‹Ð±Ñ€Ð°Ñ‚ÑŒ ÐºÐ°Ð¼Ð¿Ð°Ð½Ð¸ÑŽ";
+$MESS ['SENDER_CAMPAIGN_SELECTOR_SEARCHER_TITLE'] = "ÐšÐ°Ð¼Ð¿Ð°Ð½Ð¸Ð¸";
+$MESS ['SENDER_CAMPAIGN_SELECTOR_TITLE'] = "ÐšÐ°Ð¼Ð¿Ð°Ð½Ð¸Ñ";
+$MESS ['SENDER_CAMPAIGN_SELECTOR_SUBSCRIBER_COUNT'] = "ÐŸÐ¾Ð´Ð¿Ð¸ÑÑ‡Ð¸ÐºÐ¾Ð²";
+$MESS ['SENDER_CAMPAIGN_SELECTOR_SUBSCRIBER_COUNT_HINT'] = "ÐšÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾ Ð¿Ð¾Ð´Ð¿Ð¸ÑÑ‡Ð¸ÐºÐ¾Ð², ÐºÐ¾Ñ‚Ð¾Ñ€Ñ‹Ðµ ÑÐ°Ð¼Ð¾ÑÑ‚Ð¾ÑÑ‚ÐµÐ»ÑŒÐ½Ð¾ Ð¿Ð¾Ð´Ð¿Ð¸ÑÐ°Ð»Ð¸ÑÑŒ Ð½Ð° Ñ€Ð°ÑÑÑ‹Ð»ÐºÐ¸ ÑÑ‚Ð¾Ð¹ ÐºÐ°Ð¼Ð¿Ð°Ð½Ð¸Ð¸ Ñ‡ÐµÑ€ÐµÐ· Ñ„Ð¾Ñ€Ð¼Ñƒ Ð¿Ð¾Ð´Ð¿Ð¸ÑÐºÐ¸.";
+$MESS ['SENDER_CAMPAIGN_SELECTOR_SITE'] = "Ð¡Ð°Ð¹Ñ‚";
 ?>

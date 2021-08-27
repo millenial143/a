@@ -1,7 +1,7 @@
 <?
-$MESS["SENDER_UI_BUTTON_PANEL_SAVE"] = "Ñîõðàíèòü";
-$MESS["SENDER_UI_BUTTON_PANEL_CANCEL"] = "Îòìåíà";
-$MESS["SENDER_UI_BUTTON_PANEL_FEEDBACK"] = "Ôîðìà îáðàòíîé ñâÿçè";
-$MESS["SENDER_UI_BUTTON_PANEL_ABUSES"] = "Ïðîñìîòðåòü æàëîáû íà ðàññûëêè";
-$MESS["SENDER_UI_BUTTON_PANEL_EXPORT"] = "Ýêñïîðò äàííûõ";
+$MESS["SENDER_UI_BUTTON_PANEL_SAVE"] = "Ð¡Ð¾Ñ…Ñ€Ð°Ð½Ð¸Ñ‚ÑŒ";
+$MESS["SENDER_UI_BUTTON_PANEL_CANCEL"] = "ÐžÑ‚Ð¼ÐµÐ½Ð°";
+$MESS["SENDER_UI_BUTTON_PANEL_FEEDBACK"] = "Ð¤Ð¾Ñ€Ð¼Ð° Ð¾Ð±Ñ€Ð°Ñ‚Ð½Ð¾Ð¹ ÑÐ²ÑÐ·Ð¸";
+$MESS["SENDER_UI_BUTTON_PANEL_ABUSES"] = "ÐŸÑ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€ÐµÑ‚ÑŒ Ð¶Ð°Ð»Ð¾Ð±Ñ‹ Ð½Ð° Ñ€Ð°ÑÑÑ‹Ð»ÐºÐ¸";
+$MESS["SENDER_UI_BUTTON_PANEL_EXPORT"] = "Ð­ÐºÑÐ¿Ð¾Ñ€Ñ‚ Ð´Ð°Ð½Ð½Ñ‹Ñ…";
 ?>

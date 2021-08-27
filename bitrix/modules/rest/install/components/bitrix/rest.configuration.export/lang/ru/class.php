@@ -1,6 +1,6 @@
 <?
-$MESS['REST_CONFIGURATION_EXPORT_ACCESS_DENIED'] = 'Íåò äîñòóïà';
-$MESS['REST_CONFIGURATION_EXPORT_TITLE'] = 'Ýêñïîðò íàñòðîåê';
-$MESS['REST_CONFIGURATION_EXPORT_ERROR_ARCHIVE_NOT_FOUND'] = 'Àðõèâ íå íàéäåí. Âîçìîæíî, ïðîèçîøëà îøèáêà ïðè ôîðìèðîâàíèè àðõèâà. Ïîæàëóéñòà, ïîïðîáóéòå ýêñïîðòèðîâàòü åùå ðàç';
-$MESS["REST_CONFIGURATION_EXPORT_MANIFEST_EMPTY"] = "Ïîëå âàðèàíòà ýêñïîðòà (MANIFEST_CODE) - îáÿçàòåëüíîå";
-$MESS["REST_CONFIGURATION_EXPORT_NOT_FOUND"] = "Äàííûé âàðèàíò ýêñïîðòà íå íàéäåí";
+$MESS['REST_CONFIGURATION_EXPORT_ACCESS_DENIED'] = 'ÐÐµÑ‚ Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð°';
+$MESS['REST_CONFIGURATION_EXPORT_TITLE'] = 'Ð­ÐºÑÐ¿Ð¾Ñ€Ñ‚ Ð½Ð°ÑÑ‚Ñ€Ð¾ÐµÐº';
+$MESS['REST_CONFIGURATION_EXPORT_ERROR_ARCHIVE_NOT_FOUND'] = 'ÐÑ€Ñ…Ð¸Ð² Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½. Ð’Ð¾Ð·Ð¼Ð¾Ð¶Ð½Ð¾, Ð¿Ñ€Ð¾Ð¸Ð·Ð¾ÑˆÐ»Ð° Ð¾ÑˆÐ¸Ð±ÐºÐ° Ð¿Ñ€Ð¸ Ñ„Ð¾Ñ€Ð¼Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ð¸ Ð°Ñ€Ñ…Ð¸Ð²Ð°. ÐŸÐ¾Ð¶Ð°Ð»ÑƒÐ¹ÑÑ‚Ð°, Ð¿Ð¾Ð¿Ñ€Ð¾Ð±ÑƒÐ¹Ñ‚Ðµ ÑÐºÑÐ¿Ð¾Ñ€Ñ‚Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ ÐµÑ‰Ðµ Ñ€Ð°Ð·';
+$MESS["REST_CONFIGURATION_EXPORT_MANIFEST_EMPTY"] = "ÐŸÐ¾Ð»Ðµ Ð²Ð°Ñ€Ð¸Ð°Ð½Ñ‚Ð° ÑÐºÑÐ¿Ð¾Ñ€Ñ‚Ð° (MANIFEST_CODE) - Ð¾Ð±ÑÐ·Ð°Ñ‚ÐµÐ»ÑŒÐ½Ð¾Ðµ";
+$MESS["REST_CONFIGURATION_EXPORT_NOT_FOUND"] = "Ð”Ð°Ð½Ð½Ñ‹Ð¹ Ð²Ð°Ñ€Ð¸Ð°Ð½Ñ‚ ÑÐºÑÐ¿Ð¾Ñ€Ñ‚Ð° Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½";

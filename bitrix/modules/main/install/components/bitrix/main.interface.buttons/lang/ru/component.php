@@ -1,5 +1,5 @@
 <?
-$MESS["MIB_AR_PARAMS_IS_EMPTY"] = "Íàñòðîéêè íå óñòàíîâëåíû";
-$MESS["MIB_ID_NOT_SET"] = "Íå çàäàí ID";
-$MESS["MIB_ITEMS_NOT_FOUND"] = "Ýëåìåíòû íå íàéäåíû";
-$MESS["MIB_DEFAULT_MORE_ITEM_TEXT"] = "Åùå";
+$MESS["MIB_AR_PARAMS_IS_EMPTY"] = "ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸ Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½Ñ‹";
+$MESS["MIB_ID_NOT_SET"] = "ÐÐµ Ð·Ð°Ð´Ð°Ð½ ID";
+$MESS["MIB_ITEMS_NOT_FOUND"] = "Ð­Ð»ÐµÐ¼ÐµÐ½Ñ‚Ñ‹ Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½Ñ‹";
+$MESS["MIB_DEFAULT_MORE_ITEM_TEXT"] = "Ð•Ñ‰Ðµ";

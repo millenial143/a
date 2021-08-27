@@ -1,5 +1,5 @@
 <?
-$MESS ['MAIN_BREADCRUMB_NAME'] = "Íàâèãàöèîííàÿ öåïî÷êà";
-$MESS ['MAIN_BREADCRUMB_DESC'] = "Âûâîäèò íàâèãàöèîííóþ öåïî÷êó (\"õëåáíûå êðîøêè\")";
-$MESS ['MAIN_NAVIGATION_SERVICE'] = "Íàâèãàöèÿ";
+$MESS ['MAIN_BREADCRUMB_NAME'] = "ÐÐ°Ð²Ð¸Ð³Ð°Ñ†Ð¸Ð¾Ð½Ð½Ð°Ñ Ñ†ÐµÐ¿Ð¾Ñ‡ÐºÐ°";
+$MESS ['MAIN_BREADCRUMB_DESC'] = "Ð’Ñ‹Ð²Ð¾Ð´Ð¸Ñ‚ Ð½Ð°Ð²Ð¸Ð³Ð°Ñ†Ð¸Ð¾Ð½Ð½ÑƒÑŽ Ñ†ÐµÐ¿Ð¾Ñ‡ÐºÑƒ (\"Ñ…Ð»ÐµÐ±Ð½Ñ‹Ðµ ÐºÑ€Ð¾ÑˆÐºÐ¸\")";
+$MESS ['MAIN_NAVIGATION_SERVICE'] = "ÐÐ°Ð²Ð¸Ð³Ð°Ñ†Ð¸Ñ";
 ?>

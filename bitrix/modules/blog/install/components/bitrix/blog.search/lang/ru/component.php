@@ -1,12 +1,12 @@
 <?
-$MESS ['BLOG_MODULE_NOT_INSTALL'] = "Ìîäóëü áëîãîâ íå óñòàíîâëåí.";
-$MESS ['SEARCH_MODULE_NOT_INSTALL'] = "Ìîäóëü ïîèñêà íå óñòàíîâëåí.";
-$MESS ['BLOG_MAIN_SEARCH_TITLE'] = "Ïîèñê ïî áëîãàì";
-$MESS ['BLOG_MAIN_SEARCH_SEARCH_POST'] = "â òåêñòàõ";
-$MESS ['BLOG_MAIN_SEARCH_SEARCH_BLOG'] = "â íàçâàíèÿõ";
-$MESS ['BLOG_MAIN_SEARCH_SEARCH_USER'] = "â ïðîôèëÿõ";
-$MESS ['BLOG_MAIN_SEARCH_NOTHING_FOUND'] = "Íè÷åãî íå íàéäåíî.";
-$MESS ['BLOG_MAIN_SEARCH_ERROR'] = "Îøèáêà â ïîèñêîâîì çàïðîñå: ";
-$MESS ['BMS_PAGES'] = "Ðåçóëüòàò";
-$MESS ['BLOG_MAIN_SEARCH_SEARCH_COMMENT'] = "â êîììåíòàðèÿõ";
+$MESS ['BLOG_MODULE_NOT_INSTALL'] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ Ð±Ð»Ð¾Ð³Ð¾Ð² Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½.";
+$MESS ['SEARCH_MODULE_NOT_INSTALL'] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ Ð¿Ð¾Ð¸ÑÐºÐ° Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½.";
+$MESS ['BLOG_MAIN_SEARCH_TITLE'] = "ÐŸÐ¾Ð¸ÑÐº Ð¿Ð¾ Ð±Ð»Ð¾Ð³Ð°Ð¼";
+$MESS ['BLOG_MAIN_SEARCH_SEARCH_POST'] = "Ð² Ñ‚ÐµÐºÑÑ‚Ð°Ñ…";
+$MESS ['BLOG_MAIN_SEARCH_SEARCH_BLOG'] = "Ð² Ð½Ð°Ð·Ð²Ð°Ð½Ð¸ÑÑ…";
+$MESS ['BLOG_MAIN_SEARCH_SEARCH_USER'] = "Ð² Ð¿Ñ€Ð¾Ñ„Ð¸Ð»ÑÑ…";
+$MESS ['BLOG_MAIN_SEARCH_NOTHING_FOUND'] = "ÐÐ¸Ñ‡ÐµÐ³Ð¾ Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½Ð¾.";
+$MESS ['BLOG_MAIN_SEARCH_ERROR'] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð² Ð¿Ð¾Ð¸ÑÐºÐ¾Ð²Ð¾Ð¼ Ð·Ð°Ð¿Ñ€Ð¾ÑÐµ: ";
+$MESS ['BMS_PAGES'] = "Ð ÐµÐ·ÑƒÐ»ÑŒÑ‚Ð°Ñ‚";
+$MESS ['BLOG_MAIN_SEARCH_SEARCH_COMMENT'] = "Ð² ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸ÑÑ…";
 ?>

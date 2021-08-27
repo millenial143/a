@@ -1,4 +1,4 @@
 <?php
-$MESS["LANDING_DEMO_EMPTY_MULTIPAGE_MAIN-TITLE"] = "Ïóñòîé øàáëîí";
-$MESS["LANDING_DEMO_EMPTY_MULTIPAGE_MAIN-DESCRIPTION"] = "Ãëàâíàÿ ñòðàíèöà áàçû çíàíèé, íà íåé ìîæíî íàéòè ñàìîå íåîáõîäèìîå íà ñòàðòå.";
-$MESS["LANDING_DEMO_EMPTY_MULTIPAGE-DESCRIPTION"] = "Ñîçäàâàéòå ñâîþ áàçó çíàíèé ñ ÷èñòîãî ëèñòà è ïîïîëíÿéòå èíôîðìàöèþ.";
+$MESS["LANDING_DEMO_EMPTY_MULTIPAGE_MAIN-TITLE"] = "ÐŸÑƒÑÑ‚Ð¾Ð¹ ÑˆÐ°Ð±Ð»Ð¾Ð½";
+$MESS["LANDING_DEMO_EMPTY_MULTIPAGE_MAIN-DESCRIPTION"] = "Ð“Ð»Ð°Ð²Ð½Ð°Ñ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ð° Ð±Ð°Ð·Ñ‹ Ð·Ð½Ð°Ð½Ð¸Ð¹, Ð½Ð° Ð½ÐµÐ¹ Ð¼Ð¾Ð¶Ð½Ð¾ Ð½Ð°Ð¹Ñ‚Ð¸ ÑÐ°Ð¼Ð¾Ðµ Ð½ÐµÐ¾Ð±Ñ…Ð¾Ð´Ð¸Ð¼Ð¾Ðµ Ð½Ð° ÑÑ‚Ð°Ñ€Ñ‚Ðµ.";
+$MESS["LANDING_DEMO_EMPTY_MULTIPAGE-DESCRIPTION"] = "Ð¡Ð¾Ð·Ð´Ð°Ð²Ð°Ð¹Ñ‚Ðµ ÑÐ²Ð¾ÑŽ Ð±Ð°Ð·Ñƒ Ð·Ð½Ð°Ð½Ð¸Ð¹ Ñ Ñ‡Ð¸ÑÑ‚Ð¾Ð³Ð¾ Ð»Ð¸ÑÑ‚Ð° Ð¸ Ð¿Ð¾Ð¿Ð¾Ð»Ð½ÑÐ¹Ñ‚Ðµ Ð¸Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸ÑŽ.";

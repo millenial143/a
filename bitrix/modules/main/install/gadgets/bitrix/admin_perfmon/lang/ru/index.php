@@ -1,10 +1,10 @@
 <?
-$MESS["GD_PERFMON"] = "Монитор<br>производительности";
-$MESS["GD_PERFMON_NO_RES"] = "Оценка не проводилась. #STARTLINK#Протести&shy;руйте производитель&shy;ность#ENDLINK#.";
-$MESS["GD_PERFMON_CUR"] = "Текущая<br>оценка";
-$MESS["GD_PERFMON_ON"] = "Установить";
-$MESS["GD_PERFMON_OFF"] = "Выключен";
-$MESS["GD_PERFMON_NO_MODULE_INST"] = "Модуль не установлен";
-$MESS["GD_PERFMON_TEST"] = "Проверить";
-$MESS["GD_PERFMON_TESTED"] = "Подробнее";
+$MESS["GD_PERFMON"] = "РњРѕРЅРёС‚РѕСЂ<br>РїСЂРѕРёР·РІРѕРґРёС‚РµР»СЊРЅРѕСЃС‚Рё";
+$MESS["GD_PERFMON_NO_RES"] = "РћС†РµРЅРєР° РЅРµ РїСЂРѕРІРѕРґРёР»Р°СЃСЊ. #STARTLINK#РџСЂРѕС‚РµСЃС‚Рё&shy;СЂСѓР№С‚Рµ РїСЂРѕРёР·РІРѕРґРёС‚РµР»СЊ&shy;РЅРѕСЃС‚СЊ#ENDLINK#.";
+$MESS["GD_PERFMON_CUR"] = "РўРµРєСѓС‰Р°СЏ<br>РѕС†РµРЅРєР°";
+$MESS["GD_PERFMON_ON"] = "РЈСЃС‚Р°РЅРѕРІРёС‚СЊ";
+$MESS["GD_PERFMON_OFF"] = "Р’С‹РєР»СЋС‡РµРЅ";
+$MESS["GD_PERFMON_NO_MODULE_INST"] = "РњРѕРґСѓР»СЊ РЅРµ СѓСЃС‚Р°РЅРѕРІР»РµРЅ";
+$MESS["GD_PERFMON_TEST"] = "РџСЂРѕРІРµСЂРёС‚СЊ";
+$MESS["GD_PERFMON_TESTED"] = "РџРѕРґСЂРѕР±РЅРµРµ";
 ?>

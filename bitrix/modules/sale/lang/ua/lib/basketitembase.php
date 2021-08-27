@@ -1,9 +1,9 @@
 <?
-$MESS["SALE_BASKET_ITEM_WRONG_PRICE"] = "Ïîìèëêà îòðèìàííÿ ö³íè òîâàðó \"#PRODUCT_NAME#\"";
-$MESS["SALE_BASKET_ITEM_ERR_QUANTITY_ZERO"] = "Ê³ëüê³ñòü òîâàðó \"#PRODUCT_NAME#\" íå ìîæå áóòè ìåíøîþ àáî ð³âíîþ 0";
-$MESS["SALE_BASKET_ITEM_ERR_CURRENCY_EMPTY"] = "Íå âêàçàíà âàëþòà òîâàðó";
-$MESS["SALE_BASKET_ITEM_NOT_UPDATED_BECAUSE_NOT_EXISTS"] = "Òîâàð \"#PRODUCT_NAME#\" íå îíîâëåíî, áî áóâ âèäàëåíèé ðàí³øå";
-$MESS["SALE_BASKET_ITEM_WRONG_AVAILABLE_QUANTITY"] = "Ïîìèëêà ïåðåâ³ðêè äîñòóïíî¿ ê³ëüêîñò³ òîâàðó \"#PRODUCT_NAME#\"";
-$MESS["SALE_BASKET_AVAILABLE_FOR_PURCHASE_QUANTITY"] = "Äîñòóïíà äëÿ ïîêóïêè ê³ëüê³ñòü òîâàðó \"#PRODUCT_NAME#\": #AVAILABLE_QUANTITY#";
-$MESS["SALE_BASKET_AVAILABLE_FOR_DECREASE_QUANTITY"] = "Äîñòóïíà äëÿ ñïèñàííÿ ê³ëüê³ñòü òîâàðó \"#PRODUCT_NAME#\": #AVAILABLE_QUANTITY#";
+$MESS["SALE_BASKET_ITEM_WRONG_PRICE"] = "ÐŸÐ¾Ð¼Ð¸Ð»ÐºÐ° Ð¾Ñ‚Ñ€Ð¸Ð¼Ð°Ð½Ð½Ñ Ñ†Ñ–Ð½Ð¸ Ñ‚Ð¾Ð²Ð°Ñ€Ñƒ \"#PRODUCT_NAME#\"";
+$MESS["SALE_BASKET_ITEM_ERR_QUANTITY_ZERO"] = "ÐšÑ–Ð»ÑŒÐºÑ–ÑÑ‚ÑŒ Ñ‚Ð¾Ð²Ð°Ñ€Ñƒ \"#PRODUCT_NAME#\" Ð½Ðµ Ð¼Ð¾Ð¶Ðµ Ð±ÑƒÑ‚Ð¸ Ð¼ÐµÐ½ÑˆÐ¾ÑŽ Ð°Ð±Ð¾ Ñ€Ñ–Ð²Ð½Ð¾ÑŽ 0";
+$MESS["SALE_BASKET_ITEM_ERR_CURRENCY_EMPTY"] = "ÐÐµ Ð²ÐºÐ°Ð·Ð°Ð½Ð° Ð²Ð°Ð»ÑŽÑ‚Ð° Ñ‚Ð¾Ð²Ð°Ñ€Ñƒ";
+$MESS["SALE_BASKET_ITEM_NOT_UPDATED_BECAUSE_NOT_EXISTS"] = "Ð¢Ð¾Ð²Ð°Ñ€ \"#PRODUCT_NAME#\" Ð½Ðµ Ð¾Ð½Ð¾Ð²Ð»ÐµÐ½Ð¾, Ð±Ð¾ Ð±ÑƒÐ² Ð²Ð¸Ð´Ð°Ð»ÐµÐ½Ð¸Ð¹ Ñ€Ð°Ð½Ñ–ÑˆÐµ";
+$MESS["SALE_BASKET_ITEM_WRONG_AVAILABLE_QUANTITY"] = "ÐŸÐ¾Ð¼Ð¸Ð»ÐºÐ° Ð¿ÐµÑ€ÐµÐ²Ñ–Ñ€ÐºÐ¸ Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð½Ð¾Ñ— ÐºÑ–Ð»ÑŒÐºÐ¾ÑÑ‚Ñ– Ñ‚Ð¾Ð²Ð°Ñ€Ñƒ \"#PRODUCT_NAME#\"";
+$MESS["SALE_BASKET_AVAILABLE_FOR_PURCHASE_QUANTITY"] = "Ð”Ð¾ÑÑ‚ÑƒÐ¿Ð½Ð° Ð´Ð»Ñ Ð¿Ð¾ÐºÑƒÐ¿ÐºÐ¸ ÐºÑ–Ð»ÑŒÐºÑ–ÑÑ‚ÑŒ Ñ‚Ð¾Ð²Ð°Ñ€Ñƒ \"#PRODUCT_NAME#\": #AVAILABLE_QUANTITY#";
+$MESS["SALE_BASKET_AVAILABLE_FOR_DECREASE_QUANTITY"] = "Ð”Ð¾ÑÑ‚ÑƒÐ¿Ð½Ð° Ð´Ð»Ñ ÑÐ¿Ð¸ÑÐ°Ð½Ð½Ñ ÐºÑ–Ð»ÑŒÐºÑ–ÑÑ‚ÑŒ Ñ‚Ð¾Ð²Ð°Ñ€Ñƒ \"#PRODUCT_NAME#\": #AVAILABLE_QUANTITY#";
 ?>

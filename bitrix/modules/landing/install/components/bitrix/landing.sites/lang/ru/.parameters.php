@@ -1,13 +1,13 @@
 <?php
-$MESS['LANDING_CMP_PAR_PAGE_URL_SITE'] = 'Ññûëêà íà ñàéò äåòàëüíî (ñïèñîê ñòðàíèö)';
-$MESS['LANDING_CMP_PAR_PAGE_URL_SITE_EDIT'] = 'Ññûëêà íà ðåäàêòèðîâàíèå ñàéòà';
-$MESS['LANDING_CMP_PAR_PAGE_URL_LANDING_EDIT'] = 'Ññûëêà íà ðåäàêòèðîâàíèå ñòðàíèöû';
-$MESS['LANDING_CMP_PAR_PAGE_URL_SITE_DOMAIN_SWITCH'] = 'Ññûëêà íà ïåðåìåùåíèå äîìåíà ìåæäó ñàéòàìè';
-$MESS['LANDING_CMP_PAR_LANDING_TYPE'] = 'Òèï ñàéòîâ';
-$MESS['LANDING_CMP_PAR_SEF'] = 'Øàáëîíû URL';
-$MESS['LANDING_CMP_PAR_OVER_TITLE'] = 'Ïîêàçûâàòü íàäïèñü ïðè íàâåäåíèè íà ýëåìåíò';
-$MESS['LANDING_CMP_PAR_TILE_MODE'] = 'Ðåæèì îòêðûòèÿ ïî êëèêó íà ïëèòêó ñàéòà';
-$MESS['LANDING_CMP_PAR_TILE_MODE_LIST'] = 'Ïðîñìîòð ñòðàíèö ñàéòà';
-$MESS['LANDING_CMP_PAR_TILE_MODE_VIEW'] = 'Ïðîñìîòð ñàéòà';
-$MESS['LANDING_CMP_PAR_DRAFT_MODE'] = 'Âñåãäà ðàáîòàòü â ðåæèìå ÷åðíîâèêà';
-$MESS['LANDING_CMP_PAR_ACCESS_CODE'] = 'Îáÿçàòåëüíî íàëè÷èå äàííîãî ïðàâà äîñòóïà';
+$MESS['LANDING_CMP_PAR_PAGE_URL_SITE'] = 'Ð¡ÑÑ‹Ð»ÐºÐ° Ð½Ð° ÑÐ°Ð¹Ñ‚ Ð´ÐµÑ‚Ð°Ð»ÑŒÐ½Ð¾ (ÑÐ¿Ð¸ÑÐ¾Ðº ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†)';
+$MESS['LANDING_CMP_PAR_PAGE_URL_SITE_EDIT'] = 'Ð¡ÑÑ‹Ð»ÐºÐ° Ð½Ð° Ñ€ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ðµ ÑÐ°Ð¹Ñ‚Ð°';
+$MESS['LANDING_CMP_PAR_PAGE_URL_LANDING_EDIT'] = 'Ð¡ÑÑ‹Ð»ÐºÐ° Ð½Ð° Ñ€ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ðµ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñ‹';
+$MESS['LANDING_CMP_PAR_PAGE_URL_SITE_DOMAIN_SWITCH'] = 'Ð¡ÑÑ‹Ð»ÐºÐ° Ð½Ð° Ð¿ÐµÑ€ÐµÐ¼ÐµÑ‰ÐµÐ½Ð¸Ðµ Ð´Ð¾Ð¼ÐµÐ½Ð° Ð¼ÐµÐ¶Ð´Ñƒ ÑÐ°Ð¹Ñ‚Ð°Ð¼Ð¸';
+$MESS['LANDING_CMP_PAR_LANDING_TYPE'] = 'Ð¢Ð¸Ð¿ ÑÐ°Ð¹Ñ‚Ð¾Ð²';
+$MESS['LANDING_CMP_PAR_SEF'] = 'Ð¨Ð°Ð±Ð»Ð¾Ð½Ñ‹ URL';
+$MESS['LANDING_CMP_PAR_OVER_TITLE'] = 'ÐŸÐ¾ÐºÐ°Ð·Ñ‹Ð²Ð°Ñ‚ÑŒ Ð½Ð°Ð´Ð¿Ð¸ÑÑŒ Ð¿Ñ€Ð¸ Ð½Ð°Ð²ÐµÐ´ÐµÐ½Ð¸Ð¸ Ð½Ð° ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚';
+$MESS['LANDING_CMP_PAR_TILE_MODE'] = 'Ð ÐµÐ¶Ð¸Ð¼ Ð¾Ñ‚ÐºÑ€Ñ‹Ñ‚Ð¸Ñ Ð¿Ð¾ ÐºÐ»Ð¸ÐºÑƒ Ð½Ð° Ð¿Ð»Ð¸Ñ‚ÐºÑƒ ÑÐ°Ð¹Ñ‚Ð°';
+$MESS['LANDING_CMP_PAR_TILE_MODE_LIST'] = 'ÐŸÑ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ† ÑÐ°Ð¹Ñ‚Ð°';
+$MESS['LANDING_CMP_PAR_TILE_MODE_VIEW'] = 'ÐŸÑ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€ ÑÐ°Ð¹Ñ‚Ð°';
+$MESS['LANDING_CMP_PAR_DRAFT_MODE'] = 'Ð’ÑÐµÐ³Ð´Ð° Ñ€Ð°Ð±Ð¾Ñ‚Ð°Ñ‚ÑŒ Ð² Ñ€ÐµÐ¶Ð¸Ð¼Ðµ Ñ‡ÐµÑ€Ð½Ð¾Ð²Ð¸ÐºÐ°';
+$MESS['LANDING_CMP_PAR_ACCESS_CODE'] = 'ÐžÐ±ÑÐ·Ð°Ñ‚ÐµÐ»ÑŒÐ½Ð¾ Ð½Ð°Ð»Ð¸Ñ‡Ð¸Ðµ Ð´Ð°Ð½Ð½Ð¾Ð³Ð¾ Ð¿Ñ€Ð°Ð²Ð° Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð°';

@@ -1,5 +1,5 @@
 <?
-$MESS["CPSP_LABLE_PRODUCT_ID"] = "ID òîâàðà";
-$MESS["CPSP_LABLE_BUTTON_ID"] = "ID êíîïêè ïîäïèñêè";
-$MESS["CPSP_LABLE_BUTTON_CLASS"] = "CSS êëàññ êíîïêè ïîäïèñêè";
+$MESS["CPSP_LABLE_PRODUCT_ID"] = "ID Ñ‚Ð¾Ð²Ð°Ñ€Ð°";
+$MESS["CPSP_LABLE_BUTTON_ID"] = "ID ÐºÐ½Ð¾Ð¿ÐºÐ¸ Ð¿Ð¾Ð´Ð¿Ð¸ÑÐºÐ¸";
+$MESS["CPSP_LABLE_BUTTON_CLASS"] = "CSS ÐºÐ»Ð°ÑÑ ÐºÐ½Ð¾Ð¿ÐºÐ¸ Ð¿Ð¾Ð´Ð¿Ð¸ÑÐºÐ¸";
 ?>

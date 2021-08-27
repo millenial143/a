@@ -1,6 +1,6 @@
 <?
-$MESS["SALE_BVAL_MAIL_PARAM_PROVIDER"] = "Èñòî÷íèê äàííûõ";
-$MESS["SALE_BVAL_MAIL_PARAM_GROUP"] = "Ãðóïïà ïîëåé";
-$MESS["SALE_BVAL_MAIL_PARAM_FIELD"] = "Ïîëÿ";
-$MESS["SALE_BVAL_MAIL_PARAM_FIELD_ORDER_ID"] = "Êîä çàêàçà";
+$MESS["SALE_BVAL_MAIL_PARAM_PROVIDER"] = "Ð˜ÑÑ‚Ð¾Ñ‡Ð½Ð¸Ðº Ð´Ð°Ð½Ð½Ñ‹Ñ…";
+$MESS["SALE_BVAL_MAIL_PARAM_GROUP"] = "Ð“Ñ€ÑƒÐ¿Ð¿Ð° Ð¿Ð¾Ð»ÐµÐ¹";
+$MESS["SALE_BVAL_MAIL_PARAM_FIELD"] = "ÐŸÐ¾Ð»Ñ";
+$MESS["SALE_BVAL_MAIL_PARAM_FIELD_ORDER_ID"] = "ÐšÐ¾Ð´ Ð·Ð°ÐºÐ°Ð·Ð°";
 ?>

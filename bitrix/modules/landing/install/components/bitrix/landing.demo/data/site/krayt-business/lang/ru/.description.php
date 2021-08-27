@@ -1,4 +1,4 @@
 <?php
-$MESS['LANDING_DEMO_KRAYT_BUSINESS_TITLE'] = 'Î áèçíåñå';
-$MESS['LANDING_DEMO_KRAYT_BUSINESS_DESCRIPTION'] = 'Ðàññêàæèòå î ñåáå è ñâîåì áèçíåñå ñ ïîìîùüþ ñàéòà, ðàçìåñòèòå êîíòàêòíûå äàííûå è ïðèâëåêàéòå êëèåíòîâ.';
-$MESS['LANDING_DEMO_KRAYT_BUSINESS_KRAYT'] = 'Êðàéò';
+$MESS['LANDING_DEMO_KRAYT_BUSINESS_TITLE'] = 'Ðž Ð±Ð¸Ð·Ð½ÐµÑÐµ';
+$MESS['LANDING_DEMO_KRAYT_BUSINESS_DESCRIPTION'] = 'Ð Ð°ÑÑÐºÐ°Ð¶Ð¸Ñ‚Ðµ Ð¾ ÑÐµÐ±Ðµ Ð¸ ÑÐ²Ð¾ÐµÐ¼ Ð±Ð¸Ð·Ð½ÐµÑÐµ Ñ Ð¿Ð¾Ð¼Ð¾Ñ‰ÑŒÑŽ ÑÐ°Ð¹Ñ‚Ð°, Ñ€Ð°Ð·Ð¼ÐµÑÑ‚Ð¸Ñ‚Ðµ ÐºÐ¾Ð½Ñ‚Ð°ÐºÑ‚Ð½Ñ‹Ðµ Ð´Ð°Ð½Ð½Ñ‹Ðµ Ð¸ Ð¿Ñ€Ð¸Ð²Ð»ÐµÐºÐ°Ð¹Ñ‚Ðµ ÐºÐ»Ð¸ÐµÐ½Ñ‚Ð¾Ð².';
+$MESS['LANDING_DEMO_KRAYT_BUSINESS_KRAYT'] = 'ÐšÑ€Ð°Ð¹Ñ‚';

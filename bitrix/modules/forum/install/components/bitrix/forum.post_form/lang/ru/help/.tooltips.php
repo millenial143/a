@@ -1,16 +1,16 @@
 <?
-$MESS["FID_TIP"] = "ID ôîðóìà";
-$MESS["TID_TIP"] = "ID òåìû";
-$MESS["MID_TIP"] = "ID ñîîáùåíèÿ";
-$MESS["PAGE_NAME_TIP"] = "ID âûçûâàþùåãî êîìïîíåíòà";
-$MESS["MESSAGE_TYPE_TIP"] = "Òèï îòîáðàæåíèÿ ôîðìû ðåäàêòèðîâàíèÿ (îòâåò, ðåäàêòèðîâàíèå, íîâàÿ òåìà)";
-$MESS["URL_TEMPLATES_MESSAGE_TIP"] = "Ñòðàíèöà ÷òåíèÿ ñîîáùåíèÿ";
-$MESS["URL_TEMPLATES_LIST_TIP"] = "Ñòðàíèöà ñïèñêà òåì";
-$MESS["URL_TEMPLATES_HELP_TIP"] = "Ñòðàíèöà ïîìîùè ïî ôîðóìàì";
-$MESS["URL_TEMPLATES_RULES_TIP"] = "Ñòðàíèöà ïðàâèë ôîðóìîâ";
-$MESS["SMILE_TABLE_COLS_TIP"] = "Êîëè÷åñòâî ñìàéëîâ â ñòðîêå";
-$MESS["AJAX_TYPE_TIP"] = "Èñïîëüçîâàòü AJAX";
-$MESS["CACHE_TYPE_TIP"] = "Òèï êåøèðîâàíèÿ";
-$MESS["CACHE_TIME_TIP"] = "Âðåìÿ êåøèðîâàíèÿ (ñåê.)";
-$MESS["SHOW_VOTE_TIP"] = "Ïîêàçûâàòü îïðîñû";
+$MESS["FID_TIP"] = "ID Ñ„Ð¾Ñ€ÑƒÐ¼Ð°";
+$MESS["TID_TIP"] = "ID Ñ‚ÐµÐ¼Ñ‹";
+$MESS["MID_TIP"] = "ID ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ";
+$MESS["PAGE_NAME_TIP"] = "ID Ð²Ñ‹Ð·Ñ‹Ð²Ð°ÑŽÑ‰ÐµÐ³Ð¾ ÐºÐ¾Ð¼Ð¿Ð¾Ð½ÐµÐ½Ñ‚Ð°";
+$MESS["MESSAGE_TYPE_TIP"] = "Ð¢Ð¸Ð¿ Ð¾Ñ‚Ð¾Ð±Ñ€Ð°Ð¶ÐµÐ½Ð¸Ñ Ñ„Ð¾Ñ€Ð¼Ñ‹ Ñ€ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ñ (Ð¾Ñ‚Ð²ÐµÑ‚, Ñ€ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ðµ, Ð½Ð¾Ð²Ð°Ñ Ñ‚ÐµÐ¼Ð°)";
+$MESS["URL_TEMPLATES_MESSAGE_TIP"] = "Ð¡Ñ‚Ñ€Ð°Ð½Ð¸Ñ†Ð° Ñ‡Ñ‚ÐµÐ½Ð¸Ñ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ";
+$MESS["URL_TEMPLATES_LIST_TIP"] = "Ð¡Ñ‚Ñ€Ð°Ð½Ð¸Ñ†Ð° ÑÐ¿Ð¸ÑÐºÐ° Ñ‚ÐµÐ¼";
+$MESS["URL_TEMPLATES_HELP_TIP"] = "Ð¡Ñ‚Ñ€Ð°Ð½Ð¸Ñ†Ð° Ð¿Ð¾Ð¼Ð¾Ñ‰Ð¸ Ð¿Ð¾ Ñ„Ð¾Ñ€ÑƒÐ¼Ð°Ð¼";
+$MESS["URL_TEMPLATES_RULES_TIP"] = "Ð¡Ñ‚Ñ€Ð°Ð½Ð¸Ñ†Ð° Ð¿Ñ€Ð°Ð²Ð¸Ð» Ñ„Ð¾Ñ€ÑƒÐ¼Ð¾Ð²";
+$MESS["SMILE_TABLE_COLS_TIP"] = "ÐšÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾ ÑÐ¼Ð°Ð¹Ð»Ð¾Ð² Ð² ÑÑ‚Ñ€Ð¾ÐºÐµ";
+$MESS["AJAX_TYPE_TIP"] = "Ð˜ÑÐ¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÑŒ AJAX";
+$MESS["CACHE_TYPE_TIP"] = "Ð¢Ð¸Ð¿ ÐºÐµÑˆÐ¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ñ";
+$MESS["CACHE_TIME_TIP"] = "Ð’Ñ€ÐµÐ¼Ñ ÐºÐµÑˆÐ¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ñ (ÑÐµÐº.)";
+$MESS["SHOW_VOTE_TIP"] = "ÐŸÐ¾ÐºÐ°Ð·Ñ‹Ð²Ð°Ñ‚ÑŒ Ð¾Ð¿Ñ€Ð¾ÑÑ‹";
 ?>

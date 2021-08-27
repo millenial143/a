@@ -1,4 +1,4 @@
 <?php
-$MESS['LANDING_MENU_CREATE_NEW_PAGE'] = 'Íîâàÿ ñòðàíèöà';
-$MESS['LANDING_MENU_CLOSE_BUTTON_LABEL'] = 'Ñêðûòü ïîëå';
-$MESS['LANDING_MENU_APPLY_BUTTON_LABEL'] = 'Ïðèìåíèòü';
+$MESS['LANDING_MENU_CREATE_NEW_PAGE'] = 'ÐÐ¾Ð²Ð°Ñ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ð°';
+$MESS['LANDING_MENU_CLOSE_BUTTON_LABEL'] = 'Ð¡ÐºÑ€Ñ‹Ñ‚ÑŒ Ð¿Ð¾Ð»Ðµ';
+$MESS['LANDING_MENU_APPLY_BUTTON_LABEL'] = 'ÐŸÑ€Ð¸Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ';

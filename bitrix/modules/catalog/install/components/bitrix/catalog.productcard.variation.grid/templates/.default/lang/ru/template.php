@@ -1,8 +1,8 @@
 <?php
-$MESS["C_PVG_CREATE_VARIATION"] = "Äîáàâèòü âàðèàöèþ";
-$MESS["C_PVG_VARIATIONS_TITLE"] = "Âàðèàöèè";
-$MESS["C_PVG_CREATE_VARIATION_PROPERTY"] = "Ñîçäàòü ñâîéñòâî âàðèàöèè";
-$MESS["C_PVG_ADD_NEW_PROPERTY_VALUE_BUTTON"] = "ñîçäàòü íîâîå çíà÷åíèå";
-$MESS["C_PVG_UNSAVED_DATA_TITLE"] = "Ó âàñ åñòü íåñîõðàíåííûå äàííûå";
-$MESS["C_PVG_UNSAVED_DATA_MESSAGE"] = "Ïðè èçìåíåíèè íàñòðîåê îòîáðàæåíèÿ âàðèàöèé íåñîõðàíåííûå äàííûå áóäóò ïîòåðÿíû.";
-$MESS["C_PVG_UNSAVED_DATA_CONTINUE"] = "Ïðîäîëæèòü áåç ñîõðàíåíèÿ";
+$MESS["C_PVG_CREATE_VARIATION"] = "Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ Ð²Ð°Ñ€Ð¸Ð°Ñ†Ð¸ÑŽ";
+$MESS["C_PVG_VARIATIONS_TITLE"] = "Ð’Ð°Ñ€Ð¸Ð°Ñ†Ð¸Ð¸";
+$MESS["C_PVG_CREATE_VARIATION_PROPERTY"] = "Ð¡Ð¾Ð·Ð´Ð°Ñ‚ÑŒ ÑÐ²Ð¾Ð¹ÑÑ‚Ð²Ð¾ Ð²Ð°Ñ€Ð¸Ð°Ñ†Ð¸Ð¸";
+$MESS["C_PVG_ADD_NEW_PROPERTY_VALUE_BUTTON"] = "ÑÐ¾Ð·Ð´Ð°Ñ‚ÑŒ Ð½Ð¾Ð²Ð¾Ðµ Ð·Ð½Ð°Ñ‡ÐµÐ½Ð¸Ðµ";
+$MESS["C_PVG_UNSAVED_DATA_TITLE"] = "Ð£ Ð²Ð°Ñ ÐµÑÑ‚ÑŒ Ð½ÐµÑÐ¾Ñ…Ñ€Ð°Ð½ÐµÐ½Ð½Ñ‹Ðµ Ð´Ð°Ð½Ð½Ñ‹Ðµ";
+$MESS["C_PVG_UNSAVED_DATA_MESSAGE"] = "ÐŸÑ€Ð¸ Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ð¸ Ð½Ð°ÑÑ‚Ñ€Ð¾ÐµÐº Ð¾Ñ‚Ð¾Ð±Ñ€Ð°Ð¶ÐµÐ½Ð¸Ñ Ð²Ð°Ñ€Ð¸Ð°Ñ†Ð¸Ð¹ Ð½ÐµÑÐ¾Ñ…Ñ€Ð°Ð½ÐµÐ½Ð½Ñ‹Ðµ Ð´Ð°Ð½Ð½Ñ‹Ðµ Ð±ÑƒÐ´ÑƒÑ‚ Ð¿Ð¾Ñ‚ÐµÑ€ÑÐ½Ñ‹.";
+$MESS["C_PVG_UNSAVED_DATA_CONTINUE"] = "ÐŸÑ€Ð¾Ð´Ð¾Ð»Ð¶Ð¸Ñ‚ÑŒ Ð±ÐµÐ· ÑÐ¾Ñ…Ñ€Ð°Ð½ÐµÐ½Ð¸Ñ";

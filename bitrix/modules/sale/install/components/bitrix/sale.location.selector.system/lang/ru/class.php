@@ -1,6 +1,6 @@
 <?
-$MESS["SALE_SLSS_ENTITY_PRIMARY_NOT_SET"] = "Íå óêàçàí èäåíòèôèêàòîð ñóùíîñòè";
-$MESS["SALE_SLSS_LINK_ENTITY_CLASS_NAME_NOT_SET"] = "Íå óêàçàíî èìÿ êëàññà ñóùíîñòè";
-$MESS["SALE_SLSS_LINK_ENTITY_CLASS_UNKNOWN"] = "Íåèçâåñòíûé êëàññ ñóùíîñòè";
-$MESS["SALE_SLSS_WRONG_LINK_CLASS"] = "Óêàçàííûé êëàññ ñóùíîñòè íå íàñëåäîâàí îò connector";
+$MESS["SALE_SLSS_ENTITY_PRIMARY_NOT_SET"] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ ÑÑƒÑ‰Ð½Ð¾ÑÑ‚Ð¸";
+$MESS["SALE_SLSS_LINK_ENTITY_CLASS_NAME_NOT_SET"] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½Ð¾ Ð¸Ð¼Ñ ÐºÐ»Ð°ÑÑÐ° ÑÑƒÑ‰Ð½Ð¾ÑÑ‚Ð¸";
+$MESS["SALE_SLSS_LINK_ENTITY_CLASS_UNKNOWN"] = "ÐÐµÐ¸Ð·Ð²ÐµÑÑ‚Ð½Ñ‹Ð¹ ÐºÐ»Ð°ÑÑ ÑÑƒÑ‰Ð½Ð¾ÑÑ‚Ð¸";
+$MESS["SALE_SLSS_WRONG_LINK_CLASS"] = "Ð£ÐºÐ°Ð·Ð°Ð½Ð½Ñ‹Ð¹ ÐºÐ»Ð°ÑÑ ÑÑƒÑ‰Ð½Ð¾ÑÑ‚Ð¸ Ð½Ðµ Ð½Ð°ÑÐ»ÐµÐ´Ð¾Ð²Ð°Ð½ Ð¾Ñ‚ connector";
 ?>

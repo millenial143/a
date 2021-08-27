@@ -1,17 +1,17 @@
 <?
-$MESS["BCLMMSL_MONITORING_HTTP_RESPONSE_TIME"] = "Работоспособность сайта";
-$MESS["BCLMMSL_MONITORING_FAILED_PERIOD"] = "Время простоя";
-$MESS["BCLMMSL_MONITORING_MONITORING_PERIOD"] = "Период измерений";
-$MESS["BCLMMSL_MONITORING_DOMAIN_REGISTRATION"] = "Регистрация домена истекает через";
-$MESS["BCLMMSL_MONITORING_LICENSE"] = "Лицензия истекает через";
-$MESS["BCLMMSL_MONITORING_MONITORING_SSL"] = "SSL сертификат истекает через";
-$MESS["BCLMMSL_MONITORING_TITLE"] = "Инспектор сайтов";
-$MESS["BCLMMSL_MONITORING_NO_PROBS"] = "На ваших проектах проблем не обнаружено";
-$MESS["BCLMMSL_MONITORING_BUT_DETAIL"] = "Подробнее";
-$MESS["BCLMMSL_MONITORING_MONTH_LOST"] = "Потерь за месяц";
-$MESS["BCLMMSL_NO_DOMAINS"] = "Нет настроенных доменов";
-$MESS["BCLMMSL_NO_SITES"] = "Нет ни одного сайта.<br>Для добавления сайта нажмите кнопку (+).";
-$MESS["BCLMMSL_NO_SITES_TITLE"] = "Сообщение";
-$MESS["BCLMMSL_NO_DATA"] = "нет данных";
-$MESS["BCLMMSL_TITLE"] = "Инспектор сайтов";
+$MESS["BCLMMSL_MONITORING_HTTP_RESPONSE_TIME"] = "Р Р°Р±РѕС‚РѕСЃРїРѕСЃРѕР±РЅРѕСЃС‚СЊ СЃР°Р№С‚Р°";
+$MESS["BCLMMSL_MONITORING_FAILED_PERIOD"] = "Р’СЂРµРјСЏ РїСЂРѕСЃС‚РѕСЏ";
+$MESS["BCLMMSL_MONITORING_MONITORING_PERIOD"] = "РџРµСЂРёРѕРґ РёР·РјРµСЂРµРЅРёР№";
+$MESS["BCLMMSL_MONITORING_DOMAIN_REGISTRATION"] = "Р РµРіРёСЃС‚СЂР°С†РёСЏ РґРѕРјРµРЅР° РёСЃС‚РµРєР°РµС‚ С‡РµСЂРµР·";
+$MESS["BCLMMSL_MONITORING_LICENSE"] = "Р›РёС†РµРЅР·РёСЏ РёСЃС‚РµРєР°РµС‚ С‡РµСЂРµР·";
+$MESS["BCLMMSL_MONITORING_MONITORING_SSL"] = "SSL СЃРµСЂС‚РёС„РёРєР°С‚ РёСЃС‚РµРєР°РµС‚ С‡РµСЂРµР·";
+$MESS["BCLMMSL_MONITORING_TITLE"] = "РРЅСЃРїРµРєС‚РѕСЂ СЃР°Р№С‚РѕРІ";
+$MESS["BCLMMSL_MONITORING_NO_PROBS"] = "РќР° РІР°С€РёС… РїСЂРѕРµРєС‚Р°С… РїСЂРѕР±Р»РµРј РЅРµ РѕР±РЅР°СЂСѓР¶РµРЅРѕ";
+$MESS["BCLMMSL_MONITORING_BUT_DETAIL"] = "РџРѕРґСЂРѕР±РЅРµРµ";
+$MESS["BCLMMSL_MONITORING_MONTH_LOST"] = "РџРѕС‚РµСЂСЊ Р·Р° РјРµСЃСЏС†";
+$MESS["BCLMMSL_NO_DOMAINS"] = "РќРµС‚ РЅР°СЃС‚СЂРѕРµРЅРЅС‹С… РґРѕРјРµРЅРѕРІ";
+$MESS["BCLMMSL_NO_SITES"] = "РќРµС‚ РЅРё РѕРґРЅРѕРіРѕ СЃР°Р№С‚Р°.<br>Р”Р»СЏ РґРѕР±Р°РІР»РµРЅРёСЏ СЃР°Р№С‚Р° РЅР°Р¶РјРёС‚Рµ РєРЅРѕРїРєСѓ (+).";
+$MESS["BCLMMSL_NO_SITES_TITLE"] = "РЎРѕРѕР±С‰РµРЅРёРµ";
+$MESS["BCLMMSL_NO_DATA"] = "РЅРµС‚ РґР°РЅРЅС‹С…";
+$MESS["BCLMMSL_TITLE"] = "РРЅСЃРїРµРєС‚РѕСЂ СЃР°Р№С‚РѕРІ";
 ?>

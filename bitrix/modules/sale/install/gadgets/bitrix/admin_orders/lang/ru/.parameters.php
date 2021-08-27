@@ -1,10 +1,10 @@
 <?
-$MESS["GD_ORDERS_P_SITE_ID"] = "Ñàéò";
-$MESS["GD_ORDERS_P_SITE_ID_ALL"] = "Âñå";
-$MESS["GD_ORDERS_P_STATUS_1"] = "Ñîñòîÿíèÿ çàêàçîâ";
-$MESS["GD_ORDERS_P_STATUS_1_CREATED"] = "Ñîçäàí";
-$MESS["GD_ORDERS_P_STATUS_1_PAID"] = "Îïëà÷åí";
-$MESS["GD_ORDERS_P_STATUS_1_CANCELED"] = "Îòìåíåí";
-$MESS["GD_ORDERS_P_STATUS_1_ALLOW_DELIVERY"] = "Ðàçðåøåí ê äîñòàâêå";
-$MESS["GD_ORDERS_P_ITEMS_COUNT"] = "Êîëè÷åñòâî çàêàçîâ äëÿ îòîáðàæåíèÿ";
+$MESS["GD_ORDERS_P_SITE_ID"] = "Ð¡Ð°Ð¹Ñ‚";
+$MESS["GD_ORDERS_P_SITE_ID_ALL"] = "Ð’ÑÐµ";
+$MESS["GD_ORDERS_P_STATUS_1"] = "Ð¡Ð¾ÑÑ‚Ð¾ÑÐ½Ð¸Ñ Ð·Ð°ÐºÐ°Ð·Ð¾Ð²";
+$MESS["GD_ORDERS_P_STATUS_1_CREATED"] = "Ð¡Ð¾Ð·Ð´Ð°Ð½";
+$MESS["GD_ORDERS_P_STATUS_1_PAID"] = "ÐžÐ¿Ð»Ð°Ñ‡ÐµÐ½";
+$MESS["GD_ORDERS_P_STATUS_1_CANCELED"] = "ÐžÑ‚Ð¼ÐµÐ½ÐµÐ½";
+$MESS["GD_ORDERS_P_STATUS_1_ALLOW_DELIVERY"] = "Ð Ð°Ð·Ñ€ÐµÑˆÐµÐ½ Ðº Ð´Ð¾ÑÑ‚Ð°Ð²ÐºÐµ";
+$MESS["GD_ORDERS_P_ITEMS_COUNT"] = "ÐšÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾ Ð·Ð°ÐºÐ°Ð·Ð¾Ð² Ð´Ð»Ñ Ð¾Ñ‚Ð¾Ð±Ñ€Ð°Ð¶ÐµÐ½Ð¸Ñ";
 ?>

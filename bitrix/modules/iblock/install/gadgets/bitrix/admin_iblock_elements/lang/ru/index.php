@@ -1,12 +1,12 @@
 <?
 $MESS["GD_IBEL_NAME_ID"] = "ID";
-$MESS["GD_IBEL_NAME_NAME"] = "Çàãîëîâîê";
-$MESS["GD_IBEL_NAME_DATE_ACTIVE_FROM"] = "Äàòà íà÷àëà àêòèâíîñòè";
-$MESS["GD_IBEL_NAME_DATE_CREATE"] = "Äàòà ñîçäàíèÿ";
-$MESS["GD_IBEL_NAME_TIMESTAMP_X"] = "Äàòà ïîñëåäíåãî èçìåíåíèÿ";
-$MESS["GD_IBEL_NAME_PREVIEW_PICTURE"] = "Êàðòèíêà äëÿ àíîíñà";
-$MESS["GD_IBEL_NAME_PREVIEW_TEXT"] = "Îïèñàíèå äëÿ àíîíñà";
-$MESS["GD_IBEL_NAME_DETAIL_PICTURE"] = "Äåòàëüíàÿ êàðòèíêà";
-$MESS["GD_IBEL_NAME_DETAIL_TEXT"] = "Äåòàëüíîå îïèñàíèå";
-$MESS["GD_IBEL_NAME_ALL_ELEMENTS"] = "Âñå ýëåìåíòû";
+$MESS["GD_IBEL_NAME_NAME"] = "Ð—Ð°Ð³Ð¾Ð»Ð¾Ð²Ð¾Ðº";
+$MESS["GD_IBEL_NAME_DATE_ACTIVE_FROM"] = "Ð”Ð°Ñ‚Ð° Ð½Ð°Ñ‡Ð°Ð»Ð° Ð°ÐºÑ‚Ð¸Ð²Ð½Ð¾ÑÑ‚Ð¸";
+$MESS["GD_IBEL_NAME_DATE_CREATE"] = "Ð”Ð°Ñ‚Ð° ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ñ";
+$MESS["GD_IBEL_NAME_TIMESTAMP_X"] = "Ð”Ð°Ñ‚Ð° Ð¿Ð¾ÑÐ»ÐµÐ´Ð½ÐµÐ³Ð¾ Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ñ";
+$MESS["GD_IBEL_NAME_PREVIEW_PICTURE"] = "ÐšÐ°Ñ€Ñ‚Ð¸Ð½ÐºÐ° Ð´Ð»Ñ Ð°Ð½Ð¾Ð½ÑÐ°";
+$MESS["GD_IBEL_NAME_PREVIEW_TEXT"] = "ÐžÐ¿Ð¸ÑÐ°Ð½Ð¸Ðµ Ð´Ð»Ñ Ð°Ð½Ð¾Ð½ÑÐ°";
+$MESS["GD_IBEL_NAME_DETAIL_PICTURE"] = "Ð”ÐµÑ‚Ð°Ð»ÑŒÐ½Ð°Ñ ÐºÐ°Ñ€Ñ‚Ð¸Ð½ÐºÐ°";
+$MESS["GD_IBEL_NAME_DETAIL_TEXT"] = "Ð”ÐµÑ‚Ð°Ð»ÑŒÐ½Ð¾Ðµ Ð¾Ð¿Ð¸ÑÐ°Ð½Ð¸Ðµ";
+$MESS["GD_IBEL_NAME_ALL_ELEMENTS"] = "Ð’ÑÐµ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ñ‹";
 ?>

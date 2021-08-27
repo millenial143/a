@@ -1,7 +1,7 @@
 <?php
-$MESS['LANDING_DEMO_STORE_CHATS_LIGHT-CUTAWAY-NAME'] = 'Âèçèòêà';
-$MESS['LANDING_DEMO_STORE_CHATS_LIGHT-CUTAWAY-DESC'] = 'Âûáåðèòå óäîáíûé ñïîñîá ñâÿçè ñ êîìïàíèåé';
-$MESS['LANDING_DEMO_STORE_CHATS_LIGHT-CUTAWAY-RICH_NAME'] = 'Âèçèòêà';
-$MESS['LANDING_DEMO_STORE_CHATS_LIGHT-CUTAWAY-RICH_DESC'] = 'Âûáåðèòå óäîáíûé ñïîñîá ñâÿçè ñ êîìïàíèåé';
-$MESS['LANDING_DEMO_STORE_CHATS_LIGHT-CUTAWAY-TEXT1'] = 'Ïèøèòå ïðÿìî ñåé÷àñ';
-$MESS['LANDING_DEMO_STORE_CHATS_LIGHT-CUTAWAY-TEXT2'] = 'Ìû â ñîöñåòÿõ';
+$MESS['LANDING_DEMO_STORE_CHATS_LIGHT-CUTAWAY-NAME'] = 'Ð’Ð¸Ð·Ð¸Ñ‚ÐºÐ°';
+$MESS['LANDING_DEMO_STORE_CHATS_LIGHT-CUTAWAY-DESC'] = 'Ð’Ñ‹Ð±ÐµÑ€Ð¸Ñ‚Ðµ ÑƒÐ´Ð¾Ð±Ð½Ñ‹Ð¹ ÑÐ¿Ð¾ÑÐ¾Ð± ÑÐ²ÑÐ·Ð¸ Ñ ÐºÐ¾Ð¼Ð¿Ð°Ð½Ð¸ÐµÐ¹';
+$MESS['LANDING_DEMO_STORE_CHATS_LIGHT-CUTAWAY-RICH_NAME'] = 'Ð’Ð¸Ð·Ð¸Ñ‚ÐºÐ°';
+$MESS['LANDING_DEMO_STORE_CHATS_LIGHT-CUTAWAY-RICH_DESC'] = 'Ð’Ñ‹Ð±ÐµÑ€Ð¸Ñ‚Ðµ ÑƒÐ´Ð¾Ð±Ð½Ñ‹Ð¹ ÑÐ¿Ð¾ÑÐ¾Ð± ÑÐ²ÑÐ·Ð¸ Ñ ÐºÐ¾Ð¼Ð¿Ð°Ð½Ð¸ÐµÐ¹';
+$MESS['LANDING_DEMO_STORE_CHATS_LIGHT-CUTAWAY-TEXT1'] = 'ÐŸÐ¸ÑˆÐ¸Ñ‚Ðµ Ð¿Ñ€ÑÐ¼Ð¾ ÑÐµÐ¹Ñ‡Ð°Ñ';
+$MESS['LANDING_DEMO_STORE_CHATS_LIGHT-CUTAWAY-TEXT2'] = 'ÐœÑ‹ Ð² ÑÐ¾Ñ†ÑÐµÑ‚ÑÑ…';

@@ -1,5 +1,5 @@
 <?
-$MESS ['CHANNEL_SID_TIP'] = "Ãðóïïà îïðîñîâ";
-$MESS ['CACHE_TYPE_TIP'] = "Òèï êåøèðîâàíèÿ";
-$MESS ['CACHE_TIME_TIP'] = "Âðåìÿ êåøèðîâàíèÿ (ñåê.)";
+$MESS ['CHANNEL_SID_TIP'] = "Ð“Ñ€ÑƒÐ¿Ð¿Ð° Ð¾Ð¿Ñ€Ð¾ÑÐ¾Ð²";
+$MESS ['CACHE_TYPE_TIP'] = "Ð¢Ð¸Ð¿ ÐºÐµÑˆÐ¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ñ";
+$MESS ['CACHE_TIME_TIP'] = "Ð’Ñ€ÐµÐ¼Ñ ÐºÐµÑˆÐ¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ñ (ÑÐµÐº.)";
 ?>

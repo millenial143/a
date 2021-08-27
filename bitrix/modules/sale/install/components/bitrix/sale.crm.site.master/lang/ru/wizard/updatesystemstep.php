@@ -1,6 +1,6 @@
 <?php
-$MESS["SALE_CSM_WIZARD_UPDATESYSTEMSTEP_TITLE"] = "Система обновлений";
-$MESS["SALE_CSM_WIZARD_UPDATESYSTEMSTEP_NEXT"] = "Продолжить";
-$MESS["SALE_CSM_WIZARD_UPDATESYSTEMSTEP_DESCR1"] = "Для установки Битрикс24 не хватает следующих модулей...";
-$MESS["SALE_CSM_WIZARD_UPDATESYSTEMSTEP_DESCR2"] = "Перейдите в <a href=\"#UPDATE_SYSTEM_LINK#\" target=\"_blank\">систему обновлений</a> и загрузите необходимые модули.";
-$MESS["SALE_CSM_WIZARD_UPDATESYSTEMSTEP_DESCR3"] = "После этого нажмите кнопку \"Продолжить\" на этой странице.";
+$MESS["SALE_CSM_WIZARD_UPDATESYSTEMSTEP_TITLE"] = "РЎРёСЃС‚РµРјР° РѕР±РЅРѕРІР»РµРЅРёР№";
+$MESS["SALE_CSM_WIZARD_UPDATESYSTEMSTEP_NEXT"] = "РџСЂРѕРґРѕР»Р¶РёС‚СЊ";
+$MESS["SALE_CSM_WIZARD_UPDATESYSTEMSTEP_DESCR1"] = "Р”Р»СЏ СѓСЃС‚Р°РЅРѕРІРєРё Р‘РёС‚СЂРёРєСЃ24 РЅРµ С…РІР°С‚Р°РµС‚ СЃР»РµРґСѓСЋС‰РёС… РјРѕРґСѓР»РµР№...";
+$MESS["SALE_CSM_WIZARD_UPDATESYSTEMSTEP_DESCR2"] = "РџРµСЂРµР№РґРёС‚Рµ РІ <a href=\"#UPDATE_SYSTEM_LINK#\" target=\"_blank\">СЃРёСЃС‚РµРјСѓ РѕР±РЅРѕРІР»РµРЅРёР№</a> Рё Р·Р°РіСЂСѓР·РёС‚Рµ РЅРµРѕР±С…РѕРґРёРјС‹Рµ РјРѕРґСѓР»Рё.";
+$MESS["SALE_CSM_WIZARD_UPDATESYSTEMSTEP_DESCR3"] = "РџРѕСЃР»Рµ СЌС‚РѕРіРѕ РЅР°Р¶РјРёС‚Рµ РєРЅРѕРїРєСѓ \"РџСЂРѕРґРѕР»Р¶РёС‚СЊ\" РЅР° СЌС‚РѕР№ СЃС‚СЂР°РЅРёС†Рµ.";

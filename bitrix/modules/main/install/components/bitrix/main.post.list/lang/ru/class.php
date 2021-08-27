@@ -1,9 +1,9 @@
 <?
-$MESS["MPL_PHOTO"] = "Ôîòî:";
-$MESS["MPL_FILES"] = "Ôàéëû:";
-$MESS["MPL_LIKE"] = "Íðàâèòñÿ";
-$MESS["MPL_KISS"] = "Âîñõèùàþñü";
-$MESS["MPL_LAUGH"] = "Ñìåþñü";
-$MESS["MPL_WONDER"] = "Óäèâëÿþñü";
-$MESS["MPL_CRY"] = "Ïå÷àëþñü";
-$MESS["MPL_ANGRY"] = "Çëþñü";
+$MESS["MPL_PHOTO"] = "Ð¤Ð¾Ñ‚Ð¾:";
+$MESS["MPL_FILES"] = "Ð¤Ð°Ð¹Ð»Ñ‹:";
+$MESS["MPL_LIKE"] = "ÐÑ€Ð°Ð²Ð¸Ñ‚ÑÑ";
+$MESS["MPL_KISS"] = "Ð’Ð¾ÑÑ…Ð¸Ñ‰Ð°ÑŽÑÑŒ";
+$MESS["MPL_LAUGH"] = "Ð¡Ð¼ÐµÑŽÑÑŒ";
+$MESS["MPL_WONDER"] = "Ð£Ð´Ð¸Ð²Ð»ÑÑŽÑÑŒ";
+$MESS["MPL_CRY"] = "ÐŸÐµÑ‡Ð°Ð»ÑŽÑÑŒ";
+$MESS["MPL_ANGRY"] = "Ð—Ð»ÑŽÑÑŒ";

@@ -1,4 +1,4 @@
 <?
-$MESS ['MAIN_PAGE_NAVIGATION_NAME'] = "Ïîñòðàíè÷íàÿ íàâèãàöèÿ";
-$MESS ['MAIN_PAGE_NAVIGATION_DESC'] = "Ïîñòðàíè÷íàÿ íàâèãàöèÿ";
+$MESS ['MAIN_PAGE_NAVIGATION_NAME'] = "ÐŸÐ¾ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ‡Ð½Ð°Ñ Ð½Ð°Ð²Ð¸Ð³Ð°Ñ†Ð¸Ñ";
+$MESS ['MAIN_PAGE_NAVIGATION_DESC'] = "ÐŸÐ¾ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ‡Ð½Ð°Ñ Ð½Ð°Ð²Ð¸Ð³Ð°Ñ†Ð¸Ñ";
 ?>

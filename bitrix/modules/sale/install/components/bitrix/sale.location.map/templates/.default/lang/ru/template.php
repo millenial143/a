@@ -1,14 +1,14 @@
 <?
-$MESS["SALE_LOCATION_MAP_LOC_COUNT"] = "Ìåñòîïîëîæåíèé íà ñàéòå";
-$MESS["SALE_LOCATION_MAP_LOC_MAPPED"] = "Ñîïîñòàâëåíî ìåñòîïîëîæåíèé";
-$MESS["SALE_LOCATION_MAP_CLOSE"] = "Çàêðûòü";
-$MESS["SALE_LOCATION_MAP_LOC_MAPPING"] = "Ñîïîñòàâëåíèå ìåñòîïîëîæåíèé";
-$MESS["SALE_LOCATION_MAP_CANCEL"] = "Îòìåíà";
-$MESS["SALE_LOCATION_MAP_PREPARING"] = "Ïîäãîòîâêà";
-$MESS["SALE_LOCATION_MAP_LOC_COUNT"] = "Ìåñòîïîëîæåíèé íà ñàéòå";
-$MESS["SALE_LOCATION_MAP_NEW"] = "Ñîïîñòàâèòü ìåñòîïîëîæåíèÿ íå ñîïîñòàâëåííûå ðàíåå";
-$MESS["SALE_LOCATION_MAP_ALL"] = "Ïåðåä ñîïîñòàâëåíèåì óäàëèòü ñóùåñòâóþùèå ñîïîñòàâëåíèÿ";
-$MESS["SALE_LOCATION_MAP_NEW_B"] = "Ñîïîñòàâèòü íîâûå";
-$MESS["SALE_LOCATION_MAP_ALL_B"] = "Ñîïîñòàâèòü âñå";
-$MESS["SALE_DLV_SRV_SPSR_LOC_MAP"] = "Ñîïîñòàâèòü";
+$MESS["SALE_LOCATION_MAP_LOC_COUNT"] = "ÐœÐµÑÑ‚Ð¾Ð¿Ð¾Ð»Ð¾Ð¶ÐµÐ½Ð¸Ð¹ Ð½Ð° ÑÐ°Ð¹Ñ‚Ðµ";
+$MESS["SALE_LOCATION_MAP_LOC_MAPPED"] = "Ð¡Ð¾Ð¿Ð¾ÑÑ‚Ð°Ð²Ð»ÐµÐ½Ð¾ Ð¼ÐµÑÑ‚Ð¾Ð¿Ð¾Ð»Ð¾Ð¶ÐµÐ½Ð¸Ð¹";
+$MESS["SALE_LOCATION_MAP_CLOSE"] = "Ð—Ð°ÐºÑ€Ñ‹Ñ‚ÑŒ";
+$MESS["SALE_LOCATION_MAP_LOC_MAPPING"] = "Ð¡Ð¾Ð¿Ð¾ÑÑ‚Ð°Ð²Ð»ÐµÐ½Ð¸Ðµ Ð¼ÐµÑÑ‚Ð¾Ð¿Ð¾Ð»Ð¾Ð¶ÐµÐ½Ð¸Ð¹";
+$MESS["SALE_LOCATION_MAP_CANCEL"] = "ÐžÑ‚Ð¼ÐµÐ½Ð°";
+$MESS["SALE_LOCATION_MAP_PREPARING"] = "ÐŸÐ¾Ð´Ð³Ð¾Ñ‚Ð¾Ð²ÐºÐ°";
+$MESS["SALE_LOCATION_MAP_LOC_COUNT"] = "ÐœÐµÑÑ‚Ð¾Ð¿Ð¾Ð»Ð¾Ð¶ÐµÐ½Ð¸Ð¹ Ð½Ð° ÑÐ°Ð¹Ñ‚Ðµ";
+$MESS["SALE_LOCATION_MAP_NEW"] = "Ð¡Ð¾Ð¿Ð¾ÑÑ‚Ð°Ð²Ð¸Ñ‚ÑŒ Ð¼ÐµÑÑ‚Ð¾Ð¿Ð¾Ð»Ð¾Ð¶ÐµÐ½Ð¸Ñ Ð½Ðµ ÑÐ¾Ð¿Ð¾ÑÑ‚Ð°Ð²Ð»ÐµÐ½Ð½Ñ‹Ðµ Ñ€Ð°Ð½ÐµÐµ";
+$MESS["SALE_LOCATION_MAP_ALL"] = "ÐŸÐµÑ€ÐµÐ´ ÑÐ¾Ð¿Ð¾ÑÑ‚Ð°Ð²Ð»ÐµÐ½Ð¸ÐµÐ¼ ÑƒÐ´Ð°Ð»Ð¸Ñ‚ÑŒ ÑÑƒÑ‰ÐµÑÑ‚Ð²ÑƒÑŽÑ‰Ð¸Ðµ ÑÐ¾Ð¿Ð¾ÑÑ‚Ð°Ð²Ð»ÐµÐ½Ð¸Ñ";
+$MESS["SALE_LOCATION_MAP_NEW_B"] = "Ð¡Ð¾Ð¿Ð¾ÑÑ‚Ð°Ð²Ð¸Ñ‚ÑŒ Ð½Ð¾Ð²Ñ‹Ðµ";
+$MESS["SALE_LOCATION_MAP_ALL_B"] = "Ð¡Ð¾Ð¿Ð¾ÑÑ‚Ð°Ð²Ð¸Ñ‚ÑŒ Ð²ÑÐµ";
+$MESS["SALE_DLV_SRV_SPSR_LOC_MAP"] = "Ð¡Ð¾Ð¿Ð¾ÑÑ‚Ð°Ð²Ð¸Ñ‚ÑŒ";
 ?>

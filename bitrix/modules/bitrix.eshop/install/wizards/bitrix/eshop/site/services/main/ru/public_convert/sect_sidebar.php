@@ -7,14 +7,14 @@
 			"CHECK_DATES" => "N",
 			"SHOW_OTHERS" => "N",
 			"PAGE" => SITE_DIR."catalog/",
-			"CATEGORY_0_TITLE" => "Òîâàðû" ,
+			"CATEGORY_0_TITLE" => "Ð¢Ð¾Ð²Ð°Ñ€Ñ‹" ,
 			"CATEGORY_0" => array(
 				0 => "iblock_catalog",
 			),
 			"CATEGORY_0_iblock_catalog" => array(
 				0 => "all",
 			),
-			"CATEGORY_OTHERS_TITLE" => "Ïðî÷åå",
+			"CATEGORY_OTHERS_TITLE" => "ÐŸÑ€Ð¾Ñ‡ÐµÐµ",
 			"SHOW_INPUT" => "Y",
 			"INPUT_ID" => "title-search-input",
 			"CONTAINER_ID" => "search",

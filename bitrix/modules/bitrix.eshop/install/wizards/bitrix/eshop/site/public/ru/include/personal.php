@@ -1,1 +1,1 @@
-<a href="#SITE_DIR#personal/">Персональный раздел</a>
+<a href="#SITE_DIR#personal/">РџРµСЂСЃРѕРЅР°Р»СЊРЅС‹Р№ СЂР°Р·РґРµР»</a>

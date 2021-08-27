@@ -1,5 +1,5 @@
 <?
-$MESS ['CURRENCY_GROUP_NAME'] = "Âàëþòû";
-$MESS ['CURRENCY_SHOW_RATES_COMPONENT_NAME'] = "Òàáëèöà êóðñîâ âàëþò";
-$MESS ['CURRENCY_SHOW_RATES_COMPONENT_DESCRIPTION'] = "Òàáëèöà âûâîäèò êóðñû çàäàâàåìûå â ïàðàìåòðå âàëþò â ñîîòâåòñòâèå ñ èõ ôîðìàòîì";
+$MESS ['CURRENCY_GROUP_NAME'] = "Ð’Ð°Ð»ÑŽÑ‚Ñ‹";
+$MESS ['CURRENCY_SHOW_RATES_COMPONENT_NAME'] = "Ð¢Ð°Ð±Ð»Ð¸Ñ†Ð° ÐºÑƒÑ€ÑÐ¾Ð² Ð²Ð°Ð»ÑŽÑ‚";
+$MESS ['CURRENCY_SHOW_RATES_COMPONENT_DESCRIPTION'] = "Ð¢Ð°Ð±Ð»Ð¸Ñ†Ð° Ð²Ñ‹Ð²Ð¾Ð´Ð¸Ñ‚ ÐºÑƒÑ€ÑÑ‹ Ð·Ð°Ð´Ð°Ð²Ð°ÐµÐ¼Ñ‹Ðµ Ð² Ð¿Ð°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ðµ Ð²Ð°Ð»ÑŽÑ‚ Ð² ÑÐ¾Ð¾Ñ‚Ð²ÐµÑ‚ÑÑ‚Ð²Ð¸Ðµ Ñ Ð¸Ñ… Ñ„Ð¾Ñ€Ð¼Ð°Ñ‚Ð¾Ð¼";
 ?>

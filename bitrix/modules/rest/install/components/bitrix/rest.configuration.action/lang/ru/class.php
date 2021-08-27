@@ -1,4 +1,4 @@
 <?
-$MESS["REST_CONFIGURATION_ACTION_TITLE_IMPORT"] = "Èìïîðòèðîâàòü";
-$MESS["REST_CONFIGURATION_ACTION_TITLE_EXPORT"] = "Ýêñïîðòèðîâàòü";
-$MESS["REST_CONFIGURATION_ACTION_TITLE_LOAD_MARKETPLACE"] = "Îïóáëèêîâàòü â Ìàðêåò";
+$MESS["REST_CONFIGURATION_ACTION_TITLE_IMPORT"] = "Ð˜Ð¼Ð¿Ð¾Ñ€Ñ‚Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ";
+$MESS["REST_CONFIGURATION_ACTION_TITLE_EXPORT"] = "Ð­ÐºÑÐ¿Ð¾Ñ€Ñ‚Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ";
+$MESS["REST_CONFIGURATION_ACTION_TITLE_LOAD_MARKETPLACE"] = "ÐžÐ¿ÑƒÐ±Ð»Ð¸ÐºÐ¾Ð²Ð°Ñ‚ÑŒ Ð² ÐœÐ°Ñ€ÐºÐµÑ‚";

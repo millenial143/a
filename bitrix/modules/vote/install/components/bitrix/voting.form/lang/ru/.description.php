@@ -1,5 +1,5 @@
 <?
-$MESS ['VOTE_FORM_NAME'] = "Форма опроса";
-$MESS ['VOTE_FORM_DESCRIPTION'] = "Выводит форму опроса";
-$MESS ['VOTING_SERVICE'] = "Опросы, голосования";
+$MESS ['VOTE_FORM_NAME'] = "Р¤РѕСЂРјР° РѕРїСЂРѕСЃР°";
+$MESS ['VOTE_FORM_DESCRIPTION'] = "Р’С‹РІРѕРґРёС‚ С„РѕСЂРјСѓ РѕРїСЂРѕСЃР°";
+$MESS ['VOTING_SERVICE'] = "РћРїСЂРѕСЃС‹, РіРѕР»РѕСЃРѕРІР°РЅРёСЏ";
 ?>

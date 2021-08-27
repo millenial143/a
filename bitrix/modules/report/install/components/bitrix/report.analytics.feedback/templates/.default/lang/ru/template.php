@@ -1,3 +1,3 @@
 <?php
-$MESS['REPORT_FEEDBACK_BUTTON_TITLE'] = 'Îáðàòíàÿ ñâÿçü';
-$MESS['REPORT_FEEDBACK_TITLE'] = 'Îáðàòíàÿ ñâÿçü';
+$MESS['REPORT_FEEDBACK_BUTTON_TITLE'] = 'ÐžÐ±Ñ€Ð°Ñ‚Ð½Ð°Ñ ÑÐ²ÑÐ·ÑŒ';
+$MESS['REPORT_FEEDBACK_TITLE'] = 'ÐžÐ±Ñ€Ð°Ñ‚Ð½Ð°Ñ ÑÐ²ÑÐ·ÑŒ';
