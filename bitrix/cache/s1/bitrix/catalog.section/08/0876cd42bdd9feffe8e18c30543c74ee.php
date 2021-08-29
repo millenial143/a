@@ -1,0 +1,48 @@
+<?
+if($INCLUDE_FROM_CACHE!='Y')return false;
+$datecreate = '001629095900';
+$dateexpire = '001629099500';
+$ser_content = 'a:2:{s:7:"CONTENT";s:6776:"
+<div class="catalog-section bx-blue" data-entity="container-kqy7xc">
+	</div>
+<script>
+	BX.message({
+		BTN_MESSAGE_BASKET_REDIRECT: \'Перейти в корзину\',
+		BASKET_URL: \'/personal/cart/\',
+		ADD_TO_BASKET_OK: \'Товар добавлен в корзину\',
+		TITLE_ERROR: \'Ошибка\',
+		TITLE_BASKET_PROPS: \'Свойства товара, добавляемые в корзину\',
+		TITLE_SUCCESSFUL: \'Товар добавлен в корзину\',
+		BASKET_UNKNOWN_ERROR: \'Неизвестная ошибка при добавлении товара в корзину\',
+		BTN_MESSAGE_SEND_PROPS: \'Выбрать\',
+		BTN_MESSAGE_CLOSE: \'Закрыть\',
+		BTN_MESSAGE_CLOSE_POPUP: \'Продолжить покупки\',
+		COMPARE_MESSAGE_OK: \'Товар добавлен в список сравнения\',
+		COMPARE_UNKNOWN_ERROR: \'При добавлении товара в список сравнения произошла ошибка\',
+		COMPARE_TITLE: \'Сравнение товаров\',
+		PRICE_TOTAL_PREFIX: \'на сумму\',
+		RELATIVE_QUANTITY_MANY: \'\',
+		RELATIVE_QUANTITY_FEW: \'\',
+		BTN_MESSAGE_COMPARE_REDIRECT: \'Перейти в список сравнения\',
+		BTN_MESSAGE_LAZY_LOAD: \'Показать ещё\',
+		BTN_MESSAGE_LAZY_LOAD_WAITER: \'Загрузка\',
+		SITE_ID: \'s1\'
+	});
+	var obbx_1970176138_kqy7xc = new JCCatalogSectionComponent({
+		siteId: \'s1\',
+		componentPath: \'/bitrix/components/bitrix/catalog.section\',
+		navParams: {\'NavPageCount\':\'\',\'NavPageNomer\':\'\',\'NavNum\':\'kqy7xc\'},
+		deferredLoad: false, // enable it for deferred load
+		initiallyShowHeader: \'\',
+		bigData: {\'enabled\':true,\'rows\':[{\'VARIANT\':\'3\',\'BIG_DATA\':true}],\'count\':\'4\',\'rowsRange\':[\'4\'],\'shownIds\':[],\'js\':{\'cookiePrefix\':\'BITRIX_SM\',\'cookieDomain\':\'\',\'serverTime\':\'1629095900\'},\'params\':{\'uid\':\'10b482b5e9f06c5f439e72dc45a7cf4a\',\'aid\':\'ee3763f048a0d5b871e1e3af89cd1f31\',\'count\':\'30\',\'op\':\'recommend\',\'ib\':\'6\'}},
+		lazyLoad: !!\'\',
+		loadOnScroll: !!\'\',
+		template: \'.default.89312fb83bb1a2d78819dfdfb9055481caae47627db75dd13ab5b334ab059153\',
+		ajaxId: \'\',
+		parameters: \'YToxMDE6e3M6MTE6IklCTE9DS19UWVBFIjtzOjU6ImJvb2tzIjtzOjk6IklCTE9DS19JRCI7czoxOiI2IjtzOjE4OiJFTEVNRU5UX1NPUlRfRklFTEQiO3M6NDoic29ydCI7czoxODoiRUxFTUVOVF9TT1JUX09SREVSIjtzOjM6ImFzYyI7czoxOToiRUxFTUVOVF9TT1JUX0ZJRUxEMiI7TjtzOjE5OiJFTEVNRU5UX1NPUlRfT1JERVIyIjtOO3M6MTM6IlBST1BFUlRZX0NPREUiO2E6Mjp7aTowO3M6MDoiIjtpOjE7czowOiIiO31zOjIwOiJQUk9QRVJUWV9DT0RFX01PQklMRSI7TjtzOjE5OiJJTkNMVURFX1NVQlNFQ1RJT05TIjtzOjE6IlkiO3M6MTA6IkJBU0tFVF9VUkwiO3M6MTU6Ii9wZXJzb25hbC9jYXJ0LyI7czoxNToiQUNUSU9OX1ZBUklBQkxFIjtzOjY6ImFjdGlvbiI7czoxOToiUFJPRFVDVF9JRF9WQVJJQUJMRSI7czoyOiJpZCI7czoxOToiU0VDVElPTl9JRF9WQVJJQUJMRSI7czoxMDoiU0VDVElPTl9JRCI7czoyNToiUFJPRFVDVF9RVUFOVElUWV9WQVJJQUJMRSI7TjtzOjIyOiJQUk9EVUNUX1BST1BTX1ZBUklBQkxFIjtOO3M6MTA6IkNBQ0hFX1RZUEUiO3M6MToiQSI7czoxMDoiQ0FDSEVfVElNRSI7czo0OiIzNjAwIjtzOjEyOiJDQUNIRV9GSUxURVIiO3M6MToiTiI7czoxMjoiQ0FDSEVfR1JPVVBTIjtOO3M6MTU6IkRJU1BMQVlfQ09NUEFSRSI7czoxOiJZIjtzOjE4OiJQQUdFX0VMRU1FTlRfQ09VTlQiO2k6MDtzOjEwOiJQUklDRV9DT0RFIjthOjE6e2k6MDtzOjY6IlJFVEFJTCI7fXM6MTU6IlVTRV9QUklDRV9DT1VOVCI7czoxOiJOIjtzOjE2OiJTSE9XX1BSSUNFX0NPVU5UIjtzOjE6IjEiO3M6MTc6IlNFVF9CUk9XU0VSX1RJVExFIjtzOjE6Ik4iO3M6MTc6IlNFVF9NRVRBX0tFWVdPUkRTIjtzOjE6Ik4iO3M6MjA6IlNFVF9NRVRBX0RFU0NSSVBUSU9OIjtzOjE6Ik4iO3M6MTc6IlNFVF9MQVNUX01PRElGSUVEIjtzOjE6Ik4iO3M6MTg6IkFERF9TRUNUSU9OU19DSEFJTiI7czoxOiJOIjtzOjE3OiJQUklDRV9WQVRfSU5DTFVERSI7czoxOiJZIjtzOjIwOiJVU0VfUFJPRFVDVF9RVUFOVElUWSI7TjtzOjI0OiJBRERfUFJPUEVSVElFU19UT19CQVNLRVQiO3M6MDoiIjtzOjI2OiJQQVJUSUFMX1BST0RVQ1RfUFJPUEVSVElFUyI7czowOiIiO3M6MTg6IlBST0RVQ1RfUFJPUEVSVElFUyI7YTowOnt9czoyMjoiT0ZGRVJTX0NBUlRfUFJPUEVSVElFUyI7YTowOnt9czoxNzoiT0ZGRVJTX0ZJRUxEX0NPREUiO047czoyMDoiT0ZGRVJTX1BST1BFUlRZX0NPREUiO2E6MDp7fXM6MTc6Ik9GRkVSU19TT1JUX0ZJRUxEIjtOO3M6MTc6Ik9GRkVSU19TT1JUX09SREVSIjtOO3M6MTg6Ik9GRkVSU19TT1JUX0ZJRUxEMiI7TjtzOjE4OiJPRkZFUlNfU09SVF9PUkRFUjIiO047czoxMjoiT0ZGRVJTX0xJTUlUIjtpOjA7czoxMDoiU0VDVElPTl9JRCI7czoyOiIxMSI7czoxMjoiU0VDVElPTl9DT0RFIjtzOjA6IiI7czoxMToiU0VDVElPTl9VUkwiO3M6Mjg6Ii9lLXN0b3JlL2Jvb2tzLyNTRUNUSU9OX0lEIy8iO3M6MTA6IkRFVEFJTF9VUkwiO3M6NDE6Ii9lLXN0b3JlL2Jvb2tzLyNTRUNUSU9OX0lEIy8jRUxFTUVOVF9JRCMvIjtzOjI0OiJVU0VfTUFJTl9FTEVNRU5UX1NFQ1RJT04iO047czoxNjoiQ09OVkVSVF9DVVJSRU5DWSI7TjtzOjExOiJDVVJSRU5DWV9JRCI7TjtzOjE4OiJISURFX05PVF9BVkFJTEFCTEUiO047czoyNToiSElERV9OT1RfQVZBSUxBQkxFX09GRkVSUyI7TjtzOjEwOiJMQUJFTF9QUk9QIjtOO3M6MTc6IkxBQkVMX1BST1BfTU9CSUxFIjtOO3M6MTk6IkxBQkVMX1BST1BfUE9TSVRJT04iO047czoxMzoiQUREX1BJQ1RfUFJPUCI7TjtzOjIwOiJQUk9EVUNUX0RJU1BMQVlfTU9ERSI7TjtzOjIwOiJQUk9EVUNUX0JMT0NLU19PUkRFUiI7TjtzOjIwOiJQUk9EVUNUX1JPV19WQVJJQU5UUyI7czozMzoiW3snVkFSSUFOVCc6JzMnLCdCSUdfREFUQSc6dHJ1ZX1dIjtzOjE1OiJFTkxBUkdFX1BST0RVQ1QiO047czoxMjoiRU5MQVJHRV9QUk9QIjtzOjA6IiI7czoxMToiU0hPV19TTElERVIiO047czoxNToiU0xJREVSX0lOVEVSVkFMIjtzOjA6IiI7czoxNToiU0xJREVSX1BST0dSRVNTIjtzOjA6IiI7czoxNzoiRElTUExBWV9UT1BfUEFHRVIiO3M6MToiTiI7czoyMDoiRElTUExBWV9CT1RUT01fUEFHRVIiO3M6MToiTiI7czoyNDoiSElERV9TRUNUSU9OX0RFU0NSSVBUSU9OIjtzOjE6IlkiO3M6ODoiUkNNX1RZUEUiO3M6MDoiIjtzOjE3OiJTSE9XX0ZST01fU0VDVElPTiI7czoxOiJZIjtzOjE5OiJPRkZFUl9BRERfUElDVF9QUk9QIjtOO3M6MTY6Ik9GRkVSX1RSRUVfUFJPUFMiO2E6MDp7fXM6MjA6IlBST0RVQ1RfU1VCU0NSSVBUSU9OIjtOO3M6MjE6IlNIT1dfRElTQ09VTlRfUEVSQ0VOVCI7TjtzOjI1OiJESVNDT1VOVF9QRVJDRU5UX1BPU0lUSU9OIjtOO3M6MTQ6IlNIT1dfT0xEX1BSSUNFIjtOO3M6MTc6IlNIT1dfTUFYX1FVQU5USVRZIjtOO3M6MjI6Ik1FU1NfU0hPV19NQVhfUVVBTlRJVFkiO3M6MDoiIjtzOjI0OiJSRUxBVElWRV9RVUFOVElUWV9GQUNUT1IiO3M6MDoiIjtzOjI3OiJNRVNTX1JFTEFUSVZFX1FVQU5USVRZX01BTlkiO3M6MDoiIjtzOjI2OiJNRVNTX1JFTEFUSVZFX1FVQU5USVRZX0ZFVyI7czowOiIiO3M6MTI6Ik1FU1NfQlROX0JVWSI7czowOiIiO3M6MjI6Ik1FU1NfQlROX0FERF9UT19CQVNLRVQiO3M6MDoiIjtzOjE4OiJNRVNTX0JUTl9TVUJTQ1JJQkUiO3M6MDoiIjtzOjE1OiJNRVNTX0JUTl9ERVRBSUwiO3M6MDoiIjtzOjE4OiJNRVNTX05PVF9BVkFJTEFCTEUiO3M6MDoiIjtzOjE2OiJNRVNTX0JUTl9DT01QQVJFIjtzOjA6IiI7czoyMjoiVVNFX0VOSEFOQ0VEX0VDT01NRVJDRSI7czowOiIiO3M6MTU6IkRBVEFfTEFZRVJfTkFNRSI7czowOiIiO3M6MTQ6IkJSQU5EX1BST1BFUlRZIjtzOjA6IiI7czoxNDoiVEVNUExBVEVfVEhFTUUiO3M6MDoiIjtzOjIwOiJBRERfVE9fQkFTS0VUX0FDVElPTiI7czowOiIiO3M6MTY6IlNIT1dfQ0xPU0VfUE9QVVAiO3M6MDoiIjtzOjEyOiJDT01QQVJFX1BBVEgiO3M6NDc6Ii9lLXN0b3JlL2Jvb2tzL2NvbXBhcmUucGhwP2FjdGlvbj0jQUNUSU9OX0NPREUjIjtzOjEyOiJDT01QQVJFX05BTUUiO3M6MjA6IkNBVEFMT0dfQ09NUEFSRV9MSVNUIjtzOjE2OiJVU0VfQ09NUEFSRV9MSVNUIjtzOjE6IlkiO3M6MTY6IkJBQ0tHUk9VTkRfSU1BR0UiO3M6MDoiIjtzOjI4OiJESVNBQkxFX0lOSVRfSlNfSU5fQ09NUE9ORU5UIjtzOjA6IiI7czoxNzoiQ1VSUkVOVF9CQVNFX1BBR0UiO3M6MTg6Ii9lLXN0b3JlL2Jvb2tzLzExLyI7czoxMToiUEFSRU5UX05BTUUiO3M6MTQ6ImJpdHJpeDpjYXRhbG9nIjtzOjIwOiJQQVJFTlRfVEVNUExBVEVfTkFNRSI7czo4OiIuZGVmYXVsdCI7czoyMDoiUEFSRU5UX1RFTVBMQVRFX1BBR0UiO3M6Nzoic2VjdGlvbiI7czoxMzoiR0xPQkFMX0ZJTFRFUiI7YTowOnt9fQ==.b8ac25faabb6d283857155ea576e39d376d6e54ede161071f430d192a7af44cf\',
+		container: \'container-kqy7xc\'
+	});
+</script>
+<!-- component-end -->";s:4:"VARS";a:2:{s:8:"arResult";a:8:{s:2:"ID";s:2:"11";s:15:"NAV_CACHED_DATA";N;s:10:"NAV_STRING";s:0:"";s:4:"NAME";s:35:"Детская литература";s:17:"IBLOCK_SECTION_ID";N;s:16:"IPROPERTY_VALUES";a:0:{}s:16:"BACKGROUND_IMAGE";b:0;s:19:"USE_CATALOG_BUTTONS";a:1:{s:11:"add_product";b:1;}}s:18:"templateCachedData";a:9:{s:13:"additionalCSS";s:70:"/bitrix/components/bitrix/catalog.section/templates/.default/style.css";s:12:"additionalJS";s:70:"/bitrix/components/bitrix/catalog.section/templates/.default/script.js";s:9:"frameMode";b:1;s:11:"externalCss";a:1:{i:0;s:30:"/bitrix/css/main/bootstrap.css";}s:16:"component_epilog";a:5:{s:10:"epilogFile";s:81:"/bitrix/components/bitrix/catalog.section/templates/.default/component_epilog.php";s:12:"templateName";s:8:".default";s:12:"templateFile";s:73:"/bitrix/components/bitrix/catalog.section/templates/.default/template.php";s:14:"templateFolder";s:60:"/bitrix/components/bitrix/catalog.section/templates/.default";s:12:"templateData";a:3:{s:14:"TEMPLATE_THEME";s:4:"blue";s:16:"TEMPLATE_LIBRARY";a:4:{i:0;s:5:"popup";i:1;s:4:"ajax";i:2;s:2:"fx";i:3;s:8:"currency";}s:10:"CURRENCIES";s:748:"[{\'CURRENCY\':\'BYN\',\'FORMAT\':{\'FORMAT_STRING\':\'# руб.\',\'DEC_POINT\':\'.\',\'THOUSANDS_SEP\':\'&nbsp;\',\'DECIMALS\':2,\'THOUSANDS_VARIANT\':\'B\',\'HIDE_ZERO\':\'Y\'}},{\'CURRENCY\':\'EUR\',\'FORMAT\':{\'FORMAT_STRING\':\'# &euro;\',\'DEC_POINT\':\'.\',\'THOUSANDS_SEP\':\'&nbsp;\',\'DECIMALS\':2,\'THOUSANDS_VARIANT\':\'B\',\'HIDE_ZERO\':\'Y\'}},{\'CURRENCY\':\'RUB\',\'FORMAT\':{\'FORMAT_STRING\':\'# &#8381;\',\'DEC_POINT\':\'.\',\'THOUSANDS_SEP\':\'&nbsp;\',\'DECIMALS\':2,\'THOUSANDS_VARIANT\':\'B\',\'HIDE_ZERO\':\'Y\'}},{\'CURRENCY\':\'UAH\',\'FORMAT\':{\'FORMAT_STRING\':\'# грн.\',\'DEC_POINT\':\'.\',\'THOUSANDS_SEP\':\'&nbsp;\',\'DECIMALS\':2,\'THOUSANDS_VARIANT\':\'B\',\'HIDE_ZERO\':\'Y\'}},{\'CURRENCY\':\'USD\',\'FORMAT\':{\'FORMAT_STRING\':\'$#\',\'DEC_POINT\':\'.\',\'THOUSANDS_SEP\':\',\',\'DECIMALS\':2,\'THOUSANDS_VARIANT\':\'C\',\'HIDE_ZERO\':\'Y\'}}]";}}s:17:"__currentCounters";a:2:{s:19:"bitrix:catalog.item";i:1;s:28:"bitrix:system.pagenavigation";i:1;}s:14:"__children_css";a:1:{i:0;s:67:"/bitrix/components/bitrix/catalog.item/templates/.default/style.css";}s:13:"__children_js";a:1:{i:0;s:67:"/bitrix/components/bitrix/catalog.item/templates/.default/script.js";}s:18:"__children_epilogs";a:1:{i:0;a:5:{s:10:"epilogFile";s:78:"/bitrix/components/bitrix/catalog.item/templates/.default/component_epilog.php";s:12:"templateName";s:8:".default";s:12:"templateFile";s:70:"/bitrix/components/bitrix/catalog.item/templates/.default/template.php";s:14:"templateFolder";s:57:"/bitrix/components/bitrix/catalog.item/templates/.default";s:12:"templateData";b:0;}}}}}';
+return true;
+?>
