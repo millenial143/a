@@ -1,0 +1,20 @@
+.slick-arrow{
+    border-radius: 50%;
+    background: #0A3A68;
+    height: 18px;
+    width: 18px;
+}
+
+.slick-arrow:hover{
+    border-radius: 50%;
+    background: #0A3A68;
+    height: 18px;
+    width: 18px;
+}
+
+.slick-arrow:focus{
+    border-radius: 50%;
+    background: #0A3A68;
+    height: 18px;
+    width: 18px;
+}

@@ -1,0 +1,15 @@
+#callform{
+    display: flex;
+    flex-direction: column;
+    max-width: 500px;
+    margin-top: 15px;
+    /*margin: auto;*/
+}
+
+#callform *{
+    margin-bottom: 10px;
+}
+
+#callform .button{
+    width: 100px;
+}
