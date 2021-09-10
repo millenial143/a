@@ -2,10 +2,10 @@
 <project version="4">
   <component name="WebServers">
     <option name="servers">
-      <webServer id="84376a89-2ab1-442e-bd75-6100d2741a71" name="dev.up-advert.ru" url="https://a.dev.up-advert.ru">
-        <fileTransfer rootFolder="/home/a" accessType="SFTP" host="dev.up-advert.ru" port="22" sshConfigId="2c9913ef-77e1-4c94-a7c3-4b0f745458f3" sshConfig="dev.up-advert.ru">
+      <webServer id="a017cc1c-8a13-4c72-8522-961da87462ec" name="dev.up-advert.ru">
+        <fileTransfer rootFolder="/home/a" accessType="SFTP" host="dev.up-advert.ru" port="22" sshConfigId="128eec51-e64b-4b30-9b56-e1895ac1f3b3" sshConfig="a@dev.up-advert.ru:22 password">
           <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
